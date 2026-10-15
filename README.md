@@ -453,12 +453,9 @@ shown above, the hashes for those two tables match as well.
 
 ## Source and terms of use
 
-Every figure here is scraped from **[Baseball-Reference.com](https://www.baseball-reference.com/)**,
-a Sports Reference LLC property, and the underlying data remains their copyright.
+Data from **[Baseball-Reference.com](https://www.baseball-reference.com/)**
 
-**No open licence is granted or implied.** If you publish anything built on this, credit
-Baseball-Reference.com as the source. For commercial use or redistribution, ask Sports
-Reference first.
+ 
 
 Suggested citation:
 
