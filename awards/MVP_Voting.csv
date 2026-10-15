@@ -1,0 +1,912 @@
+﻿Season,Award,League,League_Name,Team,Team_Name,Division,Rank,Name,Tm,Vote Pts,1st Place,Share,WAR,G,AB,R,H,HR,RBI,SB,BB,BA,OBP,SLG,OPS,W,L,ERA,WHIP,G_2,GS,SV,IP,H_2,HR_2,BB_2,SO,Player_ID,Row_Type
+2007,MVP,AL,American League,NYY,New York Yankees,East,1,Alex Rodriguez,NYY,382.0,26.0,97%,9.4,158,583,143,183,54,156,24,95,0.314,0.422,0.645,1.067,,,,,,,,,,,,,rodrial01,data
+2007,MVP,AL,American League,DET,Detroit Tigers,Central,2,Magglio Ordóñez,DET,258.0,2.0,66%,7.3,157,595,117,216,28,139,4,76,0.363,0.434,0.595,1.029,,,,,,,,,,,,,ordonma01,data
+2007,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,3,Vladimir Guerrero,LAA,203.0,0.0,52%,4.6,150,574,89,186,27,125,2,71,0.324,0.403,0.547,0.95,,,,,,,,,,,,,guerrvl01,data
+2007,MVP,AL,American League,BOS,Boston Red Sox,East,4,David Ortiz,BOS,177.0,0.0,45%,6.4,149,549,116,182,35,117,3,111,0.332,0.445,0.621,1.066,,,,,,,,,,,,,ortizda01,data
+2007,MVP,AL,American League,BOS,Boston Red Sox,East,5,Mike Lowell,BOS,126.0,0.0,32%,5.0,154,589,79,191,21,120,3,53,0.324,0.378,0.501,0.879,,,,,,,,,,,,,lowelmi01,data
+2007,MVP,AL,American League,NYY,New York Yankees,East,6,Jorge Posada,NYY,112.0,0.0,29%,5.4,144,506,91,171,20,90,2,74,0.338,0.426,0.543,0.97,,,,,,,,,,,,,posadjo01,data
+2007,MVP,AL,American League,CLE,Cleveland Indians,Central,7,Víctor Martínez,CLE,103.0,0.0,26%,4.3,147,562,78,169,25,114,0,62,0.301,0.374,0.505,0.879,,,,,,,,,,,,,martivi01,data
+2007,MVP,AL,American League,SEA,Seattle Mariners,West,8,Ichiro Suzuki,SEA,89.0,0.0,23%,5.8,161,678,111,238,6,68,37,49,0.351,0.396,0.431,0.827,,,,,,,,,,,,,suzukic01,data
+2007,MVP,AL,American League,TBD,Tampa Bay Devil Rays,East,9,Carlos Peña,TBD,64.0,0.0,16%,7.2,148,490,99,138,46,121,1,103,0.282,0.411,0.627,1.037,,,,,,,,,,,,,penaca01,data
+2007,MVP,AL,American League,DET,Detroit Tigers,Central,10,Curtis Granderson,DET,51.0,0.0,13%,7.6,158,612,122,185,23,74,26,52,0.302,0.361,0.552,0.913,,,,,,,,,,,,,grandcu01,data
+2007,MVP,AL,American League,NYY,New York Yankees,East,11,Derek Jeter,NYY,17.0,0.0,4%,3.9,156,639,102,206,12,73,15,56,0.322,0.388,0.452,0.84,,,,,,,,,,,,,jeterde01,data
+2007,MVP,AL,American League,CLE,Cleveland Indians,Central,12,Grady Sizemore,CLE,15.0,0.0,4%,5.5,162,628,118,174,24,78,33,101,0.277,0.39,0.462,0.852,,,,,,,,,,,,,sizemgr01,data
+2007,MVP,AL,American League,SEA,Seattle Mariners,West,13,J.J. Putz,SEA,12.0,0.0,3%,4.0,4,0,0,0,0,0,0,0,,,,,6.0,1.0,1.38,0.698,68.0,0.0,40.0,71.2,37.0,6.0,13.0,82.0,putzjj01,data
+2007,MVP,AL,American League,CLE,Cleveland Indians,Central,14,CC Sabathia,CLE,11.0,0.0,3%,6.4,1,3,0,2,0,0,0,0,0.667,0.667,0.667,1.333,19.0,7.0,3.21,1.141,34.0,34.0,0.0,241.0,238.0,20.0,37.0,209.0,,data
+2007,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,15,Orlando Cabrera,LAA,5.0,0.0,1%,4.2,155,638,101,192,8,86,20,44,0.301,0.345,0.397,0.742,,,,,,,,,,,,,cabreor01,data
+2007,MVP,AL,American League,MIN,Minnesota Twins,Central,15,Torii Hunter,MIN,5.0,0.0,1%,3.9,160,600,94,172,28,107,18,40,0.287,0.334,0.505,0.839,,,,,,,,,,,,,hunteto01,data
+2007,MVP,AL,American League,NYY,New York Yankees,East,17,Bobby Abreu,NYY,4.0,0.0,1%,2.4,158,605,123,171,16,101,25,84,0.283,0.369,0.445,0.814,,,,,,,,,,,,,abreubo01,data
+2007,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,17,John Lackey,LAA,4.0,0.0,1%,6.2,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,19.0,9.0,3.01,1.21,33.0,33.0,0.0,224.0,219.0,18.0,52.0,179.0,lackejo01,data
+2007,MVP,AL,American League,DET,Detroit Tigers,Central,17,Plácido Polanco,DET,4.0,0.0,1%,6.1,142,587,105,200,9,67,7,37,0.341,0.388,0.458,0.846,,,,,,,,,,,,,polanpl01,data
+2007,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,20,Chone Figgins,LAA,3.0,0.0,1%,3.4,115,442,81,146,3,58,41,51,0.33,0.393,0.432,0.825,,,,,,,,,,,,,figgich01,data
+2007,MVP,AL,American League,MIN,Minnesota Twins,Central,20,Justin Morneau,MIN,3.0,0.0,1%,2.9,157,590,84,160,31,111,1,64,0.271,0.343,0.492,0.834,,,,,,,,,,,,,morneju01,data
+2007,MVP,AL,American League,BOS,Boston Red Sox,East,22,Josh Beckett,BOS,2.0,0.0,1%,6.5,3,11,1,2,0,1,0,0,0.182,0.182,0.273,0.455,20.0,7.0,3.27,1.141,30.0,30.0,0.0,200.2,189.0,17.0,40.0,194.0,beckejo02,data
+2007,MVP,AL,American League,CLE,Cleveland Indians,Central,23,Roberto Hernández,CLE,1.0,0.0,0%,6.1,2,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,19.0,8.0,3.06,1.209,32.0,32.0,0.0,215.0,199.0,16.0,61.0,137.0,carmofa01,data
+2007,MVP,AL,American League,TOR,Toronto Blue Jays,East,23,Frank Thomas,TOR,1.0,0.0,0%,2.2,155,531,63,147,26,95,0,81,0.277,0.377,0.48,0.857,,,,,,,,,,,,,thomafr04,data
+2007,MVP,NL,National League,PHI,Philadelphia Phillies,East,1,Jimmy Rollins,PHI,353.0,16.0,79%,6.1,162,716,139,212,30,94,41,49,0.296,0.344,0.531,0.875,,,,,,,,,,,,,rolliji01,data
+2007,MVP,NL,National League,COL,Colorado Rockies,West,2,Matt Holliday,COL,336.0,11.0,75%,6.0,158,636,120,216,36,137,11,63,0.34,0.405,0.607,1.012,,,,,,,,,,,,,hollima01,data
+2007,MVP,NL,National League,MIL,Milwaukee Brewers,Central,3,Prince Fielder,MIL,284.0,5.0,63%,3.6,158,573,109,165,50,119,2,90,0.288,0.395,0.618,1.013,,,,,,,,,,,,,fieldpr01,data
+2007,MVP,NL,National League,NYM,New York Mets,East,4,David Wright,NYM,182.0,0.0,41%,8.3,160,604,113,196,30,107,34,94,0.325,0.416,0.546,0.963,,,,,,,,,,,,,wrighda03,data
+2007,MVP,NL,National League,PHI,Philadelphia Phillies,East,5,Ryan Howard,PHI,112.0,0.0,25%,2.9,144,529,94,142,47,136,1,107,0.268,0.392,0.584,0.976,,,,,,,,,,,,,howarry01,data
+2007,MVP,NL,National League,ATL,Atlanta Braves,East,6,Chipper Jones,ATL,107.0,0.0,24%,7.6,134,513,108,173,29,102,5,82,0.337,0.425,0.604,1.029,,,,,,,,,,,,,jonesch06,data
+2007,MVP,NL,National League,SDP,San Diego Padres,West,7,Jake Peavy,SDP,97.0,0.0,22%,6.8,36,73,8,17,0,7,0,2,0.233,0.25,0.315,0.565,19.0,6.0,2.54,1.061,34.0,34.0,0.0,223.1,169.0,13.0,68.0,240.0,peavyja01,data
+2007,MVP,NL,National League,PHI,Philadelphia Phillies,East,8,Chase Utley,PHI,89.0,0.0,20%,7.8,132,530,104,176,22,103,9,50,0.332,0.41,0.566,0.976,,,,,,,,,,,,,utleych01,data
+2007,MVP,NL,National League,STL,St. Louis Cardinals,Central,9,Albert Pujols,STL,50.0,0.0,11%,8.7,158,565,99,185,32,103,2,99,0.327,0.429,0.568,0.997,,,,,,,,,,,,,pujolal01,data
+2007,MVP,NL,National League,FLA,Florida Marlins,East,10,Hanley Ramírez,FLA,49.0,0.0,11%,4.4,154,639,125,212,29,81,51,52,0.332,0.386,0.562,0.948,,,,,,,,,,,,,ramirha01,data
+2007,MVP,NL,National League,ARI,Arizona Diamondbacks,West,11,Eric Byrnes,ARI,43.0,0.0,10%,3.7,160,626,103,179,21,83,50,57,0.286,0.353,0.46,0.813,,,,,,,,,,,,,byrneer01,data
+2007,MVP,NL,National League,CHC,Chicago Cubs,Central,12,Alfonso Soriano,CHC,39.0,0.0,9%,4.3,135,579,97,173,33,70,19,31,0.299,0.337,0.56,0.897,,,,,,,,,,,,,soriaal01,data
+2007,MVP,NL,National League,CHC,Chicago Cubs,Central,13,Aramis Ramírez,CHC,36.0,0.0,8%,5.3,132,506,72,157,26,101,0,43,0.31,0.366,0.549,0.915,,,,,,,,,,,,,ramirar01,data
+2007,MVP,NL,National League,ARI,Arizona Diamondbacks,West,14,José Valverde,ARI,19.0,0.0,4%,2.2,63,0,0,0,0,0,0,0,,,,,1.0,4.0,2.66,1.119,65.0,0.0,47.0,64.1,46.0,7.0,26.0,78.0,valvejo01,data
+2007,MVP,NL,National League,FLA,Florida Marlins,East,15,Miguel Cabrera,FLA,18.0,0.0,4%,3.2,157,588,91,188,34,119,2,79,0.32,0.401,0.565,0.965,,,,,,,,,,,,,cabremi01,data
+2007,MVP,NL,National League,NYM,New York Mets,East,16,José Reyes,NYM,16.0,0.0,4%,5.1,160,681,119,191,12,57,78,77,0.28,0.354,0.421,0.775,,,,,,,,,,,,,reyesjo01,data
+2007,MVP,NL,National League,ARI,Arizona Diamondbacks,West,17,Brandon Webb,ARI,15.0,0.0,3%,5.9,32,73,1,6,0,3,0,1,0.082,0.095,0.11,0.204,18.0,10.0,3.01,1.189,34.0,34.0,0.0,236.1,209.0,12.0,72.0,194.0,webbbr01,data
+2007,MVP,NL,National League,COL,Colorado Rockies,West,18,Troy Tulowitzki,COL,13.0,0.0,3%,6.8,155,609,104,177,24,99,7,57,0.291,0.359,0.479,0.838,,,,,,,,,,,,,tulowtr01,data
+2007,MVP,NL,National League,HOU,Houston Astros,Central,19,Carlos Lee,HOU,7.0,0.0,2%,2.4,162,627,93,190,32,119,10,53,0.303,0.354,0.528,0.882,,,,,,,,,,,,,leeca01,data
+2007,MVP,NL,National League,NYM,New York Mets,East,20,Carlos Beltrán,NYM,6.0,0.0,1%,5.4,144,554,93,153,33,112,23,69,0.276,0.353,0.525,0.878,,,,,,,,,,,,,beltrca01,data
+2007,MVP,NL,National League,SDP,San Diego Padres,West,20,Adrián González,SDP,6.0,0.0,1%,2.5,161,646,101,182,30,100,0,65,0.282,0.347,0.502,0.849,,,,,,,,,,,,,gonzaad01,data
+2007,MVP,NL,National League,CIN,Cincinnati Reds,Central,22,Brandon Phillips,CIN,3.0,0.0,1%,4.0,158,650,107,187,30,94,32,33,0.288,0.331,0.485,0.816,,,,,,,,,,,,,phillbr01,data
+2007,MVP,NL,National League,PHI,Philadelphia Phillies,East,22,Aaron Rowand,PHI,3.0,0.0,1%,5.1,161,612,105,189,27,89,6,47,0.309,0.374,0.515,0.889,,,,,,,,,,,,,rowanaa01,data
+2007,MVP,NL,National League,MIL,Milwaukee Brewers,Central,24,Ryan Braun,MIL,2.0,0.0,0%,2.0,113,451,91,146,34,97,15,29,0.324,0.37,0.634,1.004,,,,,,,,,,,,,braunry02,data
+2007,MVP,NL,National League,COL,Colorado Rockies,West,24,Brad Hawpe,COL,2.0,0.0,0%,1.5,152,516,80,150,29,116,0,81,0.291,0.387,0.539,0.926,,,,,,,,,,,,,hawpebr01,data
+2007,MVP,NL,National League,CHC,Chicago Cubs,Central,26,Carlos Marmól,CHC,1.0,0.0,0%,2.9,56,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5.0,1.0,1.43,1.096,59.0,0.0,1.0,69.1,41.0,3.0,35.0,96.0,marmoca01,data
+2008,MVP,AL,American League,BOS,Boston Red Sox,East,1,Dustin Pedroia,BOS,317.0,16.0,81%,6.9,157,653,118,213,17,83,20,50,0.326,0.376,0.493,0.869,,,,,,,,,,,,,pedrodu01,data
+2008,MVP,AL,American League,MIN,Minnesota Twins,Central,2,Justin Morneau,MIN,257.0,7.0,66%,4.2,163,623,97,187,23,129,0,76,0.3,0.374,0.499,0.873,,,,,,,,,,,,,morneju01,data
+2008,MVP,AL,American League,BOS,Boston Red Sox,East,3,Kevin Youkilis,BOS,201.0,2.0,51%,6.3,145,538,91,168,29,115,3,62,0.312,0.39,0.569,0.958,,,,,,,,,,,,,youklke01,data
+2008,MVP,AL,American League,MIN,Minnesota Twins,Central,4,Joe Mauer,MIN,188.0,2.0,48%,5.6,146,536,98,176,9,85,1,84,0.328,0.413,0.451,0.864,,,,,,,,,,,,,mauerjo01,data
+2008,MVP,AL,American League,CHW,Chicago White Sox,Central,5,Carlos Quentin,CHW,160.0,0.0,41%,5.3,130,480,96,138,36,100,7,66,0.288,0.394,0.571,0.965,,,,,,,,,,,,,quentca01,data
+2008,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,6,Francisco Rodríguez,LAA,143.0,1.0,36%,2.5,4,0,0,0,0,0,0,0,,,,,2.0,3.0,2.24,1.288,76.0,0.0,62.0,68.1,54.0,4.0,34.0,77.0,rodrifr03,data
+2008,MVP,AL,American League,TEX,Texas Rangers,West,7,Josh Hamilton,TEX,112.0,0.0,29%,5.5,156,624,98,190,32,130,9,64,0.304,0.371,0.53,0.901,,,,,,,,,,,,,hamiljo03,data
+2008,MVP,AL,American League,NYY,New York Yankees,East,8,Alex Rodriguez,NYY,45.0,0.0,11%,6.8,138,510,104,154,35,103,18,65,0.302,0.392,0.573,0.965,,,,,,,,,,,,,rodrial01,data
+2008,MVP,AL,American League,TBR,Tampa Bay Rays,East,9,Carlos Peña,TBR,44.0,0.0,11%,5.1,139,490,76,121,31,102,1,96,0.247,0.377,0.494,0.871,,,,,,,,,,,,,penaca01,data
+2008,MVP,AL,American League,CLE,Cleveland Indians,Central,10,Grady Sizemore,CLE,42.0,0.0,11%,5.9,157,634,101,170,33,90,38,98,0.268,0.374,0.502,0.876,,,,,,,,,,,,,sizemgr01,data
+2008,MVP,AL,American League,TBR,Tampa Bay Rays,East,11,Evan Longoria,TBR,38.0,0.0,10%,4.8,122,448,67,122,27,85,7,46,0.272,0.343,0.531,0.874,,,,,,,,,,,,,longoev01,data
+2008,MVP,AL,American League,CLE,Cleveland Indians,Central,12,Cliff Lee,CLE,24.0,0.0,6%,6.7,2,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,22.0,3.0,2.54,1.11,31.0,31.0,0.0,223.1,214.0,12.0,34.0,170.0,leecl02,data
+2008,MVP,AL,American League,DET,Detroit Tigers,Central,13,Miguel Cabrera,DET,17.0,0.0,4%,2.7,160,616,85,180,37,127,1,56,0.292,0.349,0.537,0.887,,,,,,,,,,,,,cabremi01,data
+2008,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,14,Vladimir Guerrero,LAA,16.0,0.0,4%,2.4,143,541,85,164,27,91,5,51,0.303,0.365,0.521,0.886,,,,,,,,,,,,,guerrvl01,data
+2008,MVP,AL,American League,CHW,Chicago White Sox,Central,15,Jermaine Dye,CHW,14.0,0.0,4%,2.8,154,590,96,172,34,96,3,44,0.292,0.344,0.541,0.885,,,,,,,,,,,,,dyeje01,data
+2008,MVP,AL,American League,BAL,Baltimore Orioles,East,16,Aubrey Huff,BAL,12.0,0.0,3%,4.1,154,598,96,182,32,108,4,53,0.304,0.36,0.552,0.912,,,,,,,,,,,,,huffau01,data
+2008,MVP,AL,American League,TEX,Texas Rangers,West,17,Milton Bradley,TEX,9.0,0.0,2%,5.2,126,414,78,133,22,77,5,80,0.321,0.436,0.563,0.999,,,,,,,,,,,,,bradlmi01,data
+2008,MVP,AL,American League,TBR,Tampa Bay Rays,East,18,Jason Bartlett,TBR,6.0,0.0,2%,1.7,128,454,48,130,1,37,20,22,0.286,0.329,0.361,0.69,,,,,,,,,,,,,bartlja01,data
+2008,MVP,AL,American League,NYY,New York Yankees,East,19,Mike Mussina,NYY,3.0,0.0,1%,5.1,2,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,20.0,9.0,3.37,1.223,34.0,34.0,0.0,200.1,214.0,17.0,31.0,150.0,mussimi01,data
+2008,MVP,AL,American League,SEA,Seattle Mariners,West,20,Raúl Ibañez,SEA,1.0,0.0,0%,2.7,162,635,85,186,23,110,2,64,0.293,0.358,0.479,0.837,,,,,,,,,,,,,ibanera01,data
+2008,MVP,AL,American League,TEX,Texas Rangers,West,20,Ian Kinsler,TEX,1.0,0.0,0%,4.7,121,518,102,165,18,71,26,45,0.319,0.375,0.517,0.892,,,,,,,,,,,,,kinslia01,data
+2008,MVP,AL,American League,SEA,Seattle Mariners,West,20,Ichiro Suzuki,SEA,1.0,0.0,0%,5.4,162,686,103,213,6,42,43,51,0.31,0.361,0.386,0.747,,,,,,,,,,,,,suzukic01,data
+2008,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,20,Mark Teixeira,LAA,1.0,0.0,0%,3.7,54,193,39,69,13,43,2,32,0.358,0.449,0.632,1.081,,,,,,,,,,,,,teixema01,data
+2008,MVP,NL,National League,STL,St. Louis Cardinals,Central,1,Albert Pujols,STL,369.0,18.0,82%,9.2,148,524,100,187,37,116,7,104,0.357,0.462,0.653,1.114,,,,,,,,,,,,,pujolal01,data
+2008,MVP,NL,National League,PHI,Philadelphia Phillies,East,2,Ryan Howard,PHI,308.0,12.0,69%,1.8,162,610,105,153,48,146,1,81,0.251,0.339,0.543,0.881,,,,,,,,,,,,,howarry01,data
+2008,MVP,NL,National League,MIL,Milwaukee Brewers,Central,3,Ryan Braun,MIL,139.0,0.0,31%,4.6,151,611,92,174,37,106,14,42,0.285,0.335,0.553,0.888,,,,,,,,,,,,,braunry02,data
+2008,MVP,NL,National League,LAD,Los Angeles Dodgers,West,4,Manny Ramirez,LAD,138.0,0.0,31%,3.5,53,187,36,74,17,53,2,35,0.396,0.489,0.743,1.232,,,,,,,,,,,,,ramirma02,data
+2008,MVP,NL,National League,HOU,Houston Astros,Central,5,Lance Berkman,HOU,126.0,0.0,28%,6.9,159,554,114,173,29,106,18,99,0.312,0.42,0.567,0.986,,,,,,,,,,,,,berkmla01,data
+2008,MVP,NL,National League,MIL,Milwaukee Brewers,Central,6,CC Sabathia,MIL,121.0,0.0,27%,5.2,17,48,3,11,1,6,0,0,0.229,0.229,0.333,0.563,11.0,2.0,1.65,1.003,17.0,17.0,0.0,130.2,106.0,6.0,25.0,128.0,,data
+2008,MVP,NL,National League,NYM,New York Mets,East,7,David Wright,NYM,115.0,0.0,26%,6.9,160,626,115,189,33,124,15,94,0.302,0.39,0.534,0.924,,,,,,,,,,,,,wrighda03,data
+2008,MVP,NL,National League,PHI,Philadelphia Phillies,East,8,Brad Lidge,PHI,104.0,2.0,23%,2.4,71,0,0,0,0,0,0,0,,,,,2.0,0.0,1.95,1.226,72.0,0.0,41.0,69.1,50.0,2.0,35.0,92.0,lidgebr01,data
+2008,MVP,NL,National League,NYM,New York Mets,East,9,Carlos Delgado,NYM,96.0,0.0,21%,1.3,159,598,96,162,38,115,1,72,0.271,0.353,0.518,0.871,,,,,,,,,,,,,delgaca01,data
+2008,MVP,NL,National League,CHC,Chicago Cubs,Central,10,Aramis Ramírez,CHC,66.0,0.0,15%,3.0,149,554,97,160,27,111,2,74,0.289,0.38,0.518,0.898,,,,,,,,,,,,,ramirar01,data
+2008,MVP,NL,National League,FLA,Florida Marlins,East,11,Hanley Ramírez,FLA,55.0,0.0,12%,6.7,153,589,125,177,33,67,35,92,0.301,0.4,0.54,0.94,,,,,,,,,,,,,ramirha01,data
+2008,MVP,NL,National League,ATL,Atlanta Braves,East,12,Chipper Jones,ATL,44.0,0.0,10%,7.3,128,439,82,160,22,75,4,90,0.364,0.47,0.574,1.044,,,,,,,,,,,,,jonesch06,data
+2008,MVP,NL,National League,CHC,Chicago Cubs,Central,13,Geovany Soto,CHC,41.0,0.0,9%,3.3,141,494,66,141,23,86,0,62,0.285,0.364,0.504,0.868,,,,,,,,,,,,,sotoge01,data
+2008,MVP,NL,National League,NYM,New York Mets,East,14,Johan Santana,NYM,30.0,0.0,7%,7.2,32,78,5,11,0,1,0,3,0.141,0.173,0.205,0.378,16.0,7.0,2.53,1.148,34.0,34.0,0.0,234.1,206.0,23.0,63.0,206.0,santajo02,data
+2008,MVP,NL,National League,PHI,Philadelphia Phillies,East,14,Chase Utley,PHI,30.0,0.0,7%,9.0,159,607,113,177,33,104,14,64,0.292,0.38,0.535,0.915,,,,,,,,,,,,,utleych01,data
+2008,MVP,NL,National League,STL,St. Louis Cardinals,Central,16,Ryan Ludwick,STL,17.0,0.0,4%,5.5,152,538,104,161,37,113,4,62,0.299,0.375,0.591,0.966,,,,,,,,,,,,,ludwiry01,data
+2008,MVP,NL,National League,ARI,Arizona Diamondbacks,West,17,Brandon Webb,ARI,14.0,0.0,3%,5.5,33,67,2,10,0,11,0,1,0.149,0.162,0.209,0.371,22.0,7.0,3.3,1.196,34.0,34.0,0.0,226.2,206.0,13.0,65.0,183.0,webbbr01,data
+2008,MVP,NL,National League,SDP,San Diego Padres,West,18,Adrián González,SDP,13.0,0.0,3%,3.6,162,616,103,172,36,119,0,74,0.279,0.361,0.51,0.871,,,,,,,,,,,,,gonzaad01,data
+2008,MVP,NL,National League,COL,Colorado Rockies,West,18,Matt Holliday,COL,13.0,0.0,3%,5.9,139,539,107,173,25,88,28,74,0.321,0.409,0.538,0.947,,,,,,,,,,,,,hollima01,data
+2008,MVP,NL,National League,MIL,Milwaukee Brewers,Central,20,Prince Fielder,MIL,11.0,0.0,2%,1.5,159,588,86,162,34,102,3,84,0.276,0.372,0.507,0.879,,,,,,,,,,,,,fieldpr01,data
+2008,MVP,NL,National League,NYM,New York Mets,East,21,Carlos Beltrán,NYM,10.0,0.0,2%,7.0,161,606,116,172,27,112,25,92,0.284,0.376,0.5,0.876,,,,,,,,,,,,,beltrca01,data
+2008,MVP,NL,National League,CHC,Chicago Cubs,Central,21,Derrek Lee,CHC,10.0,0.0,2%,1.9,155,623,93,181,20,90,8,71,0.291,0.361,0.462,0.823,,,,,,,,,,,,,leede02,data
+2008,MVP,NL,National League,SFG,San Francisco Giants,West,23,Tim Lincecum,SFG,9.0,0.0,2%,8.0,32,70,7,11,0,5,0,5,0.157,0.213,0.2,0.413,18.0,5.0,2.62,1.172,34.0,33.0,0.0,227.0,182.0,11.0,84.0,265.0,linceti01,data
+2008,MVP,NL,National League,NYM,New York Mets,East,24,José Reyes,NYM,3.0,0.0,1%,4.8,159,688,113,204,16,68,56,66,0.297,0.358,0.475,0.833,,,,,,,,,,,,,reyesjo01,data
+2008,MVP,NL,National League,HOU,Houston Astros,Central,24,José Valverde,HOU,3.0,0.0,1%,1.3,69,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6.0,3.0,3.38,1.181,74.0,0.0,44.0,72.0,62.0,10.0,23.0,83.0,valvejo01,data
+2008,MVP,NL,National League,ARI,Arizona Diamondbacks,West,26,Stephen Drew,ARI,2.0,0.0,0%,3.0,152,611,91,178,21,67,3,41,0.291,0.333,0.502,0.836,,,,,,,,,,,,,drewst01,data
+2008,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,27,Nate McLouth,PIT,1.0,0.0,0%,2.4,152,597,113,165,26,94,23,65,0.276,0.356,0.497,0.853,,,,,,,,,,,,,mclouna01,data
+2009,MVP,AL,American League,MIN,Minnesota Twins,Central,1,Joe Mauer,MIN,387.0,27.0,99%,7.8,138,523,94,191,28,96,4,76,0.365,0.444,0.587,1.031,,,,,,,,,,,,,mauerjo01,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,2,Mark Teixeira,NYY,225.0,0.0,57%,5.3,156,609,103,178,39,122,2,81,0.292,0.383,0.565,0.948,,,,,,,,,,,,,teixema01,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,3,Derek Jeter,NYY,193.0,0.0,49%,6.6,153,634,107,212,18,66,30,72,0.334,0.406,0.465,0.871,,,,,,,,,,,,,jeterde01,data
+2009,MVP,AL,American League,DET,Detroit Tigers,Central,4,Miguel Cabrera,DET,171.0,1.0,44%,5.1,160,611,96,198,34,103,6,68,0.324,0.396,0.547,0.942,,,,,,,,,,,,,cabremi01,data
+2009,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,5,Kendrys Morales,LAA,170.0,0.0,43%,4.3,152,566,86,173,34,108,3,46,0.306,0.355,0.569,0.924,,,,,,,,,,,,,moralke01,data
+2009,MVP,AL,American League,BOS,Boston Red Sox,East,6,Kevin Youkilis,BOS,150.0,0.0,38%,6.6,136,491,99,150,27,94,7,77,0.305,0.413,0.548,0.961,,,,,,,,,,,,,youklke01,data
+2009,MVP,AL,American League,BOS,Boston Red Sox,East,7,Jason Bay,BOS,78.0,0.0,20%,5.2,151,531,103,142,36,119,13,94,0.267,0.384,0.537,0.921,,,,,,,,,,,,,bayja01,data
+2009,MVP,AL,American League,TBR,Tampa Bay Rays,East,8,Ben Zobrist,TBR,34.0,0.0,9%,8.6,152,501,91,149,27,91,17,91,0.297,0.405,0.543,0.948,,,,,,,,,,,,,zobribe01,data
+2009,MVP,AL,American League,SEA,Seattle Mariners,West,9,Ichiro Suzuki,SEA,33.0,0.0,8%,4.7,146,639,88,225,11,46,26,32,0.352,0.386,0.465,0.851,,,,,,,,,,,,,suzukic01,data
+2009,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,10,Chone Figgins,LAA,31.0,0.0,8%,7.7,158,615,114,183,5,54,42,101,0.298,0.395,0.393,0.789,,,,,,,,,,,,,figgich01,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,10,Alex Rodriguez,NYY,31.0,0.0,8%,4.2,124,444,78,127,30,100,14,80,0.286,0.402,0.532,0.933,,,,,,,,,,,,,rodrial01,data
+2009,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,12,Bobby Abreu,LAA,23.0,0.0,6%,3.2,152,563,96,165,15,103,30,94,0.293,0.39,0.435,0.825,,,,,,,,,,,,,abreubo01,data
+2009,MVP,AL,American League,TOR,Toronto Blue Jays,East,12,Aaron Hill,TOR,23.0,0.0,6%,5.8,158,682,103,195,36,108,6,42,0.286,0.33,0.499,0.829,,,,,,,,,,,,,hillaa01,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,14,Mariano Rivera,NYY,17.0,0.0,4%,3.6,6,1,0,0,0,1,0,1,0.0,0.5,0.0,0.5,3.0,3.0,1.76,0.905,66.0,0.0,44.0,66.1,48.0,7.0,12.0,72.0,riverma01,data
+2009,MVP,AL,American League,TOR,Toronto Blue Jays,East,15,Adam Lind,TOR,14.0,0.0,4%,3.9,151,587,93,179,35,114,1,58,0.305,0.37,0.562,0.932,,,,,,,,,,,,,lindad01,data
+2009,MVP,AL,American League,TEX,Texas Rangers,West,16,Michael Young,TEX,13.0,0.0,3%,2.8,135,541,76,174,22,68,8,47,0.322,0.374,0.518,0.892,,,,,,,,,,,,,youngmi02,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,17,Robinson Canó,NYY,12.0,0.0,3%,4.5,161,637,103,204,25,85,5,30,0.32,0.352,0.52,0.871,,,,,,,,,,,,,canoro01,data
+2009,MVP,AL,American League,KCR,Kansas City Royals,Central,17,Zack Greinke,KCR,12.0,0.0,3%,10.4,2,6,0,1,0,0,0,0,0.167,0.167,0.333,0.5,16.0,8.0,2.16,1.073,33.0,33.0,0.0,229.1,195.0,11.0,51.0,242.0,greinza01,data
+2009,MVP,AL,American League,TBR,Tampa Bay Rays,East,19,Evan Longoria,TBR,9.0,0.0,2%,7.0,157,584,100,164,33,113,9,72,0.281,0.364,0.526,0.889,,,,,,,,,,,,,longoev01,data
+2009,MVP,AL,American League,DET,Detroit Tigers,Central,20,Justin Verlander,DET,7.0,0.0,2%,5.4,2,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,19.0,9.0,3.45,1.175,35.0,35.0,0.0,240.0,219.0,20.0,63.0,269.0,verlaju01,data
+2009,MVP,AL,American League,MIN,Minnesota Twins,Central,21,Michael Cuddyer,MIN,4.0,0.0,1%,2.8,153,588,93,162,32,94,6,54,0.276,0.342,0.52,0.862,,,,,,,,,,,,,cuddymi01,data
+2009,MVP,AL,American League,TOT,,,21,Víctor Martínez,TOT,4.0,0.0,1%,3.6,155,588,88,178,23,108,1,75,0.303,0.381,0.48,0.861,,,,,,,,,,,,,martivi01,data
+2009,MVP,AL,American League,NYY,New York Yankees,East,21,CC Sabathia,NYY,4.0,0.0,1%,6.2,2,4,1,1,0,1,0,0,0.25,0.25,0.25,0.5,19.0,8.0,3.37,1.148,34.0,34.0,0.0,230.0,197.0,18.0,67.0,197.0,,data
+2009,MVP,AL,American League,MIN,Minnesota Twins,Central,24,Jason Kubel,MIN,3.0,0.0,1%,3.5,146,514,73,154,28,103,1,56,0.3,0.369,0.539,0.907,,,,,,,,,,,,,kubelja01,data
+2009,MVP,AL,American League,DET,Detroit Tigers,Central,25,Plácido Polanco,DET,2.0,0.0,1%,2.5,153,618,82,176,10,72,7,36,0.285,0.331,0.396,0.727,,,,,,,,,,,,,polanpl01,data
+2009,MVP,AL,American League,SEA,Seattle Mariners,West,26,Félix Hernández,SEA,1.0,0.0,0%,5.9,2,6,1,0,0,0,0,1,0.0,0.143,0.0,0.143,19.0,5.0,2.49,1.135,34.0,34.0,0.0,238.2,200.0,15.0,71.0,217.0,hernafe02,data
+2009,MVP,AL,American League,TEX,Texas Rangers,West,26,Ian Kinsler,TEX,1.0,0.0,0%,6.0,144,566,101,143,31,86,31,59,0.253,0.327,0.488,0.814,,,,,,,,,,,,,kinslia01,data
+2009,MVP,NL,National League,STL,St. Louis Cardinals,Central,1,Albert Pujols,STL,448.0,32.0,100%,9.7,160,568,124,186,47,135,16,115,0.327,0.443,0.658,1.101,,,,,,,,,,,,,pujolal01,data
+2009,MVP,NL,National League,FLA,Florida Marlins,East,2,Hanley Ramírez,FLA,233.0,0.0,52%,7.4,151,576,101,197,24,106,27,61,0.342,0.41,0.543,0.954,,,,,,,,,,,,,ramirha01,data
+2009,MVP,NL,National League,PHI,Philadelphia Phillies,East,3,Ryan Howard,PHI,217.0,0.0,48%,3.8,160,616,105,172,45,141,8,75,0.279,0.36,0.571,0.931,,,,,,,,,,,,,howarry01,data
+2009,MVP,NL,National League,MIL,Milwaukee Brewers,Central,4,Prince Fielder,MIL,203.0,0.0,45%,6.3,162,591,103,177,46,141,2,110,0.299,0.412,0.602,1.014,,,,,,,,,,,,,fieldpr01,data
+2009,MVP,NL,National League,COL,Colorado Rockies,West,5,Troy Tulowitzki,COL,172.0,0.0,38%,6.5,151,543,101,161,32,92,20,73,0.297,0.377,0.552,0.93,,,,,,,,,,,,,tulowtr01,data
+2009,MVP,NL,National League,LAD,Los Angeles Dodgers,West,6,Andre Ethier,LAD,113.0,0.0,25%,3.0,160,596,92,162,31,106,6,72,0.272,0.361,0.508,0.869,,,,,,,,,,,,,ethiean01,data
+2009,MVP,NL,National League,SFG,San Francisco Giants,West,7,Pablo Sandoval,SFG,89.0,0.0,20%,4.3,153,572,79,189,25,90,5,52,0.33,0.387,0.556,0.943,,,,,,,,,,,,,sandopa01,data
+2009,MVP,NL,National League,PHI,Philadelphia Phillies,East,8,Chase Utley,PHI,84.0,0.0,19%,8.2,156,571,112,161,31,93,23,88,0.282,0.397,0.508,0.905,,,,,,,,,,,,,utleych01,data
+2009,MVP,NL,National League,CHC,Chicago Cubs,Central,9,Derrek Lee,CHC,66.0,0.0,15%,5.4,141,532,91,163,35,111,1,76,0.306,0.393,0.579,0.972,,,,,,,,,,,,,leede02,data
+2009,MVP,NL,National League,LAD,Los Angeles Dodgers,West,10,Matt Kemp,LAD,49.0,0.0,11%,4.9,159,606,97,180,26,101,34,52,0.297,0.352,0.49,0.842,,,,,,,,,,,,,kempma01,data
+2009,MVP,NL,National League,MIL,Milwaukee Brewers,Central,11,Ryan Braun,MIL,43.0,0.0,10%,6.2,158,635,113,203,32,114,20,57,0.32,0.386,0.551,0.937,,,,,,,,,,,,,braunry02,data
+2009,MVP,NL,National League,SDP,San Diego Padres,West,12,Adrián González,SDP,30.0,0.0,7%,6.9,160,552,90,153,40,99,1,119,0.277,0.407,0.551,0.958,,,,,,,,,,,,,gonzaad01,data
+2009,MVP,NL,National League,COL,Colorado Rockies,West,13,Todd Helton,COL,28.0,0.0,6%,3.3,151,544,79,177,15,86,0,89,0.325,0.416,0.489,0.904,,,,,,,,,,,,,heltoto01,data
+2009,MVP,NL,National League,STL,St. Louis Cardinals,Central,14,Chris Carpenter,STL,25.0,0.0,6%,6.8,26,63,3,11,1,7,0,2,0.175,0.212,0.27,0.482,17.0,4.0,2.24,1.007,28.0,28.0,0.0,192.2,156.0,7.0,38.0,144.0,carpech01,data
+2009,MVP,NL,National League,STL,St. Louis Cardinals,Central,15,Adam Wainwright,STL,16.0,0.0,4%,6.7,39,89,7,16,2,4,0,1,0.18,0.189,0.326,0.515,19.0,8.0,2.63,1.21,34.0,34.0,0.0,233.0,216.0,17.0,66.0,212.0,wainwad01,data
+2009,MVP,NL,National League,STL,St. Louis Cardinals,Central,16,Matt Holliday,STL,15.0,0.0,3%,2.3,63,235,42,83,13,55,2,26,0.353,0.419,0.604,1.023,,,,,,,,,,,,,hollima01,data
+2009,MVP,NL,National League,PHI,Philadelphia Phillies,East,17,Jayson Werth,PHI,10.0,0.0,2%,4.5,159,571,98,153,36,99,20,91,0.268,0.373,0.506,0.879,,,,,,,,,,,,,werthja01,data
+2009,MVP,NL,National League,SFG,San Francisco Giants,West,18,Tim Lincecum,SFG,8.0,0.0,2%,7.4,32,66,8,10,0,3,0,6,0.152,0.219,0.167,0.386,15.0,7.0,2.48,1.047,32.0,32.0,0.0,225.1,168.0,10.0,68.0,261.0,linceti01,data
+2009,MVP,NL,National League,PHI,Philadelphia Phillies,East,18,Shane Victorino,PHI,8.0,0.0,2%,3.7,156,620,102,181,10,62,25,60,0.292,0.358,0.445,0.803,,,,,,,,,,,,,victosh01,data
+2009,MVP,NL,National League,ATL,Atlanta Braves,East,20,Yunel Escobar,ATL,6.0,0.0,1%,4.3,141,528,89,158,14,76,5,57,0.299,0.377,0.436,0.812,,,,,,,,,,,,,escobyu01,data
+2009,MVP,NL,National League,ARI,Arizona Diamondbacks,West,20,Mark Reynolds,ARI,6.0,0.0,1%,3.3,155,578,98,150,44,102,24,76,0.26,0.349,0.543,0.892,,,,,,,,,,,,,reynoma01,data
+2009,MVP,NL,National League,CIN,Cincinnati Reds,Central,22,Joey Votto,CIN,4.0,0.0,1%,4.8,131,469,82,151,25,84,4,70,0.322,0.414,0.567,0.981,,,,,,,,,,,,,vottojo01,data
+2009,MVP,NL,National League,STL,St. Louis Cardinals,Central,23,Yadier Molina,STL,3.0,0.0,1%,3.2,140,481,45,141,6,54,9,50,0.293,0.366,0.383,0.749,,,,,,,,,,,,,molinya01,data
+2009,MVP,NL,National League,HOU,Houston Astros,Central,23,Miguel Tejada,HOU,3.0,0.0,1%,1.9,158,635,83,199,14,86,5,19,0.313,0.34,0.455,0.795,,,,,,,,,,,,,tejadmi01,data
+2009,MVP,NL,National League,COL,Colorado Rockies,West,25,Huston Street,COL,2.0,0.0,0%,1.8,60,0,0,0,0,0,0,0,,,,,4.0,1.0,3.06,0.908,64.0,0.0,35.0,61.2,43.0,7.0,13.0,70.0,streehu01,data
+2009,MVP,NL,National League,ARI,Arizona Diamondbacks,West,25,Justin Upton,ARI,2.0,0.0,0%,4.0,138,526,84,158,26,86,20,55,0.3,0.366,0.532,0.899,,,,,,,,,,,,,uptonju01,data
+2009,MVP,NL,National League,WSN,Washington Nationals,East,25,Ryan Zimmerman,WSN,2.0,0.0,0%,7.3,157,610,110,178,33,106,2,72,0.292,0.364,0.525,0.888,,,,,,,,,,,,,zimmery01,data
+2009,MVP,NL,National League,SFG,San Francisco Giants,West,28,Jeremy Affeldt,SFG,1.0,0.0,0%,2.6,73,2,0,1,0,0,0,0,0.5,0.5,0.5,1.0,2.0,2.0,1.73,1.171,74.0,0.0,0.0,62.1,42.0,3.0,31.0,55.0,affelje01,data
+2009,MVP,NL,National League,FLA,Florida Marlins,East,28,Chris Coghlan,FLA,1.0,0.0,0%,1.1,128,504,84,162,9,47,8,53,0.321,0.39,0.46,0.85,,,,,,,,,,,,,coghlch01,data
+2009,MVP,NL,National League,COL,Colorado Rockies,West,28,Brad Hawpe,COL,1.0,0.0,0%,1.4,145,501,82,143,23,86,1,79,0.285,0.384,0.519,0.903,,,,,,,,,,,,,hawpebr01,data
+2010,MVP,AL,American League,TEX,Texas Rangers,West,1,Josh Hamilton,TEX,358.0,22.0,91%,8.7,133,518,95,186,32,100,8,43,0.359,0.411,0.633,1.044,,,,,,,,,,,,,hamiljo03,data
+2010,MVP,AL,American League,DET,Detroit Tigers,Central,2,Miguel Cabrera,DET,262.0,5.0,67%,6.5,150,548,111,180,38,126,3,89,0.328,0.42,0.622,1.042,,,,,,,,,,,,,cabremi01,data
+2010,MVP,AL,American League,NYY,New York Yankees,East,3,Robinson Canó,NYY,229.0,0.0,58%,8.1,160,626,103,200,29,109,3,57,0.319,0.381,0.534,0.914,,,,,,,,,,,,,canoro01,data
+2010,MVP,AL,American League,TOR,Toronto Blue Jays,East,4,José Bautista,TOR,165.0,1.0,42%,7.0,161,569,109,148,54,124,9,100,0.26,0.378,0.617,0.995,,,,,,,,,,,,,bautijo02,data
+2010,MVP,AL,American League,CHW,Chicago White Sox,Central,5,Paul Konerko,CHW,130.0,0.0,33%,4.7,149,548,89,171,39,111,0,72,0.312,0.393,0.584,0.977,,,,,,,,,,,,,konerpa01,data
+2010,MVP,AL,American League,TBR,Tampa Bay Rays,East,6,Evan Longoria,TBR,100.0,0.0,26%,8.2,151,574,96,169,22,104,15,72,0.294,0.372,0.507,0.879,,,,,,,,,,,,,longoev01,data
+2010,MVP,AL,American League,TBR,Tampa Bay Rays,East,7,Carl Crawford,TBR,98.0,0.0,25%,7.0,154,600,110,184,19,90,47,46,0.307,0.356,0.495,0.851,,,,,,,,,,,,,crawfca02,data
+2010,MVP,AL,American League,MIN,Minnesota Twins,Central,8,Joe Mauer,MIN,97.0,0.0,25%,5.9,137,510,88,167,9,75,1,65,0.327,0.402,0.469,0.871,,,,,,,,,,,,,mauerjo01,data
+2010,MVP,AL,American League,BOS,Boston Red Sox,East,9,Adrian Beltré,BOS,83.0,0.0,21%,7.8,154,589,84,189,28,102,2,40,0.321,0.365,0.553,0.919,,,,,,,,,,,,,beltrad01,data
+2010,MVP,AL,American League,MIN,Minnesota Twins,Central,10,Delmon Young,MIN,44.0,0.0,11%,1.9,153,570,77,170,21,112,5,28,0.298,0.333,0.493,0.826,,,,,,,,,,,,,youngde03,data
+2010,MVP,AL,American League,TEX,Texas Rangers,West,11,Vladimir Guerrero,TEX,22.0,0.0,6%,1.8,152,593,83,178,29,115,4,35,0.3,0.345,0.496,0.841,,,,,,,,,,,,,guerrvl01,data
+2010,MVP,AL,American League,TBR,Tampa Bay Rays,East,12,Rafael Soriano,TBR,21.0,0.0,5%,2.1,7,0,0,0,0,0,0,0,,,,,3.0,2.0,1.73,0.802,64.0,0.0,45.0,62.1,36.0,4.0,14.0,57.0,soriara01,data
+2010,MVP,AL,American League,NYY,New York Yankees,East,13,CC Sabathia,NYY,13.0,0.0,3%,4.8,2,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,21.0,7.0,3.18,1.191,34.0,34.0,0.0,237.2,209.0,20.0,74.0,197.0,,data
+2010,MVP,AL,American League,CLE,Cleveland Indians,Central,14,Shin-Soo Choo,CLE,9.0,0.0,2%,5.9,144,550,81,165,22,90,22,83,0.3,0.401,0.484,0.885,,,,,,,,,,,,,choosh01,data
+2010,MVP,AL,American League,NYY,New York Yankees,East,15,Alex Rodriguez,NYY,8.0,0.0,2%,4.2,137,522,74,141,30,125,4,59,0.27,0.341,0.506,0.847,,,,,,,,,,,,,rodrial01,data
+2010,MVP,AL,American League,SEA,Seattle Mariners,West,16,Félix Hernández,SEA,6.0,0.0,2%,7.1,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,12.0,2.27,1.057,34.0,34.0,0.0,249.2,194.0,17.0,70.0,232.0,hernafe02,data
+2010,MVP,AL,American League,SEA,Seattle Mariners,West,17,Ichiro Suzuki,SEA,3.0,0.0,1%,3.7,162,680,74,214,6,43,42,45,0.315,0.359,0.394,0.754,,,,,,,,,,,,,suzukic01,data
+2010,MVP,AL,American League,MIN,Minnesota Twins,Central,18,Jim Thome,MIN,2.0,0.0,1%,3.6,108,276,48,78,25,59,0,60,0.283,0.412,0.627,1.039,,,,,,,,,,,,,thomeji01,data
+2010,MVP,AL,American League,KCR,Kansas City Royals,Central,19,Joakim Soria,KCR,1.0,0.0,0%,3.7,2,0,0,0,0,0,0,0,,,,,1.0,2.0,1.78,1.051,66.0,0.0,43.0,65.2,53.0,4.0,16.0,71.0,soriajo01,data
+2010,MVP,AL,American League,NYY,New York Yankees,East,19,Mark Teixeira,NYY,1.0,0.0,0%,4.1,158,601,113,154,33,108,0,93,0.256,0.365,0.481,0.846,,,,,,,,,,,,,teixema01,data
+2010,MVP,NL,National League,CIN,Cincinnati Reds,Central,1,Joey Votto,CIN,443.0,31.0,99%,7.0,150,547,106,177,37,113,16,91,0.324,0.424,0.6,1.024,,,,,,,,,,,,,vottojo01,data
+2010,MVP,NL,National League,STL,St. Louis Cardinals,Central,2,Albert Pujols,STL,279.0,1.0,62%,7.5,159,587,115,183,42,118,14,103,0.312,0.414,0.596,1.011,,,,,,,,,,,,,pujolal01,data
+2010,MVP,NL,National League,COL,Colorado Rockies,West,3,Carlos González,COL,240.0,0.0,54%,5.9,145,587,111,197,34,117,26,40,0.336,0.376,0.598,0.974,,,,,,,,,,,,,gonzaca01,data
+2010,MVP,NL,National League,SDP,San Diego Padres,West,4,Adrián González,SDP,197.0,0.0,44%,4.4,160,591,87,176,31,101,0,93,0.298,0.393,0.511,0.904,,,,,,,,,,,,,gonzaad01,data
+2010,MVP,NL,National League,COL,Colorado Rockies,West,5,Troy Tulowitzki,COL,132.0,0.0,29%,6.7,122,470,89,148,27,95,11,48,0.315,0.381,0.568,0.949,,,,,,,,,,,,,tulowtr01,data
+2010,MVP,NL,National League,PHI,Philadelphia Phillies,East,6,Roy Halladay,PHI,130.0,0.0,29%,8.3,31,92,6,13,0,5,0,1,0.141,0.151,0.141,0.292,21.0,10.0,2.44,1.041,33.0,33.0,0.0,250.2,231.0,24.0,30.0,219.0,hallaro01,data
+2010,MVP,NL,National League,SFG,San Francisco Giants,West,7,Aubrey Huff,SFG,70.0,0.0,16%,5.7,157,569,100,165,26,86,7,83,0.29,0.385,0.506,0.891,,,,,,,,,,,,,huffau01,data
+2010,MVP,NL,National League,PHI,Philadelphia Phillies,East,8,Jayson Werth,PHI,52.0,0.0,12%,4.5,156,554,106,164,27,85,13,82,0.296,0.388,0.532,0.921,,,,,,,,,,,,,werthja01,data
+2010,MVP,NL,National League,ATL,Atlanta Braves,East,9,Martín Prado,ATL,51.0,0.0,11%,5.0,140,599,100,184,15,66,5,40,0.307,0.35,0.459,0.809,,,,,,,,,,,,,pradoma01,data
+2010,MVP,NL,National League,PHI,Philadelphia Phillies,East,10,Ryan Howard,PHI,50.0,0.0,11%,1.2,143,550,87,152,31,108,1,59,0.276,0.353,0.505,0.859,,,,,,,,,,,,,howarry01,data
+2010,MVP,NL,National League,SFG,San Francisco Giants,West,11,Buster Posey,SFG,40.0,0.0,9%,3.9,108,406,58,124,18,67,0,30,0.305,0.357,0.505,0.862,,,,,,,,,,,,,poseybu01,data
+2010,MVP,NL,National League,STL,St. Louis Cardinals,Central,12,Matt Holliday,STL,32.0,0.0,7%,5.9,158,596,95,186,28,103,9,69,0.312,0.39,0.532,0.922,,,,,,,,,,,,,hollima01,data
+2010,MVP,NL,National League,SFG,San Francisco Giants,West,13,Brian Wilson,SFG,28.0,0.0,6%,2.7,69,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3.0,3.0,1.81,1.179,70.0,0.0,48.0,74.2,62.0,3.0,26.0,93.0,wilsobr01,data
+2010,MVP,NL,National League,CIN,Cincinnati Reds,Central,14,Scott Rolen,CIN,26.0,0.0,6%,4.1,133,471,66,134,20,83,1,50,0.285,0.358,0.497,0.854,,,,,,,,,,,,,rolensc01,data
+2010,MVP,NL,National League,MIL,Milwaukee Brewers,Central,15,Ryan Braun,MIL,19.0,0.0,4%,5.7,157,619,101,188,25,103,14,56,0.304,0.365,0.501,0.866,,,,,,,,,,,,,braunry02,data
+2010,MVP,NL,National League,WSN,Washington Nationals,East,16,Ryan Zimmerman,WSN,18.0,0.0,4%,6.2,142,525,85,161,25,85,4,69,0.307,0.388,0.51,0.899,,,,,,,,,,,,,zimmery01,data
+2010,MVP,NL,National League,PHI,Philadelphia Phillies,East,17,Carlos Ruiz,PHI,12.0,0.0,3%,4.0,121,371,43,112,8,53,0,55,0.302,0.4,0.447,0.847,,,,,,,,,,,,,ruizca01,data
+2010,MVP,NL,National League,FLA,Florida Marlins,East,17,Dan Uggla,FLA,12.0,0.0,3%,4.3,159,589,100,169,33,105,4,78,0.287,0.369,0.508,0.877,,,,,,,,,,,,,ugglada01,data
+2010,MVP,NL,National League,STL,St. Louis Cardinals,Central,17,Adam Wainwright,STL,12.0,0.0,3%,6.4,36,84,4,14,0,6,0,7,0.167,0.231,0.226,0.457,20.0,11.0,2.42,1.051,33.0,33.0,0.0,230.1,186.0,15.0,56.0,213.0,wainwad01,data
+2010,MVP,NL,National League,ATL,Atlanta Braves,East,20,Jason Heyward,ATL,11.0,0.0,2%,6.4,142,520,83,144,18,72,11,91,0.277,0.393,0.456,0.849,,,,,,,,,,,,,heywaja01,data
+2010,MVP,NL,National League,WSN,Washington Nationals,East,21,Adam Dunn,WSN,9.0,0.0,2%,2.5,158,558,85,145,38,103,0,77,0.26,0.356,0.536,0.892,,,,,,,,,,,,,dunnad01,data
+2010,MVP,NL,National League,ATL,Atlanta Braves,East,21,Brian McCann,ATL,9.0,0.0,2%,3.6,143,479,63,129,21,77,5,74,0.269,0.375,0.453,0.828,,,,,,,,,,,,,mccanbr01,data
+2010,MVP,NL,National League,COL,Colorado Rockies,West,23,Ubaldo Jiménez,COL,7.0,0.0,2%,7.3,32,77,5,8,0,4,0,2,0.104,0.127,0.104,0.23,19.0,8.0,2.88,1.155,33.0,33.0,0.0,221.2,164.0,10.0,92.0,214.0,jimenub01,data
+2010,MVP,NL,National League,NYM,New York Mets,East,24,David Wright,NYM,3.0,0.0,1%,2.8,157,587,87,166,29,103,19,69,0.283,0.354,0.503,0.856,,,,,,,,,,,,,wrighda03,data
+2010,MVP,NL,National League,SDP,San Diego Padres,West,25,Heath Bell,SDP,2.0,0.0,0%,1.9,64,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6.0,1.0,1.93,1.2,67.0,0.0,47.0,70.0,56.0,1.0,28.0,86.0,bellhe01,data
+2010,MVP,NL,National League,MIL,Milwaukee Brewers,Central,25,Corey Hart,MIL,2.0,0.0,0%,3.9,145,558,91,158,31,102,7,45,0.283,0.34,0.525,0.865,,,,,,,,,,,,,hartco01,data
+2010,MVP,NL,National League,FLA,Florida Marlins,East,25,Josh Johnson,FLA,2.0,0.0,0%,6.6,27,59,0,5,0,4,0,1,0.085,0.1,0.085,0.185,11.0,6.0,2.3,1.105,28.0,28.0,0.0,183.2,155.0,7.0,48.0,186.0,johnsjo09,data
+2011,MVP,AL,American League,DET,Detroit Tigers,Central,1,Justin Verlander,DET,280.0,13.0,71%,8.6,1,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,24.0,5.0,2.4,0.92,34.0,34.0,0.0,251.0,174.0,24.0,57.0,250.0,verlaju01,data
+2011,MVP,AL,American League,BOS,Boston Red Sox,East,2,Jacoby Ellsbury,BOS,242.0,4.0,62%,8.3,158,660,119,212,32,105,39,52,0.321,0.376,0.552,0.928,,,,,,,,,,,,,ellsbja01,data
+2011,MVP,AL,American League,TOR,Toronto Blue Jays,East,3,José Bautista,TOR,231.0,5.0,59%,8.3,149,513,105,155,43,103,9,132,0.302,0.447,0.608,1.056,,,,,,,,,,,,,bautijo02,data
+2011,MVP,AL,American League,NYY,New York Yankees,East,4,Curtis Granderson,NYY,215.0,3.0,55%,6.1,156,583,136,153,41,119,25,85,0.262,0.364,0.552,0.916,,,,,,,,,,,,,grandcu01,data
+2011,MVP,AL,American League,DET,Detroit Tigers,Central,5,Miguel Cabrera,DET,193.0,2.0,49%,7.6,161,572,111,197,30,105,2,108,0.344,0.448,0.586,1.033,,,,,,,,,,,,,cabremi01,data
+2011,MVP,AL,American League,NYY,New York Yankees,East,6,Robinson Canó,NYY,112.0,0.0,29%,5.8,159,623,104,188,28,118,8,38,0.302,0.349,0.533,0.882,,,,,,,,,,,,,canoro01,data
+2011,MVP,AL,American League,BOS,Boston Red Sox,East,7,Adrián González,BOS,105.0,0.0,27%,6.9,159,630,108,213,27,117,1,74,0.338,0.41,0.548,0.957,,,,,,,,,,,,,gonzaad01,data
+2011,MVP,AL,American League,TEX,Texas Rangers,West,8,Michael Young,TEX,96.0,1.0,24%,2.7,159,631,88,213,11,106,6,47,0.338,0.38,0.474,0.854,,,,,,,,,,,,,youngmi02,data
+2011,MVP,AL,American League,BOS,Boston Red Sox,East,9,Dustin Pedroia,BOS,48.0,0.0,12%,8.0,159,635,102,195,21,91,26,86,0.307,0.387,0.474,0.861,,,,,,,,,,,,,pedrodu01,data
+2011,MVP,AL,American League,TBR,Tampa Bay Rays,East,10,Evan Longoria,TBR,27.0,0.0,7%,7.2,133,483,78,118,31,99,3,80,0.244,0.355,0.495,0.85,,,,,,,,,,,,,longoev01,data
+2011,MVP,AL,American League,TEX,Texas Rangers,West,11,Ian Kinsler,TEX,25.0,0.0,6%,7.0,155,620,121,158,32,77,30,89,0.255,0.355,0.477,0.832,,,,,,,,,,,,,kinslia01,data
+2011,MVP,AL,American League,DET,Detroit Tigers,Central,12,Alex Avila,DET,13.0,0.0,3%,5.1,141,464,63,137,19,82,3,73,0.295,0.389,0.506,0.895,,,,,,,,,,,,,avilaal01,data
+2011,MVP,AL,American League,CHW,Chicago White Sox,Central,13,Paul Konerko,CHW,11.0,0.0,3%,2.9,149,543,69,163,31,105,1,77,0.3,0.388,0.517,0.906,,,,,,,,,,,,,konerpa01,data
+2011,MVP,AL,American League,NYY,New York Yankees,East,14,CC Sabathia,NYY,10.0,0.0,3%,6.4,1,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,19.0,8.0,3.0,1.226,33.0,33.0,0.0,237.1,230.0,17.0,61.0,230.0,,data
+2011,MVP,AL,American League,TEX,Texas Rangers,West,15,Adrian Beltré,TEX,9.0,0.0,2%,5.6,124,487,82,144,32,105,1,25,0.296,0.331,0.561,0.892,,,,,,,,,,,,,beltrad01,data
+2011,MVP,AL,American League,DET,Detroit Tigers,Central,16,Víctor Martínez,DET,7.0,0.0,2%,3.2,145,540,76,178,12,103,1,46,0.33,0.38,0.47,0.85,,,,,,,,,,,,,martivi01,data
+2011,MVP,AL,American League,TBR,Tampa Bay Rays,East,16,James Shields,TBR,7.0,0.0,2%,5.8,3,8,0,0,0,1,0,0,0.0,0.0,0.0,0.0,16.0,12.0,2.82,1.043,33.0,33.0,0.0,249.1,195.0,26.0,65.0,225.0,shielja02,data
+2011,MVP,AL,American League,TBR,Tampa Bay Rays,East,16,Ben Zobrist,TBR,7.0,0.0,2%,7.6,156,588,99,158,20,91,19,77,0.269,0.353,0.469,0.822,,,,,,,,,,,,,zobribe01,data
+2011,MVP,AL,American League,NYY,New York Yankees,East,19,Mark Teixeira,NYY,5.0,0.0,1%,3.4,156,589,90,146,39,111,4,76,0.248,0.341,0.494,0.835,,,,,,,,,,,,,teixema01,data
+2011,MVP,AL,American League,CLE,Cleveland Indians,Central,20,Asdrúbal Cabrera,CLE,4.0,0.0,1%,4.7,151,604,87,165,25,92,17,44,0.273,0.332,0.46,0.792,,,,,,,,,,,,,cabreas01,data
+2011,MVP,AL,American League,KCR,Kansas City Royals,Central,21,Alex Gordon,KCR,3.0,0.0,1%,7.3,151,611,101,185,23,87,17,67,0.303,0.376,0.502,0.879,,,,,,,,,,,,,gordoal01,data
+2011,MVP,AL,American League,TEX,Texas Rangers,West,22,Josh Hamilton,TEX,1.0,0.0,0%,3.8,121,487,80,145,25,94,8,39,0.298,0.346,0.536,0.882,,,,,,,,,,,,,hamiljo03,data
+2011,MVP,AL,American League,NYY,New York Yankees,East,22,David Robertson,NYY,1.0,0.0,0%,3.7,8,0,0,0,0,0,0,0,,,,,4.0,0.0,1.08,1.125,70.0,0.0,1.0,66.2,40.0,1.0,35.0,100.0,roberda08,data
+2011,MVP,NL,National League,MIL,Milwaukee Brewers,Central,1,Ryan Braun,MIL,388.0,20.0,87%,7.7,150,563,109,187,33,111,33,58,0.332,0.397,0.597,0.994,,,,,,,,,,,,,braunry02,data
+2011,MVP,NL,National League,LAD,Los Angeles Dodgers,West,2,Matt Kemp,LAD,332.0,10.0,74%,8.0,161,602,115,195,39,126,40,74,0.324,0.399,0.586,0.986,,,,,,,,,,,,,kempma01,data
+2011,MVP,NL,National League,MIL,Milwaukee Brewers,Central,3,Prince Fielder,MIL,229.0,1.0,51%,4.5,162,569,95,170,38,120,1,107,0.299,0.415,0.566,0.981,,,,,,,,,,,,,fieldpr01,data
+2011,MVP,NL,National League,ARI,Arizona Diamondbacks,West,4,Justin Upton,ARI,214.0,1.0,48%,5.5,159,592,105,171,31,88,21,59,0.289,0.369,0.529,0.898,,,,,,,,,,,,,uptonju01,data
+2011,MVP,NL,National League,STL,St. Louis Cardinals,Central,5,Albert Pujols,STL,166.0,0.0,37%,5.3,147,579,105,173,37,99,9,61,0.299,0.366,0.541,0.906,,,,,,,,,,,,,pujolal01,data
+2011,MVP,NL,National League,CIN,Cincinnati Reds,Central,6,Joey Votto,CIN,135.0,0.0,30%,6.6,161,599,101,185,29,103,8,110,0.309,0.416,0.531,0.947,,,,,,,,,,,,,vottojo01,data
+2011,MVP,NL,National League,STL,St. Louis Cardinals,Central,7,Lance Berkman,STL,118.0,0.0,26%,3.8,145,488,90,147,31,94,2,92,0.301,0.412,0.547,0.959,,,,,,,,,,,,,berkmla01,data
+2011,MVP,NL,National League,COL,Colorado Rockies,West,8,Troy Tulowitzki,COL,69.0,0.0,15%,6.2,143,537,81,162,30,105,9,59,0.302,0.372,0.544,0.916,,,,,,,,,,,,,tulowtr01,data
+2011,MVP,NL,National League,PHI,Philadelphia Phillies,East,9,Roy Halladay,PHI,52.0,0.0,12%,8.6,31,74,3,9,0,3,0,2,0.122,0.145,0.149,0.293,19.0,6.0,2.35,1.04,32.0,32.0,0.0,233.2,208.0,10.0,35.0,220.0,hallaro01,data
+2011,MVP,NL,National League,PHI,Philadelphia Phillies,East,10,Ryan Howard,PHI,39.0,0.0,9%,1.2,152,557,81,141,33,116,1,75,0.253,0.346,0.488,0.835,,,,,,,,,,,,,howarry01,data
+2011,MVP,NL,National League,NYM,New York Mets,East,11,José Reyes,NYM,31.0,0.0,7%,4.6,126,537,101,181,7,44,39,43,0.337,0.384,0.493,0.877,,,,,,,,,,,,,reyesjo01,data
+2011,MVP,NL,National League,LAD,Los Angeles Dodgers,West,12,Clayton Kershaw,LAD,29.0,0.0,6%,7.4,32,71,10,16,0,4,0,3,0.225,0.267,0.225,0.492,21.0,5.0,2.28,0.977,33.0,33.0,0.0,233.1,174.0,15.0,54.0,248.0,kershcl01,data
+2011,MVP,NL,National League,PHI,Philadelphia Phillies,East,13,Shane Victorino,PHI,18.0,0.0,4%,5.5,132,519,95,145,17,61,19,55,0.279,0.355,0.491,0.847,,,,,,,,,,,,,victosh01,data
+2011,MVP,NL,National League,ARI,Arizona Diamondbacks,West,14,Ian Kennedy,ARI,16.0,0.0,4%,4.8,32,61,3,8,0,4,0,4,0.131,0.197,0.18,0.377,21.0,4.0,2.88,1.086,33.0,33.0,0.0,222.0,186.0,19.0,55.0,198.0,kenneia01,data
+2011,MVP,NL,National League,PHI,Philadelphia Phillies,East,15,Cliff Lee,PHI,12.0,0.0,3%,9.0,34,75,6,15,2,7,1,1,0.2,0.208,0.307,0.514,17.0,8.0,2.4,1.027,32.0,32.0,0.0,232.2,197.0,18.0,42.0,238.0,leecl02,data
+2011,MVP,NL,National League,TOT,,,16,Hunter Pence,TOT,10.0,0.0,2%,5.7,154,606,84,190,22,97,8,56,0.314,0.37,0.502,0.871,,,,,,,,,,,,,pencehu01,data
+2011,MVP,NL,National League,MIL,Milwaukee Brewers,Central,17,John Axford,MIL,7.0,0.0,2%,2.3,71,0,0,0,0,0,0,0,,,,,2.0,2.0,1.95,1.14,74.0,0.0,46.0,73.2,59.0,4.0,25.0,86.0,axforjo01,data
+2011,MVP,NL,National League,SFG,San Francisco Giants,West,17,Pablo Sandoval,SFG,7.0,0.0,2%,6.0,117,426,55,134,23,70,2,32,0.315,0.357,0.552,0.909,,,,,,,,,,,,,sandopa01,data
+2011,MVP,NL,National League,WSN,Washington Nationals,East,19,Mike Morse,WSN,5.0,0.0,1%,3.4,146,522,73,158,31,95,2,36,0.303,0.36,0.55,0.91,,,,,,,,,,,,,morsemi01,data
+2011,MVP,NL,National League,TOT,,,20,Carlos Beltrán,TOT,3.0,0.0,1%,4.5,142,520,78,156,22,84,4,71,0.3,0.385,0.525,0.91,,,,,,,,,,,,,beltrca01,data
+2011,MVP,NL,National League,STL,St. Louis Cardinals,Central,21,Yadier Molina,STL,2.0,0.0,0%,2.9,139,475,55,145,14,65,4,33,0.305,0.349,0.465,0.814,,,,,,,,,,,,,molinya01,data
+2011,MVP,NL,National League,ARI,Arizona Diamondbacks,West,21,Miguel Montero,ARI,2.0,0.0,0%,4.4,140,493,65,139,18,86,1,47,0.282,0.351,0.469,0.82,,,,,,,,,,,,,montemi01,data
+2011,MVP,NL,National League,CHC,Chicago Cubs,Central,23,Starlin Castro,CHC,1.0,0.0,0%,3.2,158,674,91,207,10,66,22,35,0.307,0.341,0.432,0.773,,,,,,,,,,,,,castrst01,data
+2011,MVP,NL,National League,ATL,Atlanta Braves,East,23,Craig Kimbrel,ATL,1.0,0.0,0%,2.5,75,0,0,0,0,0,0,0,,,,,4.0,3.0,2.1,1.039,79.0,0.0,46.0,77.0,48.0,3.0,32.0,127.0,kimbrcr01,data
+2011,MVP,NL,National League,PHI,Philadelphia Phillies,East,23,Carlos Ruiz,PHI,1.0,0.0,0%,2.9,132,410,49,116,6,40,1,48,0.283,0.371,0.383,0.754,,,,,,,,,,,,,ruizca01,data
+2011,MVP,NL,National League,FLA,Florida Marlins,East,23,Giancarlo Stanton,FLA,1.0,0.0,0%,4.1,150,516,79,135,34,87,5,70,0.262,0.356,0.537,0.893,,,,,,,,,,,,,stantmi03,data
+2012,MVP,AL,American League,DET,Detroit Tigers,Central,1,Miguel Cabrera,DET,362.0,22.0,92%,7.1,161,622,109,205,44,139,4,66,0.33,0.393,0.606,0.999,,,,,,,,,,,,,cabremi01,data
+2012,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mike Trout,LAA,281.0,6.0,72%,10.5,139,559,129,182,30,83,49,67,0.326,0.399,0.564,0.963,,,,,,,,,,,,,troutmi01,data
+2012,MVP,AL,American League,TEX,Texas Rangers,West,3,Adrian Beltré,TEX,210.0,0.0,54%,7.2,156,604,95,194,36,102,1,36,0.321,0.359,0.561,0.921,,,,,,,,,,,,,beltrad01,data
+2012,MVP,AL,American League,NYY,New York Yankees,East,4,Robinson Canó,NYY,149.0,0.0,38%,8.4,161,627,105,196,33,94,3,61,0.313,0.379,0.55,0.929,,,,,,,,,,,,,canoro01,data
+2012,MVP,AL,American League,TEX,Texas Rangers,West,5,Josh Hamilton,TEX,127.0,0.0,32%,4.0,148,562,103,160,43,128,7,60,0.285,0.354,0.577,0.93,,,,,,,,,,,,,hamiljo03,data
+2012,MVP,AL,American League,BAL,Baltimore Orioles,East,6,Adam Jones,BAL,120.0,0.0,31%,4.1,162,648,103,186,32,82,16,34,0.287,0.334,0.505,0.839,,,,,,,,,,,,,jonesad01,data
+2012,MVP,AL,American League,NYY,New York Yankees,East,7,Derek Jeter,NYY,77.0,0.0,20%,2.2,159,683,99,216,15,58,9,45,0.316,0.362,0.429,0.791,,,,,,,,,,,,,jeterde01,data
+2012,MVP,AL,American League,DET,Detroit Tigers,Central,8,Justin Verlander,DET,58.0,0.0,15%,8.0,3,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,17.0,8.0,2.64,1.057,33.0,33.0,0.0,238.1,192.0,19.0,60.0,239.0,verlaju01,data
+2012,MVP,AL,American League,DET,Detroit Tigers,Central,9,Prince Fielder,DET,56.0,0.0,14%,4.7,162,581,83,182,30,108,1,85,0.313,0.412,0.528,0.94,,,,,,,,,,,,,fieldpr01,data
+2012,MVP,AL,American League,OAK,Oakland Athletics,West,10,Yoenis Céspedes,OAK,41.0,0.0,10%,4.0,129,487,70,142,23,82,16,43,0.292,0.356,0.505,0.861,,,,,,,,,,,,,cespeyo01,data
+2012,MVP,AL,American League,TOR,Toronto Blue Jays,East,11,Edwin Encarnación,TOR,33.0,0.0,8%,5.0,151,542,93,152,42,110,13,84,0.28,0.384,0.557,0.941,,,,,,,,,,,,,encared01,data
+2012,MVP,AL,American League,TBR,Tampa Bay Rays,East,12,David Price,TBR,26.0,0.0,7%,6.6,2,4,0,0,0,0,0,1,0.0,0.2,0.0,0.2,20.0,5.0,2.56,1.1,31.0,31.0,0.0,211.0,173.0,16.0,59.0,205.0,priceda01,data
+2012,MVP,AL,American League,TBR,Tampa Bay Rays,East,13,Fernando Rodney,TBR,24.0,0.0,6%,3.7,8,0,0,0,0,0,0,0,,,,,2.0,2.0,0.6,0.777,76.0,0.0,48.0,74.2,43.0,2.0,15.0,76.0,rodnefe01,data
+2012,MVP,AL,American League,BAL,Baltimore Orioles,East,14,Jim Johnson,BAL,22.0,0.0,6%,2.4,4,0,0,0,0,0,0,0,,,,,2.0,1.0,2.49,1.019,71.0,0.0,51.0,68.2,55.0,3.0,15.0,41.0,johnsji04,data
+2012,MVP,AL,American League,CHW,Chicago White Sox,Central,15,Alex Ríos,CHW,17.0,0.0,4%,4.8,157,605,93,184,25,91,23,26,0.304,0.334,0.516,0.85,,,,,,,,,,,,,riosal01,data
+2012,MVP,AL,American League,OAK,Oakland Athletics,West,16,Josh Reddick,OAK,14.0,0.0,4%,4.6,156,611,85,148,32,85,11,55,0.242,0.305,0.463,0.768,,,,,,,,,,,,,reddijo01,data
+2012,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,17,Albert Pujols,LAA,8.0,0.0,2%,4.8,154,607,85,173,30,105,8,52,0.285,0.343,0.516,0.859,,,,,,,,,,,,,pujolal01,data
+2012,MVP,AL,American League,TBR,Tampa Bay Rays,East,18,Ben Zobrist,TBR,7.0,0.0,2%,5.8,157,560,88,151,20,74,14,97,0.27,0.377,0.471,0.848,,,,,,,,,,,,,zobribe01,data
+2012,MVP,AL,American League,MIN,Minnesota Twins,Central,19,Joe Mauer,MIN,6.0,0.0,2%,4.4,147,545,81,174,10,85,8,90,0.319,0.416,0.446,0.861,,,,,,,,,,,,,mauerjo01,data
+2012,MVP,AL,American League,NYY,New York Yankees,East,20,Rafael Soriano,NYY,5.0,0.0,1%,2.6,9,0,0,0,0,0,0,0,,,,,2.0,1.0,2.26,1.167,69.0,0.0,42.0,67.2,55.0,6.0,24.0,69.0,soriara01,data
+2012,MVP,AL,American League,BAL,Baltimore Orioles,East,21,Matt Wieters,BAL,4.0,0.0,1%,4.1,144,526,67,131,23,83,3,60,0.249,0.329,0.435,0.764,,,,,,,,,,,,,wietema01,data
+2012,MVP,AL,American League,SEA,Seattle Mariners,West,22,Félix Hernández,SEA,2.0,0.0,1%,5.3,1,3,0,1,0,2,0,0,0.333,0.333,0.667,1.0,13.0,9.0,3.06,1.142,33.0,33.0,0.0,232.0,209.0,14.0,56.0,223.0,hernafe02,data
+2012,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,22,Jered Weaver,LAA,2.0,0.0,1%,4.4,1,2,1,1,0,0,0,1,0.5,0.667,0.5,1.167,20.0,5.0,2.81,1.018,30.0,30.0,0.0,188.2,147.0,20.0,45.0,142.0,weaveje02,data
+2012,MVP,AL,American League,NYY,New York Yankees,East,24,Raúl Ibañez,NYY,1.0,0.0,0%,0.5,130,384,50,92,19,62,3,35,0.24,0.308,0.453,0.761,,,,,,,,,,,,,ibanera01,data
+2012,MVP,NL,National League,SFG,San Francisco Giants,West,1,Buster Posey,SFG,422.0,27.0,94%,7.6,148,530,78,178,24,103,1,69,0.336,0.408,0.549,0.957,,,,,,,,,,,,,poseybu01,data
+2012,MVP,NL,National League,MIL,Milwaukee Brewers,Central,2,Ryan Braun,MIL,285.0,3.0,64%,6.9,154,598,108,191,41,112,30,63,0.319,0.391,0.595,0.987,,,,,,,,,,,,,braunry02,data
+2012,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,3,Andrew McCutchen,PIT,245.0,0.0,55%,6.9,157,593,107,194,31,96,20,70,0.327,0.4,0.553,0.953,,,,,,,,,,,,,mccutan01,data
+2012,MVP,NL,National League,STL,St. Louis Cardinals,Central,4,Yadier Molina,STL,241.0,2.0,54%,7.2,138,505,65,159,22,76,12,45,0.315,0.373,0.501,0.874,,,,,,,,,,,,,molinya01,data
+2012,MVP,NL,National League,SDP,San Diego Padres,West,5,Chase Headley,SDP,127.0,0.0,28%,6.4,161,604,95,173,31,115,17,86,0.286,0.376,0.498,0.875,,,,,,,,,,,,,headlch01,data
+2012,MVP,NL,National League,WSN,Washington Nationals,East,6,Adam LaRoche,WSN,86.0,0.0,19%,4.2,154,571,76,155,33,100,1,67,0.271,0.343,0.51,0.853,,,,,,,,,,,,,larocad01,data
+2012,MVP,NL,National League,NYM,New York Mets,East,6,David Wright,NYM,86.0,0.0,19%,7.1,156,581,91,178,21,93,15,81,0.306,0.391,0.492,0.883,,,,,,,,,,,,,wrighda03,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,8,Craig Kimbrel,ATL,73.0,0.0,16%,3.2,59,0,0,0,0,0,0,0,,,,,3.0,1.0,1.01,0.654,63.0,0.0,42.0,62.2,27.0,3.0,14.0,116.0,kimbrcr01,data
+2012,MVP,NL,National League,MIL,Milwaukee Brewers,Central,9,Aramis Ramírez,MIL,47.0,0.0,10%,5.6,149,570,92,171,27,105,9,44,0.3,0.36,0.54,0.901,,,,,,,,,,,,,ramirar01,data
+2012,MVP,NL,National League,CIN,Cincinnati Reds,Central,10,Jay Bruce,CIN,46.0,0.0,10%,2.2,155,560,89,141,34,99,9,62,0.252,0.327,0.514,0.841,,,,,,,,,,,,,bruceja01,data
+2012,MVP,NL,National League,STL,St. Louis Cardinals,Central,11,Matt Holliday,STL,34.0,0.0,8%,4.0,157,599,95,177,27,102,4,75,0.295,0.379,0.497,0.877,,,,,,,,,,,,,hollima01,data
+2012,MVP,NL,National League,CIN,Cincinnati Reds,Central,12,Aroldis Chapman,CIN,20.0,0.0,4%,3.4,65,0,0,0,0,0,0,0,,,,,5.0,5.0,1.51,0.809,68.0,0.0,38.0,71.2,35.0,4.0,23.0,122.0,chapmar01,data
+2012,MVP,NL,National League,CIN,Cincinnati Reds,Central,13,Brandon Phillips,CIN,18.0,0.0,4%,4.0,147,580,86,163,18,77,15,28,0.281,0.321,0.429,0.75,,,,,,,,,,,,,phillbr01,data
+2012,MVP,NL,National League,NYM,New York Mets,East,14,R.A. Dickey,NYM,16.0,0.0,4%,5.8,33,72,3,11,0,3,0,0,0.153,0.164,0.153,0.317,20.0,6.0,2.73,1.053,34.0,33.0,0.0,233.2,192.0,24.0,54.0,230.0,,data
+2012,MVP,NL,National League,CIN,Cincinnati Reds,Central,14,Joey Votto,CIN,16.0,0.0,4%,5.9,111,374,59,126,14,56,5,94,0.337,0.474,0.567,1.041,,,,,,,,,,,,,vottojo01,data
+2012,MVP,NL,National League,WSN,Washington Nationals,East,16,Ian Desmond,WSN,15.0,0.0,3%,3.4,130,513,72,150,25,73,21,30,0.292,0.335,0.511,0.845,,,,,,,,,,,,,desmoia01,data
+2012,MVP,NL,National League,LAD,Los Angeles Dodgers,West,16,Clayton Kershaw,LAD,15.0,0.0,3%,6.8,32,58,2,12,0,2,0,2,0.207,0.23,0.224,0.454,14.0,9.0,2.53,1.023,33.0,33.0,0.0,227.2,170.0,16.0,63.0,229.0,kershcl01,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,18,Michael Bourn,ATL,12.0,0.0,3%,6.0,155,624,96,171,9,57,42,70,0.274,0.348,0.391,0.739,,,,,,,,,,,,,bournmi01,data
+2012,MVP,NL,National League,STL,St. Louis Cardinals,Central,19,Allen Craig,STL,10.0,0.0,2%,2.4,119,469,76,144,22,92,2,37,0.307,0.354,0.522,0.876,,,,,,,,,,,,,craigal01,data
+2012,MVP,NL,National League,WSN,Washington Nationals,East,20,Gio Gonzalez,WSN,8.0,0.0,2%,4.8,31,64,2,6,1,4,0,1,0.094,0.106,0.156,0.262,21.0,8.0,2.89,1.129,32.0,32.0,0.0,199.1,149.0,9.0,76.0,207.0,gonzagi01,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,20,Kris Medlen,ATL,8.0,0.0,2%,4.5,46,33,3,4,0,2,0,4,0.121,0.216,0.152,0.368,10.0,1.0,1.57,0.913,50.0,12.0,1.0,138.0,103.0,6.0,23.0,120.0,medlekr01,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,20,Martín Prado,ATL,8.0,0.0,2%,5.4,156,617,81,186,10,70,17,58,0.301,0.359,0.438,0.796,,,,,,,,,,,,,pradoma01,data
+2012,MVP,NL,National League,CHC,Chicago Cubs,Central,20,Alfonso Soriano,CHC,8.0,0.0,2%,1.9,151,561,68,147,32,108,6,44,0.262,0.322,0.499,0.821,,,,,,,,,,,,,soriaal01,data
+2012,MVP,NL,National League,MIA,Miami Marlins,East,24,Giancarlo Stanton,MIA,7.0,0.0,2%,5.4,123,449,75,130,37,86,6,46,0.29,0.361,0.608,0.969,,,,,,,,,,,,,stantmi03,data
+2012,MVP,NL,National League,WSN,Washington Nationals,East,24,Ryan Zimmerman,WSN,7.0,0.0,2%,3.9,145,578,93,163,25,95,5,57,0.282,0.346,0.478,0.824,,,,,,,,,,,,,zimmery01,data
+2012,MVP,NL,National League,STL,St. Louis Cardinals,Central,26,Carlos Beltrán,STL,6.0,0.0,1%,3.9,151,547,83,147,32,97,13,65,0.269,0.346,0.495,0.842,,,,,,,,,,,,,beltrca01,data
+2012,MVP,NL,National League,ARI,Arizona Diamondbacks,West,26,Aaron Hill,ARI,6.0,0.0,1%,5.1,156,609,93,184,26,85,14,52,0.302,0.36,0.522,0.882,,,,,,,,,,,,,hillaa01,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,28,Jason Heyward,ATL,4.0,0.0,1%,5.5,158,587,93,158,27,82,21,58,0.269,0.335,0.479,0.814,,,,,,,,,,,,,heywaja01,data
+2012,MVP,NL,National League,PHI,Philadelphia Phillies,East,28,Carlos Ruiz,PHI,4.0,0.0,1%,4.6,114,372,56,121,16,68,4,29,0.325,0.394,0.54,0.935,,,,,,,,,,,,,ruizca01,data
+2012,MVP,NL,National League,CIN,Cincinnati Reds,Central,30,Johnny Cueto,CIN,2.0,0.0,0%,4.8,32,67,3,6,0,2,0,0,0.09,0.09,0.104,0.194,19.0,9.0,2.78,1.171,33.0,33.0,0.0,217.0,205.0,15.0,49.0,170.0,cuetojo01,data
+2012,MVP,NL,National League,WSN,Washington Nationals,East,30,Bryce Harper,WSN,2.0,0.0,0%,5.2,139,533,98,144,22,59,18,56,0.27,0.34,0.477,0.817,,,,,,,,,,,,,harpebr03,data
+2012,MVP,NL,National League,ATL,Atlanta Braves,East,32,Chipper Jones,ATL,1.0,0.0,0%,2.8,112,387,58,111,14,62,1,57,0.287,0.377,0.455,0.832,,,,,,,,,,,,,jonesch06,data
+2012,MVP,NL,National League,ARI,Arizona Diamondbacks,West,32,Miguel Montero,ARI,1.0,0.0,0%,4.5,141,486,65,139,15,88,0,73,0.286,0.391,0.438,0.829,,,,,,,,,,,,,montemi01,data
+2012,MVP,NL,National League,SFG,San Francisco Giants,West,32,Ángel Pagán,SFG,1.0,0.0,0%,4.2,154,605,95,174,8,56,29,48,0.288,0.338,0.44,0.778,,,,,,,,,,,,,paganan01,data
+2012,MVP,NL,National League,TOT,,,32,Hunter Pence,TOT,1.0,0.0,0%,1.3,160,617,87,156,24,104,5,56,0.253,0.319,0.425,0.743,,,,,,,,,,,,,pencehu01,data
+2013,MVP,AL,American League,DET,Detroit Tigers,Central,1,Miguel Cabrera,DET,385.0,23.0,92%,7.5,148,555,103,193,44,137,3,90,0.348,0.442,0.636,1.078,,,,,,,,,,,,,cabremi01,data
+2013,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mike Trout,LAA,282.0,5.0,67%,8.9,157,589,109,190,27,97,33,110,0.323,0.432,0.557,0.988,,,,,,,,,,,,,troutmi01,data
+2013,MVP,AL,American League,BAL,Baltimore Orioles,East,3,Chris Davis,BAL,232.0,1.0,55%,7.1,160,584,103,167,53,138,4,72,0.286,0.37,0.634,1.004,,,,,,,,,,,,,davisch02,data
+2013,MVP,AL,American League,OAK,Oakland Athletics,West,4,Josh Donaldson,OAK,222.0,1.0,53%,7.2,158,579,89,174,24,93,5,76,0.301,0.384,0.499,0.883,,,,,,,,,,,,,donaljo02,data
+2013,MVP,AL,American League,NYY,New York Yankees,East,5,Robinson Canó,NYY,150.0,0.0,36%,6.6,160,605,81,190,27,107,7,65,0.314,0.383,0.516,0.899,,,,,,,,,,,,,canoro01,data
+2013,MVP,AL,American League,TBR,Tampa Bay Rays,East,6,Evan Longoria,TBR,103.0,0.0,25%,5.8,160,614,91,165,32,88,1,70,0.269,0.343,0.498,0.842,,,,,,,,,,,,,longoev01,data
+2013,MVP,AL,American League,TEX,Texas Rangers,West,7,Adrian Beltré,TEX,99.0,0.0,24%,5.7,161,631,88,199,30,92,1,50,0.315,0.371,0.509,0.88,,,,,,,,,,,,,beltrad01,data
+2013,MVP,AL,American League,BOS,Boston Red Sox,East,7,Dustin Pedroia,BOS,99.0,0.0,24%,6.1,160,641,91,193,9,84,17,73,0.301,0.372,0.415,0.787,,,,,,,,,,,,,pedrodu01,data
+2013,MVP,AL,American League,BAL,Baltimore Orioles,East,9,Manny Machado,BAL,57.0,0.0,14%,5.9,156,667,88,189,14,71,6,29,0.283,0.314,0.432,0.746,,,,,,,,,,,,,machama01,data
+2013,MVP,AL,American League,BOS,Boston Red Sox,East,10,David Ortiz,BOS,47.0,0.0,11%,4.4,137,518,84,160,30,103,4,76,0.309,0.395,0.564,0.959,,,,,,,,,,,,,ortizda01,data
+2013,MVP,AL,American League,CLE,Cleveland Indians,Central,11,Jason Kipnis,CLE,31.0,0.0,7%,5.0,149,564,86,160,17,84,30,76,0.284,0.366,0.452,0.818,,,,,,,,,,,,,kipnija01,data
+2013,MVP,AL,American League,DET,Detroit Tigers,Central,12,Max Scherzer,DET,25.0,0.0,6%,6.6,1,3,0,1,0,1,0,0,0.333,0.333,0.667,1.0,21.0,3.0,2.9,0.97,32.0,32.0,0.0,214.1,152.0,18.0,56.0,240.0,scherma01,data
+2013,MVP,AL,American League,BAL,Baltimore Orioles,East,13,Adam Jones,BAL,9.0,0.0,2%,4.8,160,653,100,186,33,108,14,25,0.285,0.318,0.493,0.811,,,,,,,,,,,,,jonesad01,data
+2013,MVP,AL,American League,TOR,Toronto Blue Jays,East,14,Edwin Encarnación,TOR,7.0,0.0,2%,4.1,142,530,90,144,36,104,7,82,0.272,0.37,0.534,0.904,,,,,,,,,,,,,encared01,data
+2013,MVP,AL,American League,OAK,Oakland Athletics,West,15,Coco Crisp,OAK,3.0,0.0,1%,3.8,131,513,93,134,22,66,21,61,0.261,0.335,0.444,0.779,,,,,,,,,,,,,crispco01,data
+2013,MVP,AL,American League,BOS,Boston Red Sox,East,15,Jacoby Ellsbury,BOS,3.0,0.0,1%,5.8,134,577,92,172,9,53,52,47,0.298,0.355,0.426,0.781,,,,,,,,,,,,,ellsbja01,data
+2013,MVP,AL,American League,KCR,Kansas City Royals,Central,15,Greg Holland,KCR,3.0,0.0,1%,3.2,6,0,0,0,0,0,0,0,,,,,2.0,1.0,1.21,0.866,68.0,0.0,47.0,67.0,40.0,3.0,18.0,103.0,hollagr01,data
+2013,MVP,AL,American League,CLE,Cleveland Indians,Central,15,Carlos Santana,CLE,3.0,0.0,1%,4.4,154,541,75,145,20,74,3,93,0.268,0.377,0.455,0.832,,,,,,,,,,,,,santaca01,data
+2013,MVP,AL,American League,DET,Detroit Tigers,Central,19,Torii Hunter,DET,2.0,0.0,0%,2.6,144,606,90,184,17,84,3,26,0.304,0.334,0.465,0.8,,,,,,,,,,,,,hunteto01,data
+2013,MVP,AL,American League,SEA,Seattle Mariners,West,19,Hisashi Iwakuma,SEA,2.0,0.0,0%,7.0,1,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14.0,6.0,2.66,1.006,33.0,33.0,0.0,219.2,179.0,25.0,42.0,185.0,iwakuhi01,data
+2013,MVP,AL,American League,BOS,Boston Red Sox,East,19,Koji Uehara,BOS,2.0,0.0,0%,3.5,3,0,0,0,0,0,0,0,,,,,4.0,1.0,1.09,0.565,73.0,0.0,21.0,74.1,33.0,5.0,9.0,101.0,ueharko01,data
+2013,MVP,AL,American League,TEX,Texas Rangers,West,22,Yu Darvish,TEX,1.0,0.0,0%,5.5,1,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,9.0,2.83,1.073,32.0,32.0,0.0,209.2,145.0,26.0,80.0,277.0,darviyu01,data
+2013,MVP,AL,American League,SEA,Seattle Mariners,West,22,Félix Hernández,SEA,1.0,0.0,0%,5.1,2,5,1,0,0,0,0,1,0.0,0.167,0.0,0.167,12.0,10.0,3.04,1.131,31.0,31.0,0.0,204.1,185.0,15.0,46.0,216.0,hernafe02,data
+2013,MVP,AL,American League,KCR,Kansas City Royals,Central,22,Salvador Perez,KCR,1.0,0.0,0%,4.2,138,496,48,145,13,79,0,21,0.292,0.323,0.433,0.757,,,,,,,,,,,,,perezsa02,data
+2013,MVP,AL,American League,BOS,Boston Red Sox,East,22,Shane Victorino,BOS,1.0,0.0,0%,6.0,122,477,82,140,15,61,21,25,0.294,0.351,0.451,0.801,,,,,,,,,,,,,victosh01,data
+2013,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,1,Andrew McCutchen,PIT,409.0,28.0,97%,7.8,157,583,97,185,21,84,27,78,0.317,0.404,0.508,0.911,,,,,,,,,,,,,mccutan01,data
+2013,MVP,NL,National League,ARI,Arizona Diamondbacks,West,2,Paul Goldschmidt,ARI,242.0,0.0,58%,6.3,160,602,103,182,36,125,15,99,0.302,0.401,0.551,0.952,,,,,,,,,,,,,goldspa01,data
+2013,MVP,NL,National League,STL,St. Louis Cardinals,Central,3,Yadier Molina,STL,219.0,2.0,52%,6.2,136,505,68,161,12,80,3,30,0.319,0.359,0.477,0.836,,,,,,,,,,,,,molinya01,data
+2013,MVP,NL,National League,STL,St. Louis Cardinals,Central,4,Matt Carpenter,STL,194.0,0.0,46%,6.6,157,626,126,199,11,78,3,72,0.318,0.392,0.481,0.873,,,,,,,,,,,,,carpema01,data
+2013,MVP,NL,National League,ATL,Atlanta Braves,East,5,Freddie Freeman,ATL,154.0,0.0,37%,5.3,147,551,89,176,23,109,1,66,0.319,0.396,0.501,0.897,,,,,,,,,,,,,freemfr01,data
+2013,MVP,NL,National League,CIN,Cincinnati Reds,Central,6,Joey Votto,CIN,149.0,0.0,35%,6.6,162,581,101,177,24,73,6,135,0.305,0.435,0.491,0.926,,,,,,,,,,,,,vottojo01,data
+2013,MVP,NL,National League,LAD,Los Angeles Dodgers,West,7,Clayton Kershaw,LAD,146.0,0.0,35%,8.6,35,77,8,14,1,10,0,5,0.182,0.241,0.26,0.501,16.0,9.0,1.83,0.915,33.0,33.0,0.0,236.0,164.0,11.0,52.0,232.0,kershcl01,data
+2013,MVP,NL,National League,LAD,Los Angeles Dodgers,West,8,Hanley Ramírez,LAD,58.0,0.0,14%,5.2,86,304,62,105,20,57,10,27,0.345,0.402,0.638,1.04,,,,,,,,,,,,,ramirha01,data
+2013,MVP,NL,National League,MIL,Milwaukee Brewers,Central,9,Carlos Gómez,MIL,43.0,0.0,10%,7.6,147,536,80,152,24,73,40,37,0.284,0.338,0.506,0.843,,,,,,,,,,,,,gomezca01,data
+2013,MVP,NL,National League,CIN,Cincinnati Reds,Central,10,Jay Bruce,CIN,30.0,0.0,7%,5.2,160,626,89,164,30,109,7,63,0.262,0.329,0.478,0.807,,,,,,,,,,,,,bruceja01,data
+2013,MVP,NL,National League,ATL,Atlanta Braves,East,11,Craig Kimbrel,ATL,27.0,0.0,6%,3.1,65,0,0,0,0,0,0,0,,,,,4.0,3.0,1.21,0.881,68.0,0.0,50.0,67.0,39.0,4.0,20.0,98.0,kimbrcr01,data
+2013,MVP,NL,National League,CIN,Cincinnati Reds,Central,12,Shin-Soo Choo,CIN,23.0,0.0,5%,4.6,154,569,107,162,21,54,20,112,0.285,0.423,0.462,0.885,,,,,,,,,,,,,choosh01,data
+2013,MVP,NL,National League,WSN,Washington Nationals,East,13,Jayson Werth,WSN,20.0,0.0,5%,4.6,129,462,84,147,25,82,10,60,0.318,0.398,0.532,0.931,,,,,,,,,,,,,werthja01,data
+2013,MVP,NL,National League,ATL,Atlanta Braves,East,14,Andrelton Simmons,ATL,14.0,0.0,3%,5.8,157,606,76,150,17,59,6,40,0.248,0.296,0.396,0.692,,,,,,,,,,,,,simmoan01,data
+2013,MVP,NL,National League,LAD,Los Angeles Dodgers,West,15,Yasiel Puig,LAD,10.0,0.0,2%,4.7,104,382,66,122,19,42,11,36,0.319,0.391,0.534,0.925,,,,,,,,,,,,,puigya01,data
+2013,MVP,NL,National League,SFG,San Francisco Giants,West,16,Hunter Pence,SFG,7.0,0.0,2%,3.8,162,629,91,178,27,99,22,52,0.283,0.339,0.483,0.822,,,,,,,,,,,,,pencehu01,data
+2013,MVP,NL,National League,COL,Colorado Rockies,West,17,Troy Tulowitzki,COL,5.0,0.0,1%,5.0,126,446,72,139,25,82,1,57,0.312,0.391,0.54,0.931,,,,,,,,,,,,,tulowtr01,data
+2013,MVP,NL,National League,STL,St. Louis Cardinals,Central,18,Allen Craig,STL,4.0,0.0,1%,2.7,134,508,71,160,13,97,2,40,0.315,0.373,0.457,0.83,,,,,,,,,,,,,craigal01,data
+2013,MVP,NL,National League,LAD,Los Angeles Dodgers,West,18,Adrián González,LAD,4.0,0.0,1%,3.8,157,583,69,171,22,100,1,47,0.293,0.342,0.461,0.803,,,,,,,,,,,,,gonzaad01,data
+2013,MVP,NL,National League,COL,Colorado Rockies,West,20,Michael Cuddyer,COL,3.0,0.0,1%,2.1,130,489,74,162,20,84,10,46,0.331,0.389,0.53,0.919,,,,,,,,,,,,,cuddymi01,data
+2013,MVP,NL,National League,SFG,San Francisco Giants,West,20,Buster Posey,SFG,3.0,0.0,1%,5.3,148,520,61,153,15,72,2,60,0.294,0.371,0.45,0.821,,,,,,,,,,,,,poseybu01,data
+2013,MVP,NL,National League,STL,St. Louis Cardinals,Central,20,Adam Wainwright,STL,3.0,0.0,1%,6.5,32,71,4,15,0,6,0,0,0.211,0.208,0.268,0.476,19.0,9.0,2.94,1.068,34.0,34.0,0.0,241.2,223.0,15.0,35.0,219.0,wainwad01,data
+2013,MVP,NL,National League,STL,St. Louis Cardinals,Central,23,Matt Holliday,STL,2.0,0.0,0%,2.6,141,520,103,156,22,94,6,69,0.3,0.389,0.49,0.879,,,,,,,,,,,,,hollima01,data
+2013,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,24,Russell Martin,PIT,1.0,0.0,0%,4.1,127,438,51,99,15,55,9,58,0.226,0.327,0.377,0.703,,,,,,,,,,,,,martiru01,data
+2014,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,1,Mike Trout,LAA,420.0,30.0,100%,7.7,157,602,115,173,36,111,16,83,0.287,0.377,0.561,0.939,,,,,,,,,,,,,troutmi01,data
+2014,MVP,AL,American League,DET,Detroit Tigers,Central,2,Víctor Martínez,DET,229.0,0.0,55%,5.5,151,561,87,188,32,103,3,70,0.335,0.409,0.565,0.974,,,,,,,,,,,,,martivi01,data
+2014,MVP,AL,American League,CLE,Cleveland Indians,Central,3,Michael Brantley,CLE,191.0,0.0,45%,7.0,156,611,94,200,20,97,23,52,0.327,0.385,0.506,0.89,,,,,,,,,,,,,brantmi02,data
+2014,MVP,AL,American League,CHW,Chicago White Sox,Central,4,José Abreu,CHW,145.0,0.0,35%,5.8,145,556,80,176,36,107,3,51,0.317,0.383,0.581,0.964,,,,,,,,,,,,,abreujo02,data
+2014,MVP,AL,American League,SEA,Seattle Mariners,West,5,Robinson Canó,SEA,124.0,0.0,30%,6.3,157,595,77,187,14,82,10,61,0.314,0.382,0.454,0.836,,,,,,,,,,,,,canoro01,data
+2014,MVP,AL,American League,TOR,Toronto Blue Jays,East,6,José Bautista,TOR,122.0,0.0,29%,6.9,155,553,101,158,35,103,6,104,0.286,0.403,0.524,0.928,,,,,,,,,,,,,bautijo02,data
+2014,MVP,AL,American League,BAL,Baltimore Orioles,East,7,Nelson Cruz,BAL,102.0,0.0,24%,4.5,159,613,87,166,40,108,4,55,0.271,0.333,0.525,0.859,,,,,,,,,,,,,cruzne02,data
+2014,MVP,AL,American League,OAK,Oakland Athletics,West,8,Josh Donaldson,OAK,96.0,0.0,23%,6.9,158,608,93,155,29,98,8,76,0.255,0.342,0.456,0.798,,,,,,,,,,,,,donaljo02,data
+2014,MVP,AL,American League,DET,Detroit Tigers,Central,9,Miguel Cabrera,DET,82.0,0.0,20%,5.1,159,611,101,191,25,109,1,60,0.313,0.371,0.524,0.895,,,,,,,,,,,,,cabremi01,data
+2014,MVP,AL,American League,SEA,Seattle Mariners,West,10,Félix Hernández,SEA,48.0,0.0,11%,6.3,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15.0,6.0,2.14,0.915,34.0,34.0,0.0,236.0,170.0,16.0,46.0,248.0,hernafe02,data
+2014,MVP,AL,American League,CLE,Cleveland Indians,Central,11,Corey Kluber,CLE,45.0,0.0,11%,8.1,4,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,18.0,9.0,2.44,1.095,34.0,34.0,0.0,235.2,207.0,14.0,51.0,269.0,klubeco01,data
+2014,MVP,AL,American League,KCR,Kansas City Royals,Central,12,Alex Gordon,KCR,44.0,0.0,10%,6.1,156,563,87,150,19,74,12,65,0.266,0.351,0.432,0.783,,,,,,,,,,,,,gordoal01,data
+2014,MVP,AL,American League,HOU,Houston Astros,West,13,Jose Altuve,HOU,41.0,0.0,10%,5.5,158,660,85,225,7,59,56,36,0.341,0.377,0.453,0.83,,,,,,,,,,,,,altuvjo01,data
+2014,MVP,AL,American League,BAL,Baltimore Orioles,East,14,Adam Jones,BAL,34.0,0.0,8%,4.8,159,644,88,181,29,96,7,19,0.281,0.311,0.469,0.78,,,,,,,,,,,,,jonesad01,data
+2014,MVP,AL,American League,TEX,Texas Rangers,West,15,Adrian Beltré,TEX,22.0,0.0,5%,6.2,148,549,79,178,19,77,1,57,0.324,0.388,0.492,0.879,,,,,,,,,,,,,beltrad01,data
+2014,MVP,AL,American League,KCR,Kansas City Royals,Central,16,Greg Holland,KCR,13.0,0.0,3%,2.6,6,0,0,0,0,0,0,0,,,,,1.0,3.0,1.44,0.914,65.0,0.0,46.0,62.1,37.0,3.0,20.0,90.0,hollagr01,data
+2014,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,17,Albert Pujols,LAA,5.0,0.0,1%,3.9,159,633,89,172,28,105,5,48,0.272,0.324,0.466,0.79,,,,,,,,,,,,,pujolal01,data
+2014,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,18,Howie Kendrick,LAA,3.0,0.0,1%,6.1,157,617,85,181,7,75,14,48,0.293,0.347,0.397,0.744,,,,,,,,,,,,,kendrho01,data
+2014,MVP,AL,American League,KCR,Kansas City Royals,Central,18,James Shields,KCR,3.0,0.0,1%,3.8,3,7,1,2,0,1,0,0,0.286,0.286,0.429,0.714,14.0,8.0,3.21,1.181,34.0,34.0,0.0,227.0,224.0,23.0,44.0,180.0,shielja02,data
+2014,MVP,AL,American League,SEA,Seattle Mariners,West,20,Kyle Seager,SEA,1.0,0.0,0%,6.3,159,590,71,158,25,96,7,52,0.268,0.334,0.454,0.788,,,,,,,,,,,,,seageky01,data
+2014,MVP,NL,National League,LAD,Los Angeles Dodgers,West,1,Clayton Kershaw,LAD,355.0,18.0,85%,8.2,26,63,5,11,0,3,1,4,0.175,0.235,0.206,0.442,21.0,3.0,1.77,0.857,27.0,27.0,0.0,198.1,139.0,9.0,31.0,239.0,kershcl01,data
+2014,MVP,NL,National League,MIA,Miami Marlins,East,2,Giancarlo Stanton,MIA,298.0,8.0,71%,6.5,145,539,89,155,37,105,13,94,0.288,0.395,0.555,0.95,,,,,,,,,,,,,stantmi03,data
+2014,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,3,Andrew McCutchen,PIT,271.0,4.0,65%,6.4,146,548,89,172,25,83,18,84,0.314,0.41,0.542,0.952,,,,,,,,,,,,,mccutan01,data
+2014,MVP,NL,National League,MIL,Milwaukee Brewers,Central,4,Jonathan Lucroy,MIL,167.0,0.0,40%,6.4,153,585,73,176,13,69,4,66,0.301,0.373,0.465,0.837,,,,,,,,,,,,,lucrojo01,data
+2014,MVP,NL,National League,WSN,Washington Nationals,East,5,Anthony Rendon,WSN,155.0,0.0,37%,6.5,153,613,111,176,21,83,17,58,0.287,0.351,0.473,0.824,,,,,,,,,,,,,rendoan01,data
+2014,MVP,NL,National League,SFG,San Francisco Giants,West,6,Buster Posey,SFG,152.0,0.0,36%,5.1,147,547,72,170,22,89,0,47,0.311,0.364,0.49,0.854,,,,,,,,,,,,,poseybu01,data
+2014,MVP,NL,National League,LAD,Los Angeles Dodgers,West,7,Adrián González,LAD,57.0,0.0,14%,4.4,159,591,83,163,27,116,1,56,0.276,0.335,0.482,0.817,,,,,,,,,,,,,gonzaad01,data
+2014,MVP,NL,National League,STL,St. Louis Cardinals,Central,8,Adam Wainwright,STL,53.0,0.0,13%,6.4,30,72,4,13,0,6,0,3,0.181,0.213,0.222,0.436,20.0,9.0,2.38,1.031,32.0,32.0,0.0,227.0,184.0,10.0,50.0,179.0,wainwad01,data
+2014,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,9,Josh Harrison,PIT,52.0,0.0,12%,5.6,143,520,77,164,13,52,18,22,0.315,0.347,0.49,0.837,,,,,,,,,,,,,harrijo05,data
+2014,MVP,NL,National League,CHC,Chicago Cubs,Central,10,Anthony Rizzo,CHC,37.0,0.0,9%,5.6,140,524,89,150,32,78,5,73,0.286,0.386,0.527,0.913,,,,,,,,,,,,,rizzoan01,data
+2014,MVP,NL,National League,SFG,San Francisco Giants,West,11,Hunter Pence,SFG,34.0,0.0,8%,4.0,162,650,106,180,20,74,13,52,0.277,0.332,0.445,0.777,,,,,,,,,,,,,pencehu01,data
+2014,MVP,NL,National League,CIN,Cincinnati Reds,Central,12,Johnny Cueto,CIN,22.0,0.0,5%,6.6,32,68,3,9,0,3,0,2,0.132,0.157,0.132,0.289,20.0,9.0,2.25,0.96,34.0,34.0,0.0,243.2,169.0,22.0,65.0,242.0,cuetojo01,data
+2014,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,13,Russell Martin,PIT,21.0,0.0,5%,5.7,111,379,45,110,11,67,4,59,0.29,0.402,0.43,0.832,,,,,,,,,,,,,martiru01,data
+2014,MVP,NL,National League,STL,St. Louis Cardinals,Central,14,Matt Holliday,STL,17.0,0.0,4%,3.3,156,574,83,156,20,90,4,74,0.272,0.37,0.441,0.811,,,,,,,,,,,,,hollima01,data
+2014,MVP,NL,National League,STL,St. Louis Cardinals,Central,14,Jhonny Peralta,STL,17.0,0.0,4%,5.8,157,560,61,147,21,75,3,58,0.263,0.336,0.443,0.779,,,,,,,,,,,,,peraljh01,data
+2014,MVP,NL,National League,MIL,Milwaukee Brewers,Central,16,Carlos Gómez,MIL,13.0,0.0,3%,4.7,148,574,95,163,23,73,34,47,0.284,0.356,0.477,0.833,,,,,,,,,,,,,gomezca01,data
+2014,MVP,NL,National League,ATL,Atlanta Braves,East,17,Justin Upton,ATL,10.0,0.0,2%,3.1,154,566,77,153,29,102,8,60,0.27,0.342,0.491,0.833,,,,,,,,,,,,,uptonju01,data
+2014,MVP,NL,National League,WSN,Washington Nationals,East,18,Jayson Werth,WSN,9.0,0.0,2%,4.2,147,534,85,156,16,82,9,83,0.292,0.394,0.455,0.849,,,,,,,,,,,,,werthja01,data
+2014,MVP,NL,National League,LAD,Los Angeles Dodgers,West,19,Yasiel Puig,LAD,8.0,0.0,2%,4.9,148,558,92,165,16,69,11,67,0.296,0.382,0.48,0.863,,,,,,,,,,,,,puigya01,data
+2014,MVP,NL,National League,WSN,Washington Nationals,East,19,Denard Span,WSN,8.0,0.0,2%,4.3,147,610,94,184,5,37,31,50,0.302,0.355,0.416,0.771,,,,,,,,,,,,,spande01,data
+2014,MVP,NL,National League,CIN,Cincinnati Reds,Central,21,Devin Mesoraco,CIN,5.0,0.0,1%,4.9,114,384,54,105,25,80,1,41,0.273,0.359,0.534,0.893,,,,,,,,,,,,,mesorde01,data
+2014,MVP,NL,National League,NYM,New York Mets,East,22,Lucas Duda,NYM,3.0,0.0,1%,3.8,153,514,74,130,30,92,3,69,0.253,0.349,0.481,0.83,,,,,,,,,,,,,dudalu01,data
+2014,MVP,NL,National League,ATL,Atlanta Braves,East,23,Freddie Freeman,ATL,2.0,0.0,0%,3.0,162,607,93,175,18,78,3,90,0.288,0.386,0.461,0.847,,,,,,,,,,,,,freemfr01,data
+2014,MVP,NL,National League,COL,Colorado Rockies,West,23,Justin Morneau,COL,2.0,0.0,0%,3.4,135,502,62,160,17,82,0,34,0.319,0.364,0.496,0.86,,,,,,,,,,,,,morneju01,data
+2014,MVP,NL,National League,LAD,Los Angeles Dodgers,West,25,Dee Strange-Gordon,LAD,1.0,0.0,0%,3.5,148,609,92,176,2,34,64,31,0.289,0.326,0.378,0.704,,,,,,,,,,,,,gordode01,data
+2014,MVP,NL,National League,COL,Colorado Rockies,West,25,Troy Tulowitzki,COL,1.0,0.0,0%,5.7,91,315,71,107,21,52,1,50,0.34,0.432,0.603,1.035,,,,,,,,,,,,,tulowtr01,data
+2015,MVP,AL,American League,TOR,Toronto Blue Jays,East,1,Josh Donaldson,TOR,385.0,23.0,92%,7.4,158,620,122,184,41,123,6,73,0.297,0.371,0.568,0.939,,,,,,,,,,,,,donaljo02,data
+2015,MVP,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mike Trout,LAA,304.0,7.0,72%,9.5,159,575,104,172,41,90,11,92,0.299,0.402,0.59,0.991,,,,,,,,,,,,,troutmi01,data
+2015,MVP,AL,American League,KCR,Kansas City Royals,Central,3,Lorenzo Cain,KCR,225.0,0.0,54%,6.9,140,551,101,169,16,72,28,37,0.307,0.361,0.477,0.838,,,,,,,,,,,,,cainlo01,data
+2015,MVP,AL,American League,BAL,Baltimore Orioles,East,4,Manny Machado,BAL,158.0,0.0,38%,7.3,162,633,102,181,35,86,20,70,0.286,0.359,0.502,0.861,,,,,,,,,,,,,machama01,data
+2015,MVP,AL,American League,HOU,Houston Astros,West,5,Dallas Keuchel,HOU,107.0,0.0,25%,6.6,2,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,20.0,8.0,2.48,1.017,33.0,33.0,0.0,232.0,185.0,17.0,51.0,216.0,keuchda01,data
+2015,MVP,AL,American League,SEA,Seattle Mariners,West,6,Nelson Cruz,SEA,94.0,0.0,22%,5.1,152,590,90,178,44,93,3,59,0.302,0.369,0.566,0.936,,,,,,,,,,,,,cruzne02,data
+2015,MVP,AL,American League,TEX,Texas Rangers,West,7,Adrian Beltré,TEX,83.0,0.0,20%,4.6,143,567,83,163,18,83,1,41,0.287,0.334,0.453,0.788,,,,,,,,,,,,,beltrad01,data
+2015,MVP,AL,American League,TOR,Toronto Blue Jays,East,8,José Bautista,TOR,82.0,0.0,20%,4.8,153,543,108,136,40,114,8,110,0.25,0.377,0.536,0.913,,,,,,,,,,,,,bautijo02,data
+2015,MVP,AL,American League,TOT,,,9,David Price,TOT,62.0,0.0,15%,6.2,3,9,0,0,0,0,0,0,0.0,0.0,0.0,0.0,18.0,5.0,2.45,1.076,32.0,32.0,0.0,220.1,190.0,17.0,47.0,225.0,priceda01,data
+2015,MVP,AL,American League,HOU,Houston Astros,West,10,Jose Altuve,HOU,44.0,0.0,10%,4.0,154,638,86,200,15,66,38,33,0.313,0.353,0.459,0.812,,,,,,,,,,,,,altuvjo01,data
+2015,MVP,AL,American League,DET,Detroit Tigers,Central,11,Miguel Cabrera,DET,40.0,0.0,10%,4.9,119,429,64,145,18,76,1,77,0.338,0.44,0.534,0.974,,,,,,,,,,,,,cabremi01,data
+2015,MVP,AL,American League,TOR,Toronto Blue Jays,East,12,Edwin Encarnación,TOR,38.0,0.0,9%,4.8,146,528,94,146,39,111,3,77,0.277,0.372,0.557,0.929,,,,,,,,,,,,,encared01,data
+2015,MVP,AL,American League,TEX,Texas Rangers,West,13,Prince Fielder,TEX,33.0,0.0,8%,1.8,158,613,78,187,23,98,0,64,0.305,0.378,0.463,0.841,,,,,,,,,,,,,fieldpr01,data
+2015,MVP,AL,American League,BAL,Baltimore Orioles,East,14,Chris Davis,BAL,32.0,0.0,8%,4.9,160,573,100,150,47,117,2,84,0.262,0.361,0.562,0.923,,,,,,,,,,,,,davisch02,data
+2015,MVP,AL,American League,DET,Detroit Tigers,Central,15,J.D. Martinez,DET,18.0,0.0,4%,5.5,158,596,93,168,38,102,3,53,0.282,0.344,0.535,0.879,,,,,,,,,,,,,martijd02,data
+2015,MVP,AL,American League,CLE,Cleveland Indians,Central,16,Jason Kipnis,CLE,17.0,0.0,4%,3.8,141,565,86,171,9,52,12,57,0.303,0.372,0.451,0.823,,,,,,,,,,,,,kipnija01,data
+2015,MVP,AL,American League,TBR,Tampa Bay Rays,East,17,Kevin Kiermaier,TBR,10.0,0.0,2%,6.9,151,505,62,133,10,40,18,24,0.263,0.298,0.42,0.718,,,,,,,,,,,,,kiermke01,data
+2015,MVP,AL,American League,KCR,Kansas City Royals,Central,18,Kendrys Morales,KCR,7.0,0.0,2%,2.6,158,569,81,165,22,106,0,58,0.29,0.362,0.485,0.847,,,,,,,,,,,,,moralke01,data
+2015,MVP,AL,American League,BOS,Boston Red Sox,East,19,Mookie Betts,BOS,4.0,0.0,1%,6.0,145,597,92,174,18,77,21,46,0.291,0.341,0.479,0.82,,,,,,,,,,,,,bettsmo01,data
+2015,MVP,AL,American League,CHW,Chicago White Sox,Central,19,Chris Sale,CHW,4.0,0.0,1%,3.4,3,9,1,1,0,0,0,0,0.111,0.111,0.111,0.222,13.0,11.0,3.41,1.088,31.0,31.0,0.0,208.2,185.0,23.0,42.0,274.0,salech01,data
+2015,MVP,AL,American League,CHW,Chicago White Sox,Central,21,José Abreu,CHW,3.0,0.0,1%,3.4,154,613,88,178,30,101,0,39,0.29,0.347,0.502,0.85,,,,,,,,,,,,,abreujo02,data
+2015,MVP,AL,American League,DET,Detroit Tigers,Central,21,Ian Kinsler,DET,3.0,0.0,1%,5.0,154,624,94,185,11,73,10,43,0.296,0.342,0.428,0.77,,,,,,,,,,,,,kinslia01,data
+2015,MVP,AL,American League,KCR,Kansas City Royals,Central,21,Mike Moustakas,KCR,3.0,0.0,1%,4.0,147,549,73,156,22,82,1,43,0.284,0.348,0.47,0.817,,,,,,,,,,,,,moustmi01,data
+2015,MVP,AL,American League,HOU,Houston Astros,West,24,Carlos Correa,HOU,2.0,0.0,0%,4.7,99,387,52,108,22,68,14,40,0.279,0.345,0.512,0.857,,,,,,,,,,,,,correca01,data
+2015,MVP,AL,American League,KCR,Kansas City Royals,Central,24,Eric Hosmer,KCR,2.0,0.0,0%,4.3,158,599,98,178,18,93,7,61,0.297,0.363,0.459,0.822,,,,,,,,,,,,,hosmeer01,data
+2015,MVP,AL,American League,TOR,Toronto Blue Jays,East,24,Russell Martin,TOR,2.0,0.0,0%,3.0,129,441,76,106,23,77,4,53,0.24,0.329,0.458,0.787,,,,,,,,,,,,,martiru01,data
+2015,MVP,AL,American League,NYY,New York Yankees,East,24,Brian McCann,NYY,2.0,0.0,0%,2.6,135,465,68,108,26,94,0,52,0.232,0.32,0.437,0.756,,,,,,,,,,,,,mccanbr01,data
+2015,MVP,AL,American League,CLE,Cleveland Indians,Central,28,Michael Brantley,CLE,1.0,0.0,0%,3.8,137,529,68,164,15,84,15,60,0.31,0.379,0.48,0.859,,,,,,,,,,,,,brantmi02,data
+2015,MVP,AL,American League,KCR,Kansas City Royals,Central,28,Wade Davis,KCR,1.0,0.0,0%,3.5,6,0,0,0,0,0,0,0,,,,,8.0,1.0,0.94,0.787,69.0,0.0,17.0,67.1,33.0,3.0,20.0,78.0,daviswa01,data
+2015,MVP,AL,American League,MIN,Minnesota Twins,Central,28,Brian Dozier,MIN,1.0,0.0,0%,3.1,157,628,101,148,28,77,12,61,0.236,0.307,0.444,0.751,,,,,,,,,,,,,doziebr01,data
+2015,MVP,AL,American League,BOS,Boston Red Sox,East,28,David Ortiz,BOS,1.0,0.0,0%,3.0,146,528,73,144,37,108,0,77,0.273,0.36,0.553,0.913,,,,,,,,,,,,,ortizda01,data
+2015,MVP,AL,American League,NYY,New York Yankees,East,28,Alex Rodriguez,NYY,1.0,0.0,0%,2.8,151,523,83,131,33,86,4,84,0.25,0.356,0.486,0.842,,,,,,,,,,,,,rodrial01,data
+2015,MVP,AL,American League,NYY,New York Yankees,East,28,Mark Teixeira,NYY,1.0,0.0,0%,3.2,111,392,57,100,31,79,2,59,0.255,0.357,0.548,0.906,,,,,,,,,,,,,teixema01,data
+2015,MVP,NL,National League,WSN,Washington Nationals,East,1,Bryce Harper,WSN,420.0,30.0,100%,9.7,153,521,118,172,42,99,6,124,0.33,0.46,0.649,1.109,,,,,,,,,,,,,harpebr03,data
+2015,MVP,NL,National League,ARI,Arizona Diamondbacks,West,2,Paul Goldschmidt,ARI,234.0,0.0,56%,8.3,159,567,103,182,33,110,21,118,0.321,0.435,0.57,1.005,,,,,,,,,,,,,goldspa01,data
+2015,MVP,NL,National League,CIN,Cincinnati Reds,Central,3,Joey Votto,CIN,175.0,0.0,42%,7.7,158,545,95,171,29,80,11,143,0.314,0.459,0.541,1.0,,,,,,,,,,,,,vottojo01,data
+2015,MVP,NL,National League,CHC,Chicago Cubs,Central,4,Anthony Rizzo,CHC,162.0,0.0,39%,6.4,160,586,94,163,31,101,17,78,0.278,0.387,0.512,0.899,,,,,,,,,,,,,rizzoan01,data
+2015,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,5,Andrew McCutchen,PIT,139.0,0.0,33%,4.9,157,566,91,165,23,96,11,98,0.292,0.401,0.488,0.889,,,,,,,,,,,,,mccutan01,data
+2015,MVP,NL,National League,CHC,Chicago Cubs,Central,6,Jake Arrieta,CHC,134.0,0.0,32%,8.6,30,79,5,12,2,2,0,1,0.152,0.163,0.266,0.428,22.0,6.0,1.77,0.865,33.0,33.0,0.0,229.0,150.0,10.0,48.0,236.0,arrieja01,data
+2015,MVP,NL,National League,LAD,Los Angeles Dodgers,West,7,Zack Greinke,LAD,130.0,0.0,31%,9.5,30,67,8,15,2,3,1,1,0.224,0.232,0.343,0.575,19.0,3.0,1.66,0.844,32.0,32.0,0.0,222.2,148.0,14.0,40.0,200.0,greinza01,data
+2015,MVP,NL,National League,COL,Colorado Rockies,West,8,Nolan Arenado,COL,102.0,0.0,24%,6.3,157,616,97,177,42,130,2,34,0.287,0.323,0.575,0.898,,,,,,,,,,,,,arenano01,data
+2015,MVP,NL,National League,SFG,San Francisco Giants,West,9,Buster Posey,SFG,84.0,0.0,20%,5.9,150,557,74,177,19,95,2,56,0.318,0.379,0.47,0.849,,,,,,,,,,,,,poseybu01,data
+2015,MVP,NL,National League,LAD,Los Angeles Dodgers,West,10,Clayton Kershaw,LAD,49.0,0.0,12%,7.3,31,71,2,9,0,2,0,2,0.127,0.162,0.155,0.317,16.0,7.0,2.13,0.881,33.0,33.0,0.0,232.2,163.0,15.0,42.0,301.0,kershcl01,data
+2015,MVP,NL,National League,CHC,Chicago Cubs,Central,11,Kris Bryant,CHC,34.0,0.0,8%,5.4,151,559,87,154,26,99,13,77,0.275,0.369,0.488,0.858,,,,,,,,,,,,,bryankr01,data
+2015,MVP,NL,National League,STL,St. Louis Cardinals,Central,12,Matt Carpenter,STL,26.0,0.0,6%,4.8,154,574,101,156,28,84,4,81,0.272,0.365,0.505,0.871,,,,,,,,,,,,,carpema01,data
+2015,MVP,NL,National League,NYM,New York Mets,East,13,Yoenis Céspedes,NYM,24.0,0.0,6%,2.0,57,230,39,66,17,44,4,14,0.287,0.337,0.604,0.942,,,,,,,,,,,,,cespeyo01,data
+2015,MVP,NL,National League,ARI,Arizona Diamondbacks,West,14,AJ Pollock,ARI,21.0,0.0,5%,6.8,157,609,111,192,20,76,39,53,0.315,0.367,0.498,0.865,,,,,,,,,,,,,polloaj01,data
+2015,MVP,NL,National League,STL,St. Louis Cardinals,Central,15,Jason Heyward,STL,15.0,0.0,4%,7.0,154,547,79,160,13,60,23,56,0.293,0.359,0.439,0.797,,,,,,,,,,,,,heywaja01,data
+2015,MVP,NL,National League,MIA,Miami Marlins,East,16,Dee Strange-Gordon,MIA,6.0,0.0,1%,4.4,145,615,88,205,4,46,58,25,0.333,0.359,0.418,0.776,,,,,,,,,,,,,gordode01,data
+2015,MVP,NL,National League,STL,St. Louis Cardinals,Central,17,Trevor Rosenthal,STL,5.0,0.0,1%,2.6,64,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2.0,4.0,2.1,1.267,68.0,0.0,48.0,68.2,62.0,3.0,25.0,83.0,rosentr01,data
+2015,MVP,NL,National League,NYM,New York Mets,East,18,Curtis Granderson,NYM,4.0,0.0,1%,5.2,157,580,98,150,26,70,11,91,0.259,0.364,0.457,0.821,,,,,,,,,,,,,grandcu01,data
+2015,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,19,Gerrit Cole,PIT,3.0,0.0,1%,4.5,30,60,5,9,0,2,0,2,0.15,0.177,0.15,0.327,19.0,8.0,2.6,1.091,32.0,32.0,0.0,208.0,183.0,11.0,44.0,202.0,colege01,data
+2015,MVP,NL,National League,LAD,Los Angeles Dodgers,West,19,Adrián González,LAD,3.0,0.0,1%,4.7,156,571,76,157,28,90,0,62,0.275,0.35,0.48,0.83,,,,,,,,,,,,,gonzaad01,data
+2016,MVP,AL,American League,LAA,Los Angeles Angels,West,1,Mike Trout,LAA,356.0,19.0,85%,10.4,159,549,123,173,29,100,30,116,0.315,0.441,0.55,0.991,,,,,,,,,,,,,troutmi01,data
+2016,MVP,AL,American League,BOS,Boston Red Sox,East,2,Mookie Betts,BOS,311.0,9.0,74%,9.8,158,672,122,214,31,113,26,49,0.318,0.363,0.534,0.897,,,,,,,,,,,,,bettsmo01,data
+2016,MVP,AL,American League,HOU,Houston Astros,West,3,Jose Altuve,HOU,227.0,0.0,54%,7.8,161,640,108,216,24,96,30,60,0.338,0.396,0.531,0.928,,,,,,,,,,,,,altuvjo01,data
+2016,MVP,AL,American League,TOR,Toronto Blue Jays,East,4,Josh Donaldson,TOR,200.0,0.0,48%,7.3,155,577,122,164,37,99,7,109,0.284,0.404,0.549,0.953,,,,,,,,,,,,,donaljo02,data
+2016,MVP,AL,American League,BAL,Baltimore Orioles,East,5,Manny Machado,BAL,150.0,0.0,36%,7.4,157,640,105,188,37,96,0,48,0.294,0.343,0.533,0.876,,,,,,,,,,,,,machama01,data
+2016,MVP,AL,American League,BOS,Boston Red Sox,East,6,David Ortiz,BOS,147.0,1.0,35%,5.1,151,537,79,169,38,127,2,80,0.315,0.401,0.62,1.021,,,,,,,,,,,,,ortizda01,data
+2016,MVP,AL,American League,TEX,Texas Rangers,West,7,Adrian Beltré,TEX,135.0,1.0,32%,6.9,153,583,89,175,32,104,1,48,0.3,0.358,0.521,0.879,,,,,,,,,,,,,beltrad01,data
+2016,MVP,AL,American League,SEA,Seattle Mariners,West,8,Robinson Canó,SEA,79.0,0.0,19%,7.3,161,655,107,195,39,103,0,47,0.298,0.35,0.533,0.882,,,,,,,,,,,,,canoro01,data
+2016,MVP,AL,American League,DET,Detroit Tigers,Central,9,Miguel Cabrera,DET,56.0,0.0,13%,4.9,158,595,92,188,38,108,0,75,0.316,0.393,0.563,0.956,,,,,,,,,,,,,cabremi01,data
+2016,MVP,AL,American League,CLE,Cleveland Indians,Central,9,Francisco Lindor,CLE,56.0,0.0,13%,5.2,158,604,99,182,15,78,19,57,0.301,0.358,0.435,0.794,,,,,,,,,,,,,lindofr01,data
+2016,MVP,AL,American League,BAL,Baltimore Orioles,East,11,Zack Britton,BAL,11.0,0.0,3%,4.1,5,0,0,0,0,0,0,0,,,,,2.0,1.0,0.54,0.836,69.0,0.0,47.0,67.0,38.0,1.0,18.0,74.0,brittza01,data
+2016,MVP,AL,American League,SEA,Seattle Mariners,West,12,Kyle Seager,SEA,10.0,0.0,2%,6.9,158,597,89,166,30,99,3,69,0.278,0.359,0.499,0.859,,,,,,,,,,,,,seageky01,data
+2016,MVP,AL,American League,MIN,Minnesota Twins,Central,13,Brian Dozier,MIN,9.0,0.0,2%,5.8,155,615,104,165,42,99,18,61,0.268,0.34,0.546,0.886,,,,,,,,,,,,,doziebr01,data
+2016,MVP,AL,American League,TOR,Toronto Blue Jays,East,14,Edwin Encarnación,TOR,7.0,0.0,2%,3.8,160,601,99,158,42,127,2,87,0.263,0.357,0.529,0.886,,,,,,,,,,,,,encared01,data
+2016,MVP,AL,American League,SEA,Seattle Mariners,West,15,Nelson Cruz,SEA,6.0,0.0,1%,4.9,155,589,96,169,43,105,2,62,0.287,0.36,0.555,0.915,,,,,,,,,,,,,cruzne02,data
+2016,MVP,AL,American League,CHW,Chicago White Sox,Central,16,Chris Sale,CHW,3.0,0.0,1%,4.9,3,6,0,1,0,0,0,0,0.167,0.167,0.167,0.333,17.0,10.0,3.34,1.037,32.0,32.0,0.0,226.2,190.0,27.0,45.0,233.0,salech01,data
+2016,MVP,AL,American League,CLE,Cleveland Indians,Central,17,José Ramírez,CLE,2.0,0.0,0%,4.8,152,565,84,176,11,76,22,44,0.312,0.363,0.462,0.825,,,,,,,,,,,,,ramirjo01,data
+2016,MVP,AL,American League,DET,Detroit Tigers,Central,17,Justin Verlander,DET,2.0,0.0,0%,7.4,2,5,1,1,0,0,0,0,0.2,0.2,0.2,0.4,16.0,9.0,3.04,1.001,34.0,34.0,0.0,227.2,171.0,30.0,57.0,254.0,verlaju01,data
+2016,MVP,AL,American League,CHW,Chicago White Sox,Central,19,Adam Eaton,CHW,1.0,0.0,0%,6.7,157,619,91,176,14,59,14,63,0.284,0.362,0.428,0.79,,,,,,,,,,,,,eatonad02,data
+2016,MVP,AL,American League,CLE,Cleveland Indians,Central,19,Corey Kluber,CLE,1.0,0.0,0%,5.7,3,4,1,1,0,0,0,0,0.25,0.25,0.5,0.75,18.0,9.0,3.14,1.056,32.0,32.0,0.0,215.0,170.0,22.0,57.0,227.0,klubeco01,data
+2016,MVP,AL,American League,TBR,Tampa Bay Rays,East,19,Evan Longoria,TBR,1.0,0.0,0%,4.7,160,633,81,173,36,98,0,42,0.273,0.318,0.521,0.84,,,,,,,,,,,,,longoev01,data
+2016,MVP,NL,National League,CHC,Chicago Cubs,Central,1,Kris Bryant,CHC,415.0,29.0,99%,7.3,155,603,121,176,39,102,8,75,0.292,0.385,0.554,0.939,,,,,,,,,,,,,bryankr01,data
+2016,MVP,NL,National League,WSN,Washington Nationals,East,2,Daniel Murphy,WSN,245.0,1.0,58%,4.7,142,531,88,184,25,104,5,35,0.347,0.39,0.595,0.985,,,,,,,,,,,,,murphda08,data
+2016,MVP,NL,National League,LAD,Los Angeles Dodgers,West,3,Corey Seager,LAD,240.0,0.0,57%,5.3,157,627,105,193,26,72,3,54,0.308,0.365,0.512,0.877,,,,,,,,,,,,,seageco01,data
+2016,MVP,NL,National League,CHC,Chicago Cubs,Central,4,Anthony Rizzo,CHC,202.0,0.0,48%,5.8,155,583,94,170,32,109,3,74,0.292,0.385,0.544,0.928,,,,,,,,,,,,,rizzoan01,data
+2016,MVP,NL,National League,COL,Colorado Rockies,West,5,Nolan Arenado,COL,199.0,0.0,47%,5.7,160,618,116,182,41,133,2,68,0.294,0.362,0.57,0.932,,,,,,,,,,,,,arenano01,data
+2016,MVP,NL,National League,ATL,Atlanta Braves,East,6,Freddie Freeman,ATL,129.0,0.0,31%,6.3,158,589,102,178,34,91,6,89,0.302,0.4,0.569,0.968,,,,,,,,,,,,,freemfr01,data
+2016,MVP,NL,National League,CIN,Cincinnati Reds,Central,7,Joey Votto,CIN,100.0,0.0,24%,4.3,158,556,101,181,29,97,8,108,0.326,0.434,0.55,0.985,,,,,,,,,,,,,vottojo01,data
+2016,MVP,NL,National League,NYM,New York Mets,East,8,Yoenis Céspedes,NYM,45.0,0.0,11%,2.9,132,479,72,134,31,86,3,51,0.28,0.354,0.53,0.884,,,,,,,,,,,,,cespeyo01,data
+2016,MVP,NL,National League,LAD,Los Angeles Dodgers,West,9,Justin Turner,LAD,44.0,0.0,10%,5.1,151,556,79,153,27,90,4,48,0.275,0.339,0.493,0.832,,,,,,,,,,,,,turneju01,data
+2016,MVP,NL,National League,WSN,Washington Nationals,East,10,Max Scherzer,WSN,39.0,0.0,9%,6.4,33,70,4,13,0,12,0,2,0.186,0.208,0.2,0.408,20.0,7.0,2.96,0.968,34.0,34.0,0.0,228.1,165.0,31.0,56.0,284.0,scherma01,data
+2016,MVP,NL,National League,ARI,Arizona Diamondbacks,West,11,Paul Goldschmidt,ARI,18.0,0.0,4%,4.9,158,579,106,172,24,95,32,110,0.297,0.411,0.489,0.899,,,,,,,,,,,,,goldspa01,data
+2016,MVP,NL,National League,SFG,San Francisco Giants,West,12,Brandon Crawford,SFG,15.0,0.0,4%,5.5,155,553,67,152,12,84,7,57,0.275,0.342,0.43,0.772,,,,,,,,,,,,,crawfbr01,data
+2016,MVP,NL,National League,ARI,Arizona Diamondbacks,West,13,Jean Segura,ARI,14.0,0.0,3%,6.6,153,637,102,203,20,64,33,39,0.319,0.368,0.499,0.867,,,,,,,,,,,,,segurje01,data
+2016,MVP,NL,National League,SFG,San Francisco Giants,West,14,Buster Posey,SFG,11.0,0.0,3%,4.7,146,539,82,155,14,80,6,64,0.288,0.362,0.434,0.796,,,,,,,,,,,,,poseybu01,data
+2016,MVP,NL,National League,COL,Colorado Rockies,West,15,DJ LeMahieu,COL,8.0,0.0,2%,5.5,146,552,104,192,11,66,11,66,0.348,0.416,0.495,0.911,,,,,,,,,,,,,lemahdj01,data
+2016,MVP,NL,National League,SFG,San Francisco Giants,West,16,Madison Bumgarner,SFG,7.0,0.0,2%,5.6,35,86,8,16,3,9,0,10,0.186,0.268,0.36,0.629,15.0,9.0,2.74,1.028,34.0,34.0,0.0,226.2,179.0,26.0,54.0,251.0,bumgama01,data
+2016,MVP,NL,National League,NYM,New York Mets,East,17,Jeurys Familia,NYM,6.0,0.0,1%,1.8,74,0,0,0,0,0,0,0,,,,,3.0,4.0,2.55,1.21,78.0,0.0,51.0,77.2,63.0,1.0,31.0,84.0,familje01,data
+2016,MVP,NL,National League,WSN,Washington Nationals,East,17,Wilson Ramos,WSN,6.0,0.0,1%,3.1,131,482,58,148,22,80,0,35,0.307,0.354,0.496,0.85,,,,,,,,,,,,,ramoswi01,data
+2016,MVP,NL,National League,CHC,Chicago Cubs,Central,19,Addison Russell,CHC,5.0,0.0,1%,3.9,151,525,67,125,21,95,5,55,0.238,0.321,0.417,0.738,,,,,,,,,,,,,russead02,data
+2016,MVP,NL,National League,NYM,New York Mets,East,19,Noah Syndergaard,NYM,5.0,0.0,1%,5.7,29,58,6,11,3,6,0,7,0.19,0.277,0.397,0.673,14.0,9.0,2.6,1.149,31.0,30.0,0.0,183.2,168.0,11.0,43.0,218.0,syndeno01,data
+2016,MVP,NL,National League,MIA,Miami Marlins,East,19,Christian Yelich,MIA,5.0,0.0,1%,4.9,155,578,78,172,21,98,9,72,0.298,0.376,0.483,0.859,,,,,,,,,,,,,yelicch01,data
+2016,MVP,NL,National League,LAD,Los Angeles Dodgers,West,22,Yasmani Grandal,LAD,4.0,0.0,1%,3.0,126,390,49,89,27,72,1,64,0.228,0.339,0.477,0.816,,,,,,,,,,,,,grandya01,data
+2016,MVP,NL,National League,MIL,Milwaukee Brewers,Central,23,Ryan Braun,MIL,2.0,0.0,0%,4.4,135,511,80,156,30,91,16,46,0.305,0.365,0.538,0.903,,,,,,,,,,,,,braunry02,data
+2016,MVP,NL,National League,CHC,Chicago Cubs,Central,23,Kyle Hendricks,CHC,2.0,0.0,0%,5.2,30,58,1,8,0,2,0,1,0.138,0.167,0.138,0.305,16.0,8.0,2.13,0.979,31.0,30.0,0.0,190.0,142.0,15.0,44.0,170.0,hendrky01,data
+2016,MVP,NL,National League,STL,St. Louis Cardinals,Central,23,Yadier Molina,STL,2.0,0.0,0%,2.9,147,534,56,164,8,58,3,39,0.307,0.36,0.427,0.787,,,,,,,,,,,,,molinya01,data
+2016,MVP,NL,National League,COL,Colorado Rockies,West,26,Charlie Blackmon,COL,1.0,0.0,0%,4.6,143,578,111,187,29,82,17,43,0.324,0.381,0.552,0.933,,,,,,,,,,,,,blackch02,data
+2016,MVP,NL,National League,SFG,San Francisco Giants,West,26,Johnny Cueto,SFG,1.0,0.0,0%,5.2,31,70,1,8,0,5,0,2,0.114,0.137,0.114,0.251,18.0,5.0,2.79,1.093,32.0,32.0,0.0,219.2,195.0,15.0,45.0,198.0,cuetojo01,data
+2017,MVP,AL,American League,HOU,Houston Astros,West,1,Jose Altuve,HOU,405.0,27.0,96%,8.1,153,590,112,204,24,81,32,58,0.346,0.41,0.547,0.957,,,,,,,,,,,,,altuvjo01,data
+2017,MVP,AL,American League,NYY,New York Yankees,East,2,Aaron Judge,NYY,279.0,2.0,66%,8.1,155,542,128,154,52,114,9,127,0.284,0.422,0.627,1.049,,,,,,,,,,,,,judgeaa01,data
+2017,MVP,AL,American League,CLE,Cleveland Indians,Central,3,José Ramírez,CLE,237.0,1.0,56%,6.9,152,585,107,186,29,83,17,52,0.318,0.374,0.583,0.957,,,,,,,,,,,,,ramirjo01,data
+2017,MVP,AL,American League,LAA,Los Angeles Angels,West,4,Mike Trout,LAA,197.0,0.0,47%,6.9,114,402,92,123,33,72,22,94,0.306,0.442,0.629,1.071,,,,,,,,,,,,,troutmi01,data
+2017,MVP,AL,American League,CLE,Cleveland Indians,Central,5,Francisco Lindor,CLE,143.0,0.0,34%,5.7,159,651,99,178,33,89,15,60,0.273,0.337,0.505,0.842,,,,,,,,,,,,,lindofr01,data
+2017,MVP,AL,American League,BOS,Boston Red Sox,East,6,Mookie Betts,BOS,110.0,0.0,26%,6.5,153,628,101,166,24,102,26,77,0.264,0.344,0.459,0.803,,,,,,,,,,,,,bettsmo01,data
+2017,MVP,AL,American League,CLE,Cleveland Indians,Central,7,Corey Kluber,CLE,101.0,0.0,24%,7.9,1,2,0,1,0,0,0,0,0.5,0.5,0.5,1.0,18.0,4.0,2.25,0.869,29.0,29.0,0.0,203.2,141.0,21.0,36.0,265.0,klubeco01,data
+2017,MVP,AL,American League,LAA,Los Angeles Angels,West,8,Andrelton Simmons,LAA,60.0,0.0,14%,8.0,158,589,77,164,14,69,19,47,0.278,0.331,0.421,0.752,,,,,,,,,,,,,simmoan01,data
+2017,MVP,AL,American League,BOS,Boston Red Sox,East,9,Chris Sale,BOS,56.0,0.0,13%,5.9,1,3,0,1,0,0,0,0,0.333,0.333,0.667,1.0,17.0,8.0,2.9,0.97,32.0,32.0,0.0,214.1,165.0,24.0,43.0,308.0,salech01,data
+2017,MVP,AL,American League,SEA,Seattle Mariners,West,10,Nelson Cruz,SEA,44.0,0.0,10%,4.2,155,556,91,160,39,119,1,70,0.288,0.375,0.549,0.924,,,,,,,,,,,,,cruzne02,data
+2017,MVP,AL,American League,MIN,Minnesota Twins,Central,11,Brian Dozier,MIN,25.0,0.0,6%,4.8,152,617,106,167,34,93,16,78,0.271,0.359,0.498,0.856,,,,,,,,,,,,,doziebr01,data
+2017,MVP,AL,American League,BAL,Baltimore Orioles,East,12,Jonathan Schoop,BAL,19.0,0.0,5%,6.1,160,622,92,182,32,105,1,35,0.293,0.338,0.503,0.841,,,,,,,,,,,,,schoojo01,data
+2017,MVP,AL,American League,HOU,Houston Astros,West,13,George Springer,HOU,17.0,0.0,4%,5.1,140,548,112,155,34,85,5,64,0.283,0.367,0.522,0.889,,,,,,,,,,,,,springe01,data
+2017,MVP,AL,American League,CHW,Chicago White Sox,Central,14,José Abreu,CHW,16.0,0.0,4%,4.8,156,621,95,189,33,102,3,35,0.304,0.354,0.552,0.906,,,,,,,,,,,,,abreujo02,data
+2017,MVP,AL,American League,KCR,Kansas City Royals,Central,14,Eric Hosmer,KCR,16.0,0.0,4%,4.4,162,603,98,192,25,94,6,66,0.318,0.385,0.498,0.882,,,,,,,,,,,,,hosmeer01,data
+2017,MVP,AL,American League,TOT,,,16,Justin Upton,TOT,12.0,0.0,3%,5.6,152,557,100,152,35,109,14,74,0.273,0.361,0.54,0.901,,,,,,,,,,,,,uptonju01,data
+2017,MVP,AL,American League,HOU,Houston Astros,West,17,Carlos Correa,HOU,9.0,0.0,2%,6.7,109,422,82,133,24,84,2,53,0.315,0.391,0.55,0.941,,,,,,,,,,,,,correca01,data
+2017,MVP,AL,American League,MIN,Minnesota Twins,Central,18,Byron Buxton,MIN,7.0,0.0,2%,5.0,140,462,69,117,16,51,29,38,0.253,0.314,0.413,0.728,,,,,,,,,,,,,buxtoby01,data
+2017,MVP,AL,American League,HOU,Houston Astros,West,19,Marwin González,HOU,6.0,0.0,1%,4.1,134,455,67,138,23,90,8,49,0.303,0.377,0.53,0.907,,,,,,,,,,,,,gonzama01,data
+2017,MVP,AL,American League,CLE,Cleveland Indians,Central,20,Edwin Encarnación,CLE,4.0,0.0,1%,2.8,157,554,96,143,38,107,2,104,0.258,0.377,0.504,0.881,,,,,,,,,,,,,encared01,data
+2017,MVP,AL,American League,NYY,New York Yankees,East,20,Didi Gregorius,NYY,4.0,0.0,1%,4.2,136,534,73,153,25,87,3,25,0.287,0.318,0.478,0.796,,,,,,,,,,,,,gregodi01,data
+2017,MVP,AL,American League,OAK,Oakland Athletics,West,22,Khris Davis,OAK,1.0,0.0,0%,2.8,153,566,91,140,43,110,4,73,0.247,0.336,0.528,0.864,,,,,,,,,,,,,daviskh01,data
+2017,MVP,AL,American League,TOR,Toronto Blue Jays,East,22,Josh Donaldson,TOR,1.0,0.0,0%,4.6,113,415,65,112,33,78,2,76,0.27,0.385,0.559,0.944,,,,,,,,,,,,,donaljo02,data
+2017,MVP,AL,American League,NYY,New York Yankees,East,22,Gary Sánchez,NYY,1.0,0.0,0%,4.0,122,471,79,131,33,90,2,40,0.278,0.345,0.531,0.876,,,,,,,,,,,,,sanchga02,data
+2017,MVP,NL,National League,MIA,Miami Marlins,East,1,Giancarlo Stanton,MIA,302.0,10.0,72%,8.1,159,597,123,168,59,132,2,85,0.281,0.376,0.631,1.007,,,,,,,,,,,,,stantmi03,data
+2017,MVP,NL,National League,CIN,Cincinnati Reds,Central,2,Joey Votto,CIN,300.0,10.0,71%,7.9,162,559,106,179,36,100,5,134,0.32,0.454,0.578,1.032,,,,,,,,,,,,,vottojo01,data
+2017,MVP,NL,National League,ARI,Arizona Diamondbacks,West,3,Paul Goldschmidt,ARI,239.0,4.0,57%,6.1,155,558,117,166,36,120,18,94,0.297,0.404,0.563,0.966,,,,,,,,,,,,,goldspa01,data
+2017,MVP,NL,National League,COL,Colorado Rockies,West,4,Nolan Arenado,COL,229.0,2.0,55%,6.6,159,606,100,187,37,130,3,62,0.309,0.373,0.586,0.959,,,,,,,,,,,,,arenano01,data
+2017,MVP,NL,National League,COL,Colorado Rockies,West,5,Charlie Blackmon,COL,205.0,3.0,49%,5.5,159,644,137,213,37,104,14,65,0.331,0.399,0.601,1.0,,,,,,,,,,,,,blackch02,data
+2017,MVP,NL,National League,WSN,Washington Nationals,East,6,Anthony Rendon,WSN,141.0,0.0,34%,6.1,147,508,81,153,25,100,7,84,0.301,0.403,0.533,0.937,,,,,,,,,,,,,rendoan01,data
+2017,MVP,NL,National League,CHC,Chicago Cubs,Central,7,Kris Bryant,CHC,132.0,1.0,31%,5.7,151,549,111,162,29,73,7,95,0.295,0.409,0.537,0.946,,,,,,,,,,,,,bryankr01,data
+2017,MVP,NL,National League,LAD,Los Angeles Dodgers,West,8,Justin Turner,LAD,43.0,0.0,10%,5.8,130,457,72,147,21,71,7,59,0.322,0.415,0.53,0.945,,,,,,,,,,,,,turneju01,data
+2017,MVP,NL,National League,LAD,Los Angeles Dodgers,West,9,Cody Bellinger,LAD,38.0,0.0,9%,4.0,132,480,87,128,39,97,10,64,0.267,0.352,0.581,0.933,,,,,,,,,,,,,bellico01,data
+2017,MVP,NL,National League,WSN,Washington Nationals,East,10,Max Scherzer,WSN,34.0,0.0,8%,7.5,30,62,4,10,1,5,0,4,0.161,0.212,0.21,0.422,16.0,6.0,2.51,0.902,31.0,31.0,0.0,200.2,126.0,22.0,55.0,268.0,scherma01,data
+2017,MVP,NL,National League,STL,St. Louis Cardinals,Central,11,Tommy Pham,STL,24.0,0.0,6%,6.3,128,444,95,136,23,73,25,71,0.306,0.411,0.52,0.931,,,,,,,,,,,,,phamth01,data
+2017,MVP,NL,National League,WSN,Washington Nationals,East,12,Bryce Harper,WSN,21.0,0.0,5%,4.7,111,420,95,134,29,87,4,68,0.319,0.413,0.595,1.008,,,,,,,,,,,,,harpebr03,data
+2017,MVP,NL,National League,CHC,Chicago Cubs,Central,13,Anthony Rizzo,CHC,17.0,0.0,4%,4.7,157,572,99,156,32,109,10,91,0.273,0.392,0.507,0.899,,,,,,,,,,,,,rizzoan01,data
+2017,MVP,NL,National League,ARI,Arizona Diamondbacks,West,14,J.D. Martinez,ARI,11.0,0.0,3%,2.4,62,232,47,70,29,65,2,24,0.302,0.366,0.741,1.107,,,,,,,,,,,,,martijd02,data
+2017,MVP,NL,National League,LAD,Los Angeles Dodgers,West,15,Kenley Jansen,LAD,8.0,0.0,2%,3.1,59,4,0,2,0,1,0,0,0.5,0.5,0.75,1.25,5.0,0.0,1.32,0.746,65.0,0.0,41.0,68.1,44.0,5.0,7.0,109.0,janseke01,data
+2017,MVP,NL,National League,MIA,Miami Marlins,East,15,Marcell Ozuna,MIA,8.0,0.0,2%,5.7,159,613,93,191,37,124,1,64,0.312,0.376,0.548,0.924,,,,,,,,,,,,,ozunama01,data
+2017,MVP,NL,National League,LAD,Los Angeles Dodgers,West,17,Clayton Kershaw,LAD,6.0,0.0,1%,5.3,24,49,6,9,0,2,0,4,0.184,0.245,0.204,0.449,18.0,4.0,2.31,0.949,27.0,27.0,0.0,175.0,136.0,23.0,30.0,202.0,kershcl01,data
+2017,MVP,NL,National League,LAD,Los Angeles Dodgers,West,17,Corey Seager,LAD,6.0,0.0,1%,5.2,145,539,85,159,22,77,4,67,0.295,0.375,0.479,0.854,,,,,,,,,,,,,seageco01,data
+2017,MVP,NL,National League,WSN,Washington Nationals,East,19,Daniel Murphy,WSN,3.0,0.0,1%,3.2,144,534,94,172,23,93,2,52,0.322,0.384,0.543,0.928,,,,,,,,,,,,,murphda08,data
+2017,MVP,NL,National League,ARI,Arizona Diamondbacks,West,20,Archie Bradley,ARI,1.0,0.0,0%,3.6,60,4,0,1,0,1,0,0,0.25,0.25,0.25,0.5,3.0,3.0,1.73,1.041,63.0,0.0,1.0,73.0,55.0,4.0,21.0,79.0,bradlar01,data
+2017,MVP,NL,National League,ARI,Arizona Diamondbacks,West,20,Zack Greinke,ARI,1.0,0.0,0%,6.1,30,62,4,13,0,4,0,2,0.21,0.246,0.274,0.52,17.0,7.0,3.2,1.072,32.0,32.0,0.0,202.1,172.0,25.0,45.0,215.0,greinza01,data
+2017,MVP,NL,National League,WSN,Washington Nationals,East,20,Ryan Zimmerman,WSN,1.0,0.0,0%,2.7,144,524,90,159,36,108,1,44,0.303,0.358,0.573,0.93,,,,,,,,,,,,,zimmery01,data
+2018,MVP,AL,American League,BOS,Boston Red Sox,East,1,Mookie Betts,BOS,410.0,28.0,98%,10.7,136,520,129,180,32,80,30,81,0.346,0.438,0.64,1.078,,,,,,,,,,,,,bettsmo01,data
+2018,MVP,AL,American League,LAA,Los Angeles Angels,West,2,Mike Trout,LAA,265.0,1.0,63%,9.9,140,471,101,147,39,79,24,122,0.312,0.46,0.628,1.088,,,,,,,,,,,,,troutmi01,data
+2018,MVP,AL,American League,CLE,Cleveland Indians,Central,3,José Ramírez,CLE,208.0,0.0,50%,7.6,157,578,110,156,39,105,34,106,0.27,0.387,0.552,0.939,,,,,,,,,,,,,ramirjo01,data
+2018,MVP,AL,American League,BOS,Boston Red Sox,East,4,J.D. Martinez,BOS,198.0,1.0,47%,6.7,150,569,111,188,43,130,6,69,0.33,0.402,0.629,1.031,,,,,,,,,,,,,martijd02,data
+2018,MVP,AL,American League,HOU,Houston Astros,West,5,Alex Bregman,HOU,192.0,0.0,46%,7.6,157,594,105,170,31,103,10,96,0.286,0.394,0.532,0.926,,,,,,,,,,,,,bregmal01,data
+2018,MVP,AL,American League,CLE,Cleveland Indians,Central,6,Francisco Lindor,CLE,169.0,0.0,40%,7.3,158,661,129,183,38,92,25,70,0.277,0.352,0.519,0.871,,,,,,,,,,,,,lindofr01,data
+2018,MVP,AL,American League,OAK,Oakland Athletics,West,7,Matt Chapman,OAK,141.0,0.0,34%,7.4,145,547,100,152,24,68,1,58,0.278,0.356,0.508,0.864,,,,,,,,,,,,,chapmma01,data
+2018,MVP,AL,American League,OAK,Oakland Athletics,West,8,Khris Davis,OAK,41.0,0.0,10%,2.8,151,576,98,142,48,123,0,59,0.247,0.326,0.549,0.874,,,,,,,,,,,,,daviskh01,data
+2018,MVP,AL,American League,TBR,Tampa Bay Rays,East,9,Blake Snell,TBR,38.0,0.0,9%,7.2,1,1,0,0,0,0,0,1,0.0,0.667,0.0,0.667,21.0,5.0,1.89,0.974,31.0,31.0,0.0,180.2,112.0,16.0,64.0,221.0,snellbl01,data
+2018,MVP,AL,American League,HOU,Houston Astros,West,10,Justin Verlander,HOU,26.0,0.0,6%,6.3,2,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,16.0,9.0,2.52,0.902,34.0,34.0,0.0,214.0,156.0,28.0,37.0,290.0,verlaju01,data
+2018,MVP,AL,American League,SEA,Seattle Mariners,West,11,Mitch Haniger,SEA,16.0,0.0,4%,6.5,157,596,90,170,26,93,8,70,0.285,0.366,0.493,0.859,,,,,,,,,,,,,hanigmi01,data
+2018,MVP,AL,American League,NYY,New York Yankees,East,12,Aaron Judge,NYY,10.0,0.0,2%,6.0,112,413,77,115,27,67,6,76,0.278,0.392,0.528,0.919,,,,,,,,,,,,,judgeaa01,data
+2018,MVP,AL,American League,HOU,Houston Astros,West,13,Jose Altuve,HOU,9.0,0.0,2%,5.1,137,534,84,169,13,61,17,55,0.316,0.386,0.451,0.837,,,,,,,,,,,,,altuvjo01,data
+2018,MVP,AL,American League,BOS,Boston Red Sox,East,13,Xander Bogaerts,BOS,9.0,0.0,2%,4.9,136,513,72,148,23,103,8,55,0.288,0.36,0.522,0.883,,,,,,,,,,,,,bogaexa01,data
+2018,MVP,AL,American League,LAA,Los Angeles Angels,West,15,Andrelton Simmons,LAA,7.0,0.0,2%,5.5,146,554,68,162,11,75,10,35,0.292,0.337,0.417,0.754,,,,,,,,,,,,,simmoan01,data
+2018,MVP,AL,American League,OAK,Oakland Athletics,West,15,Blake Treinen,OAK,7.0,0.0,2%,4.4,3,0,0,0,0,0,0,0,,,,,9.0,2.0,0.78,0.834,68.0,0.0,38.0,80.1,46.0,2.0,21.0,100.0,treinbl01,data
+2018,MVP,AL,American League,KCR,Kansas City Royals,Central,17,Whit Merrifield,KCR,6.0,0.0,1%,4.5,158,632,88,192,12,60,45,61,0.304,0.367,0.438,0.806,,,,,,,,,,,,,merriwh01,data
+2018,MVP,AL,American League,SEA,Seattle Mariners,West,18,Edwin Díaz,SEA,5.0,0.0,1%,3.1,4,0,0,0,0,0,0,0,,,,,0.0,4.0,1.96,0.791,73.0,0.0,57.0,73.1,41.0,5.0,17.0,124.0,diazed04,data
+2018,MVP,AL,American League,NYY,New York Yankees,East,19,Giancarlo Stanton,NYY,4.0,0.0,1%,4.4,158,617,102,164,38,100,5,70,0.266,0.343,0.509,0.852,,,,,,,,,,,,,stantmi03,data
+2018,MVP,AL,American League,NYY,New York Yankees,East,20,Didi Gregorius,NYY,3.0,0.0,1%,5.1,134,504,89,135,27,86,10,48,0.268,0.335,0.494,0.829,,,,,,,,,,,,,gregodi01,data
+2018,MVP,AL,American League,OAK,Oakland Athletics,West,20,Jed Lowrie,OAK,3.0,0.0,1%,4.0,157,596,78,159,23,99,0,78,0.267,0.353,0.448,0.801,,,,,,,,,,,,,lowrije01,data
+2018,MVP,AL,American League,CLE,Cleveland Indians,Central,22,Trevor Bauer,CLE,1.0,0.0,0%,6.0,1,3,1,0,0,0,0,0,0.0,0.0,0.0,0.0,12.0,6.0,2.21,1.089,28.0,27.0,1.0,175.1,134.0,9.0,57.0,221.0,bauertr01,data
+2018,MVP,AL,American League,NYY,New York Yankees,East,22,Aaron Hicks,NYY,1.0,0.0,0%,4.3,137,480,90,119,27,79,11,90,0.248,0.366,0.467,0.833,,,,,,,,,,,,,hicksaa01,data
+2018,MVP,AL,American League,BOS,Boston Red Sox,East,22,Chris Sale,BOS,1.0,0.0,0%,6.4,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12.0,4.0,2.11,0.861,27.0,27.0,0.0,158.0,102.0,11.0,34.0,237.0,salech01,data
+2018,MVP,NL,National League,MIL,Milwaukee Brewers,Central,1,Christian Yelich,MIL,415.0,29.0,99%,7.3,147,574,118,187,36,110,22,68,0.326,0.402,0.598,1.0,,,,,,,,,,,,,yelicch01,data
+2018,MVP,NL,National League,CHC,Chicago Cubs,Central,2,Javier Báez,CHC,250.0,0.0,60%,6.8,160,606,101,176,34,111,21,29,0.29,0.326,0.554,0.881,,,,,,,,,,,,,baezja01,data
+2018,MVP,NL,National League,COL,Colorado Rockies,West,3,Nolan Arenado,COL,203.0,0.0,48%,6.3,156,590,104,175,38,110,2,73,0.297,0.374,0.561,0.935,,,,,,,,,,,,,arenano01,data
+2018,MVP,NL,National League,ATL,Atlanta Braves,East,4,Freddie Freeman,ATL,174.0,0.0,41%,5.5,162,618,94,191,23,98,10,76,0.309,0.388,0.505,0.892,,,,,,,,,,,,,freemfr01,data
+2018,MVP,NL,National League,NYM,New York Mets,East,5,Jacob deGrom,NYM,141.0,1.0,34%,9.9,30,67,1,11,0,5,0,4,0.164,0.211,0.179,0.39,10.0,9.0,1.7,0.912,32.0,32.0,0.0,217.0,152.0,10.0,46.0,269.0,degroja01,data
+2018,MVP,NL,National League,ARI,Arizona Diamondbacks,West,6,Paul Goldschmidt,ARI,115.0,0.0,27%,5.8,158,593,95,172,33,83,7,90,0.29,0.389,0.533,0.922,,,,,,,,,,,,,goldspa01,data
+2018,MVP,NL,National League,MIL,Milwaukee Brewers,Central,7,Lorenzo Cain,MIL,109.0,0.0,26%,6.8,141,539,90,166,10,38,30,71,0.308,0.395,0.417,0.813,,,,,,,,,,,,,cainlo01,data
+2018,MVP,NL,National League,COL,Colorado Rockies,West,8,Trevor Story,COL,108.0,0.0,26%,6.3,157,598,88,174,37,108,27,47,0.291,0.348,0.567,0.914,,,,,,,,,,,,,storytr01,data
+2018,MVP,NL,National League,STL,St. Louis Cardinals,Central,9,Matt Carpenter,STL,105.0,0.0,25%,4.6,156,564,111,145,36,81,4,102,0.257,0.374,0.523,0.897,,,,,,,,,,,,,carpema01,data
+2018,MVP,NL,National League,WSN,Washington Nationals,East,10,Max Scherzer,WSN,59.0,0.0,14%,8.7,32,70,8,17,0,6,1,1,0.243,0.274,0.271,0.545,18.0,7.0,2.53,0.911,33.0,33.0,0.0,220.2,150.0,23.0,51.0,300.0,scherma01,data
+2018,MVP,NL,National League,WSN,Washington Nationals,East,11,Anthony Rendon,WSN,21.0,0.0,5%,5.2,136,529,88,163,24,92,2,55,0.308,0.374,0.535,0.909,,,,,,,,,,,,,rendoan01,data
+2018,MVP,NL,National League,ATL,Atlanta Braves,East,12,Ronald Acuña Jr.,ATL,19.0,0.0,5%,3.9,111,433,78,127,26,64,16,45,0.293,0.366,0.552,0.917,,,,,,,,,,,,,acunaro01,data
+2018,MVP,NL,National League,PHI,Philadelphia Phillies,East,13,Aaron Nola,PHI,16.0,0.0,4%,9.2,32,62,0,3,0,4,0,1,0.048,0.063,0.065,0.128,17.0,6.0,2.37,0.975,33.0,33.0,0.0,212.1,149.0,17.0,58.0,224.0,nolaaa01,data
+2018,MVP,NL,National League,LAD,Los Angeles Dodgers,West,14,Justin Turner,LAD,10.0,0.0,2%,4.9,103,365,62,114,14,52,2,47,0.312,0.406,0.518,0.924,,,,,,,,,,,,,turneju01,data
+2018,MVP,NL,National League,LAD,Los Angeles Dodgers,West,15,Max Muncy,LAD,8.0,0.0,2%,4.3,137,395,75,104,35,79,3,79,0.263,0.391,0.582,0.973,,,,,,,,,,,,,muncyma01,data
+2018,MVP,NL,National League,MIL,Milwaukee Brewers,Central,16,Jesús Aguilar,MIL,7.0,0.0,2%,3.3,149,492,80,135,35,108,0,58,0.274,0.352,0.539,0.89,,,,,,,,,,,,,aguilje01,data
+2018,MVP,NL,National League,CHC,Chicago Cubs,Central,17,Anthony Rizzo,CHC,6.0,0.0,1%,3.1,153,566,74,160,25,101,6,70,0.283,0.376,0.47,0.846,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,rizzoan01,data
+2018,MVP,NL,National League,ATL,Atlanta Braves,East,18,Nick Markakis,ATL,2.0,0.0,0%,2.6,162,623,78,185,14,93,1,72,0.297,0.366,0.44,0.806,,,,,,,,,,,,,markani01,data
+2018,MVP,NL,National League,CIN,Cincinnati Reds,Central,18,Eugenio Suárez,CIN,2.0,0.0,0%,3.8,143,527,79,149,34,104,1,64,0.283,0.366,0.526,0.892,,,,,,,,,,,,,suareeu01,data
+2019,MVP,AL,American League,LAA,Los Angeles Angels,West,1,Mike Trout,LAA,355.0,17.0,85%,7.9,134,470,110,137,45,104,11,110,0.291,0.438,0.645,1.083,,,,,,,,,,,,,troutmi01,data
+2019,MVP,AL,American League,HOU,Houston Astros,West,2,Alex Bregman,HOU,335.0,13.0,80%,8.9,156,554,122,164,41,112,5,119,0.296,0.423,0.592,1.015,,,,,,,,,,,,,bregmal01,data
+2019,MVP,AL,American League,OAK,Oakland Athletics,West,3,Marcus Semien,OAK,228.0,0.0,54%,8.4,162,657,123,187,33,92,10,87,0.285,0.369,0.522,0.892,,,,,,,,,,,,,semiema01,data
+2019,MVP,AL,American League,NYY,New York Yankees,East,4,DJ LeMahieu,NYY,178.0,0.0,42%,5.6,145,602,109,197,26,102,5,46,0.327,0.375,0.518,0.893,,,,,,,,,,,,,lemahdj01,data
+2019,MVP,AL,American League,BOS,Boston Red Sox,East,5,Xander Bogaerts,BOS,147.0,0.0,35%,6.3,155,614,110,190,33,117,4,76,0.309,0.384,0.555,0.939,,,,,,,,,,,,,bogaexa01,data
+2019,MVP,AL,American League,OAK,Oakland Athletics,West,6,Matt Chapman,OAK,89.0,0.0,21%,7.3,156,583,102,145,36,91,1,73,0.249,0.342,0.506,0.848,,,,,,,,,,,,,chapmma01,data
+2019,MVP,AL,American League,HOU,Houston Astros,West,7,George Springer,HOU,69.0,0.0,16%,6.5,122,479,96,140,39,96,6,67,0.292,0.383,0.591,0.974,,,,,,,,,,,,,springe01,data
+2019,MVP,AL,American League,BOS,Boston Red Sox,East,8,Mookie Betts,BOS,67.0,0.0,16%,7.2,150,597,135,176,29,80,16,97,0.295,0.391,0.524,0.915,,,,,,,,,,,,,bettsmo01,data
+2019,MVP,AL,American League,MIN,Minnesota Twins,Central,9,Nelson Cruz,MIN,62.0,0.0,15%,4.4,120,454,81,141,41,108,0,56,0.311,0.392,0.639,1.031,,,,,,,,,,,,,cruzne02,data
+2019,MVP,AL,American League,HOU,Houston Astros,West,10,Gerrit Cole,HOU,61.0,0.0,15%,6.5,3,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,20.0,5.0,2.5,0.895,33.0,33.0,0.0,212.1,142.0,29.0,48.0,326.0,colege01,data
+2019,MVP,AL,American League,HOU,Houston Astros,West,11,Justin Verlander,HOU,56.0,0.0,13%,7.3,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,21.0,6.0,2.58,0.803,34.0,34.0,0.0,223.0,137.0,36.0,42.0,300.0,verlaju01,data
+2019,MVP,AL,American League,BOS,Boston Red Sox,East,12,Rafael Devers,BOS,40.0,0.0,10%,5.4,156,647,129,201,32,115,8,48,0.311,0.361,0.555,0.916,,,,,,,,,,,,,deverra01,data
+2019,MVP,AL,American League,MIN,Minnesota Twins,Central,13,Jorge Polanco,MIN,20.0,0.0,5%,4.6,153,631,107,186,22,79,4,60,0.295,0.356,0.485,0.841,,,,,,,,,,,,,polanjo01,data
+2019,MVP,AL,American League,TBR,Tampa Bay Rays,East,14,Austin Meadows,TBR,15.0,0.0,4%,4.0,138,530,83,154,33,89,12,54,0.291,0.364,0.558,0.922,,,,,,,,,,,,,meadoau01,data
+2019,MVP,AL,American League,CLE,Cleveland Indians,Central,15,Francisco Lindor,CLE,13.0,0.0,3%,4.8,143,598,101,170,32,74,22,46,0.284,0.335,0.518,0.854,,,,,,,,,,,,,lindofr01,data
+2019,MVP,AL,American League,CLE,Cleveland Indians,Central,16,Carlos Santana,CLE,9.0,0.0,2%,4.7,158,573,110,161,34,93,4,108,0.281,0.397,0.515,0.911,,,,,,,,,,,,,santaca01,data
+2019,MVP,AL,American League,NYY,New York Yankees,East,17,Gleyber Torres,NYY,8.0,0.0,2%,2.9,144,546,96,152,38,90,5,48,0.278,0.337,0.535,0.871,,,,,,,,,,,,,torregl01,data
+2019,MVP,AL,American League,MIN,Minnesota Twins,Central,18,Eddie Rosario,MIN,6.0,0.0,1%,1.6,137,562,91,155,32,109,3,22,0.276,0.3,0.5,0.8,,,,,,,,,,,,,rosared01,data
+2019,MVP,AL,American League,CHW,Chicago White Sox,Central,19,José Abreu,CHW,5.0,0.0,1%,2.3,159,634,85,180,33,123,2,36,0.284,0.33,0.503,0.834,,,,,,,,,,,,,abreujo02,data
+2019,MVP,AL,American League,MIN,Minnesota Twins,Central,20,Max Kepler,MIN,2.0,0.0,0%,4.0,134,524,98,132,36,90,1,60,0.252,0.336,0.519,0.855,,,,,,,,,,,,,keplema01,data
+2019,MVP,AL,American League,BOS,Boston Red Sox,East,21,J.D. Martinez,BOS,1.0,0.0,0%,3.5,146,575,98,175,36,105,2,72,0.304,0.383,0.557,0.939,,,,,,,,,,,,,martijd02,data
+2019,MVP,AL,American League,CHW,Chicago White Sox,Central,21,Yoán Moncada,CHW,1.0,0.0,0%,5.1,132,511,83,161,25,79,10,40,0.315,0.367,0.548,0.915,,,,,,,,,,,,,moncayo01,data
+2019,MVP,AL,American League,TBR,Tampa Bay Rays,East,21,Charlie Morton,TBR,1.0,0.0,0%,4.9,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16.0,6.0,3.05,1.084,33.0,33.0,0.0,194.2,154.0,15.0,57.0,240.0,mortoch02,data
+2019,MVP,AL,American League,OAK,Oakland Athletics,West,21,Matt Olson,OAK,1.0,0.0,0%,5.1,127,483,73,129,36,91,0,51,0.267,0.351,0.545,0.896,,,,,,,,,,,,,olsonma02,data
+2019,MVP,AL,American League,KCR,Kansas City Royals,Central,21,Jorge Soler,KCR,1.0,0.0,0%,3.5,162,589,95,156,48,117,3,73,0.265,0.354,0.569,0.922,,,,,,,,,,,,,solerjo01,data
+2019,MVP,NL,National League,LAD,Los Angeles Dodgers,West,1,Cody Bellinger,LAD,362.0,19.0,86%,8.7,156,558,121,170,47,115,15,95,0.305,0.406,0.629,1.035,,,,,,,,,,,,,bellico01,data
+2019,MVP,NL,National League,MIL,Milwaukee Brewers,Central,2,Christian Yelich,MIL,317.0,10.0,75%,7.1,130,489,100,161,44,97,30,80,0.329,0.429,0.671,1.1,,,,,,,,,,,,,yelicch01,data
+2019,MVP,NL,National League,WSN,Washington Nationals,East,3,Anthony Rendon,WSN,242.0,1.0,58%,7.3,146,545,117,174,34,126,5,80,0.319,0.412,0.598,1.01,,,,,,,,,,,,,rendoan01,data
+2019,MVP,NL,National League,ARI,Arizona Diamondbacks,West,4,Ketel Marte,ARI,198.0,0.0,47%,6.9,144,569,97,187,32,92,10,53,0.329,0.389,0.592,0.981,,,,,,,,,,,,,marteke01,data
+2019,MVP,NL,National League,ATL,Atlanta Braves,East,5,Ronald Acuña Jr.,ATL,155.0,0.0,37%,5.2,156,626,127,175,41,101,37,76,0.28,0.365,0.518,0.883,,,,,,,,,,,,,acunaro01,data
+2019,MVP,NL,National League,COL,Colorado Rockies,West,6,Nolan Arenado,COL,120.0,0.0,29%,7.1,155,588,102,185,41,118,3,62,0.315,0.379,0.583,0.962,,,,,,,,,,,,,arenano01,data
+2019,MVP,NL,National League,NYM,New York Mets,East,7,Pete Alonso,NYM,102.0,0.0,24%,5.4,161,597,103,155,53,120,1,72,0.26,0.358,0.583,0.941,,,,,,,,,,,,,alonspe01,data
+2019,MVP,NL,National League,ATL,Atlanta Braves,East,8,Freddie Freeman,ATL,90.0,0.0,21%,3.8,158,597,113,176,38,121,6,87,0.295,0.389,0.549,0.938,,,,,,,,,,,,,freemfr01,data
+2019,MVP,NL,National League,WSN,Washington Nationals,East,9,Juan Soto,WSN,45.0,0.0,11%,5.1,150,542,110,153,34,110,12,108,0.282,0.401,0.548,0.949,,,,,,,,,,,,,sotoju01,data
+2019,MVP,NL,National League,NYM,New York Mets,East,10,Jacob deGrom,NYM,44.0,0.0,10%,7.7,31,65,4,13,2,6,0,4,0.2,0.246,0.323,0.569,11.0,8.0,2.43,0.971,32.0,32.0,0.0,204.0,154.0,19.0,44.0,255.0,degroja01,data
+2019,MVP,NL,National League,ATL,Atlanta Braves,East,11,Josh Donaldson,ATL,27.0,0.0,6%,5.3,155,549,96,142,37,94,4,100,0.259,0.379,0.521,0.9,,,,,,,,,,,,,donaljo02,data
+2019,MVP,NL,National League,COL,Colorado Rockies,West,12,Trevor Story,COL,26.0,0.0,6%,6.9,145,588,111,173,35,85,23,58,0.294,0.363,0.554,0.917,,,,,,,,,,,,,storytr01,data
+2019,MVP,NL,National League,STL,St. Louis Cardinals,Central,13,Jack Flaherty,STL,9.0,0.0,2%,5.9,35,54,4,10,0,4,1,2,0.185,0.211,0.241,0.451,11.0,8.0,2.75,0.968,33.0,33.0,0.0,196.1,135.0,25.0,55.0,231.0,flaheja01,data
+2019,MVP,NL,National League,PHI,Philadelphia Phillies,East,14,J.T. Realmuto,PHI,8.0,0.0,2%,4.5,145,538,92,148,25,83,9,41,0.275,0.328,0.493,0.82,,,,,,,,,,,,,realmjt01,data
+2019,MVP,NL,National League,MIL,Milwaukee Brewers,Central,15,Yasmani Grandal,MIL,4.0,0.0,1%,2.5,153,513,79,126,28,77,5,109,0.246,0.38,0.468,0.848,,,,,,,,,,,,,grandya01,data
+2019,MVP,NL,National League,LAD,Los Angeles Dodgers,West,15,Max Muncy,LAD,4.0,0.0,1%,5.3,141,487,101,122,35,98,4,90,0.251,0.374,0.515,0.889,,,,,,,,,,,,,muncyma01,data
+2019,MVP,NL,National League,WSN,Washington Nationals,East,15,Stephen Strasburg,WSN,4.0,0.0,1%,5.9,33,72,4,12,1,10,0,3,0.167,0.2,0.222,0.422,18.0,6.0,3.32,1.038,33.0,33.0,0.0,209.0,161.0,24.0,56.0,251.0,strasst01,data
+2019,MVP,NL,National League,CIN,Cincinnati Reds,Central,15,Eugenio Suárez,CIN,4.0,0.0,1%,3.5,159,575,87,156,49,103,3,70,0.271,0.358,0.572,0.93,,,,,,,,,,,,,suareeu01,data
+2019,MVP,NL,National League,LAD,Los Angeles Dodgers,West,19,Hyun Jin Ryu,LAD,3.0,0.0,1%,5.4,28,51,3,8,1,3,0,4,0.157,0.218,0.235,0.453,14.0,5.0,2.32,1.007,29.0,29.0,0.0,182.2,160.0,17.0,24.0,163.0,ryuhy01,data
+2019,MVP,NL,National League,STL,St. Louis Cardinals,Central,20,Paul Goldschmidt,STL,2.0,0.0,0%,2.6,161,597,97,155,34,97,3,78,0.26,0.346,0.476,0.821,,,,,,,,,,,,,goldspa01,data
+2019,MVP,NL,National League,STL,St. Louis Cardinals,Central,20,Kolten Wong,STL,2.0,0.0,0%,5.4,148,478,61,136,11,59,24,47,0.285,0.361,0.423,0.784,,,,,,,,,,,,,wongko01,data
+2019,MVP,NL,National League,SFG,San Francisco Giants,West,22,Kevin Pillar,SFG,1.0,0.0,0%,0.6,156,595,82,157,21,87,14,18,0.264,0.293,0.442,0.735,,,,,,,,,,,,,pillake01,data
+2019,MVP,NL,National League,WSN,Washington Nationals,East,22,Max Scherzer,WSN,1.0,0.0,0%,5.3,28,55,6,10,0,2,2,0,0.182,0.182,0.182,0.364,11.0,7.0,2.92,1.027,27.0,27.0,0.0,172.1,144.0,18.0,33.0,243.0,scherma01,data
+2020,MVP,AL,American League,CHW,Chicago White Sox,Central,1,José Abreu,CHW,374.0,21.0,89%,2.7,60,240,43,76,19,60,0,18,0.317,0.37,0.617,0.987,,,,,,,,,,,,,abreujo02,data
+2020,MVP,AL,American League,CLE,Cleveland Indians,Central,2,José Ramírez,CLE,303.0,8.0,72%,2.5,58,219,45,64,17,46,10,31,0.292,0.386,0.607,0.993,,,,,,,,,,,,,ramirjo01,data
+2020,MVP,AL,American League,NYY,New York Yankees,East,3,DJ LeMahieu,NYY,230.0,1.0,55%,3.0,50,195,41,71,10,27,3,18,0.364,0.421,0.59,1.011,,,,,,,,,,,,,lemahdj01,data
+2020,MVP,AL,American League,CLE,Cleveland Indians,Central,4,Shane Bieber,CLE,173.0,0.0,41%,3.2,0,0,0,0,0,0,0,0,,,,,8.0,1.0,1.63,0.866,12.0,12.0,0.0,77.1,46.0,7.0,21.0,122.0,biebesh01,data
+2020,MVP,AL,American League,LAA,Los Angeles Angels,West,5,Mike Trout,LAA,172.0,0.0,41%,1.8,53,199,41,56,17,46,1,35,0.281,0.39,0.603,0.993,,,,,,,,,,,,,troutmi01,data
+2020,MVP,AL,American League,MIN,Minnesota Twins,Central,6,Nelson Cruz,MIN,128.0,0.0,30%,1.8,53,185,33,56,16,33,0,25,0.303,0.397,0.595,0.992,,,,,,,,,,,,,cruzne02,data
+2020,MVP,AL,American League,CHW,Chicago White Sox,Central,7,Tim Anderson,CHW,125.0,0.0,30%,2.5,49,208,45,67,10,21,5,10,0.322,0.357,0.529,0.886,,,,,,,,,,,,,anderti01,data
+2020,MVP,AL,American League,TBR,Tampa Bay Rays,East,8,Brandon Lowe,TBR,104.0,0.0,25%,2.4,56,193,36,52,14,37,3,25,0.269,0.362,0.554,0.916,,,,,,,,,,,,,lowebr01,data
+2020,MVP,AL,American League,NYY,New York Yankees,East,9,Luke Voit,NYY,85.0,0.0,20%,1.7,56,213,41,59,22,52,0,17,0.277,0.338,0.61,0.948,,,,,,,,,,,,,voitlu01,data
+2020,MVP,AL,American League,LAA,Los Angeles Angels,West,10,Anthony Rendon,LAA,42.0,0.0,10%,2.2,52,189,29,54,9,31,0,38,0.286,0.418,0.497,0.915,,,,,,,,,,,,,rendoan01,data
+2020,MVP,AL,American League,TOR,Toronto Blue Jays,East,11,Teoscar Hernández,TOR,8.0,0.0,2%,1.5,50,190,33,55,16,34,6,14,0.289,0.34,0.579,0.919,,,,,,,,,,,,,hernate01,data
+2020,MVP,AL,American League,BOS,Boston Red Sox,East,12,Alex Verdugo,BOS,6.0,0.0,1%,2.2,53,201,36,62,6,15,4,17,0.308,0.367,0.478,0.844,,,,,,,,,,,,,verdual01,data
+2020,MVP,AL,American League,OAK,Oakland Athletics,West,13,Liam Hendriks,OAK,4.0,0.0,1%,1.4,0,0,0,0,0,0,0,0,,,,,3.0,1.0,1.78,0.671,24.0,0.0,14.0,25.1,14.0,1.0,3.0,37.0,hendrli01,data
+2020,MVP,AL,American League,TOR,Toronto Blue Jays,East,13,Hyun Jin Ryu,TOR,4.0,0.0,1%,2.9,0,0,0,0,0,0,0,0,,,,,5.0,2.0,2.69,1.149,12.0,12.0,0.0,67.0,60.0,6.0,17.0,72.0,ryuhy01,data
+2020,MVP,AL,American League,HOU,Houston Astros,West,13,George Springer,HOU,4.0,0.0,1%,2.2,51,189,37,50,14,32,1,24,0.265,0.359,0.54,0.899,,,,,,,,,,,,,springe01,data
+2020,MVP,AL,American League,MIN,Minnesota Twins,Central,16,Byron Buxton,MIN,2.0,0.0,0%,2.1,39,130,19,33,13,27,2,2,0.254,0.267,0.577,0.844,,,,,,,,,,,,,buxtoby01,data
+2020,MVP,AL,American League,BOS,Boston Red Sox,East,17,Xander Bogaerts,BOS,1.0,0.0,0%,1.2,56,203,36,61,11,28,8,21,0.3,0.364,0.502,0.867,,,,,,,,,,,,,bogaexa01,data
+2020,MVP,AL,American League,LAA,Los Angeles Angels,West,17,David Fletcher,LAA,1.0,0.0,0%,1.9,49,207,31,66,3,18,2,20,0.319,0.376,0.425,0.801,,,,,,,,,,,,,fletcda02,data
+2020,MVP,AL,American League,CHW,Chicago White Sox,Central,17,Dallas Keuchel,CHW,1.0,0.0,0%,2.1,0,0,0,0,0,0,0,0,,,,,6.0,2.0,1.99,1.089,11.0,11.0,0.0,63.1,52.0,2.0,17.0,42.0,keuchda01,data
+2020,MVP,AL,American League,SEA,Seattle Mariners,West,17,Kyle Lewis,SEA,1.0,0.0,0%,1.6,58,206,37,54,11,28,5,34,0.262,0.364,0.437,0.801,,,,,,,,,,,,,lewisky01,data
+2020,MVP,AL,American League,KCR,Kansas City Royals,Central,17,Salvador Perez,KCR,1.0,0.0,0%,2.1,37,150,22,50,11,32,1,3,0.333,0.353,0.633,0.986,,,,,,,,,,,,,perezsa02,data
+2020,MVP,AL,American League,MIN,Minnesota Twins,Central,17,Eddie Rosario,MIN,1.0,0.0,0%,1.2,57,210,31,54,13,42,3,19,0.257,0.316,0.476,0.792,,,,,,,,,,,,,rosared01,data
+2020,MVP,NL,National League,ATL,Atlanta Braves,East,1,Freddie Freeman,ATL,410.0,28.0,98%,3.3,60,214,51,73,13,53,2,45,0.341,0.462,0.64,1.102,,,,,,,,,,,,,freemfr01,data
+2020,MVP,NL,National League,LAD,Los Angeles Dodgers,West,2,Mookie Betts,LAD,268.0,2.0,64%,3.7,55,219,47,64,16,39,10,24,0.292,0.366,0.562,0.927,,,,,,,,,,,,,bettsmo01,data
+2020,MVP,NL,National League,SDP,San Diego Padres,West,3,Manny Machado,SDP,221.0,0.0,53%,3.0,60,224,44,68,16,47,6,26,0.304,0.37,0.58,0.95,,,,,,,,,,,,,machama01,data
+2020,MVP,NL,National League,SDP,San Diego Padres,West,4,Fernando Tatis Jr.,SDP,201.0,0.0,48%,2.8,59,224,50,62,17,45,11,27,0.277,0.366,0.571,0.937,,,,,,,,,,,,,tatisfe02,data
+2020,MVP,NL,National League,WSN,Washington Nationals,East,5,Juan Soto,WSN,172.0,0.0,41%,2.3,47,154,39,54,13,37,6,41,0.351,0.49,0.695,1.185,,,,,,,,,,,,,sotoju01,data
+2020,MVP,NL,National League,ATL,Atlanta Braves,East,6,Marcell Ozuna,ATL,167.0,0.0,40%,2.8,60,228,38,77,18,56,0,38,0.338,0.431,0.636,1.067,,,,,,,,,,,,,ozunama01,data
+2020,MVP,NL,National League,WSN,Washington Nationals,East,7,Trea Turner,WSN,83.0,0.0,20%,2.8,59,233,46,78,12,41,12,22,0.335,0.394,0.588,0.982,,,,,,,,,,,,,turnetr01,data
+2020,MVP,NL,National League,SFG,San Francisco Giants,West,8,Mike Yastrzemski,SFG,81.0,0.0,19%,2.7,54,192,39,57,10,35,2,30,0.297,0.4,0.568,0.968,,,,,,,,,,,,,yastrmi01,data
+2020,MVP,NL,National League,LAD,Los Angeles Dodgers,West,9,Corey Seager,LAD,43.0,0.0,10%,2.0,52,212,38,65,15,41,1,17,0.307,0.358,0.585,0.943,,,,,,,,,,,,,seageco01,data
+2020,MVP,NL,National League,CIN,Cincinnati Reds,Central,10,Trevor Bauer,CIN,32.0,0.0,8%,3.0,0,0,0,0,0,0,0,0,,,,,5.0,4.0,1.73,0.795,11.0,11.0,0.0,73.0,41.0,9.0,17.0,100.0,bauertr01,data
+2020,MVP,NL,National League,COL,Colorado Rockies,West,11,Trevor Story,COL,23.0,0.0,5%,2.5,59,235,41,68,11,28,15,24,0.289,0.355,0.519,0.874,,,,,,,,,,,,,storytr01,data
+2020,MVP,NL,National League,ATL,Atlanta Braves,East,12,Ronald Acuña Jr.,ATL,21.0,0.0,5%,2.4,46,160,46,40,14,29,8,38,0.25,0.406,0.581,0.987,,,,,,,,,,,,,acunaro01,data
+2020,MVP,NL,National League,NYM,New York Mets,East,13,Dominic Smith,NYM,16.0,0.0,4%,1.9,50,177,27,56,10,42,0,14,0.316,0.377,0.616,0.993,,,,,,,,,,,,,smithdo02,data
+2020,MVP,NL,National League,CHC,Chicago Cubs,Central,14,Yu Darvish,CHC,14.0,0.0,3%,2.8,0,0,0,0,0,0,0,0,,,,,8.0,3.0,2.01,0.961,12.0,12.0,0.0,76.0,59.0,5.0,14.0,93.0,darviyu01,data
+2020,MVP,NL,National League,STL,St. Louis Cardinals,Central,15,Paul Goldschmidt,STL,9.0,0.0,2%,2.0,58,191,31,58,6,21,1,37,0.304,0.417,0.466,0.883,,,,,,,,,,,,,goldspa01,data
+2020,MVP,NL,National League,SFG,San Francisco Giants,West,16,Brandon Belt,SFG,2.0,0.0,0%,2.1,51,149,25,46,9,30,0,30,0.309,0.425,0.591,1.015,,,,,,,,,,,,,beltbr01,data
+2020,MVP,NL,National League,SDP,San Diego Padres,West,16,Wil Myers,SDP,2.0,0.0,0%,1.9,55,198,34,57,15,40,2,18,0.288,0.353,0.606,0.959,,,,,,,,,,,,,myerswi01,data
+2020,MVP,NL,National League,ATL,Atlanta Braves,East,18,Max Fried,ATL,1.0,0.0,0%,2.9,0,0,0,0,0,0,0,0,,,,,7.0,0.0,2.25,1.089,11.0,11.0,0.0,56.0,42.0,2.0,19.0,50.0,friedma01,data
+2020,MVP,NL,National League,CHC,Chicago Cubs,Central,18,Ian Happ,CHC,1.0,0.0,0%,1.3,57,198,27,51,12,28,1,30,0.258,0.361,0.505,0.866,,,,,,,,,,,,,happia01,data
+2020,MVP,NL,National League,ATL,Atlanta Braves,East,18,Dansby Swanson,ATL,1.0,0.0,0%,2.8,60,237,49,65,10,35,5,22,0.274,0.345,0.464,0.809,,,,,,,,,,,,,swansda01,data
+2020,MVP,NL,National League,CHC,Chicago Cubs,Central,18,Ryan Tepera,CHC,1.0,0.0,0%,0.2,0,0,0,0,0,0,0,0,,,,,0.0,1.0,3.92,1.403,21.0,0.0,0.0,20.2,17.0,2.0,12.0,31.0,teperry01,data
+2020,MVP,NL,National League,MIL,Milwaukee Brewers,Central,18,Devin Williams,MIL,1.0,0.0,0%,1.3,0,0,0,0,0,0,0,0,,,,,4.0,1.0,0.33,0.63,22.0,0.0,0.0,27.0,8.0,1.0,9.0,53.0,willide03,data
+2021,MVP,AL,American League,LAA,Los Angeles Angels,West,1,Shohei Ohtani,LAA,420.0,30.0,100%,9.0,155,537,103,138,46,100,26,96,0.257,0.372,0.592,0.965,9.0,2.0,3.18,1.09,23.0,23.0,0.0,130.1,98.0,15.0,44.0,156.0,ohtansh01,data
+2021,MVP,AL,American League,TOR,Toronto Blue Jays,East,2,Vladimir Guerrero Jr.,TOR,269.0,0.0,64%,6.5,161,604,123,188,48,111,4,86,0.311,0.401,0.601,1.002,,,,,,,,,,,,,guerrvl02,data
+2021,MVP,AL,American League,TOR,Toronto Blue Jays,East,3,Marcus Semien,TOR,232.0,0.0,55%,7.1,162,652,115,173,45,102,15,66,0.265,0.334,0.538,0.873,,,,,,,,,,,,,semiema01,data
+2021,MVP,AL,American League,NYY,New York Yankees,East,4,Aaron Judge,NYY,171.0,0.0,41%,5.9,148,550,89,158,39,98,6,75,0.287,0.373,0.544,0.916,,,,,,,,,,,,,judgeaa01,data
+2021,MVP,AL,American League,HOU,Houston Astros,West,5,Carlos Correa,HOU,163.0,0.0,39%,7.3,148,555,104,155,26,92,0,75,0.279,0.366,0.485,0.85,,,,,,,,,,,,,correca01,data
+2021,MVP,AL,American League,CLE,Cleveland Indians,Central,6,José Ramírez,CLE,133.0,0.0,32%,6.7,152,552,111,147,36,103,27,72,0.266,0.355,0.538,0.893,,,,,,,,,,,,,ramirjo01,data
+2021,MVP,AL,American League,KCR,Kansas City Royals,Central,7,Salvador Perez,KCR,103.0,0.0,25%,5.3,161,620,88,169,48,121,1,28,0.273,0.316,0.544,0.859,,,,,,,,,,,,,perezsa02,data
+2021,MVP,AL,American League,OAK,Oakland Athletics,West,8,Matt Olson,OAK,90.0,0.0,21%,5.9,156,565,101,153,39,111,4,88,0.271,0.371,0.54,0.911,,,,,,,,,,,,,olsonma02,data
+2021,MVP,AL,American League,BAL,Baltimore Orioles,East,9,Cedric Mullins,BAL,87.0,0.0,21%,6.2,159,602,91,175,30,59,30,59,0.291,0.36,0.518,0.878,,,,,,,,,,,,,mullice01,data
+2021,MVP,AL,American League,TBR,Tampa Bay Rays,East,10,Brandon Lowe,TBR,34.0,0.0,8%,4.6,149,535,97,132,39,99,7,68,0.247,0.34,0.523,0.863,,,,,,,,,,,,,lowebr01,data
+2021,MVP,AL,American League,BOS,Boston Red Sox,East,11,Rafael Devers,BOS,28.0,0.0,7%,3.6,156,591,101,165,38,113,5,62,0.279,0.352,0.538,0.89,,,,,,,,,,,,,deverra01,data
+2021,MVP,AL,American League,TOR,Toronto Blue Jays,East,12,Bo Bichette,TOR,7.0,0.0,2%,5.9,159,640,121,191,29,102,25,40,0.298,0.343,0.484,0.828,,,,,,,,,,,,,bichebo01,data
+2021,MVP,AL,American League,BOS,Boston Red Sox,East,12,Xander Bogaerts,BOS,7.0,0.0,2%,5.2,144,529,90,156,23,79,5,62,0.295,0.37,0.493,0.863,,,,,,,,,,,,,bogaexa01,data
+2021,MVP,AL,American League,CHW,Chicago White Sox,Central,14,José Abreu,CHW,5.0,0.0,1%,3.0,152,566,86,148,30,117,1,61,0.261,0.351,0.481,0.831,,,,,,,,,,,,,abreujo02,data
+2021,MVP,AL,American League,NYY,New York Yankees,East,15,Gerrit Cole,NYY,4.0,0.0,1%,5.7,0,0,0,0,0,0,0,0,,,,,16.0,8.0,3.23,1.059,30.0,30.0,0.0,181.1,151.0,24.0,41.0,243.0,colege01,data
+2021,MVP,AL,American League,BOS,Boston Red Sox,East,15,Nathan Eovaldi,BOS,4.0,0.0,1%,4.3,1,2,1,0,0,0,0,1,0.0,0.333,0.0,0.333,11.0,9.0,3.75,1.19,32.0,32.0,0.0,182.1,182.0,15.0,35.0,195.0,eovalna01,data
+2021,MVP,AL,American League,TOR,Toronto Blue Jays,East,15,Robbie Ray,TOR,4.0,0.0,1%,6.8,2,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,7.0,2.84,1.045,32.0,32.0,0.0,193.1,150.0,33.0,52.0,248.0,rayro02,data
+2021,MVP,AL,American League,HOU,Houston Astros,West,18,Jose Altuve,HOU,3.0,0.0,1%,4.5,146,601,117,167,31,83,5,66,0.278,0.35,0.489,0.839,,,,,,,,,,,,,altuvjo01,data
+2021,MVP,AL,American League,TOR,Toronto Blue Jays,East,19,Teoscar Hernández,TOR,2.0,0.0,0%,3.5,143,550,92,163,32,116,12,36,0.296,0.346,0.524,0.87,,,,,,,,,,,,,hernate01,data
+2021,MVP,AL,American League,SEA,Seattle Mariners,West,20,Mitch Haniger,SEA,1.0,0.0,0%,2.8,157,620,110,157,39,100,1,54,0.253,0.318,0.485,0.804,,,,,,,,,,,,,hanigmi01,data
+2021,MVP,AL,American League,TBR,Tampa Bay Rays,East,20,Austin Meadows,TBR,1.0,0.0,0%,2.0,142,518,79,121,27,106,4,59,0.234,0.315,0.458,0.772,,,,,,,,,,,,,meadoau01,data
+2021,MVP,AL,American League,HOU,Houston Astros,West,20,Kyle Tucker,HOU,1.0,0.0,0%,5.3,140,506,83,149,30,92,14,53,0.294,0.359,0.557,0.917,,,,,,,,,,,,,tuckeky01,data
+2021,MVP,AL,American League,TBR,Tampa Bay Rays,East,20,Mike Zunino,TBR,1.0,0.0,0%,3.7,109,333,64,72,33,62,0,34,0.216,0.301,0.559,0.86,,,,,,,,,,,,,zuninmi01,data
+2021,MVP,NL,National League,PHI,Philadelphia Phillies,East,1,Bryce Harper,PHI,348.0,17.0,83%,5.9,141,488,101,151,35,84,13,100,0.309,0.429,0.615,1.044,,,,,,,,,,,,,harpebr03,data
+2021,MVP,NL,National League,WSN,Washington Nationals,East,2,Juan Soto,WSN,274.0,6.0,65%,7.3,151,502,111,157,29,95,9,145,0.313,0.465,0.534,0.999,,,,,,,,,,,,,sotoju01,data
+2021,MVP,NL,National League,SDP,San Diego Padres,West,3,Fernando Tatis Jr.,SDP,244.0,2.0,58%,6.6,130,478,99,135,42,97,25,62,0.282,0.364,0.611,0.975,,,,,,,,,,,,,tatisfe02,data
+2021,MVP,NL,National League,SFG,San Francisco Giants,West,4,Brandon Crawford,SFG,213.0,4.0,51%,6.1,138,483,79,144,24,90,11,56,0.298,0.373,0.522,0.895,,,,,,,,,,,,,crawfbr01,data
+2021,MVP,NL,National League,TOT,,,5,Trea Turner,TOT,185.0,1.0,44%,6.5,148,595,107,195,28,77,32,41,0.328,0.375,0.536,0.911,,,,,,,,,,,,,turnetr01,data
+2021,MVP,NL,National League,STL,St. Louis Cardinals,Central,6,Paul Goldschmidt,STL,128.0,0.0,30%,5.9,158,603,102,177,31,99,12,67,0.294,0.365,0.514,0.879,,,,,,,,,,,,,goldspa01,data
+2021,MVP,NL,National League,ATL,Atlanta Braves,East,7,Austin Riley,ATL,111.0,0.0,26%,6.3,160,590,91,179,33,107,0,52,0.303,0.367,0.531,0.898,,,,,,,,,,,,,rileyau01,data
+2021,MVP,NL,National League,STL,St. Louis Cardinals,Central,8,Tyler O'Neill,STL,62.0,0.0,15%,6.4,138,482,89,138,34,80,15,38,0.286,0.352,0.56,0.912,,,,,,,,,,,,,oneilty01,data
+2021,MVP,NL,National League,ATL,Atlanta Braves,East,9,Freddie Freeman,ATL,43.0,0.0,10%,4.8,159,600,120,180,31,83,8,85,0.3,0.393,0.503,0.896,,,,,,,,,,,,,freemfr01,data
+2021,MVP,NL,National League,LAD,Los Angeles Dodgers,West,10,Max Muncy,LAD,38.0,0.0,9%,4.6,144,497,95,124,36,94,2,83,0.249,0.368,0.527,0.895,,,,,,,,,,,,,muncyma01,data
+2021,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,11,Bryan Reynolds,PIT,33.0,0.0,8%,6.0,159,559,93,169,24,90,5,75,0.302,0.39,0.522,0.912,,,,,,,,,,,,,reynobr01,data
+2021,MVP,NL,National League,CIN,Cincinnati Reds,Central,12,Nick Castellanos,CIN,24.0,0.0,6%,3.1,138,531,95,164,34,100,3,41,0.309,0.362,0.576,0.939,,,,,,,,,,,,,casteni01,data
+2021,MVP,NL,National League,ATL,Atlanta Braves,East,13,Ozzie Albies,ATL,12.0,0.0,3%,3.8,156,629,103,163,30,106,20,47,0.259,0.31,0.488,0.799,,,,,,,,,,,,,albieoz01,data
+2021,MVP,NL,National League,TOT,,,14,Max Scherzer,TOT,11.0,0.0,3%,5.3,28,59,0,0,0,1,0,0,0.0,0.0,0.0,0.0,15.0,4.0,2.46,0.864,30.0,30.0,0.0,179.1,119.0,23.0,36.0,236.0,scherma01,data
+2021,MVP,NL,National League,MIL,Milwaukee Brewers,Central,15,Corbin Burnes,MIL,9.0,0.0,2%,5.3,26,52,1,8,0,4,0,3,0.154,0.2,0.154,0.354,11.0,5.0,2.43,0.94,28.0,28.0,0.0,167.0,123.0,7.0,34.0,234.0,burneco01,data
+2021,MVP,NL,National League,MIL,Milwaukee Brewers,Central,16,Willy Adames,MIL,8.0,0.0,2%,3.6,99,365,61,104,20,58,4,47,0.285,0.366,0.521,0.886,,,,,,,,,,,,,adamewi01,data
+2021,MVP,NL,National League,CIN,Cincinnati Reds,Central,16,Joey Votto,CIN,8.0,0.0,2%,3.3,129,448,73,119,36,99,1,77,0.266,0.375,0.563,0.938,,,,,,,,,,,,,vottojo01,data
+2021,MVP,NL,National League,SDP,San Diego Padres,West,18,Manny Machado,SDP,7.0,0.0,2%,5.0,153,564,92,157,28,106,12,63,0.278,0.347,0.489,0.836,,,,,,,,,,,,,machama01,data
+2021,MVP,NL,National League,PHI,Philadelphia Phillies,East,19,Zack Wheeler,PHI,6.0,0.0,1%,7.7,32,68,1,11,0,3,0,0,0.162,0.162,0.191,0.353,14.0,10.0,2.78,1.008,32.0,32.0,0.0,213.1,169.0,16.0,46.0,247.0,wheelza01,data
+2021,MVP,NL,National League,STL,St. Louis Cardinals,Central,20,Adam Wainwright,STL,3.0,0.0,1%,3.9,33,57,1,7,0,4,0,3,0.123,0.167,0.158,0.325,17.0,7.0,3.05,1.057,32.0,32.0,0.0,206.1,168.0,21.0,50.0,174.0,wainwad01,data
+2021,MVP,NL,National League,SFG,San Francisco Giants,West,21,Kevin Gausman,SFG,1.0,0.0,0%,5.4,31,54,6,10,0,4,0,2,0.185,0.211,0.185,0.396,14.0,6.0,2.81,1.042,33.0,33.0,0.0,192.0,150.0,20.0,50.0,227.0,gausmke01,data
+2021,MVP,NL,National League,SFG,San Francisco Giants,West,21,Buster Posey,SFG,1.0,0.0,0%,3.6,113,395,68,120,18,56,0,56,0.304,0.39,0.499,0.889,,,,,,,,,,,,,poseybu01,data
+2021,MVP,NL,National League,SFG,San Francisco Giants,West,21,LaMonte Wade Jr.,SFG,1.0,0.0,0%,1.4,109,336,52,85,18,56,6,33,0.253,0.326,0.482,0.808,,,,,,,,,,,,,wadela01,data
+2022,MVP,AL,American League,NYY,New York Yankees,East,1,Aaron Judge,NYY,410.0,28.0,98%,10.8,157,570,133,177,62,131,16,111,0.311,0.425,0.686,1.111,,,,,,,,,,,,,judgeaa01,data
+2022,MVP,AL,American League,LAA,Los Angeles Angels,West,2,Shohei Ohtani,LAA,280.0,2.0,67%,9.7,157,586,90,160,34,95,11,72,0.273,0.356,0.519,0.875,15.0,9.0,2.33,1.012,28.0,28.0,0.0,166.0,124.0,14.0,44.0,219.0,ohtansh01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,3,Yordan Alvarez,HOU,232.0,0.0,55%,6.8,135,470,95,144,37,97,1,78,0.306,0.406,0.613,1.019,,,,,,,,,,,,,alvaryo01,data
+2022,MVP,AL,American League,CLE,Cleveland Guardians,Central,4,José Ramírez,CLE,186.0,0.0,44%,5.9,157,601,90,168,29,126,20,69,0.28,0.355,0.514,0.869,,,,,,,,,,,,,ramirjo01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,5,Jose Altuve,HOU,142.0,0.0,34%,5.2,141,527,103,158,28,57,18,66,0.3,0.387,0.533,0.921,,,,,,,,,,,,,altuvjo01,data
+2022,MVP,AL,American League,CLE,Cleveland Guardians,Central,6,Andrés Giménez,CLE,141.0,0.0,34%,7.4,146,491,66,146,17,69,20,34,0.297,0.371,0.466,0.837,,,,,,,,,,,,,gimenan01,data
+2022,MVP,AL,American League,SEA,Seattle Mariners,West,7,Julio Rodríguez,SEA,108.0,0.0,26%,6.2,132,511,84,145,28,75,25,40,0.284,0.345,0.509,0.853,,,,,,,,,,,,,rodriju01,data
+2022,MVP,AL,American League,LAA,Los Angeles Angels,West,8,Mike Trout,LAA,90.0,0.0,21%,6.1,119,438,85,124,40,80,1,54,0.283,0.369,0.63,0.999,,,,,,,,,,,,,troutmi01,data
+2022,MVP,AL,American League,BOS,Boston Red Sox,East,9,Xander Bogaerts,BOS,50.0,0.0,12%,5.7,150,557,84,171,15,73,8,57,0.307,0.377,0.456,0.833,,,,,,,,,,,,,bogaexa01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,10,Justin Verlander,HOU,44.0,0.0,10%,5.6,0,0,0,0,0,0,0,0,,,,,18.0,4.0,1.75,0.829,28.0,28.0,0.0,175.0,116.0,12.0,29.0,185.0,verlaju01,data
+2022,MVP,AL,American League,TOR,Toronto Blue Jays,East,11,Bo Bichette,TOR,16.0,0.0,4%,3.7,159,652,91,189,24,93,13,41,0.29,0.333,0.469,0.802,,,,,,,,,,,,,bichebo01,data
+2022,MVP,AL,American League,BAL,Baltimore Orioles,East,12,Adley Rutschman,BAL,14.0,0.0,3%,5.4,113,398,70,101,13,42,4,65,0.254,0.362,0.445,0.806,,,,,,,,,,,,,rutscad01,data
+2022,MVP,AL,American League,MIN,Minnesota Twins,Central,13,Luis Arraez,MIN,12.0,0.0,3%,4.1,144,547,88,173,8,49,4,50,0.316,0.375,0.42,0.795,,,,,,,,,,,,,arraelu01,data
+2022,MVP,AL,American League,BOS,Boston Red Sox,East,14,Rafael Devers,BOS,10.0,0.0,2%,4.5,141,555,84,164,27,88,3,50,0.295,0.358,0.521,0.879,,,,,,,,,,,,,deverra01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,15,Kyle Tucker,HOU,8.0,0.0,2%,5.5,150,544,71,140,30,107,25,59,0.257,0.33,0.478,0.808,,,,,,,,,,,,,tuckeky01,data
+2022,MVP,AL,American League,TOR,Toronto Blue Jays,East,16,Vladimir Guerrero Jr.,TOR,7.0,0.0,2%,4.0,160,638,90,175,32,97,8,58,0.274,0.339,0.48,0.818,,,,,,,,,,,,,guerrvl02,data
+2022,MVP,AL,American League,CHW,Chicago White Sox,Central,17,José Abreu,CHW,5.0,0.0,1%,4.3,157,601,85,183,15,75,0,62,0.304,0.378,0.446,0.824,,,,,,,,,,,,,abreujo02,data
+2022,MVP,AL,American League,TOR,Toronto Blue Jays,East,17,Alek Manoah,TOR,5.0,0.0,1%,6.0,0,0,0,0,0,0,0,0,,,,,16.0,7.0,2.24,0.992,31.0,31.0,0.0,196.2,144.0,16.0,51.0,180.0,manoaal01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,19,Alex Bregman,HOU,4.0,0.0,1%,4.5,155,548,93,142,23,93,1,87,0.259,0.366,0.454,0.82,,,,,,,,,,,,,bregmal01,data
+2022,MVP,AL,American League,TBR,Tampa Bay Rays,East,20,Yandy Díaz,TBR,2.0,0.0,0%,3.4,137,473,71,140,9,57,3,78,0.296,0.401,0.423,0.824,,,,,,,,,,,,,diazya01,data
+2022,MVP,AL,American League,HOU,Houston Astros,West,20,Framber Valdez,HOU,2.0,0.0,0%,3.4,0,0,0,0,0,0,0,0,,,,,17.0,6.0,2.82,1.157,31.0,31.0,0.0,201.1,166.0,11.0,67.0,194.0,valdefr01,data
+2022,MVP,AL,American League,CHW,Chicago White Sox,Central,22,Dylan Cease,CHW,1.0,0.0,0%,6.4,0,0,0,0,0,0,0,0,,,,,14.0,8.0,2.2,1.109,32.0,32.0,0.0,184.0,126.0,16.0,78.0,227.0,ceasedy01,data
+2022,MVP,AL,American League,OAK,Oakland Athletics,West,22,Sean Murphy,OAK,1.0,0.0,0%,3.7,148,537,67,134,18,66,1,56,0.25,0.332,0.426,0.759,,,,,,,,,,,,,murphse01,data
+2022,MVP,NL,National League,STL,St. Louis Cardinals,Central,1,Paul Goldschmidt,STL,380.0,22.0,90%,7.7,151,561,106,178,35,115,7,79,0.317,0.404,0.578,0.981,,,,,,,,,,,,,goldspa01,data
+2022,MVP,NL,National League,SDP,San Diego Padres,West,2,Manny Machado,SDP,291.0,7.0,69%,6.8,150,578,100,172,32,102,9,63,0.298,0.366,0.531,0.898,,,,,,,,,,,,,machama01,data
+2022,MVP,NL,National League,STL,St. Louis Cardinals,Central,3,Nolan Arenado,STL,232.0,1.0,55%,7.9,148,557,73,163,30,103,5,52,0.293,0.358,0.533,0.891,,,,,,,,,,,,,arenano01,data
+2022,MVP,NL,National League,LAD,Los Angeles Dodgers,West,4,Freddie Freeman,LAD,220.0,0.0,52%,6.2,159,612,117,199,21,100,13,84,0.325,0.407,0.511,0.918,,,,,,,,,,,,,freemfr01,data
+2022,MVP,NL,National League,LAD,Los Angeles Dodgers,West,5,Mookie Betts,LAD,154.0,0.0,37%,6.7,142,572,117,154,35,82,12,55,0.269,0.34,0.533,0.873,,,,,,,,,,,,,bettsmo01,data
+2022,MVP,NL,National League,ATL,Atlanta Braves,East,6,Austin Riley,ATL,116.0,0.0,28%,6.4,159,615,90,168,38,93,2,57,0.273,0.349,0.528,0.878,,,,,,,,,,,,,rileyau01,data
+2022,MVP,NL,National League,PHI,Philadelphia Phillies,East,7,J.T. Realmuto,PHI,98.0,0.0,23%,6.5,139,504,75,139,22,84,21,41,0.276,0.342,0.478,0.82,,,,,,,,,,,,,realmjt01,data
+2022,MVP,NL,National League,NYM,New York Mets,East,8,Pete Alonso,NYM,81.0,0.0,19%,4.4,160,597,95,162,40,131,5,67,0.271,0.352,0.518,0.869,,,,,,,,,,,,,alonspe01,data
+2022,MVP,NL,National League,NYM,New York Mets,East,9,Francisco Lindor,NYM,77.0,0.0,18%,5.4,161,630,98,170,26,107,16,59,0.27,0.339,0.449,0.788,,,,,,,,,,,,,lindofr01,data
+2022,MVP,NL,National League,MIA,Miami Marlins,East,10,Sandy Alcantara,MIA,39.0,0.0,9%,8.0,0,0,0,0,0,0,0,0,,,,,14.0,9.0,2.28,0.98,32.0,32.0,0.0,228.2,174.0,16.0,50.0,207.0,alcansa01,data
+2022,MVP,NL,National League,LAD,Los Angeles Dodgers,West,11,Trea Turner,LAD,29.0,0.0,7%,5.2,160,652,101,194,21,100,27,45,0.298,0.343,0.466,0.809,,,,,,,,,,,,,turnetr01,data
+2022,MVP,NL,National League,ATL,Atlanta Braves,East,12,Dansby Swanson,ATL,23.0,0.0,5%,5.5,162,640,99,177,25,96,18,49,0.277,0.329,0.447,0.776,,,,,,,,,,,,,swansda01,data
+2022,MVP,NL,National League,ATL,Atlanta Braves,East,13,Michael Harris II,ATL,9.0,0.0,2%,5.1,114,414,75,123,19,64,20,21,0.297,0.339,0.514,0.853,,,,,,,,,,,,,harrimi04,data
+2022,MVP,NL,National League,LAD,Los Angeles Dodgers,West,14,Julio Urías,LAD,8.0,0.0,2%,4.6,0,0,0,0,0,0,0,0,,,,,17.0,7.0,2.16,0.96,31.0,31.0,0.0,175.0,127.0,23.0,41.0,166.0,uriasju01,data
+2022,MVP,NL,National League,NYM,New York Mets,East,15,Jeff McNeil,NYM,6.0,0.0,1%,5.9,148,533,73,174,9,62,4,40,0.326,0.382,0.454,0.836,,,,,,,,,,,,,mcneije01,data
+2022,MVP,NL,National League,COL,Colorado Rockies,West,16,Daniel Bard,COL,2.0,0.0,0%,3.7,3,0,0,0,0,0,0,0,,,,,6.0,4.0,1.79,0.994,57.0,0.0,34.0,60.1,35.0,3.0,25.0,69.0,bardda01,data
+2022,MVP,NL,National League,NYM,New York Mets,East,16,Edwin Díaz,NYM,2.0,0.0,0%,3.2,2,0,0,0,0,0,0,0,,,,,3.0,1.0,1.31,0.839,61.0,0.0,32.0,62.0,34.0,3.0,18.0,118.0,diazed04,data
+2022,MVP,NL,National League,PHI,Philadelphia Phillies,East,16,Kyle Schwarber,PHI,2.0,0.0,0%,2.3,155,577,100,126,46,94,10,86,0.218,0.323,0.504,0.827,,,,,,,,,,,,,schwaky01,data
+2022,MVP,NL,National League,NYM,New York Mets,East,19,Starling Marte,NYM,1.0,0.0,0%,3.8,118,466,76,136,16,63,18,26,0.292,0.347,0.468,0.814,,,,,,,,,,,,,martest01,data
+2023,MVP,AL,American League,LAA,Los Angeles Angels,West,1,Shohei Ohtani,LAA,420.0,30.0,100%,9.9,135,497,102,151,44,95,20,91,0.304,0.412,0.654,1.066,10.0,5.0,3.14,1.061,23.0,23.0,0.0,132.0,85.0,18.0,55.0,167.0,ohtansh01,data
+2023,MVP,AL,American League,TEX,Texas Rangers,West,2,Corey Seager,TEX,264.0,0.0,63%,7.2,119,477,88,156,33,96,2,49,0.327,0.39,0.623,1.013,,,,,,,,,,,,,seageco01,data
+2023,MVP,AL,American League,TEX,Texas Rangers,West,3,Marcus Semien,TEX,216.0,0.0,51%,7.7,162,670,122,185,29,100,14,72,0.276,0.348,0.478,0.826,,,,,,,,,,,,,semiema01,data
+2023,MVP,AL,American League,SEA,Seattle Mariners,West,4,Julio Rodríguez,SEA,197.0,0.0,47%,5.5,155,654,102,180,32,103,37,47,0.275,0.333,0.485,0.818,,,,,,,,,,,,,rodriju01,data
+2023,MVP,AL,American League,HOU,Houston Astros,West,5,Kyle Tucker,HOU,178.0,0.0,42%,5.5,157,574,97,163,29,112,30,80,0.284,0.369,0.517,0.886,,,,,,,,,,,,,tuckeky01,data
+2023,MVP,AL,American League,TBR,Tampa Bay Rays,East,6,Yandy Díaz,TBR,137.0,0.0,33%,5.1,137,525,95,173,22,78,0,65,0.33,0.41,0.522,0.932,,,,,,,,,,,,,diazya01,data
+2023,MVP,AL,American League,KCR,Kansas City Royals,Central,7,Bobby Witt Jr.,KCR,83.0,0.0,20%,4.3,158,641,97,177,30,96,49,40,0.276,0.319,0.495,0.813,,,,,,,,,,,,,wittbo02,data
+2023,MVP,AL,American League,BAL,Baltimore Orioles,East,8,Gunnar Henderson,BAL,77.0,0.0,18%,6.1,150,560,100,143,28,82,10,56,0.255,0.325,0.489,0.814,,,,,,,,,,,,,hendegu01,data
+2023,MVP,AL,American League,BAL,Baltimore Orioles,East,9,Adley Rutschman,BAL,50.0,0.0,12%,4.3,154,588,84,163,20,80,1,92,0.277,0.374,0.435,0.809,,,,,,,,,,,,,rutscad01,data
+2023,MVP,AL,American League,CLE,Cleveland Guardians,Central,10,José Ramírez,CLE,40.0,0.0,10%,4.9,156,611,87,172,24,80,28,73,0.282,0.356,0.475,0.831,,,,,,,,,,,,,ramirjo01,data
+2023,MVP,AL,American League,NYY,New York Yankees,East,11,Gerrit Cole,NYY,30.0,0.0,7%,7.4,0,0,0,0,0,0,0,0,,,,,15.0,4.0,2.63,0.981,33.0,33.0,0.0,209.0,157.0,20.0,48.0,222.0,colege01,data
+2023,MVP,AL,American League,CHW,Chicago White Sox,Central,12,Luis Robert Jr.,CHW,21.0,0.0,5%,5.3,145,546,90,144,38,80,20,30,0.264,0.315,0.542,0.857,,,,,,,,,,,,,roberlu01,data
+2023,MVP,AL,American League,HOU,Houston Astros,West,13,Yordan Alvarez,HOU,16.0,0.0,4%,4.5,114,410,77,120,31,97,0,69,0.293,0.407,0.583,0.99,,,,,,,,,,,,,alvaryo01,data
+2023,MVP,AL,American League,TEX,Texas Rangers,West,14,Adolis García,TEX,14.0,0.0,3%,4.5,148,555,108,136,39,107,9,65,0.245,0.328,0.508,0.836,,,,,,,,,,,,,garciad02,data
+2023,MVP,AL,American League,NYY,New York Yankees,East,15,Aaron Judge,NYY,7.0,0.0,2%,4.6,106,367,79,98,37,75,3,88,0.267,0.406,0.613,1.019,,,,,,,,,,,,,judgeaa01,data
+2023,MVP,AL,American League,TOR,Toronto Blue Jays,East,16,Bo Bichette,TOR,5.0,0.0,1%,4.8,135,571,69,175,20,73,5,27,0.306,0.339,0.475,0.814,,,,,,,,,,,,,bichebo01,data
+2023,MVP,AL,American League,SEA,Seattle Mariners,West,16,J.P. Crawford,SEA,5.0,0.0,1%,5.2,145,534,94,142,19,65,2,94,0.266,0.38,0.438,0.818,,,,,,,,,,,,,crawfjp01,data
+2023,MVP,AL,American League,BOS,Boston Red Sox,East,18,Rafael Devers,BOS,2.0,0.0,0%,3.5,153,580,90,157,33,100,5,62,0.271,0.351,0.5,0.851,,,,,,,,,,,,,deverra01,data
+2023,MVP,AL,American League,MIN,Minnesota Twins,Central,18,Sonny Gray,MIN,2.0,0.0,0%,5.6,0,0,0,0,0,0,0,0,,,,,8.0,8.0,2.79,1.147,32.0,32.0,0.0,184.0,156.0,8.0,55.0,183.0,grayso01,data
+2023,MVP,AL,American League,TBR,Tampa Bay Rays,East,18,Isaac Paredes,TBR,2.0,0.0,0%,4.2,143,492,71,123,31,98,1,58,0.25,0.352,0.488,0.84,,,,,,,,,,,,,paredis01,data
+2023,MVP,AL,American League,SEA,Seattle Mariners,West,18,Cal Raleigh,SEA,2.0,0.0,0%,3.4,145,513,78,119,30,75,0,54,0.232,0.306,0.456,0.762,,,,,,,,,,,,,raleica01,data
+2023,MVP,AL,American League,HOU,Houston Astros,West,22,Alex Bregman,HOU,1.0,0.0,0%,4.9,161,622,103,163,25,98,3,92,0.262,0.363,0.441,0.804,,,,,,,,,,,,,bregmal01,data
+2023,MVP,AL,American League,CLE,Cleveland Guardians,Central,22,Josh Naylor,CLE,1.0,0.0,0%,2.3,121,452,52,139,17,97,10,33,0.308,0.354,0.489,0.842,,,,,,,,,,,,,naylojo01,data
+2023,MVP,NL,National League,ATL,Atlanta Braves,East,1,Ronald Acuña Jr.,ATL,420.0,30.0,100%,8.4,159,643,149,217,41,106,73,80,0.337,0.416,0.596,1.012,,,,,,,,,,,,,acunaro01,data
+2023,MVP,NL,National League,LAD,Los Angeles Dodgers,West,2,Mookie Betts,LAD,270.0,0.0,64%,8.6,152,584,126,179,39,107,14,96,0.307,0.408,0.579,0.987,,,,,,,,,,,,,bettsmo01,data
+2023,MVP,NL,National League,LAD,Los Angeles Dodgers,West,3,Freddie Freeman,LAD,227.0,0.0,54%,6.8,161,637,131,211,29,102,23,72,0.331,0.41,0.567,0.976,,,,,,,,,,,,,freemfr01,data
+2023,MVP,NL,National League,ATL,Atlanta Braves,East,4,Matt Olson,ATL,223.0,0.0,53%,7.5,162,608,127,172,54,139,1,104,0.283,0.389,0.604,0.993,,,,,,,,,,,,,olsonma02,data
+2023,MVP,NL,National League,ARI,Arizona Diamondbacks,West,5,Corbin Carroll,ARI,165.0,0.0,39%,5.3,155,565,116,161,25,76,54,57,0.285,0.362,0.506,0.868,,,,,,,,,,,,,carroco02,data
+2023,MVP,NL,National League,SDP,San Diego Padres,West,6,Juan Soto,SDP,106.0,0.0,25%,5.3,162,568,97,156,35,109,12,132,0.275,0.41,0.519,0.93,,,,,,,,,,,,,sotoju01,data
+2023,MVP,NL,National League,ATL,Atlanta Braves,East,7,Austin Riley,ATL,68.0,0.0,16%,6.0,159,636,117,179,37,97,3,59,0.281,0.345,0.516,0.861,,,,,,,,,,,,,rileyau01,data
+2023,MVP,NL,National League,MIA,Miami Marlins,East,8,Luis Arraez,MIA,67.0,0.0,16%,4.6,147,574,71,203,10,69,3,35,0.354,0.393,0.469,0.861,,,,,,,,,,,,,arraelu01,data
+2023,MVP,NL,National League,NYM,New York Mets,East,9,Francisco Lindor,NYM,52.0,0.0,12%,6.1,160,602,108,153,31,98,31,66,0.254,0.336,0.47,0.806,,,,,,,,,,,,,lindofr01,data
+2023,MVP,NL,National League,CHC,Chicago Cubs,Central,10,Cody Bellinger,CHC,49.0,0.0,12%,4.8,130,499,95,153,26,97,20,40,0.307,0.356,0.525,0.881,,,,,,,,,,,,,bellico01,data
+2023,MVP,NL,National League,MIL,Milwaukee Brewers,Central,11,William Contreras,MIL,39.0,0.0,9%,3.7,141,540,86,156,17,78,6,63,0.289,0.367,0.457,0.825,,,,,,,,,,,,,contrwi02,data
+2023,MVP,NL,National League,PHI,Philadelphia Phillies,East,12,Bryce Harper,PHI,36.0,0.0,9%,3.6,126,457,84,134,21,72,11,80,0.293,0.401,0.499,0.9,,,,,,,,,,,,,harpebr03,data
+2023,MVP,NL,National League,SDP,San Diego Padres,West,13,Blake Snell,SDP,16.0,0.0,4%,6.5,0,0,0,0,0,0,0,0,,,,,14.0,9.0,2.25,1.189,32.0,32.0,0.0,180.0,115.0,15.0,99.0,234.0,snellbl01,data
+2023,MVP,NL,National League,SDP,San Diego Padres,West,14,Ha-Seong Kim,SDP,5.0,0.0,1%,5.4,152,538,84,140,17,60,38,75,0.26,0.351,0.398,0.749,,,,,,,,,,,,,kimha01,data
+2023,MVP,NL,National League,SDP,San Diego Padres,West,14,Fernando Tatis Jr.,SDP,5.0,0.0,1%,5.2,141,575,91,148,25,78,29,53,0.257,0.322,0.449,0.77,,,,,,,,,,,,,tatisfe02,data
+2023,MVP,NL,National League,ATL,Atlanta Braves,East,16,Ozzie Albies,ATL,4.0,0.0,1%,5.0,148,596,96,167,33,109,13,46,0.28,0.336,0.513,0.849,,,,,,,,,,,,,albieoz01,data
+2023,MVP,NL,National League,NYM,New York Mets,East,17,Pete Alonso,NYM,3.0,0.0,1%,3.3,154,568,92,123,46,118,4,65,0.217,0.318,0.504,0.821,,,,,,,,,,,,,alonspe01,data
+2023,MVP,NL,National League,SFG,San Francisco Giants,West,17,Logan Webb,SFG,3.0,0.0,1%,5.6,0,0,0,0,0,0,0,0,,,,,11.0,13.0,3.25,1.074,33.0,33.0,0.0,216.0,201.0,20.0,31.0,194.0,webblo01,data
+2023,MVP,NL,National League,ATL,Atlanta Braves,East,19,Marcell Ozuna,ATL,2.0,0.0,0%,3.4,144,530,84,145,40,100,0,57,0.274,0.346,0.558,0.905,,,,,,,,,,,,,ozunama01,data
+2023,MVP,NL,National League,PHI,Philadelphia Phillies,East,19,Kyle Schwarber,PHI,2.0,0.0,0%,0.7,160,585,108,115,47,104,0,126,0.197,0.343,0.474,0.817,,,,,,,,,,,,,schwaky01,data
+2023,MVP,NL,National League,CHC,Chicago Cubs,Central,19,Dansby Swanson,CHC,2.0,0.0,0%,5.2,147,565,81,138,22,80,9,66,0.244,0.328,0.416,0.744,,,,,,,,,,,,,swansda01,data
+2023,MVP,NL,National League,MIL,Milwaukee Brewers,Central,19,Devin Williams,MIL,2.0,0.0,0%,2.6,0,0,0,0,0,0,0,0,,,,,8.0,3.0,1.53,0.92,61.0,0.0,36.0,58.2,26.0,4.0,28.0,87.0,willide03,data
+2023,MVP,NL,National League,PHI,Philadelphia Phillies,East,23,Nick Castellanos,PHI,1.0,0.0,0%,1.5,157,626,79,170,29,106,11,36,0.272,0.311,0.476,0.788,,,,,,,,,,,,,casteni01,data
+2023,MVP,NL,National League,CIN,Cincinnati Reds,Central,23,TJ Friedl,CIN,1.0,0.0,0%,3.6,138,488,73,136,18,66,27,47,0.279,0.352,0.467,0.819,,,,,,,,,,,,,friedtj01,data
+2023,MVP,NL,National League,ARI,Arizona Diamondbacks,West,23,Zac Gallen,ARI,1.0,0.0,0%,4.4,0,0,0,0,0,0,0,0,,,,,17.0,9.0,3.47,1.119,34.0,34.0,0.0,210.0,188.0,22.0,47.0,220.0,galleza01,data
+2023,MVP,NL,National League,ARI,Arizona Diamondbacks,West,23,Christian Walker,ARI,1.0,0.0,0%,3.7,157,582,86,150,33,103,11,62,0.258,0.333,0.497,0.83,,,,,,,,,,,,,walkech02,data
+2024,MVP,AL,American League,NYY,New York Yankees,East,1,Aaron Judge,NYY,420.0,30.0,100%,10.9,158,559,122,180,58,144,10,133,0.322,0.458,0.701,1.159,,,,,,,,,,,,,judgeaa01,data
+2024,MVP,AL,American League,KCR,Kansas City Royals,Central,2,Bobby Witt Jr.,KCR,270.0,0.0,64%,9.6,161,636,125,211,32,109,31,57,0.332,0.389,0.588,0.977,,,,,,,,,,,,,wittbo02,data
+2024,MVP,AL,American League,NYY,New York Yankees,East,3,Juan Soto,NYY,229.0,0.0,55%,8.0,157,576,128,166,41,109,7,129,0.288,0.419,0.569,0.989,,,,,,,,,,,,,sotoju01,data
+2024,MVP,AL,American League,BAL,Baltimore Orioles,East,4,Gunnar Henderson,BAL,208.0,0.0,50%,8.8,159,630,118,177,37,92,21,78,0.281,0.364,0.529,0.893,,,,,,,,,,,,,hendegu01,data
+2024,MVP,AL,American League,CLE,Cleveland Guardians,Central,5,José Ramírez,CLE,184.0,0.0,44%,6.8,158,620,114,173,39,118,41,54,0.279,0.335,0.537,0.872,,,,,,,,,,,,,ramirjo01,data
+2024,MVP,AL,American League,TOR,Toronto Blue Jays,East,6,Vladimir Guerrero Jr.,TOR,99.0,0.0,24%,6.0,159,616,98,199,30,103,2,72,0.323,0.396,0.544,0.94,,,,,,,,,,,,,guerrvl02,data
+2024,MVP,AL,American League,DET,Detroit Tigers,Central,7,Tarik Skubal,DET,93.0,0.0,22%,6.7,0,0,0,0,0,0,0,0,,,,,18.0,4.0,2.39,0.922,31.0,31.0,0.0,192.0,142.0,15.0,35.0,228.0,skubata01,data
+2024,MVP,AL,American League,BOS,Boston Red Sox,East,8,Jarren Duran,BOS,90.0,0.0,21%,9.0,160,671,111,191,21,75,34,54,0.285,0.342,0.492,0.834,,,,,,,,,,,,,duranja01,data
+2024,MVP,AL,American League,HOU,Houston Astros,West,9,Yordan Alvarez,HOU,75.0,0.0,18%,5.2,147,552,88,170,35,86,6,69,0.308,0.392,0.567,0.959,,,,,,,,,,,,,alvaryo01,data
+2024,MVP,AL,American League,OAK,Oakland Athletics,West,10,Brent Rooker,OAK,40.0,0.0,10%,5.6,145,546,82,160,39,112,11,59,0.293,0.365,0.562,0.927,,,,,,,,,,,,,rookebr01,data
+2024,MVP,AL,American League,CLE,Cleveland Guardians,Central,11,Emmanuel Clase,CLE,36.0,0.0,9%,4.4,0,0,0,0,0,0,0,0,,,,,4.0,2.0,0.61,0.659,74.0,0.0,47.0,74.1,39.0,2.0,10.0,66.0,claseem01,data
+2024,MVP,AL,American League,SEA,Seattle Mariners,West,12,Cal Raleigh,SEA,12.0,0.0,3%,4.6,153,546,73,120,34,100,6,70,0.22,0.312,0.436,0.748,,,,,,,,,,,,,raleica01,data
+2024,MVP,AL,American League,BOS,Boston Red Sox,East,13,Rafael Devers,BOS,5.0,0.0,1%,3.9,138,525,87,143,28,83,3,67,0.272,0.354,0.516,0.871,,,,,,,,,,,,,deverra01,data
+2024,MVP,AL,American League,BAL,Baltimore Orioles,East,14,Anthony Santander,BAL,4.0,0.0,1%,2.7,155,595,91,140,44,102,2,58,0.235,0.308,0.506,0.814,,,,,,,,,,,,,santaan02,data
+2024,MVP,AL,American League,HOU,Houston Astros,West,15,Jose Altuve,HOU,1.0,0.0,0%,3.2,153,628,94,185,20,65,22,47,0.295,0.35,0.439,0.79,,,,,,,,,,,,,altuvjo01,data
+2024,MVP,AL,American League,DET,Detroit Tigers,Central,15,Tyler Holton,DET,1.0,0.0,0%,3.2,0,0,0,0,0,0,0,0,,,,,7.0,2.0,2.19,0.784,66.0,9.0,8.0,94.1,57.0,7.0,17.0,77.0,holtoty01,data
+2024,MVP,AL,American League,KCR,Kansas City Royals,Central,15,Seth Lugo,KCR,1.0,0.0,0%,5.0,0,0,0,0,0,0,0,0,,,,,16.0,9.0,3.0,1.089,33.0,33.0,0.0,206.2,177.0,16.0,48.0,181.0,lugose01,data
+2024,MVP,AL,American League,TEX,Texas Rangers,West,15,Corey Seager,TEX,1.0,0.0,0%,5.2,123,475,68,132,30,74,1,53,0.278,0.353,0.512,0.864,,,,,,,,,,,,,seageco01,data
+2024,MVP,AL,American League,HOU,Houston Astros,West,15,Framber Valdez,HOU,1.0,0.0,0%,4.6,0,0,0,0,0,0,0,0,,,,,15.0,7.0,2.91,1.106,28.0,28.0,0.0,176.1,140.0,13.0,55.0,169.0,valdefr01,data
+2024,MVP,NL,National League,LAD,Los Angeles Dodgers,West,1,Shohei Ohtani,LAD,420.0,30.0,100%,9.0,159,636,134,197,54,130,59,81,0.31,0.39,0.646,1.036,,,,,,,,,,,,,ohtansh01,data
+2024,MVP,NL,National League,NYM,New York Mets,East,2,Francisco Lindor,NYM,263.0,0.0,63%,6.8,152,618,107,169,33,91,29,56,0.273,0.344,0.5,0.844,,,,,,,,,,,,,lindofr01,data
+2024,MVP,NL,National League,ARI,Arizona Diamondbacks,West,3,Ketel Marte,ARI,229.0,0.0,55%,6.8,136,504,93,147,36,95,7,65,0.292,0.372,0.56,0.932,,,,,,,,,,,,,marteke01,data
+2024,MVP,NL,National League,ATL,Atlanta Braves,East,4,Marcell Ozuna,ATL,134.0,0.0,32%,4.3,162,606,96,183,39,104,1,74,0.302,0.378,0.546,0.925,,,,,,,,,,,,,ozunama01,data
+2024,MVP,NL,National League,MIL,Milwaukee Brewers,Central,5,William Contreras,MIL,132.0,0.0,31%,5.0,155,595,99,167,23,92,9,78,0.281,0.365,0.466,0.831,,,,,,,,,,,,,contrwi02,data
+2024,MVP,NL,National League,PHI,Philadelphia Phillies,East,6,Bryce Harper,PHI,130.0,0.0,31%,4.6,145,550,85,157,30,87,7,76,0.285,0.373,0.525,0.898,,,,,,,,,,,,,harpebr03,data
+2024,MVP,NL,National League,ATL,Atlanta Braves,East,7,Chris Sale,ATL,99.0,0.0,24%,6.2,0,0,0,0,0,0,0,0,,,,,18.0,3.0,2.38,1.013,29.0,29.0,0.0,177.2,141.0,9.0,39.0,225.0,salech01,data
+2024,MVP,NL,National League,CIN,Cincinnati Reds,Central,8,Elly De La Cruz,CIN,89.0,0.0,21%,5.2,160,618,105,160,25,76,67,69,0.259,0.339,0.471,0.809,,,,,,,,,,,,,delacel01,data
+2024,MVP,NL,National League,SDP,San Diego Padres,West,9,Jackson Merrill,SDP,57.0,0.0,14%,4.5,156,554,77,162,24,90,16,29,0.292,0.326,0.5,0.826,,,,,,,,,,,,,merrija01,data
+2024,MVP,NL,National League,MIL,Milwaukee Brewers,Central,10,Willy Adames,MIL,54.0,0.0,13%,3.2,161,610,93,153,32,112,21,74,0.251,0.331,0.462,0.794,,,,,,,,,,,,,adamewi01,data
+2024,MVP,NL,National League,SFG,San Francisco Giants,West,11,Matt Chapman,SFG,37.0,0.0,9%,7.1,154,575,98,142,27,78,15,64,0.247,0.328,0.463,0.79,,,,,,,,,,,,,chapmma01,data
+2024,MVP,NL,National League,PHI,Philadelphia Phillies,East,12,Zack Wheeler,PHI,31.0,0.0,7%,6.5,0,0,0,0,0,0,0,0,,,,,16.0,7.0,2.57,0.955,32.0,32.0,0.0,200.0,139.0,20.0,52.0,224.0,wheelza01,data
+2024,MVP,NL,National League,LAD,Los Angeles Dodgers,West,13,Mookie Betts,LAD,24.0,0.0,6%,4.6,116,450,75,130,19,75,16,61,0.289,0.372,0.491,0.863,,,,,,,,,,,,,bettsmo01,data
+2024,MVP,NL,National League,SDP,San Diego Padres,West,14,Jurickson Profar,SDP,23.0,0.0,5%,3.6,158,564,94,158,24,85,10,76,0.28,0.38,0.459,0.839,,,,,,,,,,,,,profaju01,data
+2024,MVP,NL,National League,PHI,Philadelphia Phillies,East,15,Kyle Schwarber,PHI,15.0,0.0,4%,3.3,150,573,110,142,38,104,5,106,0.248,0.366,0.485,0.851,,,,,,,,,,,,,schwaky01,data
+2024,MVP,NL,National League,SDP,San Diego Padres,West,16,Manny Machado,SDP,12.0,0.0,3%,3.1,152,593,77,163,29,105,11,45,0.275,0.325,0.472,0.797,,,,,,,,,,,,,machama01,data
+2024,MVP,NL,National League,LAD,Los Angeles Dodgers,West,17,Freddie Freeman,LAD,6.0,0.0,1%,4.5,147,542,81,153,22,89,9,78,0.282,0.378,0.476,0.854,,,,,,,,,,,,,freemfr01,data
+2024,MVP,NL,National League,TOT,,,18,Luis Arraez,TOT,4.0,0.0,1%,1.1,150,637,83,200,4,46,9,24,0.314,0.346,0.392,0.739,,,,,,,,,,,,,arraelu01,data
+2024,MVP,NL,National League,LAD,Los Angeles Dodgers,West,19,Teoscar Hernández,LAD,3.0,0.0,1%,4.1,154,589,84,160,33,99,12,53,0.272,0.339,0.501,0.84,,,,,,,,,,,,,hernate01,data
+2024,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,19,Paul Skenes,PIT,3.0,0.0,1%,5.8,0,0,0,0,0,0,0,0,,,,,11.0,3.0,1.96,0.947,23.0,23.0,0.0,133.0,94.0,10.0,32.0,170.0,skenepa01,data
+2024,MVP,NL,National League,COL,Colorado Rockies,West,19,Ezequiel Tovar,COL,3.0,0.0,1%,3.6,157,655,83,176,26,78,6,23,0.269,0.295,0.469,0.763,,,,,,,,,,,,,tovarez01,data
+2024,MVP,NL,National League,SDP,San Diego Padres,West,22,Dylan Cease,SDP,1.0,0.0,0%,4.0,0,0,0,0,0,0,0,0,,,,,14.0,11.0,3.47,1.067,33.0,33.0,0.0,189.1,137.0,18.0,65.0,224.0,ceasedy01,data
+2024,MVP,NL,National League,MIL,Milwaukee Brewers,Central,22,Jackson Chourio,MIL,1.0,0.0,0%,3.9,148,528,80,145,21,79,22,39,0.275,0.327,0.464,0.791,,,,,,,,,,,,,chourja01,data
+2025,MVP,AL,American League,NYY,New York Yankees,East,1,Aaron Judge,NYY,355.0,17.0,85%,9.7,152,541,137,179,53,114,12,124,0.331,0.457,0.688,1.144,,,,,,,,,,,,,judgeaa01,data
+2025,MVP,AL,American League,SEA,Seattle Mariners,West,2,Cal Raleigh,SEA,335.0,13.0,80%,7.2,159,596,110,147,60,125,14,97,0.247,0.359,0.589,0.948,,,,,,,,,,,,,raleica01,data
+2025,MVP,AL,American League,CLE,Cleveland Guardians,Central,3,José Ramírez,CLE,224.0,0.0,53%,5.9,158,593,103,168,30,85,44,66,0.283,0.36,0.503,0.863,,,,,,,,,,,,,ramirjo01,data
+2025,MVP,AL,American League,KCR,Kansas City Royals,Central,4,Bobby Witt Jr.,KCR,215.0,0.0,51%,7.1,157,623,99,184,23,88,38,49,0.295,0.351,0.501,0.852,,,,,,,,,,,,,wittbo02,data
+2025,MVP,AL,American League,DET,Detroit Tigers,Central,5,Tarik Skubal,DET,139.0,0.0,33%,6.4,0,0,0,0,0,0,0,0,,,,,13.0,6.0,2.21,0.891,31.0,31.0,0.0,195.1,141.0,18.0,33.0,241.0,skubata01,data
+2025,MVP,AL,American League,SEA,Seattle Mariners,West,6,Julio Rodríguez,SEA,136.0,0.0,32%,6.6,160,652,106,174,32,95,30,44,0.267,0.324,0.474,0.798,,,,,,,,,,,,,rodriju01,data
+2025,MVP,AL,American League,TOR,Toronto Blue Jays,East,7,George Springer,TOR,125.0,0.0,30%,4.8,140,498,106,154,32,84,18,69,0.309,0.399,0.56,0.959,,,,,,,,,,,,,springe01,data
+2025,MVP,AL,American League,BOS,Boston Red Sox,East,8,Garrett Crochet,BOS,74.0,0.0,18%,6.0,0,0,0,0,0,0,0,0,,,,,18.0,5.0,2.59,1.028,32.0,32.0,0.0,205.1,165.0,24.0,46.0,255.0,crochga01,data
+2025,MVP,AL,American League,TBR,Tampa Bay Rays,East,9,Junior Caminero,TBR,37.0,0.0,9%,4.3,154,602,93,159,45,110,7,41,0.264,0.311,0.535,0.846,,,,,,,,,,,,,caminju01,data
+2025,MVP,AL,American League,HOU,Houston Astros,West,10,Jeremy Peña,HOU,32.0,0.0,8%,5.7,125,493,68,150,17,62,20,35,0.304,0.363,0.477,0.84,,,,,,,,,,,,,penaje02,data
+2025,MVP,AL,American League,MIN,Minnesota Twins,Central,11,Byron Buxton,MIN,30.0,0.0,7%,4.9,126,488,97,129,35,83,24,41,0.264,0.327,0.551,0.878,,,,,,,,,,,,,buxtoby01,data
+2025,MVP,AL,American League,ATH,Athletics,West,12,Nick Kurtz,ATH,29.0,0.0,7%,5.0,117,420,90,122,36,86,2,63,0.29,0.383,0.619,1.002,,,,,,,,,,,,,kurtzni01,data
+2025,MVP,AL,American League,TOR,Toronto Blue Jays,East,13,Vladimir Guerrero Jr.,TOR,14.0,0.0,3%,4.6,156,589,96,172,23,84,6,81,0.292,0.381,0.467,0.848,,,,,,,,,,,,,guerrvl02,data
+2025,MVP,AL,American League,NYY,New York Yankees,East,14,Cody Bellinger,NYY,7.0,0.0,2%,5.0,152,588,89,160,29,98,13,57,0.272,0.334,0.48,0.813,,,,,,,,,,,,,bellico01,data
+2025,MVP,AL,American League,KCR,Kansas City Royals,Central,14,Maikel Garcia,KCR,7.0,0.0,2%,5.8,160,595,81,170,16,74,23,62,0.286,0.351,0.449,0.8,,,,,,,,,,,,,garcima01,data
+2025,MVP,AL,American League,TOR,Toronto Blue Jays,East,16,Bo Bichette,TOR,5.0,0.0,1%,3.4,139,582,78,181,18,94,4,40,0.311,0.357,0.483,0.84,,,,,,,,,,,,,bichebo01,data
+2025,MVP,AL,American League,DET,Detroit Tigers,Central,17,Riley Greene,DET,3.0,0.0,1%,2.2,157,600,84,155,36,111,2,46,0.258,0.313,0.493,0.806,,,,,,,,,,,,,greenri03,data
+2025,MVP,AL,American League,BOS,Boston Red Sox,East,18,Aroldis Chapman,BOS,1.0,0.0,0%,3.4,2,0,0,0,0,0,0,0,,,,,5.0,3.0,1.17,0.701,67.0,0.0,32.0,61.1,28.0,3.0,15.0,85.0,chapmar01,data
+2025,MVP,AL,American League,TBR,Tampa Bay Rays,East,18,Yandy Díaz,TBR,1.0,0.0,0%,3.3,150,583,79,175,25,83,3,57,0.3,0.366,0.482,0.848,,,,,,,,,,,,,diazya01,data
+2025,MVP,AL,American League,ATH,Athletics,West,18,Jacob Wilson,ATH,1.0,0.0,0%,2.6,125,486,62,151,13,63,5,27,0.311,0.355,0.444,0.8,,,,,,,,,,,,,wilsoja05,data
+2025,MVP,NL,National League,LAD,Los Angeles Dodgers,West,1,Shohei Ohtani,LAD,420.0,30.0,100%,7.7,158,611,146,172,55,102,20,109,0.282,0.392,0.622,1.014,1.0,1.0,2.87,1.043,14.0,14.0,0.0,47.0,40.0,3.0,9.0,62.0,ohtansh01,data
+2025,MVP,NL,National League,PHI,Philadelphia Phillies,East,2,Kyle Schwarber,PHI,260.0,0.0,62%,4.6,162,604,111,145,56,132,10,108,0.24,0.365,0.563,0.928,,,,,,,,,,,,,schwaky01,data
+2025,MVP,NL,National League,NYM,New York Mets,East,3,Juan Soto,NYM,231.0,0.0,55%,6.1,160,577,120,152,43,105,38,127,0.263,0.396,0.525,0.921,,,,,,,,,,,,,sotoju01,data
+2025,MVP,NL,National League,ARI,Arizona Diamondbacks,West,4,Geraldo Perdomo,ARI,196.0,0.0,47%,7.1,161,597,98,173,20,100,27,94,0.29,0.389,0.462,0.851,,,,,,,,,,,,,perdoge01,data
+2025,MVP,NL,National League,PHI,Philadelphia Phillies,East,5,Trea Turner,PHI,102.0,0.0,24%,5.4,141,589,94,179,15,69,36,43,0.304,0.355,0.457,0.812,,,,,,,,,,,,,turnetr01,data
+2025,MVP,NL,National League,ARI,Arizona Diamondbacks,West,6,Corbin Carroll,ARI,83.0,0.0,20%,5.8,143,564,107,146,31,84,32,67,0.259,0.343,0.541,0.883,,,,,,,,,,,,,carroco02,data
+2025,MVP,NL,National League,PIT,Pittsburgh Pirates,Central,6,Paul Skenes,PIT,83.0,0.0,20%,8.0,0,0,0,0,0,0,0,0,,,,,10.0,10.0,1.97,0.948,32.0,32.0,0.0,187.2,136.0,11.0,42.0,216.0,skenepa01,data
+2025,MVP,NL,National League,SDP,San Diego Padres,West,8,Fernando Tatis Jr.,SDP,78.0,0.0,19%,6.1,155,594,111,159,25,71,32,89,0.268,0.368,0.446,0.814,,,,,,,,,,,,,tatisfe02,data
+2025,MVP,NL,National League,CHC,Chicago Cubs,Central,9,Pete Crow-Armstrong,CHC,63.0,0.0,15%,5.9,157,591,91,146,31,95,35,29,0.247,0.287,0.481,0.768,,,,,,,,,,,,,crowape01,data
+2025,MVP,NL,National League,NYM,New York Mets,East,10,Francisco Lindor,NYM,61.0,0.0,15%,5.8,160,644,117,172,31,86,31,65,0.267,0.346,0.466,0.811,,,,,,,,,,,,,lindofr01,data
+2025,MVP,NL,National League,NYM,New York Mets,East,11,Pete Alonso,NYM,48.0,0.0,11%,3.3,162,624,87,170,38,126,1,61,0.272,0.347,0.524,0.871,,,,,,,,,,,,,alonspe01,data
+2025,MVP,NL,National League,MIL,Milwaukee Brewers,Central,12,Christian Yelich,MIL,34.0,0.0,8%,3.0,150,573,88,151,29,103,16,64,0.264,0.343,0.452,0.795,,,,,,,,,,,,,yelicch01,data
+2025,MVP,NL,National League,LAD,Los Angeles Dodgers,West,13,Freddie Freeman,LAD,29.0,0.0,7%,3.5,147,556,81,164,24,90,6,60,0.295,0.367,0.502,0.869,,,,,,,,,,,,,freemfr01,data
+2025,MVP,NL,National League,MIL,Milwaukee Brewers,Central,14,Brice Turang,MIL,23.0,0.0,5%,5.5,156,584,97,168,18,81,24,66,0.288,0.359,0.435,0.794,,,,,,,,,,,,,turanbr02,data
+2025,MVP,NL,National League,PHI,Philadelphia Phillies,East,15,Cristopher Sánchez,PHI,16.0,0.0,4%,8.1,0,0,0,0,0,0,0,0,,,,,13.0,5.0,2.5,1.064,32.0,32.0,0.0,202.0,171.0,12.0,44.0,212.0,sanchcr01,data
+2025,MVP,NL,National League,CHC,Chicago Cubs,Central,16,Michael Busch,CHC,11.0,0.0,3%,4.5,155,524,78,137,34,90,4,56,0.261,0.343,0.523,0.866,,,,,,,,,,,,,buschmi02,data
+2025,MVP,NL,National League,SDP,San Diego Padres,West,16,Manny Machado,SDP,11.0,0.0,3%,4.2,159,615,91,169,27,95,14,55,0.275,0.335,0.46,0.795,,,,,,,,,,,,,machama01,data
+2025,MVP,NL,National League,ATL,Atlanta Braves,East,18,Matt Olson,ATL,7.0,0.0,2%,6.2,162,624,98,170,29,95,1,91,0.272,0.366,0.484,0.85,,,,,,,,,,,,,olsonma02,data
+2025,MVP,NL,National League,CHC,Chicago Cubs,Central,19,Nico Hoerner,CHC,5.0,0.0,1%,6.2,156,599,89,178,7,61,29,39,0.297,0.345,0.394,0.739,,,,,,,,,,,,,hoernni01,data
+2025,MVP,NL,National League,LAD,Los Angeles Dodgers,West,20,Will Smith,LAD,3.0,0.0,1%,4.4,110,362,64,107,17,61,2,64,0.296,0.404,0.497,0.901,,,,,,,,,,,,,smithwi05,data
+2025,MVP,NL,National League,CHC,Chicago Cubs,Central,20,Seiya Suzuki,CHC,3.0,0.0,1%,2.6,151,571,75,140,32,103,5,71,0.245,0.326,0.478,0.804,,,,,,,,,,,,,suzukse01,data
+2025,MVP,NL,National League,ARI,Arizona Diamondbacks,West,22,Ketel Marte,ARI,2.0,0.0,0%,4.4,126,480,87,136,28,72,4,64,0.283,0.376,0.517,0.893,,,,,,,,,,,,,marteke01,data
+2025,MVP,NL,National League,CIN,Cincinnati Reds,Central,23,Elly De La Cruz,CIN,1.0,0.0,0%,3.6,162,629,102,166,22,86,37,67,0.264,0.336,0.44,0.777,,,,,,,,,,,,,delacel01,data

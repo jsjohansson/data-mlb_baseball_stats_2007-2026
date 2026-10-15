@@ -1,0 +1,247 @@
+﻿Season,Award,League,League_Name,Team,Team_Name,Division,Rank,Name,Tm,Vote Pts,1st Place,Share,W,L,W-L%,Ties,G,Finish,Player_ID,Row_Type
+2007,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,1,Eric Wedge,CLE,116.0,19.0,83%,96,66,0.593,0,162,1,wedgeer01,data
+2007,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mike Scioscia,LAA,62.0,4.0,44%,94,68,0.58,0,162,1,sciosmi01,data
+2007,Manager Of The Year,AL,American League,NYY,New York Yankees,East,3,Joe Torre,NYY,61.0,5.0,44%,94,68,0.58,0,162,2,torrejo01,data
+2007,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,4,Terry Francona,BOS,13.0,0.0,9%,96,66,0.593,0,162,1,francte01,data
+2007,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,1,Bob Melvin,ARI,119.0,19.0,74%,90,72,0.556,0,162,1,melvibo01,data
+2007,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,2,Charlie Manuel,PHI,76.0,7.0,48%,89,73,0.549,0,162,1,manuech01,data
+2007,Manager Of The Year,NL,National League,COL,Colorado Rockies,West,3,Clint Hurdle,COL,58.0,4.0,36%,90,73,0.552,0,163,2,hurdlcl01,data
+2007,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,4,Lou Piniella,CHC,25.0,2.0,16%,85,77,0.525,0,162,1,pinielo01,data
+2007,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,5,Manny Acta,WSN,4.0,0.0,3%,73,89,0.451,0,162,4,actama99,data
+2007,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,5,Bud Black,SDP,4.0,0.0,3%,89,74,0.546,0,163,3,blackbu02,data
+2007,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,7,Ned Yost,MIL,2.0,0.0,1%,83,79,0.512,0,162,2,yostne01,data
+2008,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Joe Maddon,TBR,138.0,27.0,99%,97,65,0.599,0,162,1,maddojo99,data
+2008,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,2,Ron Gardenhire,MIN,58.0,1.0,41%,88,75,0.54,0,163,2,gardero01,data
+2008,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,3,Mike Scioscia,LAA,45.0,0.0,32%,100,62,0.617,0,162,1,sciosmi01,data
+2008,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,4,Terry Francona,BOS,6.0,0.0,4%,95,67,0.586,0,162,2,francte01,data
+2008,Manager Of The Year,AL,American League,CHW,Chicago White Sox,Central,5,Ozzie Guillén,CHW,3.0,0.0,2%,89,74,0.546,0,163,1,guilloz01,data
+2008,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,6,Cito Gaston,TOR,2.0,0.0,1%,51,37,0.58,0,88,4,gastoci01,data
+2008,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,1,Lou Piniella,CHC,103.0,15.0,64%,97,64,0.602,0,161,1,pinielo01,data
+2008,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,2,Charlie Manuel,PHI,67.0,8.0,42%,92,70,0.568,0,162,1,manuech01,data
+2008,Manager Of The Year,NL,National League,FLA,Florida Marlins,East,3,Fredi González,FLA,48.0,5.0,30%,84,77,0.522,0,161,3,gonzafr99,data
+2008,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,4,Joe Torre,LAD,45.0,3.0,28%,84,78,0.519,0,162,1,torrejo01,data
+2008,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,5,Tony La Russa,STL,11.0,1.0,7%,86,76,0.531,0,162,4,larusto01,data
+2008,Manager Of The Year,NL,National League,NYM,New York Mets,East,6,Jerry Manuel,NYM,10.0,0.0,6%,55,38,0.591,0,93,2,manueje01,data
+2008,Manager Of The Year,NL,National League,HOU,Houston Astros,Central,7,Cecil Cooper,HOU,3.0,0.0,2%,86,75,0.534,0,161,3,coopece01,data
+2008,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,8,Dale Sveum,MIL,1.0,0.0,1%,7,5,0.583,0,12,2,sveumda01,data
+2009,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,1,Mike Scioscia,LAA,106.0,15.0,76%,97,65,0.599,0,162,1,sciosmi01,data
+2009,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,2,Ron Gardenhire,MIN,72.0,6.0,51%,87,76,0.534,0,163,1,gardero01,data
+2009,Manager Of The Year,AL,American League,NYY,New York Yankees,East,3,Joe Girardi,NYY,34.0,4.0,24%,103,59,0.636,0,162,1,girarjo01,data
+2009,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,4,Don Wakamatsu,SEA,19.0,2.0,14%,85,77,0.525,0,162,3,wakamdo01,data
+2009,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,4,Ron Washington,TEX,19.0,1.0,14%,87,75,0.537,0,162,2,washiro01,data
+2009,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,6,Jim Leyland,DET,2.0,0.0,1%,86,77,0.528,0,163,2,leylaji99,data
+2009,Manager Of The Year,NL,National League,COL,Colorado Rockies,West,1,Jim Tracy,COL,151.0,29.0,94%,74,42,0.638,0,116,2,tracyji01,data
+2009,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,2,Tony La Russa,STL,55.0,2.0,34%,91,71,0.562,0,162,1,larusto01,data
+2009,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,3,Joe Torre,LAD,33.0,1.0,21%,95,67,0.586,0,162,1,torrejo01,data
+2009,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,4,Bruce Bochy,SFG,18.0,0.0,11%,88,74,0.543,0,162,3,bochybr01,data
+2009,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,5,Bobby Cox,ATL,15.0,0.0,9%,86,76,0.531,0,162,3,coxbo01,data
+2009,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,6,Charlie Manuel,PHI,10.0,0.0,6%,93,69,0.574,0,162,1,manuech01,data
+2009,Manager Of The Year,NL,National League,FLA,Florida Marlins,East,7,Fredi González,FLA,4.0,0.0,3%,87,75,0.537,0,162,2,gonzafr99,data
+2009,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,8,Bud Black,SDP,2.0,0.0,1%,75,87,0.463,0,162,4,blackbu02,data
+2010,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,1,Ron Gardenhire,MIN,108.0,16.0,77%,94,68,0.58,0,162,1,gardero01,data
+2010,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,2,Ron Washington,TEX,81.0,10.0,58%,90,72,0.556,0,162,1,washiro01,data
+2010,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Joe Maddon,TBR,44.0,1.0,31%,96,66,0.593,0,162,1,maddojo99,data
+2010,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,4,Terry Francona,BOS,13.0,0.0,9%,89,73,0.549,0,162,3,francte01,data
+2010,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,5,Cito Gaston,TOR,5.0,1.0,4%,85,77,0.525,0,162,4,gastoci01,data
+2010,Manager Of The Year,AL,American League,NYY,New York Yankees,East,6,Joe Girardi,NYY,1.0,0.0,1%,95,67,0.586,0,162,2,girarjo01,data
+2010,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,1,Bud Black,SDP,104.0,16.0,74%,90,72,0.556,0,162,2,blackbu02,data
+2010,Manager Of The Year,NL,National League,CIN,Cincinnati Reds,Central,2,Dusty Baker,CIN,103.0,13.0,74%,91,71,0.562,0,162,1,bakerdu01,data
+2010,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,3,Bruce Bochy,SFG,30.0,1.0,21%,92,70,0.568,0,162,1,bochybr01,data
+2010,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,4,Bobby Cox,ATL,28.0,1.0,20%,91,71,0.562,0,162,2,coxbo01,data
+2010,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,5,Charlie Manuel,PHI,20.0,1.0,14%,97,65,0.599,0,162,1,manuech01,data
+2010,Manager Of The Year,NL,National League,HOU,Houston Astros,Central,6,Brad Mills,HOU,3.0,0.0,2%,76,86,0.469,0,162,4,millsbr01,data
+2011,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Joe Maddon,TBR,133.0,26.0,95%,91,71,0.562,0,162,2,maddojo99,data
+2011,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,2,Jim Leyland,DET,54.0,1.0,39%,95,67,0.586,0,162,1,leylaji99,data
+2011,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,3,Ron Washington,TEX,31.0,1.0,22%,96,66,0.593,0,162,1,washiro01,data
+2011,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,4,Manny Acta,CLE,16.0,0.0,11%,80,82,0.494,0,162,2,actama99,data
+2011,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Joe Girardi,NYY,14.0,0.0,10%,97,65,0.599,0,162,1,girarjo01,data
+2011,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,6,Mike Scioscia,LAA,4.0,0.0,3%,86,76,0.531,0,162,2,sciosmi01,data
+2011,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,1,Kirk Gibson,ARI,152.0,28.0,95%,94,68,0.58,0,162,1,gibsoki01,data
+2011,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,2,Ron Roenicke,MIL,92.0,3.0,58%,96,66,0.593,0,162,1,roeniro01,data
+2011,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Tony La Russa,STL,24.0,1.0,15%,90,72,0.556,0,162,2,larusto01,data
+2011,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,4,Charlie Manuel,PHI,10.0,0.0,6%,102,60,0.63,0,162,1,manuech01,data
+2011,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,5,Fredi González,ATL,4.0,0.0,3%,89,73,0.549,0,162,2,gonzafr99,data
+2011,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,6,Bruce Bochy,SFG,2.0,0.0,1%,86,76,0.531,0,162,2,bochybr01,data
+2011,Manager Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,6,Clint Hurdle,PIT,2.0,0.0,1%,72,90,0.444,0,162,4,hurdlcl01,data
+2011,Manager Of The Year,NL,National League,NYM,New York Mets,East,8,Terry Collins,NYM,1.0,0.0,1%,77,85,0.475,0,162,4,collite99,data
+2011,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,8,Don Mattingly,LAD,1.0,0.0,1%,82,79,0.509,0,161,3,mattido01,data
+2012,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,1,Bob Melvin,OAK,116.0,16.0,83%,94,68,0.58,0,162,1,melvibo01,data
+2012,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,2,Buck Showalter,BAL,108.0,12.0,77%,93,69,0.574,0,162,2,showabu99,data
+2012,Manager Of The Year,AL,American League,CHW,Chicago White Sox,Central,3,Robin Ventura,CHW,12.0,0.0,9%,85,77,0.525,0,162,2,venturo01,data
+2012,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,4,Joe Maddon,TBR,7.0,0.0,5%,90,72,0.556,0,162,3,maddojo99,data
+2012,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Joe Girardi,NYY,5.0,0.0,4%,95,67,0.586,0,162,1,girarjo01,data
+2012,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,6,Jim Leyland,DET,2.0,0.0,1%,88,74,0.543,0,162,1,leylaji99,data
+2012,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,6,Ron Washington,TEX,2.0,0.0,1%,93,69,0.574,0,162,2,washiro01,data
+2012,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,1,Davey Johnson,WSN,131.0,23.0,82%,98,64,0.605,0,162,1,johnsda02,data
+2012,Manager Of The Year,NL,National League,CIN,Cincinnati Reds,Central,2,Dusty Baker,CIN,77.0,5.0,48%,97,65,0.599,0,162,1,bakerdu01,data
+2012,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,3,Bruce Bochy,SFG,61.0,4.0,38%,94,68,0.58,0,162,1,bochybr01,data
+2012,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,4,Fredi González,ATL,17.0,0.0,11%,94,68,0.58,0,162,2,gonzafr99,data
+2012,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,5,Bud Black,SDP,1.0,0.0,1%,76,86,0.469,0,162,4,blackbu02,data
+2012,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,5,Mike Matheny,STL,1.0,0.0,1%,88,74,0.543,0,162,2,mathemi01,data
+2013,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,1,Terry Francona,CLE,112.0,16.0,75%,92,70,0.568,0,162,2,francte01,data
+2013,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,2,John Farrell,BOS,96.0,12.0,64%,97,65,0.599,0,162,1,farrejo03,data
+2013,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,3,Bob Melvin,OAK,36.0,2.0,24%,96,66,0.593,0,162,1,melvibo01,data
+2013,Manager Of The Year,AL,American League,NYY,New York Yankees,East,4,Joe Girardi,NYY,11.0,0.0,7%,85,77,0.525,0,162,3,girarjo01,data
+2013,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,5,Joe Maddon,TBR,9.0,0.0,6%,92,71,0.564,0,163,2,maddojo99,data
+2013,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,6,Jim Leyland,DET,3.0,0.0,2%,93,69,0.574,0,162,1,leylaji99,data
+2013,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,7,Buck Showalter,BAL,1.0,0.0,1%,85,77,0.525,0,162,3,showabu99,data
+2013,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,7,Ron Washington,TEX,1.0,0.0,1%,91,72,0.558,0,163,2,washiro01,data
+2013,Manager Of The Year,AL,American League,KCR,Kansas City Royals,Central,7,Ned Yost,KCR,1.0,0.0,1%,86,76,0.531,0,162,3,yostne01,data
+2013,Manager Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,1,Clint Hurdle,PIT,140.0,25.0,93%,94,68,0.58,0,162,2,hurdlcl01,data
+2013,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,2,Don Mattingly,LAD,68.0,2.0,45%,92,70,0.568,0,162,1,mattido01,data
+2013,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Fredi González,ATL,43.0,3.0,29%,96,66,0.593,0,162,1,gonzafr99,data
+2013,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,4,Mike Matheny,STL,19.0,0.0,13%,97,65,0.599,0,162,1,mathemi01,data
+2014,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,1,Buck Showalter,BAL,132.0,25.0,88%,96,66,0.593,0,162,1,showabu99,data
+2014,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mike Scioscia,LAA,61.0,4.0,41%,98,64,0.605,0,162,1,sciosmi01,data
+2014,Manager Of The Year,AL,American League,KCR,Kansas City Royals,Central,3,Ned Yost,KCR,41.0,0.0,27%,89,73,0.549,0,162,2,yostne01,data
+2014,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,4,Lloyd McClendon,SEA,29.0,1.0,19%,87,75,0.537,0,162,3,mcclell01,data
+2014,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,5,Terry Francona,CLE,2.0,0.0,1%,85,77,0.525,0,162,3,francte01,data
+2014,Manager Of The Year,AL,American League,NYY,New York Yankees,East,6,Joe Girardi,NYY,1.0,0.0,1%,84,78,0.519,0,162,2,girarjo01,data
+2014,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,6,Bob Melvin,OAK,1.0,0.0,1%,88,74,0.543,0,162,2,melvibo01,data
+2014,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,1,Matt Williams,WSN,109.0,18.0,73%,96,66,0.593,0,162,1,willima04,data
+2014,Manager Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,2,Clint Hurdle,PIT,80.0,8.0,53%,88,74,0.543,0,162,2,hurdlcl01,data
+2014,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,3,Bruce Bochy,SFG,30.0,3.0,20%,88,74,0.543,0,162,2,bochybr01,data
+2014,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,4,Mike Matheny,STL,18.0,0.0,12%,90,72,0.556,0,162,1,mathemi01,data
+2014,Manager Of The Year,NL,National League,MIA,Miami Marlins,East,5,Mike Redmond,MIA,16.0,1.0,11%,77,85,0.475,0,162,4,redmomi01,data
+2014,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,6,Don Mattingly,LAD,12.0,0.0,8%,94,68,0.58,0,162,1,mattido01,data
+2014,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,7,Ron Roenicke,MIL,3.0,0.0,2%,82,80,0.506,0,162,3,roeniro01,data
+2014,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,8,Bud Black,SDP,1.0,0.0,1%,77,85,0.475,0,162,3,blackbu02,data
+2014,Manager Of The Year,NL,National League,NYM,New York Mets,East,8,Terry Collins,NYM,1.0,0.0,1%,79,83,0.488,0,162,2,collite99,data
+2015,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,1,Jeff Banister,TEX,112.0,17.0,75%,88,74,0.543,0,162,1,banisje01,data
+2015,Manager Of The Year,AL,American League,HOU,Houston Astros,West,2,A.J. Hinch,HOU,82.0,8.0,55%,86,76,0.531,0,162,2,,data
+2015,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,3,Paul Molitor,MIN,33.0,2.0,22%,83,79,0.512,0,162,2,molitpa01,data
+2015,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,4,John Gibbons,TOR,22.0,1.0,15%,93,69,0.574,0,162,1,gibbojo02,data
+2015,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Joe Girardi,NYY,12.0,2.0,8%,87,75,0.537,0,162,2,girarjo01,data
+2015,Manager Of The Year,AL,American League,KCR,Kansas City Royals,Central,6,Ned Yost,KCR,8.0,0.0,5%,95,67,0.586,0,162,1,yostne01,data
+2015,Manager Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,7,Mike Scioscia,LAA,1.0,0.0,1%,85,77,0.525,0,162,3,sciosmi01,data
+2015,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,1,Joe Maddon,CHC,124.0,18.0,83%,97,65,0.599,0,162,3,maddojo99,data
+2015,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,2,Mike Matheny,STL,87.0,9.0,58%,100,62,0.617,0,162,1,mathemi01,data
+2015,Manager Of The Year,NL,National League,NYM,New York Mets,East,3,Terry Collins,NYM,49.0,3.0,33%,90,72,0.556,0,162,1,collite99,data
+2015,Manager Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,4,Clint Hurdle,PIT,8.0,0.0,5%,98,64,0.605,0,162,2,hurdlcl01,data
+2015,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,5,Bruce Bochy,SFG,1.0,0.0,1%,84,78,0.519,0,162,2,bochybr01,data
+2015,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,5,Don Mattingly,LAD,1.0,0.0,1%,92,70,0.568,0,162,1,mattido01,data
+2016,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,1,Terry Francona,CLE,128.0,22.0,85%,94,67,0.584,0,161,1,francte01,data
+2016,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,2,Jeff Banister,TEX,64.0,4.0,43%,95,67,0.586,0,162,1,banisje01,data
+2016,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,3,Buck Showalter,BAL,44.0,2.0,29%,89,73,0.549,0,162,2,showabu99,data
+2016,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,4,John Farrell,BOS,28.0,2.0,19%,93,69,0.574,0,162,1,farrejo03,data
+2016,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Joe Girardi,NYY,5.0,0.0,3%,84,78,0.519,0,162,4,girarjo01,data
+2016,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,6,Scott Servais,SEA,1.0,0.0,1%,86,76,0.531,0,162,2,servasc01,data
+2016,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,1,Dave Roberts,LAD,108.0,16.0,72%,91,71,0.562,0,162,1,roberda07,data
+2016,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,2,Joe Maddon,CHC,70.0,8.0,47%,103,58,0.64,1,162,1,maddojo99,data
+2016,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,3,Dusty Baker,WSN,66.0,4.0,44%,95,67,0.586,0,162,1,bakerdu01,data
+2016,Manager Of The Year,NL,National League,NYM,New York Mets,East,4,Terry Collins,NYM,24.0,2.0,16%,87,75,0.537,0,162,2,collite99,data
+2016,Manager Of The Year,NL,National League,MIA,Miami Marlins,East,5,Don Mattingly,MIA,2.0,0.0,1%,79,82,0.491,0,161,3,mattido01,data
+2017,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,1,Paul Molitor,MIN,112.0,18.0,75%,85,77,0.525,0,162,2,molitpa01,data
+2017,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,2,Terry Francona,CLE,90.0,11.0,60%,102,60,0.63,0,162,1,francte01,data
+2017,Manager Of The Year,AL,American League,HOU,Houston Astros,West,3,A.J. Hinch,HOU,56.0,1.0,37%,101,61,0.623,0,162,1,,data
+2017,Manager Of The Year,AL,American League,NYY,New York Yankees,East,4,Joe Girardi,NYY,12.0,0.0,8%,91,71,0.562,0,162,2,girarjo01,data
+2017,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,1,Torey Lovullo,ARI,111.0,18.0,74%,93,69,0.574,0,162,2,lovulto01,data
+2017,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,2,Dave Roberts,LAD,55.0,5.0,37%,104,58,0.642,0,162,1,roberda07,data
+2017,Manager Of The Year,NL,National League,COL,Colorado Rockies,West,3,Bud Black,COL,43.0,3.0,29%,87,75,0.537,0,162,3,blackbu02,data
+2017,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,4,Craig Counsell,MIL,33.0,3.0,22%,86,76,0.531,0,162,2,counscr01,data
+2017,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,5,Dusty Baker,WSN,25.0,1.0,17%,97,65,0.599,0,162,1,bakerdu01,data
+2017,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,6,Joe Maddon,CHC,3.0,0.0,2%,92,70,0.568,0,162,1,maddojo99,data
+2018,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,1,Bob Melvin,OAK,121.0,18.0,81%,97,65,0.599,0,162,2,melvibo01,data
+2018,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,2,Alex Cora,BOS,79.0,7.0,53%,108,54,0.667,0,162,1,coraal01,data
+2018,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Kevin Cash,TBR,57.0,5.0,38%,90,72,0.556,0,162,3,cashke01,data
+2018,Manager Of The Year,AL,American League,HOU,Houston Astros,West,4,A.J. Hinch,HOU,11.0,0.0,7%,103,59,0.636,0,162,1,,data
+2018,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Aaron Boone,NYY,2.0,0.0,1%,100,62,0.617,0,162,2,booneaa01,data
+2018,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,1,Brian Snitker,ATL,116.0,17.0,77%,90,72,0.556,0,162,1,snitkbr99,data
+2018,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,2,Craig Counsell,MIL,99.0,11.0,66%,96,67,0.589,0,163,1,counscr01,data
+2018,Manager Of The Year,NL,National League,COL,Colorado Rockies,West,3,Bud Black,COL,41.0,1.0,27%,91,72,0.558,0,163,2,blackbu02,data
+2018,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,4,Mike Shildt,STL,7.0,0.0,5%,41,28,0.594,0,69,3,shildmi99,data
+2018,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,5,Joe Maddon,CHC,6.0,1.0,4%,95,68,0.583,0,163,2,maddojo99,data
+2018,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,6,Dave Roberts,LAD,1.0,0.0,1%,92,71,0.564,0,163,1,roberda07,data
+2019,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,1,Rocco Baldelli,MIN,106.0,13.0,71%,101,61,0.623,0,162,1,baldero01,data
+2019,Manager Of The Year,AL,American League,NYY,New York Yankees,East,2,Aaron Boone,NYY,96.0,13.0,64%,103,59,0.636,0,162,1,booneaa01,data
+2019,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Kevin Cash,TBR,33.0,3.0,22%,96,66,0.593,0,162,2,cashke01,data
+2019,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Bob Melvin,OAK,19.0,0.0,13%,97,65,0.599,0,162,2,melvibo01,data
+2019,Manager Of The Year,AL,American League,HOU,Houston Astros,West,5,A.J. Hinch,HOU,12.0,1.0,8%,107,55,0.66,0,162,1,,data
+2019,Manager Of The Year,AL,American League,CLE,Cleveland Indians,Central,6,Terry Francona,CLE,4.0,0.0,3%,93,69,0.574,0,162,2,francte01,data
+2019,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,1,Mike Shildt,STL,95.0,10.0,63%,91,71,0.562,0,162,1,shildmi99,data
+2019,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,2,Craig Counsell,MIL,88.0,13.0,59%,89,73,0.549,0,162,2,counscr01,data
+2019,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Brian Snitker,ATL,45.0,3.0,30%,97,65,0.599,0,162,1,snitkbr99,data
+2019,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,4,Dave Roberts,LAD,25.0,4.0,17%,106,56,0.654,0,162,1,roberda07,data
+2019,Manager Of The Year,NL,National League,WSN,Washington Nationals,East,5,Dave Martinez,WSN,15.0,0.0,10%,93,69,0.574,0,162,2,martida01,data
+2019,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,6,Torey Lovullo,ARI,2.0,0.0,1%,85,77,0.525,0,162,2,lovulto01,data
+2020,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Kevin Cash,TBR,126.0,22.0,84%,40,20,0.667,0,60,1,cashke01,data
+2020,Manager Of The Year,AL,American League,CHW,Chicago White Sox,Central,2,Rick Renteria,CHW,61.0,5.0,41%,35,25,0.583,0,60,2,renteri01,data
+2020,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,3,Charlie Montoyo,TOR,47.0,2.0,31%,32,28,0.533,0,60,3,montoch01,data
+2020,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Bob Melvin,OAK,22.0,1.0,15%,36,24,0.6,0,60,1,melvibo01,data
+2020,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,5,Rocco Baldelli,MIN,13.0,0.0,9%,36,24,0.6,0,60,1,baldero01,data
+2020,Manager Of The Year,AL,American League,HOU,Houston Astros,West,6,Dusty Baker,HOU,1.0,0.0,1%,29,31,0.483,0,60,2,bakerdu01,data
+2020,Manager Of The Year,NL,National League,MIA,Miami Marlins,East,1,Don Mattingly,MIA,124.0,20.0,83%,31,29,0.517,0,60,2,mattido01,data
+2020,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,2,Jayce Tingler,SDP,71.0,6.0,47%,37,23,0.617,0,60,2,tinglja99,data
+2020,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,3,David Ross,CHC,25.0,1.0,17%,34,26,0.567,0,60,1,rossda01,data
+2020,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,4,Brian Snitker,ATL,16.0,1.0,11%,35,25,0.583,0,60,1,snitkbr99,data
+2020,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,5,Dave Roberts,LAD,13.0,1.0,9%,43,17,0.717,0,60,1,roberda07,data
+2020,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,6,Mike Shildt,STL,10.0,0.0,7%,30,28,0.517,0,58,2,shildmi99,data
+2020,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,7,Craig Counsell,MIL,6.0,1.0,4%,29,31,0.483,0,60,4,counscr01,data
+2020,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,8,Gabe Kapler,SFG,3.0,0.0,2%,29,31,0.483,0,60,3,kaplega01,data
+2020,Manager Of The Year,NL,National League,CIN,Cincinnati Reds,Central,9,David Bell,CIN,2.0,0.0,1%,31,29,0.517,0,60,2,bellda01,data
+2021,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Kevin Cash,TBR,109.0,19.0,73%,100,62,0.617,0,162,1,cashke01,data
+2021,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,2,Scott Servais,SEA,71.0,5.0,47%,90,72,0.556,0,162,2,servasc01,data
+2021,Manager Of The Year,AL,American League,HOU,Houston Astros,West,3,Dusty Baker,HOU,33.0,2.0,22%,95,67,0.586,0,162,1,bakerdu01,data
+2021,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,4,Charlie Montoyo,TOR,23.0,3.0,15%,91,71,0.562,0,162,4,montoch01,data
+2021,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,5,Alex Cora,BOS,16.0,1.0,11%,92,70,0.568,0,162,2,coraal01,data
+2021,Manager Of The Year,AL,American League,CHW,Chicago White Sox,Central,6,Tony La Russa,CHW,15.0,0.0,10%,93,69,0.574,0,162,1,larusto01,data
+2021,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,7,A.J. Hinch,DET,3.0,0.0,2%,77,85,0.475,0,162,3,,data
+2021,Manager Of The Year,NL,National League,SFG,San Francisco Giants,West,1,Gabe Kapler,SFG,143.0,28.0,95%,107,55,0.66,0,162,1,kaplega01,data
+2021,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,2,Craig Counsell,MIL,75.0,1.0,50%,95,67,0.586,0,162,1,counscr01,data
+2021,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Mike Shildt,STL,25.0,1.0,17%,90,72,0.556,0,162,2,shildmi99,data
+2021,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,4,Brian Snitker,ATL,21.0,0.0,14%,88,73,0.547,0,161,1,snitkbr99,data
+2021,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,5,Dave Roberts,LAD,6.0,0.0,4%,106,56,0.654,0,162,2,roberda07,data
+2022,Manager Of The Year,AL,American League,CLE,Cleveland Guardians,Central,1,Terry Francona,CLE,112.0,17.0,75%,92,70,0.568,0,162,1,francte01,data
+2022,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,2,Brandon Hyde,BAL,79.0,9.0,53%,83,79,0.512,0,162,4,hydebr99,data
+2022,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,3,Scott Servais,SEA,43.0,1.0,29%,90,72,0.556,0,162,2,servasc01,data
+2022,Manager Of The Year,AL,American League,HOU,Houston Astros,West,4,Dusty Baker,HOU,31.0,3.0,21%,106,56,0.654,0,162,1,bakerdu01,data
+2022,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Aaron Boone,NYY,4.0,0.0,3%,99,63,0.611,0,162,1,booneaa01,data
+2022,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,6,Kevin Cash,TBR,1.0,0.0,1%,86,76,0.531,0,162,3,cashke01,data
+2022,Manager Of The Year,NL,National League,NYM,New York Mets,East,1,Buck Showalter,NYM,77.0,8.0,51%,101,61,0.623,0,162,2,showabu99,data
+2022,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,2,Dave Roberts,LAD,57.0,8.0,38%,111,51,0.685,0,162,1,roberda07,data
+2022,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Brian Snitker,ATL,55.0,7.0,37%,101,61,0.623,0,162,1,snitkbr99,data
+2022,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,4,Oliver Marmol,STL,44.0,5.0,29%,93,69,0.574,0,162,1,marmool99,data
+2022,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,5,Rob Thomson,PHI,36.0,2.0,24%,65,46,0.586,0,111,3,thomsro99,data
+2022,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,6,Bob Melvin,SDP,1.0,0.0,1%,89,73,0.549,0,162,2,melvibo01,data
+2023,Manager Of The Year,AL,American League,BAL,Baltimore Orioles,East,1,Brandon Hyde,BAL,144.0,27.0,96%,101,61,0.623,0,162,1,hydebr99,data
+2023,Manager Of The Year,AL,American League,TEX,Texas Rangers,West,2,Bruce Bochy,TEX,61.0,3.0,41%,90,72,0.556,0,162,2,bochybr01,data
+2023,Manager Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Kevin Cash,TBR,52.0,0.0,35%,99,63,0.611,0,162,2,cashke01,data
+2023,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,4,Rocco Baldelli,MIN,8.0,0.0,5%,87,75,0.537,0,162,1,baldero01,data
+2023,Manager Of The Year,AL,American League,HOU,Houston Astros,West,5,Dusty Baker,HOU,4.0,0.0,3%,90,72,0.556,0,162,1,bakerdu01,data
+2023,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,6,John Schneider,TOR,1.0,0.0,1%,89,73,0.549,0,162,3,schnejo99,data
+2023,Manager Of The Year,NL,National League,MIA,Miami Marlins,East,1,Skip Schumaker,MIA,72.0,8.0,48%,84,78,0.519,0,162,3,schumsk01,data
+2023,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,2,Craig Counsell,MIL,51.0,5.0,34%,92,70,0.568,0,162,1,counscr01,data
+2023,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Brian Snitker,ATL,48.0,8.0,32%,104,58,0.642,0,162,1,snitkbr99,data
+2023,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,4,Torey Lovullo,ARI,42.0,4.0,28%,84,78,0.519,0,162,2,lovulto01,data
+2023,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,5,Dave Roberts,LAD,41.0,4.0,27%,100,62,0.617,0,162,1,roberda07,data
+2023,Manager Of The Year,NL,National League,CIN,Cincinnati Reds,Central,6,David Bell,CIN,13.0,1.0,9%,82,80,0.506,0,162,3,bellda01,data
+2023,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,7,David Ross,CHC,3.0,0.0,2%,83,79,0.512,0,162,2,rossda01,data
+2024,Manager Of The Year,AL,American League,CLE,Cleveland Guardians,Central,1,Stephen Vogt,CLE,142.0,27.0,95%,92,69,0.571,0,161,1,vogtst01,data
+2024,Manager Of The Year,AL,American League,KCR,Kansas City Royals,Central,2,Matt Quatraro,KCR,73.0,2.0,49%,86,76,0.531,0,162,2,quatrma99,data
+2024,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,3,A.J. Hinch,DET,41.0,1.0,27%,86,76,0.531,0,162,3,,data
+2024,Manager Of The Year,AL,American League,HOU,Houston Astros,West,4,Joe Espada,HOU,6.0,0.0,4%,88,73,0.547,0,161,1,espadjo99,data
+2024,Manager Of The Year,AL,American League,NYY,New York Yankees,East,5,Aaron Boone,NYY,3.0,0.0,2%,94,68,0.58,0,162,1,booneaa01,data
+2024,Manager Of The Year,AL,American League,OAK,Oakland Athletics,West,5,Mark Kotsay,OAK,3.0,0.0,2%,69,93,0.426,0,162,4,kotsama01,data
+2024,Manager Of The Year,AL,American League,MIN,Minnesota Twins,Central,7,Rocco Baldelli,MIN,1.0,0.0,1%,82,80,0.506,0,162,4,baldero01,data
+2024,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,7,Alex Cora,BOS,1.0,0.0,1%,81,81,0.5,0,162,3,coraal01,data
+2024,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,1,Pat Murphy,MIL,144.0,27.0,96%,93,69,0.574,0,162,1,murphpa99,data
+2024,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,2,Mike Shildt,SDP,70.0,1.0,47%,93,69,0.574,0,162,2,shildmi99,data
+2024,Manager Of The Year,NL,National League,NYM,New York Mets,East,3,Carlos Mendoza,NYM,35.0,1.0,23%,89,73,0.549,0,162,3,mendoca99,data
+2024,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,4,Torey Lovullo,ARI,8.0,0.0,5%,89,73,0.549,0,162,3,lovulto01,data
+2024,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,5,Rob Thomson,PHI,5.0,1.0,3%,95,67,0.586,0,162,1,thomsro99,data
+2024,Manager Of The Year,NL,National League,ATL,Atlanta Braves,East,6,Brian Snitker,ATL,4.0,0.0,3%,89,73,0.549,0,162,2,snitkbr99,data
+2024,Manager Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,7,Dave Roberts,LAD,3.0,0.0,2%,98,64,0.605,0,162,1,roberda07,data
+2024,Manager Of The Year,NL,National League,STL,St. Louis Cardinals,Central,8,Oliver Marmol,STL,1.0,0.0,1%,83,79,0.512,0,162,2,marmool99,data
+2025,Manager Of The Year,AL,American League,CLE,Cleveland Guardians,Central,1,Stephen Vogt,CLE,113.0,17.0,75%,88,74,0.543,0,162,1,vogtst01,data
+2025,Manager Of The Year,AL,American League,TOR,Toronto Blue Jays,East,2,John Schneider,TOR,91.0,10.0,61%,94,68,0.58,0,162,1,schnejo99,data
+2025,Manager Of The Year,AL,American League,SEA,Seattle Mariners,West,3,Dan Wilson,SEA,50.0,2.0,33%,90,72,0.556,0,162,1,wilsoda01,data
+2025,Manager Of The Year,AL,American League,BOS,Boston Red Sox,East,4,Alex Cora,BOS,7.0,1.0,5%,89,73,0.549,0,162,3,coraal01,data
+2025,Manager Of The Year,AL,American League,DET,Detroit Tigers,Central,5,A.J. Hinch,DET,6.0,0.0,4%,87,75,0.537,0,162,2,,data
+2025,Manager Of The Year,AL,American League,HOU,Houston Astros,West,6,Joe Espada,HOU,3.0,0.0,2%,87,75,0.537,0,162,2,espadjo99,data
+2025,Manager Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,1,Pat Murphy,MIL,141.0,27.0,94%,97,65,0.599,0,162,1,murphpa99,data
+2025,Manager Of The Year,NL,National League,CIN,Cincinnati Reds,Central,2,Terry Francona,CIN,49.0,2.0,33%,83,79,0.512,0,162,3,francte01,data
+2025,Manager Of The Year,NL,National League,PHI,Philadelphia Phillies,East,3,Rob Thomson,PHI,32.0,1.0,21%,96,66,0.593,0,162,1,thomsro99,data
+2025,Manager Of The Year,NL,National League,CHC,Chicago Cubs,Central,4,Craig Counsell,CHC,24.0,0.0,16%,92,70,0.568,0,162,2,counscr01,data
+2025,Manager Of The Year,NL,National League,MIA,Miami Marlins,East,5,Clayton McCullough,MIA,22.0,0.0,15%,79,83,0.488,0,162,3,mcculcl99,data
+2025,Manager Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,6,Torey Lovullo,ARI,1.0,0.0,1%,80,82,0.494,0,162,4,lovulto01,data
+2025,Manager Of The Year,NL,National League,SDP,San Diego Padres,West,6,Mike Shildt,SDP,1.0,0.0,1%,90,72,0.556,0,162,2,shildmi99,data

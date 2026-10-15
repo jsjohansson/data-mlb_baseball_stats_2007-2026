@@ -1,0 +1,103 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Award,Player,Stats,Player_ID,Row_Type
+2007,,,,,,,Willie Mays World Series MVP,Mike Lowell,Series Summary,lowelmi01,data
+2007,,,,,,,Roberto Clemente Humanitarian Award,Craig Biggio,,biggicr01,data
+2007,,,,,,,TSN Major League Player of the Year,Alex Rodriguez,NYY 158 G .314/.422/.645,rodrial01,data
+2007,,,,,,,All-Star Game MVP,Ichiro Suzuki,,suzukic01,data
+2007,,,,,,,Hutch Award,Mike Sweeney,,sweenmi01,data
+2007,,,,,,,Lou Gehrig Memorial Award,Mike Timlin,,timlimi01,data
+2007,,,,,,,Branch Rickey Award,John Smoltz,,smoltjo01,data
+2008,,,,,,,Willie Mays World Series MVP,Cole Hamels,Series Summary,hamelco01,data
+2008,,,,,,,Roberto Clemente Humanitarian Award,Albert Pujols,,pujolal01,data
+2008,,,,,,,TSN Major League Player of the Year,Albert Pujols,STL 148 G .357/.462/.653,pujolal01,data
+2008,,,,,,,All-Star Game MVP,J.D. Drew,,,data
+2008,,,,,,,Hutch Award,Jon Lester,,lestejo01,data
+2008,,,,,,,Lou Gehrig Memorial Award,Shane Victorino,,victosh01,data
+2008,,,,,,,Branch Rickey Award,Trevor Hoffman,,hoffmtr01,data
+2009,,,,,,,Willie Mays World Series MVP,Hideki Matsui,Series Summary,matsuhi01,data
+2009,,,,,,,Roberto Clemente Humanitarian Award,Derek Jeter,,jeterde01,data
+2009,,,,,,,TSN Major League Player of the Year,Albert Pujols,STL 160 G .327/.443/.658,pujolal01,data
+2009,,,,,,,All-Star Game MVP,Carl Crawford,,crawfca02,data
+2009,,,,,,,Hutch Award,Mark Teahen,,teahema01,data
+2009,,,,,,,Lou Gehrig Memorial Award,Albert Pujols,,pujolal01,data
+2009,,,,,,,Branch Rickey Award,Torii Hunter,,hunteto01,data
+2010,,,,,,,Willie Mays World Series MVP,Édgar Rentería,Series Summary,renteed01,data
+2010,,,,,,,Roberto Clemente Humanitarian Award,Tim Wakefield,,wakefti01,data
+2010,,,,,,,TSN Major League Player of the Year,Josh Hamilton,TEX 133 G .359/.411/.633,hamiljo03,data
+2010,,,,,,,All-Star Game MVP,Brian McCann,,mccanbr01,data
+2010,,,,,,,Hutch Award,Tim Hudson,,hudsoti01,data
+2010,,,,,,,Lou Gehrig Memorial Award,Derek Jeter,,jeterde01,data
+2010,,,,,,,Branch Rickey Award,Vernon Wells,,wellsve01,data
+2011,,,,,,,Willie Mays World Series MVP,David Freese,Series Summary,freesda01,data
+2011,,,,,,,Roberto Clemente Humanitarian Award,David Ortiz,,ortizda01,data
+2011,,,,,,,TSN Major League Player of the Year,Justin Verlander,"DET 24-5, 2.40, 250 SO",verlaju01,data
+2011,,,,,,,All-Star Game MVP,Prince Fielder,,fieldpr01,data
+2011,,,,,,,Hutch Award,Billy Butler,,butlebi03,data
+2011,,,,,,,Lou Gehrig Memorial Award,Ryan Zimmerman,,zimmery01,data
+2011,,,,,,,Branch Rickey Award,Shane Victorino,,victosh01,data
+2012,,,,,,,Willie Mays World Series MVP,Pablo Sandoval,Series Summary,sandopa01,data
+2012,,,,,,,Roberto Clemente Humanitarian Award,Clayton Kershaw,,kershcl01,data
+2012,,,,,,,TSN Major League Player of the Year,Miguel Cabrera,DET 161 G .330/.393/.606,cabremi01,data
+2012,,,,,,,Hutch Award,Barry Zito,,zitoba01,data
+2012,,,,,,,Lou Gehrig Memorial Award,Barry Zito,,zitoba01,data
+2012,,,,,,,Branch Rickey Award,R.A. Dickey,,,data
+2013,,,,,,,Willie Mays World Series MVP,David Ortiz,Series Summary,ortizda01,data
+2013,,,,,,,Roberto Clemente Humanitarian Award,Carlos Beltrán,,beltrca01,data
+2013,,,,,,,TSN Major League Player of the Year,Miguel Cabrera,DET 148 G .348/.442/.636,cabremi01,data
+2013,,,,,,,Hutch Award,Raúl Ibañez,,ibanera01,data
+2013,,,,,,,Lou Gehrig Memorial Award,Josh Hamilton,,hamiljo03,data
+2013,,,,,,,Branch Rickey Award,Clayton Kershaw,,kershcl01,data
+2014,,,,,,,Willie Mays World Series MVP,Madison Bumgarner,Series Summary,bumgama01,data
+2014,,,,,,,Roberto Clemente Humanitarian Award,Paul Konerko,,konerpa01,data
+2014,,,,,,,,Jimmy Rollins,,rolliji01,data
+2014,,,,,,,TSN Major League Player of the Year,Clayton Kershaw,"LAD 21-3, 1.77, 239 SO",kershcl01,data
+2014,,,,,,,Hutch Award,Alex Gordon,,gordoal01,data
+2014,,,,,,,Lou Gehrig Memorial Award,Adrian Beltré,,beltrad01,data
+2014,,,,,,,Branch Rickey Award,Anthony Rizzo,,rizzoan01,data
+2015,,,,,,,Willie Mays World Series MVP,Salvador Perez,Series Summary,perezsa02,data
+2015,,,,,,,Roberto Clemente Humanitarian Award,Andrew McCutchen,,mccutan01,data
+2015,,,,,,,TSN Major League Player of the Year,Josh Donaldson,TOR 158 G .297/.371/.568,donaljo02,data
+2015,,,,,,,Hutch Award,Adam Wainwright,,wainwad01,data
+2015,,,,,,,Lou Gehrig Memorial Award,Curtis Granderson,,grandcu01,data
+2016,,,,,,,Willie Mays World Series MVP,Ben Zobrist,Series Summary,zobribe01,data
+2016,,,,,,,Roberto Clemente Humanitarian Award,Curtis Granderson,,grandcu01,data
+2016,,,,,,,TSN Major League Player of the Year,Jose Altuve,HOU 161 G .338/.396/.531,altuvjo01,data
+2016,,,,,,,Hutch Award,Dustin McGowan,,mcgowdu01,data
+2016,,,,,,,Lou Gehrig Memorial Award,Jose Altuve,,altuvjo01,data
+2017,,,,,,,Willie Mays World Series MVP,George Springer,Series Summary,springe01,data
+2017,,,,,,,Roberto Clemente Humanitarian Award,Anthony Rizzo,,rizzoan01,data
+2017,,,,,,,TSN Major League Player of the Year,Jose Altuve,HOU 153 G .346/.410/.547,altuvjo01,data
+2017,,,,,,,Hutch Award,Jake Diekman,,diekmja01,data
+2017,,,,,,,Lou Gehrig Memorial Award,Joey Votto,,vottojo01,data
+2018,,,,,,,Willie Mays World Series MVP,Steve Pearce,Series Summary,pearcst01,data
+2018,,,,,,,Roberto Clemente Humanitarian Award,Yadier Molina,,molinya01,data
+2018,,,,,,,TSN Major League Player of the Year,Mookie Betts,BOS 136 G .346/.438/.640,bettsmo01,data
+2018,,,,,,,Hutch Award,Stephen Piscotty,,piscost01,data
+2018,,,,,,,Lou Gehrig Memorial Award,Corey Kluber,,klubeco01,data
+2019,,,,,,,Willie Mays World Series MVP,Stephen Strasburg,Series Summary,strasst01,data
+2019,,,,,,,Roberto Clemente Humanitarian Award,Carlos Carrasco,,carraca01,data
+2019,,,,,,,TSN Major League Player of the Year,Mike Trout,LAA 134 G .291/.438/.645,troutmi01,data
+2019,,,,,,,Hutch Award,Dee Strange-Gordon,,gordode01,data
+2019,,,,,,,Lou Gehrig Memorial Award,Buster Posey,,poseybu01,data
+2020,,,,,,,Willie Mays World Series MVP,Corey Seager,Series Summary,seageco01,data
+2020,,,,,,,Roberto Clemente Humanitarian Award,Adam Wainwright,,wainwad01,data
+2020,,,,,,,TSN Major League Player of the Year,José Abreu,CHW 60 G .317/.370/.617,abreujo02,data
+2020,,,,,,,Lou Gehrig Memorial Award,Stephen Piscotty,,piscost01,data
+2021,,,,,,,Willie Mays World Series MVP,Jorge Soler,Series Summary,solerjo01,data
+2021,,,,,,,Roberto Clemente Humanitarian Award,Nelson Cruz,,cruzne02,data
+2021,,,,,,,TSN Major League Player of the Year,Shohei Ohtani,LAA 155 G .257/.372/.592,ohtansh01,data
+2021,,,,,,,Lou Gehrig Memorial Award,Salvador Perez,,perezsa02,data
+2022,,,,,,,Roberto Clemente Humanitarian Award,Justin Turner,,turneju01,data
+2022,,,,,,,TSN Major League Player of the Year,Aaron Judge,NYY 157 G .311/.425/.686,judgeaa01,data
+2022,,,,,,,Lou Gehrig Memorial Award,Brandon Crawford,,crawfbr01,data
+2023,,,,,,,Willie Mays World Series MVP,Corey Seager,Series Summary,seageco01,data
+2023,,,,,,,Roberto Clemente Humanitarian Award,Aaron Judge,,judgeaa01,data
+2023,,,,,,,TSN Major League Player of the Year,Ronald Acuña Jr.,ATL 159 G .337/.416/.596,acunaro01,data
+2023,,,,,,,Lou Gehrig Memorial Award,Paul Goldschmidt,,goldspa01,data
+2024,,,,,,,Willie Mays World Series MVP,Freddie Freeman,Series Summary,freemfr01,data
+2024,,,,,,,Roberto Clemente Humanitarian Award,Salvador Perez,,perezsa02,data
+2024,,,,,,,TSN Major League Player of the Year,Shohei Ohtani,LAD 159 G .310/.390/.646,ohtansh01,data
+2024,,,,,,,Lou Gehrig Memorial Award,Chris Sale,,salech01,data
+2025,,,,,,,Willie Mays World Series MVP,Yoshinobu Yamamoto,Series Summary,yamamyo01,data
+2025,,,,,,,Roberto Clemente Humanitarian Award,Mookie Betts,,bettsmo01,data
+2025,,,,,,,TSN Major League Player of the Year,Cal Raleigh,SEA 159 G .247/.359/.589,raleica01,data
+2025,,,,,,,Lou Gehrig Memorial Award,Bobby Witt Jr.,,wittbo02,data

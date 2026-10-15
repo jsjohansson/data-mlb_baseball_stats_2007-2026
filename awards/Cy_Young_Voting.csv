@@ -1,0 +1,376 @@
+﻿Season,Award,League,League_Name,Team,Team_Name,Division,Rank,Name,Tm,Vote Pts,1st Place,Share,WAR,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,ERA+,Row_Type,Player_ID
+2007,Cy Young,AL,American League,CLE,Cleveland Indians,Central,1,CC Sabathia,CLE,119.0,19.0,85%,6.3,19,7,0.731,3.21,34,34,0,4,1,0,241.0,238,94,86,20,37,1,209,8,0,1,975,1.141,141,data,
+2007,Cy Young,AL,American League,BOS,Boston Red Sox,East,2,Josh Beckett,BOS,86.0,8.0,61%,6.5,20,7,0.741,3.27,30,30,0,1,0,0,200.2,189,76,73,17,40,0,194,5,0,3,822,1.141,145,data,beckejo02
+2007,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,3,John Lackey,LAA,36.0,1.0,26%,6.3,19,9,0.679,3.01,33,33,0,2,2,0,224.0,219,87,75,18,52,2,179,12,1,9,929,1.21,150,data,lackejo01
+2007,Cy Young,AL,American League,CLE,Cleveland Indians,Central,4,Roberto Hernández,CLE,7.0,0.0,5%,6.2,19,8,0.704,3.06,32,32,0,2,1,0,215.0,199,78,73,16,61,2,137,11,1,5,879,1.209,148,data,carmofa01
+2007,Cy Young,AL,American League,BAL,Baltimore Orioles,East,5,Érik Bédard,BAL,1.0,0.0,1%,5.7,13,5,0.722,3.16,28,28,0,1,1,0,182.0,141,66,64,19,57,0,221,5,0,3,733,1.088,146,data,bedarer01
+2007,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,5,Roy Halladay,TOR,1.0,0.0,1%,3.5,16,7,0.696,3.71,31,31,0,7,1,0,225.1,232,101,93,15,48,3,139,3,0,4,927,1.243,121,data,hallaro01
+2007,Cy Young,AL,American League,MIN,Minnesota Twins,Central,5,Johan Santana,MIN,1.0,0.0,1%,5.0,15,13,0.536,3.33,33,33,0,1,1,0,219.0,183,88,81,33,52,0,235,4,1,7,878,1.073,129,data,santajo02
+2007,Cy Young,AL,American League,DET,Detroit Tigers,Central,5,Justin Verlander,DET,1.0,0.0,1%,4.2,18,6,0.75,3.66,32,32,0,1,1,0,201.2,181,88,82,20,67,3,183,19,2,17,866,1.23,125,data,verlaju01
+2007,Cy Young,NL,National League,SDP,San Diego Padres,West,1,Jake Peavy,SDP,160.0,32.0,100%,6.2,19,6,0.76,2.54,34,34,0,0,0,0,223.1,169,67,63,13,68,5,240,6,0,4,898,1.061,158,data,peavyja01
+2007,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,2,Brandon Webb,ARI,94.0,0.0,59%,6.4,18,10,0.643,3.01,34,34,0,4,3,0,236.1,209,91,79,12,72,6,194,5,0,3,975,1.189,158,data,webbbr01
+2007,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,3,Brad Penny,LAD,14.0,0.0,9%,5.9,16,4,0.8,3.03,33,33,0,0,0,0,208.0,199,75,70,9,73,2,135,5,0,6,865,1.308,147,data,pennybr01
+2007,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,4,Aaron Harang,CIN,10.0,0.0,6%,6.0,16,6,0.727,3.73,34,34,0,2,1,0,231.2,213,100,96,28,52,3,218,8,1,12,948,1.144,124,data,haranaa01
+2007,Cy Young,NL,National League,CHC,Chicago Cubs,Central,5,Carlos Zambrano,CHC,3.0,0.0,2%,3.4,18,13,0.581,3.95,34,34,0,1,0,0,216.1,187,100,95,23,101,4,177,14,0,3,925,1.331,117,data,zambrca01
+2007,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,6,Cole Hamels,PHI,2.0,0.0,1%,4.1,15,5,0.75,3.39,28,28,0,2,0,0,183.1,163,72,69,25,43,4,177,3,0,5,743,1.124,135,data,hamelco01
+2007,Cy Young,NL,National League,ATL,Atlanta Braves,East,6,John Smoltz,ATL,2.0,0.0,1%,4.6,14,8,0.636,3.11,32,32,0,0,0,0,205.2,196,78,71,18,47,9,197,4,0,8,853,1.182,140,data,smoltjo01
+2007,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,6,José Valverde,ARI,2.0,0.0,1%,2.2,1,4,0.2,2.66,65,0,59,0,0,47,64.1,46,21,19,7,26,1,78,3,0,1,265,1.119,179,data,valvejo01
+2007,Cy Young,NL,National League,COL,Colorado Rockies,West,9,Jeff Francis,COL,1.0,0.0,1%,3.9,17,9,0.654,4.22,34,34,0,1,1,0,215.1,234,103,101,25,63,7,165,7,1,1,922,1.379,114,data,francje01
+2008,Cy Young,AL,American League,CLE,Cleveland Indians,Central,1,Cliff Lee,CLE,132.0,24.0,94%,6.8,22,3,0.88,2.54,31,31,0,4,2,0,223.1,214,68,63,12,34,1,170,5,0,4,891,1.11,167,data,leecl02
+2008,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,2,Roy Halladay,TOR,71.0,4.0,51%,6.2,20,11,0.645,2.78,34,33,0,9,2,0,246.0,220,88,76,18,39,3,206,12,0,4,987,1.053,152,data,hallaro01
+2008,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,3,Francisco Rodríguez,LAA,32.0,0.0,23%,2.5,2,3,0.4,2.24,76,0,69,0,0,62,68.1,54,21,17,4,34,4,77,2,0,6,288,1.288,199,data,rodrifr03
+2008,Cy Young,AL,American League,BOS,Boston Red Sox,East,4,Daisuke Matsuzaka,BOS,10.0,0.0,7%,5.4,18,3,0.857,2.9,29,29,0,0,0,0,167.2,128,58,54,12,94,1,154,7,0,5,716,1.324,160,data,matsuda01
+2008,Cy Young,AL,American League,NYY,New York Yankees,East,5,Mariano Rivera,NYY,3.0,0.0,2%,4.3,6,5,0.545,1.4,64,0,60,0,0,39,70.2,41,11,11,4,6,0,77,2,0,1,259,0.665,316,data,riverma01
+2008,Cy Young,AL,American League,NYY,New York Yankees,East,6,Mike Mussina,NYY,2.0,0.0,1%,5.1,20,9,0.69,3.37,34,34,0,0,0,0,200.1,214,85,75,17,31,3,150,8,0,4,819,1.223,131,data,mussimi01
+2008,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,6,Ervin Santana,LAA,2.0,0.0,1%,5.1,16,7,0.696,3.49,32,32,0,2,1,0,219.0,198,89,85,23,47,2,214,8,1,5,897,1.119,127,data,santaer01
+2008,Cy Young,NL,National League,SFG,San Francisco Giants,West,1,Tim Lincecum,SFG,137.0,23.0,86%,7.8,18,5,0.783,2.62,34,33,0,2,1,0,227.0,182,72,66,11,84,1,265,6,2,17,928,1.172,168,data,linceti01
+2008,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,2,Brandon Webb,ARI,73.0,4.0,46%,5.6,22,7,0.759,3.3,34,34,0,3,1,0,226.2,206,95,83,13,65,5,183,12,1,8,944,1.196,140,data,webbbr01
+2008,Cy Young,NL,National League,NYM,New York Mets,East,3,Johan Santana,NYM,55.0,4.0,34%,7.1,16,7,0.696,2.53,34,34,0,3,2,0,234.1,206,74,66,23,63,5,206,4,2,9,964,1.148,166,data,santajo02
+2008,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,4,Brad Lidge,PHI,10.0,0.0,6%,2.4,2,0,1.0,1.95,72,0,61,0,0,41,69.1,50,17,15,2,35,4,92,1,0,5,292,1.226,224,data,lidgebr01
+2008,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,5,CC Sabathia,MIL,9.0,1.0,6%,4.9,11,2,0.846,1.65,17,17,0,7,3,0,130.2,106,31,24,6,25,0,128,4,0,1,516,1.003,255,data,
+2008,Cy Young,NL,National League,CHC,Chicago Cubs,Central,6,Ryan Dempster,CHC,4.0,0.0,3%,6.9,17,6,0.739,2.96,33,33,0,1,0,0,206.2,174,75,68,14,76,1,187,7,0,5,856,1.21,154,data,dempsry01
+2009,Cy Young,AL,American League,KCR,Kansas City Royals,Central,1,Zack Greinke,KCR,134.0,25.0,96%,10.4,16,8,0.667,2.16,33,33,0,6,3,0,229.1,195,64,55,11,51,0,242,4,0,5,915,1.073,205,data,greinza01
+2009,Cy Young,AL,American League,SEA,Seattle Mariners,West,2,Félix Hernández,SEA,80.0,2.0,57%,5.9,19,5,0.792,2.49,34,34,0,2,1,0,238.2,200,81,66,15,71,0,217,8,1,17,977,1.135,171,data,hernafe02
+2009,Cy Young,AL,American League,DET,Detroit Tigers,Central,3,Justin Verlander,DET,14.0,1.0,10%,5.5,19,9,0.679,3.45,35,35,0,3,1,0,240.0,219,99,92,20,63,5,269,6,4,8,982,1.175,131,data,verlaju01
+2009,Cy Young,AL,American League,NYY,New York Yankees,East,4,CC Sabathia,NYY,13.0,0.0,9%,6.2,19,8,0.704,3.37,34,34,0,2,1,0,230.0,197,96,86,18,67,7,197,9,0,5,938,1.148,137,data,
+2009,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,5,Roy Halladay,TOR,11.0,0.0,8%,6.9,17,10,0.63,2.79,32,32,0,9,4,0,239.0,234,82,74,22,35,0,208,5,0,2,963,1.126,159,data,hallaro01
+2009,Cy Young,NL,National League,SFG,San Francisco Giants,West,1,Tim Lincecum,SFG,100.0,11.0,63%,7.4,15,7,0.682,2.48,32,32,0,4,2,0,225.1,168,69,62,10,68,2,261,6,0,11,905,1.047,171,data,linceti01
+2009,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,2,Chris Carpenter,STL,94.0,9.0,59%,6.5,17,4,0.81,2.24,28,28,0,3,1,0,192.2,156,49,48,7,38,1,144,7,0,1,750,1.007,182,data,carpech01
+2009,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,3,Adam Wainwright,STL,90.0,12.0,56%,6.3,19,8,0.704,2.63,34,34,0,1,0,0,233.0,216,75,68,17,66,1,212,3,0,7,970,1.21,155,data,wainwad01
+2009,Cy Young,NL,National League,ATL,Atlanta Braves,East,4,Javier Vázquez,ATL,3.0,0.0,2%,6.2,15,10,0.6,2.87,32,32,0,3,0,0,219.1,181,75,70,20,44,2,238,4,0,6,874,1.026,143,data,vazquja01
+2009,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,5,Dan Haren,ARI,1.0,0.0,1%,6.5,14,10,0.583,3.14,33,33,0,3,1,0,229.1,192,83,80,27,38,2,223,4,0,13,909,1.003,142,data,harenda01
+2010,Cy Young,AL,American League,SEA,Seattle Mariners,West,1,Félix Hernández,SEA,167.0,21.0,85%,7.2,13,12,0.52,2.27,34,34,0,6,1,0,249.2,194,80,63,17,70,1,232,8,1,14,1001,1.057,174,data,hernafe02
+2010,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,2,David Price,TBR,111.0,4.0,57%,4.7,19,6,0.76,2.72,32,31,0,2,1,0,208.2,170,71,63,15,79,1,188,5,3,5,861,1.193,144,data,priceda01
+2010,Cy Young,AL,American League,NYY,New York Yankees,East,3,CC Sabathia,NYY,102.0,3.0,52%,4.8,21,7,0.75,3.18,34,34,0,2,0,0,237.2,209,92,84,20,74,6,197,7,1,8,970,1.191,136,data,
+2010,Cy Young,AL,American League,BOS,Boston Red Sox,East,4,Jon Lester,BOS,33.0,0.0,17%,5.2,19,9,0.679,3.25,32,32,0,2,0,0,208.0,167,81,75,14,83,0,225,10,0,6,861,1.202,134,data,lestejo01
+2010,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,5,Jered Weaver,LAA,24.0,0.0,12%,5.2,13,12,0.52,3.01,34,34,0,0,0,0,224.1,187,83,75,23,54,0,233,0,1,7,905,1.074,132,data,weaveje02
+2010,Cy Young,AL,American League,BOS,Boston Red Sox,East,6,Clay Buchholz,BOS,20.0,0.0,10%,5.6,17,7,0.708,2.33,28,28,0,1,1,0,173.2,142,55,45,9,67,1,120,5,1,7,711,1.203,187,data,buchhcl01
+2010,Cy Young,AL,American League,TOT,,,7,Cliff Lee,TOT,6.0,0.0,3%,5.1,12,9,0.571,3.18,28,28,0,7,1,0,212.1,195,84,75,16,18,2,185,1,1,3,843,1.003,133,data,leecl02
+2010,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,8,Rafael Soriano,TBR,5.0,0.0,3%,2.1,3,2,0.6,1.73,64,0,56,0,0,45,62.1,36,14,12,4,14,2,57,1,0,0,237,0.802,226,data,soriara01
+2010,Cy Young,AL,American League,OAK,Oakland Athletics,West,9,Trevor Cahill,OAK,4.0,0.0,2%,3.9,18,8,0.692,2.97,30,30,0,1,1,0,196.2,155,73,65,19,63,1,118,6,2,2,783,1.108,138,data,cahiltr01
+2010,Cy Young,AL,American League,KCR,Kansas City Royals,Central,10,Joakim Soria,KCR,2.0,0.0,1%,3.7,1,2,0.333,1.78,66,0,56,0,0,43,65.2,53,13,13,4,16,1,71,2,1,3,270,1.051,236,data,soriajo01
+2010,Cy Young,AL,American League,MIN,Minnesota Twins,Central,11,Francisco Liriano,MIN,1.0,0.0,1%,4.2,14,10,0.583,3.62,31,31,0,0,0,0,191.2,184,77,77,9,58,0,201,10,1,10,806,1.263,112,data,liriafr01
+2010,Cy Young,AL,American League,DET,Detroit Tigers,Central,11,Justin Verlander,DET,1.0,0.0,1%,4.4,18,9,0.667,3.37,33,33,0,4,0,0,224.1,190,89,84,14,71,0,219,6,2,11,925,1.163,124,data,verlaju01
+2010,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,1,Roy Halladay,PHI,224.0,32.0,100%,8.5,21,10,0.677,2.44,33,33,0,9,4,0,250.2,231,74,68,24,30,1,219,6,1,5,993,1.041,167,data,hallaro01
+2010,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,2,Adam Wainwright,STL,122.0,0.0,54%,6.2,20,11,0.645,2.42,33,33,0,5,2,0,230.1,186,68,62,15,56,2,213,4,0,2,910,1.051,160,data,wainwad01
+2010,Cy Young,NL,National League,COL,Colorado Rockies,West,3,Ubaldo Jiménez,COL,90.0,0.0,40%,7.5,19,8,0.704,2.88,33,33,0,4,2,0,221.2,164,73,71,10,92,7,214,9,1,16,894,1.155,161,data,jimenub01
+2010,Cy Young,NL,National League,ATL,Atlanta Braves,East,4,Tim Hudson,ATL,39.0,0.0,17%,5.8,17,9,0.654,2.83,34,34,0,1,0,0,228.2,189,74,72,20,74,8,139,9,0,5,920,1.15,138,data,hudsoti01
+2010,Cy Young,NL,National League,FLA,Florida Marlins,East,5,Josh Johnson,FLA,34.0,0.0,15%,7.0,11,6,0.647,2.3,28,28,0,1,0,0,183.2,155,51,47,7,48,2,186,5,0,4,744,1.105,180,data,johnsjo09
+2010,Cy Young,NL,National League,TOT,,,6,Roy Oswalt,TOT,14.0,0.0,6%,6.0,13,13,0.5,2.76,33,32,0,2,2,0,211.2,162,70,65,19,55,2,193,5,1,2,837,1.025,145,data,oswalro01
+2010,Cy Young,NL,National League,SFG,San Francisco Giants,West,7,Brian Wilson,SFG,7.0,0.0,3%,2.8,3,3,0.5,1.81,70,0,59,0,0,48,74.2,62,16,15,3,26,5,93,1,0,0,311,1.179,217,data,wilsobr01
+2010,Cy Young,NL,National League,SDP,San Diego Padres,West,8,Heath Bell,SDP,4.0,0.0,2%,1.9,6,1,0.857,1.93,67,0,57,0,0,47,70.0,56,17,15,1,28,3,86,1,0,1,287,1.2,191,data,bellhe01
+2010,Cy Young,NL,National League,SDP,San Diego Padres,West,8,Mat Latos,SDP,4.0,0.0,2%,3.2,14,10,0.583,2.92,31,31,0,1,1,0,184.2,150,63,60,16,50,3,189,2,1,5,748,1.083,126,data,latosma01
+2010,Cy Young,NL,National League,SFG,San Francisco Giants,West,10,Tim Lincecum,SFG,2.0,0.0,1%,3.3,16,10,0.615,3.43,33,33,0,1,1,0,212.1,194,84,81,18,76,7,231,5,0,9,897,1.272,114,data,linceti01
+2010,Cy Young,NL,National League,HOU,Houston Astros,Central,10,Brett Myers,HOU,2.0,0.0,1%,4.9,14,8,0.636,3.14,33,33,0,2,0,0,223.2,212,88,78,20,66,3,180,3,0,2,936,1.243,126,data,myersbr01
+2010,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,12,Bronson Arroyo,CIN,1.0,0.0,0%,2.4,17,10,0.63,3.88,33,33,0,2,0,0,215.2,188,95,93,29,59,5,121,6,1,1,880,1.145,105,data,arroybr01
+2010,Cy Young,NL,National League,SFG,San Francisco Giants,West,12,Matt Cain,SFG,1.0,0.0,0%,4.1,13,11,0.542,3.14,33,33,0,4,2,0,223.1,181,84,78,22,61,4,177,4,0,8,896,1.084,124,data,cainma01
+2011,Cy Young,AL,American League,DET,Detroit Tigers,Central,1,Justin Verlander,DET,196.0,28.0,100%,8.6,24,5,0.828,2.4,34,34,0,4,2,0,251.0,174,73,67,24,57,0,250,3,2,7,969,0.92,172,data,verlaju01
+2011,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Jered Weaver,LAA,97.0,0.0,49%,6.9,18,8,0.692,2.41,33,33,0,4,2,0,235.2,182,65,63,20,56,0,198,3,0,8,926,1.01,156,data,weaveje02
+2011,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,3,James Shields,TBR,66.0,0.0,34%,5.8,16,12,0.571,2.82,33,33,0,11,4,0,249.1,195,83,78,26,65,1,225,5,0,4,975,1.043,134,data,shielja02
+2011,Cy Young,AL,American League,NYY,New York Yankees,East,4,CC Sabathia,NYY,63.0,0.0,32%,6.4,19,8,0.704,3.0,33,33,0,3,1,0,237.1,230,87,79,17,61,4,230,7,1,2,985,1.226,143,data,
+2011,Cy Young,AL,American League,DET,Detroit Tigers,Central,5,José Valverde,DET,28.0,0.0,14%,2.0,2,4,0.333,2.24,75,0,70,0,0,49,72.1,52,21,18,5,34,4,69,3,1,3,301,1.189,185,data,valvejo01
+2011,Cy Young,AL,American League,TEX,Texas Rangers,West,6,C.J. Wilson,TEX,9.0,0.0,5%,4.9,16,7,0.696,2.94,34,34,0,3,1,0,223.1,191,89,73,16,74,0,206,10,0,6,915,1.187,150,data,wilsocj01
+2011,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,7,Dan Haren,LAA,7.0,0.0,4%,4.2,16,10,0.615,3.17,35,34,1,4,3,0,238.1,211,91,84,20,33,1,192,5,0,6,953,1.024,119,data,harenda01
+2011,Cy Young,AL,American League,NYY,New York Yankees,East,8,Mariano Rivera,NYY,4.0,0.0,2%,2.9,1,2,0.333,1.91,64,0,54,0,0,44,61.1,47,13,13,3,8,2,60,2,0,1,233,0.897,226,data,riverma01
+2011,Cy Young,AL,American League,BOS,Boston Red Sox,East,9,Josh Beckett,BOS,3.0,0.0,2%,5.8,13,7,0.65,2.89,30,30,0,1,1,0,193.0,146,65,62,21,52,1,175,9,0,6,767,1.026,149,data,beckejo02
+2011,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,10,Ricky Romero,TOR,2.0,0.0,1%,6.4,15,11,0.577,2.92,32,32,0,4,2,0,225.0,176,85,73,26,80,2,178,14,1,9,917,1.138,146,data,romerri01
+2011,Cy Young,AL,American League,NYY,New York Yankees,East,11,David Robertson,NYY,1.0,0.0,1%,3.7,4,0,1.0,1.08,70,0,8,0,0,1,66.2,40,9,8,1,35,6,100,1,1,6,272,1.125,399,data,roberda08
+2011,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,1,Clayton Kershaw,LAD,207.0,27.0,92%,6.8,21,5,0.808,2.28,33,33,0,5,2,0,233.1,174,66,59,15,54,2,248,3,1,5,912,0.977,161,data,kershcl01
+2011,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,2,Roy Halladay,PHI,133.0,4.0,59%,8.8,19,6,0.76,2.35,32,32,0,8,1,0,233.2,208,65,61,10,35,4,220,4,1,2,933,1.04,163,data,hallaro01
+2011,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,3,Cliff Lee,PHI,90.0,0.0,40%,8.5,17,8,0.68,2.4,32,32,0,6,6,0,232.2,197,66,62,18,42,0,238,6,0,0,920,1.027,160,data,leecl02
+2011,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,4,Ian Kennedy,ARI,76.0,1.0,34%,4.8,21,4,0.84,2.88,33,33,0,1,1,0,222.0,186,73,71,19,55,0,198,9,1,11,900,1.086,137,data,kenneia01
+2011,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,5,Cole Hamels,PHI,17.0,0.0,8%,6.4,14,9,0.609,2.79,32,31,0,3,0,0,216.0,169,68,67,19,44,2,194,5,3,3,850,0.986,137,data,hamelco01
+2011,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Tim Lincecum,SFG,7.0,0.0,3%,3.7,13,14,0.481,2.74,33,33,0,1,1,0,217.0,176,74,66,15,86,5,220,6,0,9,900,1.207,127,data,linceti01
+2011,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,7,Yovani Gallardo,MIL,5.0,0.0,2%,2.3,17,10,0.63,3.52,33,33,0,1,1,0,207.1,193,92,81,27,59,1,207,1,0,12,865,1.215,112,data,gallayo01
+2011,Cy Young,NL,National League,SFG,San Francisco Giants,West,8,Matt Cain,SFG,3.0,0.0,1%,3.1,12,11,0.522,2.88,33,33,0,1,0,0,221.2,177,82,71,9,63,5,179,9,0,4,907,1.083,121,data,cainma01
+2011,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,9,John Axford,MIL,2.0,0.0,1%,2.3,2,2,0.5,1.95,74,0,63,0,0,46,73.2,59,19,16,4,25,1,86,0,0,8,305,1.14,202,data,axforjo01
+2011,Cy Young,NL,National League,ATL,Atlanta Braves,East,9,Craig Kimbrel,ATL,2.0,0.0,1%,2.5,4,3,0.571,2.1,79,0,64,0,0,46,77.0,48,19,18,3,32,1,127,1,0,4,306,1.039,183,data,kimbrcr01
+2011,Cy Young,NL,National League,SFG,San Francisco Giants,West,11,Madison Bumgarner,SFG,1.0,0.0,0%,1.9,13,13,0.5,3.21,33,33,0,0,0,0,204.2,202,82,73,12,46,5,191,5,1,0,844,1.212,109,data,bumgama01
+2011,Cy Young,NL,National League,SFG,San Francisco Giants,West,11,Ryan Vogelsong,SFG,1.0,0.0,0%,2.7,13,7,0.65,2.71,30,28,1,1,1,0,179.2,164,62,54,15,61,6,139,5,1,1,752,1.252,129,data,vogelry01
+2012,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,1,David Price,TBR,153.0,14.0,78%,6.6,20,5,0.8,2.56,31,31,0,2,1,0,211.0,173,63,60,16,59,2,205,5,1,8,836,1.1,150,data,priceda01
+2012,Cy Young,AL,American League,DET,Detroit Tigers,Central,2,Justin Verlander,DET,149.0,13.0,76%,8.1,17,8,0.68,2.64,33,33,0,6,1,0,238.1,192,81,70,19,60,2,239,5,1,2,956,1.057,161,data,verlaju01
+2012,Cy Young,AL,American League,LAA,Los Angeles Angels of Anaheim,West,3,Jered Weaver,LAA,70.0,0.0,36%,4.3,20,5,0.8,2.81,30,30,0,3,2,0,188.2,147,63,59,20,45,0,142,4,0,2,739,1.018,135,data,weaveje02
+2012,Cy Young,AL,American League,SEA,Seattle Mariners,West,4,Félix Hernández,SEA,41.0,0.0,21%,5.3,13,9,0.591,3.06,33,33,0,5,5,0,232.0,209,84,79,14,56,0,223,12,2,13,939,1.142,124,data,hernafe02
+2012,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,5,Fernando Rodney,TBR,38.0,1.0,19%,3.7,2,2,0.5,0.6,76,0,65,0,0,48,74.2,43,9,5,2,15,1,76,3,0,4,282,0.777,641,data,rodnefe01
+2012,Cy Young,AL,American League,CHW,Chicago White Sox,Central,6,Chris Sale,CHW,17.0,0.0,9%,5.7,17,8,0.68,3.05,30,29,0,1,0,0,192.0,167,66,65,19,51,5,192,6,0,6,772,1.135,140,data,salech01
+2012,Cy Young,AL,American League,BAL,Baltimore Orioles,East,7,Jim Johnson,BAL,5.0,0.0,3%,2.4,2,1,0.667,2.49,71,0,63,0,0,51,68.2,55,21,19,3,15,1,41,3,0,1,269,1.019,170,data,johnsji04
+2012,Cy Young,AL,American League,TEX,Texas Rangers,West,8,Matt Harrison,TEX,2.0,0.0,1%,5.8,18,11,0.621,3.29,32,32,0,4,2,0,213.1,210,82,78,22,59,0,133,1,0,2,876,1.261,133,data,harrima01
+2012,Cy Young,AL,American League,TEX,Texas Rangers,West,9,Yu Darvish,TEX,1.0,0.0,1%,3.5,16,9,0.64,3.9,29,29,0,0,0,0,191.1,156,89,83,14,89,1,221,10,0,8,816,1.28,112,data,darviyu01
+2012,Cy Young,NL,National League,NYM,New York Mets,East,1,R.A. Dickey,NYM,209.0,27.0,93%,5.7,20,6,0.769,2.73,34,33,1,5,3,0,233.2,192,78,71,24,54,2,230,9,1,4,927,1.053,139,data,
+2012,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,2,Clayton Kershaw,LAD,96.0,2.0,43%,6.4,14,9,0.609,2.53,33,33,0,2,2,0,227.2,170,70,64,16,63,5,229,5,2,6,901,1.023,150,data,kershcl01
+2012,Cy Young,NL,National League,WSN,Washington Nationals,East,3,Gio Gonzalez,WSN,93.0,1.0,42%,5.0,21,8,0.724,2.89,32,32,0,2,1,0,199.1,149,69,64,9,76,3,207,5,1,10,822,1.129,138,data,gonzagi01
+2012,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,4,Johnny Cueto,CIN,75.0,1.0,33%,5.2,19,9,0.679,2.78,33,33,0,2,0,0,217.0,205,73,67,15,49,5,170,12,3,1,888,1.171,148,data,cuetojo01
+2012,Cy Young,NL,National League,ATL,Atlanta Braves,East,5,Craig Kimbrel,ATL,41.0,1.0,18%,3.2,3,1,0.75,1.01,63,0,56,0,0,42,62.2,27,7,7,3,14,0,116,2,0,5,231,0.654,399,data,kimbrcr01
+2012,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Matt Cain,SFG,22.0,0.0,10%,3.9,16,5,0.762,2.79,32,32,0,2,2,0,219.1,177,73,68,21,51,1,193,9,0,8,876,1.04,126,data,cainma01
+2012,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,7,Kyle Lohse,STL,6.0,0.0,3%,4.0,16,3,0.842,2.86,33,33,0,0,0,0,211.0,192,74,67,19,38,1,143,4,0,1,864,1.09,133,data,lohseky01
+2012,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,8,Aroldis Chapman,CIN,1.0,0.0,0%,3.4,5,5,0.5,1.51,68,0,52,0,0,38,71.2,35,13,12,4,23,0,122,4,0,4,276,0.809,274,data,chapmar01
+2012,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,8,Cole Hamels,PHI,1.0,0.0,0%,4.5,17,6,0.739,3.05,31,31,0,2,2,0,215.1,190,80,73,24,52,3,216,3,2,3,867,1.124,132,data,hamelco01
+2013,Cy Young,AL,American League,DET,Detroit Tigers,Central,1,Max Scherzer,DET,203.0,28.0,97%,6.5,21,3,0.875,2.9,32,32,0,0,0,0,214.1,152,73,69,18,56,0,240,4,1,6,836,0.97,144,data,scherma01
+2013,Cy Young,AL,American League,TEX,Texas Rangers,West,2,Yu Darvish,TEX,93.0,0.0,44%,5.6,13,9,0.591,2.83,32,32,0,0,0,0,209.2,145,68,66,26,80,1,277,8,1,7,841,1.073,145,data,darviyu01
+2013,Cy Young,AL,American League,SEA,Seattle Mariners,West,3,Hisashi Iwakuma,SEA,73.0,0.0,35%,7.0,14,6,0.7,2.66,33,33,0,0,0,0,219.2,179,69,65,25,42,4,185,2,0,10,866,1.006,138,data,iwakuhi01
+2013,Cy Young,AL,American League,DET,Detroit Tigers,Central,4,Aníbal Sánchez,DET,46.0,1.0,22%,6.1,14,8,0.636,2.57,29,29,0,1,1,0,182.0,156,56,52,9,54,1,202,2,0,7,746,1.154,162,data,sanchan01
+2013,Cy Young,AL,American League,CHW,Chicago White Sox,Central,5,Chris Sale,CHW,44.0,1.0,21%,6.5,11,14,0.44,3.07,30,30,0,4,1,0,214.1,184,81,73,23,46,2,226,14,1,8,866,1.073,137,data,salech01
+2013,Cy Young,AL,American League,OAK,Oakland Athletics,West,6,Bartolo Colón,OAK,25.0,0.0,12%,5.6,18,6,0.75,2.65,30,30,0,3,3,0,190.1,193,60,56,14,29,0,117,0,0,1,769,1.166,147,data,colonba01
+2013,Cy Young,AL,American League,BOS,Boston Red Sox,East,7,Koji Uehara,BOS,10.0,0.0,5%,3.5,4,1,0.8,1.09,73,0,40,0,0,21,74.1,33,10,9,5,9,2,101,1,0,1,265,0.565,379,data,ueharko01
+2013,Cy Young,AL,American League,SEA,Seattle Mariners,West,8,Félix Hernández,SEA,6.0,0.0,3%,5.1,12,10,0.545,3.04,31,31,0,0,0,0,204.1,185,74,69,15,46,1,216,3,0,13,823,1.131,121,data,hernafe02
+2013,Cy Young,AL,American League,KCR,Kansas City Royals,Central,9,Greg Holland,KCR,4.0,0.0,2%,3.2,2,1,0.667,1.21,68,0,61,0,0,47,67.0,40,11,9,3,18,1,103,0,0,2,255,0.866,342,data,hollagr01
+2013,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,9,Matt Moore,TBR,4.0,0.0,2%,2.5,17,4,0.81,3.29,27,27,0,1,1,0,150.1,119,58,55,14,76,1,143,4,1,17,642,1.297,117,data,moorema02
+2013,Cy Young,AL,American League,KCR,Kansas City Royals,Central,11,James Shields,KCR,2.0,0.0,1%,4.7,13,9,0.591,3.15,34,34,0,2,0,0,228.2,215,82,80,20,68,0,196,8,2,11,946,1.238,131,data,shielja02
+2013,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,1,Clayton Kershaw,LAD,207.0,29.0,99%,8.1,16,9,0.64,1.83,33,33,0,3,2,0,236.0,164,55,48,11,52,2,232,3,2,12,908,0.915,194,data,kershcl01
+2013,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,2,Adam Wainwright,STL,86.0,1.0,41%,6.3,19,9,0.679,2.94,34,34,0,5,2,0,241.2,223,83,79,15,35,2,219,6,0,5,956,1.068,127,data,wainwad01
+2013,Cy Young,NL,National League,MIA,Miami Marlins,East,3,José Fernández,MIA,62.0,0.0,30%,6.2,12,6,0.667,2.19,28,28,0,0,0,0,172.2,111,47,42,10,58,5,187,5,1,3,681,0.979,176,data,fernajo02
+2013,Cy Young,NL,National League,NYM,New York Mets,East,4,Matt Harvey,NYM,39.0,0.0,19%,5.3,9,5,0.643,2.27,26,26,0,1,1,0,178.1,135,46,45,7,31,1,191,4,0,2,690,0.931,157,data,harvema01
+2013,Cy Young,NL,National League,ATL,Atlanta Braves,East,4,Craig Kimbrel,ATL,39.0,0.0,19%,3.1,4,3,0.571,1.21,68,0,60,0,0,50,67.0,39,10,9,4,20,2,98,3,0,3,258,0.881,311,data,kimbrcr01
+2013,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,6,Cliff Lee,PHI,32.0,0.0,15%,6.6,14,8,0.636,2.87,31,31,0,2,1,0,222.2,193,77,71,22,32,0,222,4,0,1,876,1.01,131,data,leecl02
+2013,Cy Young,NL,National League,WSN,Washington Nationals,East,7,Jordan Zimmermann,WSN,21.0,0.0,10%,3.5,19,9,0.679,3.25,32,32,0,4,2,0,213.1,192,81,77,19,40,0,161,7,0,3,865,1.088,116,data,zimmejo02
+2013,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,8,Zack Greinke,LAD,19.0,0.0,9%,4.3,15,4,0.789,2.63,28,28,0,1,1,0,177.2,152,54,52,13,46,1,148,7,0,5,717,1.114,135,data,greinza01
+2013,Cy Young,NL,National League,SFG,San Francisco Giants,West,9,Madison Bumgarner,SFG,3.0,0.0,1%,4.0,13,9,0.591,2.77,31,31,0,0,0,0,201.1,146,68,62,15,62,6,199,6,0,6,803,1.033,124,data,bumgama01
+2013,Cy Young,NL,National League,PIT,Pittsburgh Pirates,Central,9,Francisco Liriano,PIT,3.0,0.0,1%,3.3,16,8,0.667,3.02,26,26,0,2,0,0,161.0,134,54,54,9,63,0,163,0,2,7,666,1.224,118,data,liriafr01
+2014,Cy Young,AL,American League,CLE,Cleveland Indians,Central,1,Corey Kluber,CLE,169.0,17.0,80%,8.1,18,9,0.667,2.44,34,34,0,3,1,0,235.2,207,72,64,14,51,3,269,6,0,3,951,1.095,160,data,klubeco01
+2014,Cy Young,AL,American League,SEA,Seattle Mariners,West,2,Félix Hernández,SEA,159.0,13.0,76%,6.4,15,6,0.714,2.14,34,34,0,0,0,0,236.0,170,68,56,16,46,1,248,5,0,18,912,0.915,170,data,hernafe02
+2014,Cy Young,AL,American League,CHW,Chicago White Sox,Central,3,Chris Sale,CHW,78.0,0.0,37%,6.1,12,4,0.75,2.17,26,26,0,2,0,0,174.0,129,48,42,13,39,2,208,11,0,3,685,0.966,173,data,salech01
+2014,Cy Young,AL,American League,TOT,,,4,Jon Lester,TOT,46.0,0.0,22%,4.6,16,11,0.593,2.46,32,32,0,1,1,0,219.2,194,76,60,16,48,0,220,5,0,3,885,1.102,158,data,lestejo01
+2014,Cy Young,AL,American League,DET,Detroit Tigers,Central,5,Max Scherzer,DET,32.0,0.0,15%,5.8,18,5,0.783,3.15,33,33,0,1,1,0,220.1,196,80,77,18,63,1,252,6,1,10,904,1.175,123,data,scherma01
+2014,Cy Young,AL,American League,TOT,,,6,David Price,TOT,16.0,0.0,8%,4.4,15,12,0.556,3.26,34,34,0,3,0,0,248.1,230,100,90,25,38,1,271,5,0,2,1009,1.079,115,data,priceda01
+2014,Cy Young,AL,American League,MIN,Minnesota Twins,Central,7,Phil Hughes,MIN,6.0,0.0,3%,4.6,16,10,0.615,3.52,32,32,0,1,0,0,209.2,221,88,82,16,16,1,186,5,0,1,855,1.13,111,data,hugheph01
+2014,Cy Young,AL,American League,KCR,Kansas City Royals,Central,8,Wade Davis,KCR,3.0,0.0,1%,3.8,9,2,0.818,1.0,71,0,11,0,0,3,72.0,38,8,8,0,23,0,109,3,0,1,279,0.847,396,data,daviswa01
+2014,Cy Young,AL,American League,KCR,Kansas City Royals,Central,9,Greg Holland,KCR,1.0,0.0,0%,2.6,1,3,0.25,1.44,65,0,60,0,0,46,62.1,37,13,10,3,20,0,90,0,0,9,240,0.914,274,data,hollagr01
+2014,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,1,Clayton Kershaw,LAD,210.0,30.0,100%,7.7,21,3,0.875,1.77,27,27,0,6,2,0,198.1,139,42,39,9,31,0,239,2,2,7,749,0.857,197,data,kershcl01
+2014,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,2,Johnny Cueto,CIN,112.0,0.0,53%,6.6,20,9,0.69,2.25,34,34,0,4,2,0,243.2,169,69,61,22,65,2,242,15,1,1,961,0.96,163,data,cuetojo01
+2014,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,3,Adam Wainwright,STL,97.0,0.0,46%,6.1,20,9,0.69,2.38,32,32,0,5,3,0,227.0,184,64,60,10,50,5,179,7,1,4,898,1.031,153,data,wainwad01
+2014,Cy Young,NL,National League,SFG,San Francisco Giants,West,4,Madison Bumgarner,SFG,28.0,0.0,13%,3.7,18,10,0.643,2.98,33,33,0,4,2,0,217.1,194,81,72,21,43,3,219,6,1,4,873,1.09,116,data,bumgama01
+2014,Cy Young,NL,National League,WSN,Washington Nationals,East,5,Jordan Zimmermann,WSN,25.0,0.0,12%,4.7,14,5,0.737,2.66,32,32,0,3,2,0,199.2,185,67,59,13,29,0,182,6,0,4,800,1.072,141,data,zimmejo02
+2014,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,6,Cole Hamels,PHI,17.0,0.0,8%,6.4,9,9,0.5,2.46,30,30,0,0,0,0,204.2,176,60,56,14,59,3,198,8,1,6,829,1.148,152,data,hamelco01
+2014,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,7,Zack Greinke,LAD,6.0,0.0,3%,4.5,17,8,0.68,2.71,32,32,0,0,0,0,202.1,190,69,61,19,43,3,207,2,0,12,821,1.152,129,data,greinza01
+2014,Cy Young,NL,National League,WSN,Washington Nationals,East,8,Doug Fister,WSN,5.0,0.0,2%,4.4,16,6,0.727,2.41,25,25,0,1,1,0,164.0,153,52,44,18,24,0,98,7,0,5,662,1.079,155,data,fistedo01
+2014,Cy Young,NL,National League,CHC,Chicago Cubs,Central,9,Jake Arrieta,CHC,3.0,0.0,1%,5.3,10,5,0.667,2.53,25,25,0,1,1,0,156.2,114,46,44,5,41,2,167,3,0,8,614,0.989,150,data,arrieja01
+2014,Cy Young,NL,National League,ATL,Atlanta Braves,East,9,Craig Kimbrel,ATL,3.0,0.0,1%,2.5,0,3,0.0,1.61,63,0,54,0,0,47,61.2,30,13,11,2,26,0,95,2,0,6,244,0.908,223,data,kimbrcr01
+2014,Cy Young,NL,National League,WSN,Washington Nationals,East,9,Stephen Strasburg,WSN,3.0,0.0,1%,3.3,14,11,0.56,3.14,34,34,0,0,0,0,215.0,198,86,75,23,43,4,242,5,0,7,868,1.121,119,data,strasst01
+2014,Cy Young,NL,National League,MIA,Miami Marlins,East,12,Henderson Alvarez III,MIA,1.0,0.0,0%,4.7,12,7,0.632,2.65,30,30,0,3,3,0,187.0,198,65,55,14,33,3,111,8,0,4,772,1.235,140,data,alvarhe01
+2015,Cy Young,AL,American League,HOU,Houston Astros,West,1,Dallas Keuchel,HOU,186.0,22.0,89%,6.6,20,8,0.714,2.48,33,33,0,3,2,0,232.0,185,68,64,17,51,0,216,2,0,9,911,1.017,157,data,keuchda01
+2015,Cy Young,AL,American League,TOT,,,2,David Price,TOT,143.0,8.0,68%,6.3,18,5,0.783,2.45,32,32,0,3,1,0,220.1,190,70,60,17,47,2,225,3,0,4,888,1.076,164,data,priceda01
+2015,Cy Young,AL,American League,OAK,Oakland Athletics,West,3,Sonny Gray,OAK,82.0,0.0,39%,5.4,14,7,0.667,2.73,31,31,0,3,2,0,208.0,166,71,63,17,59,0,169,2,0,13,831,1.082,143,data,grayso01
+2015,Cy Young,AL,American League,CHW,Chicago White Sox,Central,4,Chris Sale,CHW,30.0,0.0,14%,3.4,13,11,0.542,3.41,31,31,0,1,0,0,208.2,185,88,79,23,42,0,274,13,0,7,854,1.088,114,data,salech01
+2015,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,5,Chris Archer,TBR,29.0,0.0,14%,3.9,12,13,0.48,3.23,34,34,0,1,1,0,212.0,175,85,76,19,66,0,252,3,0,13,868,1.137,121,data,archech01
+2015,Cy Young,AL,American League,KCR,Kansas City Royals,Central,6,Wade Davis,KCR,10.0,0.0,5%,3.5,8,1,0.889,0.94,69,0,24,0,0,17,67.1,33,8,7,3,20,1,78,0,0,1,251,0.787,448,data,daviswa01
+2015,Cy Young,AL,American League,SEA,Seattle Mariners,West,7,Félix Hernández,SEA,9.0,0.0,4%,4.6,18,9,0.667,3.53,31,31,0,2,2,0,201.2,180,80,79,23,58,0,191,9,0,10,826,1.18,108,data,hernafe02
+2015,Cy Young,AL,American League,HOU,Houston Astros,West,8,Collin McHugh,HOU,5.0,0.0,2%,2.6,19,7,0.731,3.89,32,32,0,0,0,0,203.2,207,89,88,19,53,2,171,9,0,5,859,1.277,100,data,mchugco01
+2015,Cy Young,AL,American League,CLE,Cleveland Indians,Central,9,Corey Kluber,CLE,4.0,0.0,2%,4.3,9,16,0.36,3.49,32,32,0,4,0,0,222.0,189,92,86,22,45,3,245,11,1,6,886,1.054,123,data,klubeco01
+2015,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,10,Marco Estrada,TOR,3.0,0.0,1%,3.8,13,8,0.619,3.13,34,28,3,0,0,0,181.0,134,67,63,24,55,2,131,5,0,2,725,1.044,131,data,estrama01
+2015,Cy Young,AL,American League,NYY,New York Yankees,East,10,Andrew Miller,NYY,3.0,0.0,1%,2.3,3,2,0.6,2.04,60,0,53,0,0,36,61.2,33,16,14,5,20,1,100,5,0,2,246,0.859,200,data,millean01
+2015,Cy Young,AL,American League,TEX,Texas Rangers,West,10,Shawn Tolleson,TEX,3.0,0.0,1%,1.8,6,4,0.6,2.99,73,0,53,0,0,35,72.1,66,25,24,9,17,5,76,2,0,0,298,1.147,142,data,tollesh01
+2015,Cy Young,AL,American League,CLE,Cleveland Indians,Central,13,Carlos Carrasco,CLE,2.0,0.0,1%,3.9,14,12,0.538,3.63,30,30,0,3,1,0,183.2,154,75,74,18,43,2,216,5,0,5,730,1.073,119,data,carraca01
+2015,Cy Young,AL,American League,NYY,New York Yankees,East,14,Dellin Betances,NYY,1.0,0.0,0%,3.9,6,4,0.6,1.5,74,0,17,0,0,9,84.0,45,17,14,6,40,2,131,3,0,9,332,1.012,271,data,betande01
+2015,Cy Young,NL,National League,CHC,Chicago Cubs,Central,1,Jake Arrieta,CHC,169.0,17.0,80%,8.3,22,6,0.786,1.77,33,33,0,4,3,0,229.0,150,52,45,10,48,2,236,6,0,6,870,0.865,215,data,arrieja01
+2015,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,2,Zack Greinke,LAD,147.0,10.0,70%,8.9,19,3,0.864,1.66,32,32,0,1,0,0,222.2,148,43,41,14,40,1,200,5,0,7,843,0.844,222,data,greinza01
+2015,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,3,Clayton Kershaw,LAD,101.0,3.0,48%,7.2,16,7,0.696,2.13,33,33,0,4,3,0,232.2,163,62,55,15,42,1,301,5,3,9,890,0.881,173,data,kershcl01
+2015,Cy Young,NL,National League,PIT,Pittsburgh Pirates,Central,4,Gerrit Cole,PIT,40.0,0.0,19%,4.3,19,8,0.704,2.6,32,32,0,0,0,0,208.0,183,71,60,11,44,1,202,10,0,7,832,1.091,149,data,colege01
+2015,Cy Young,NL,National League,WSN,Washington Nationals,East,5,Max Scherzer,WSN,32.0,0.0,15%,6.9,14,12,0.538,2.79,33,33,0,4,3,0,228.2,176,74,71,27,34,2,276,5,1,10,899,0.918,142,data,scherma01
+2015,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Madison Bumgarner,SFG,8.0,0.0,4%,5.0,18,9,0.667,2.93,32,32,0,4,2,0,218.1,181,73,71,21,39,2,234,7,0,1,869,1.008,131,data,bumgama01
+2015,Cy Young,NL,National League,NYM,New York Mets,East,7,Jacob deGrom,NYM,7.0,0.0,3%,5.3,14,8,0.636,2.54,30,30,0,0,0,0,191.0,149,59,54,16,38,2,205,2,0,6,751,0.979,149,data,degroja01
+2015,Cy Young,NL,National League,PIT,Pittsburgh Pirates,Central,8,Mark Melancon,PIT,5.0,0.0,2%,1.8,3,2,0.6,2.23,78,0,63,0,0,51,76.2,57,22,19,4,14,2,62,2,0,3,293,0.926,174,data,melanma01
+2015,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,9,John Lackey,STL,1.0,0.0,0%,5.8,13,10,0.565,2.77,33,33,0,1,0,0,218.0,211,71,67,21,53,5,175,4,3,5,896,1.211,142,data,lackejo01
+2016,Cy Young,AL,American League,BOS,Boston Red Sox,East,1,Rick Porcello,BOS,137.0,8.0,65%,4.7,22,4,0.846,3.15,33,33,0,3,0,0,223.0,193,85,78,23,32,0,189,13,0,3,890,1.009,142,data,porceri01
+2016,Cy Young,AL,American League,DET,Detroit Tigers,Central,2,Justin Verlander,DET,132.0,14.0,63%,7.4,16,9,0.64,3.04,34,34,0,2,0,0,227.2,171,81,77,30,57,1,254,8,0,6,903,1.001,140,data,verlaju01
+2016,Cy Young,AL,American League,CLE,Cleveland Indians,Central,3,Corey Kluber,CLE,98.0,3.0,47%,5.6,18,9,0.667,3.14,32,32,0,3,2,0,215.0,170,82,75,22,57,1,227,7,1,5,860,1.056,144,data,klubeco01
+2016,Cy Young,AL,American League,BAL,Baltimore Orioles,East,4,Zack Britton,BAL,72.0,5.0,34%,4.1,2,1,0.667,0.54,69,0,63,0,0,47,67.0,38,7,4,1,18,3,74,0,0,10,254,0.836,803,data,brittza01
+2016,Cy Young,AL,American League,CHW,Chicago White Sox,Central,5,Chris Sale,CHW,40.0,0.0,19%,5.0,17,10,0.63,3.34,32,32,0,6,1,0,226.2,190,88,84,27,45,2,233,17,0,2,907,1.037,121,data,salech01
+2016,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,6,J.A. Happ,TOR,14.0,0.0,7%,4.5,20,4,0.833,3.18,32,32,0,0,0,0,195.0,168,72,69,22,60,0,163,6,2,3,796,1.169,134,data,happja01
+2016,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,7,Aaron Sanchez,TOR,6.0,0.0,3%,5.1,15,2,0.882,3.0,30,30,0,0,0,0,192.0,161,69,64,15,63,0,161,5,0,5,790,1.167,142,data,sanchaa01
+2016,Cy Young,AL,American League,NYY,New York Yankees,East,7,Masahiro Tanaka,NYY,6.0,0.0,3%,5.2,14,4,0.778,3.07,31,31,0,0,0,0,199.2,179,75,68,22,36,0,165,3,0,7,805,1.077,140,data,tanakma01
+2016,Cy Young,AL,American League,TOT,,,9,Andrew Miller,TOT,3.0,0.0,1%,3.7,10,1,0.909,1.45,70,0,23,0,0,12,74.1,42,13,12,8,9,0,123,2,0,1,275,0.686,304,data,millean01
+2016,Cy Young,AL,American League,DET,Detroit Tigers,Central,10,Michael Fulmer,DET,1.0,0.0,0%,5.4,11,7,0.611,3.06,26,26,0,1,1,0,159.0,136,57,54,16,42,1,132,9,1,1,647,1.119,139,data,fulmemi01
+2016,Cy Young,AL,American League,CHW,Chicago White Sox,Central,10,Jose Quintana,CHW,1.0,0.0,0%,5.3,13,12,0.52,3.2,32,32,0,0,0,0,208.0,192,76,74,22,50,1,181,4,1,10,837,1.163,126,data,quintjo01
+2016,Cy Young,NL,National League,WSN,Washington Nationals,East,1,Max Scherzer,WSN,192.0,25.0,91%,6.3,20,7,0.741,2.96,34,34,0,1,0,0,228.1,165,77,75,31,56,2,284,6,1,2,902,0.968,144,data,scherma01
+2016,Cy Young,NL,National League,CHC,Chicago Cubs,Central,2,Jon Lester,CHC,102.0,1.0,49%,5.6,19,5,0.792,2.44,32,32,0,2,0,0,202.2,154,57,55,21,52,0,197,6,0,4,796,1.016,171,data,lestejo01
+2016,Cy Young,NL,National League,CHC,Chicago Cubs,Central,3,Kyle Hendricks,CHC,85.0,2.0,40%,5.3,16,8,0.667,2.13,31,30,0,2,1,0,190.0,142,53,45,15,44,3,170,8,0,5,745,0.979,196,data,hendrky01
+2016,Cy Young,NL,National League,SFG,San Francisco Giants,West,4,Madison Bumgarner,SFG,46.0,0.0,22%,4.8,15,9,0.625,2.74,34,34,0,4,1,0,226.2,179,79,69,26,54,0,251,8,1,4,912,1.028,146,data,bumgama01
+2016,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,5,Clayton Kershaw,LAD,30.0,2.0,14%,5.8,12,4,0.75,1.69,21,21,0,3,3,0,149.0,97,31,28,8,11,1,172,2,3,5,544,0.725,237,data,kershcl01
+2016,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Johnny Cueto,SFG,19.0,0.0,9%,5.4,18,5,0.783,2.79,32,32,0,5,2,0,219.2,195,71,68,15,45,1,198,8,1,3,881,1.093,144,data,cuetojo01
+2016,Cy Young,NL,National League,MIA,Miami Marlins,East,7,José Fernández,MIA,18.0,0.0,9%,4.4,16,8,0.667,2.86,29,29,0,0,0,0,182.1,149,63,58,13,55,6,253,6,1,9,737,1.119,137,data,fernajo02
+2016,Cy Young,NL,National League,NYM,New York Mets,East,8,Noah Syndergaard,NYM,15.0,0.0,7%,5.0,14,9,0.609,2.6,31,30,0,0,0,0,183.2,168,61,53,11,43,2,218,2,1,10,744,1.149,155,data,syndeno01
+2016,Cy Young,NL,National League,CHC,Chicago Cubs,Central,9,Jake Arrieta,CHC,2.0,0.0,1%,3.7,18,8,0.692,3.1,31,31,0,1,1,0,197.1,138,72,68,16,76,1,190,6,0,16,795,1.084,135,data,arrieja01
+2016,Cy Young,NL,National League,WSN,Washington Nationals,East,10,Tanner Roark,WSN,1.0,0.0,0%,5.5,16,10,0.615,2.83,34,33,0,0,0,0,210.0,173,72,66,17,73,4,172,13,1,6,855,1.171,151,data,roarkta01
+2017,Cy Young,AL,American League,CLE,Cleveland Indians,Central,1,Corey Kluber,CLE,204.0,28.0,97%,7.9,18,4,0.818,2.25,29,29,0,5,3,0,203.2,141,56,51,21,36,2,265,5,0,4,777,0.869,202,data,klubeco01
+2017,Cy Young,AL,American League,BOS,Boston Red Sox,East,2,Chris Sale,BOS,126.0,2.0,60%,5.9,17,8,0.68,2.9,32,32,0,1,0,0,214.1,165,73,69,24,43,0,308,8,0,3,851,0.97,157,data,salech01
+2017,Cy Young,AL,American League,NYY,New York Yankees,East,3,Luis Severino,NYY,73.0,0.0,35%,5.2,14,6,0.7,2.98,31,31,0,0,0,0,193.1,150,73,64,21,51,0,230,6,0,6,783,1.04,152,data,severlu01
+2017,Cy Young,AL,American League,CLE,Cleveland Indians,Central,4,Carlos Carrasco,CLE,43.0,0.0,20%,5.2,18,6,0.75,3.29,32,32,0,1,0,0,200.0,173,73,73,21,46,2,226,10,0,10,798,1.095,139,data,carraca01
+2017,Cy Young,AL,American League,TOT,,,5,Justin Verlander,TOT,32.0,0.0,15%,6.9,15,8,0.652,3.36,33,33,0,0,0,0,206.0,170,80,77,27,72,4,219,4,0,5,849,1.175,131,data,verlaju01
+2017,Cy Young,AL,American League,BOS,Boston Red Sox,East,6,Craig Kimbrel,BOS,27.0,0.0,13%,3.6,5,0,1.0,1.43,67,0,51,0,0,35,69.0,33,11,11,6,14,0,126,4,0,5,254,0.681,319,data,kimbrcr01
+2017,Cy Young,AL,American League,MIN,Minnesota Twins,Central,7,Ervin Santana,MIN,3.0,0.0,1%,4.9,16,8,0.667,3.28,33,33,0,5,3,0,211.1,177,85,77,31,61,2,167,8,1,12,864,1.126,135,data,santaer01
+2017,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,8,Marcus Stroman,TOR,2.0,0.0,1%,5.1,13,9,0.591,3.09,33,33,0,2,0,0,201.0,201,82,69,21,62,1,164,6,1,3,834,1.308,145,data,stromma01
+2017,Cy Young,NL,National League,WSN,Washington Nationals,East,1,Max Scherzer,WSN,201.0,27.0,96%,7.2,16,6,0.727,2.51,31,31,0,2,0,0,200.2,126,62,56,22,55,2,268,11,0,4,780,0.902,178,data,scherma01
+2017,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,2,Clayton Kershaw,LAD,126.0,3.0,60%,5.0,18,4,0.818,2.31,27,27,0,1,0,0,175.0,136,49,45,23,30,0,202,0,2,4,679,0.949,179,data,kershcl01
+2017,Cy Young,NL,National League,WSN,Washington Nationals,East,3,Stephen Strasburg,WSN,81.0,0.0,39%,6.3,15,4,0.789,2.52,28,28,0,1,1,0,175.1,131,55,49,13,47,5,204,7,0,3,701,1.015,178,data,strasst01
+2017,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,4,Zack Greinke,ARI,52.0,0.0,25%,5.8,17,7,0.708,3.2,32,32,0,1,0,0,202.1,172,80,72,25,45,0,215,0,0,12,801,1.072,147,data,greinza01
+2017,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,5,Kenley Jansen,LAD,22.0,0.0,10%,3.0,5,0,1.0,1.32,65,0,57,0,0,41,68.1,44,11,10,5,7,0,109,2,1,2,258,0.746,315,data,janseke01
+2017,Cy Young,NL,National League,WSN,Washington Nationals,East,6,Gio Gonzalez,WSN,18.0,0.0,9%,6.5,15,9,0.625,2.96,32,32,0,0,0,0,201.0,158,69,66,21,79,5,188,7,0,7,827,1.179,152,data,gonzagi01
+2017,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,7,Robbie Ray,ARI,6.0,0.0,3%,4.8,15,5,0.75,2.89,28,28,0,1,1,0,162.0,116,57,52,23,71,3,218,5,0,8,665,1.154,163,data,rayro02
+2017,Cy Young,NL,National League,NYM,New York Mets,East,8,Jacob deGrom,NYM,2.0,0.0,1%,4.2,15,10,0.6,3.53,31,31,0,1,0,0,201.1,180,87,79,28,59,5,239,2,0,7,827,1.187,117,data,degroja01
+2017,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,9,Jimmy Nelson,MIL,1.0,0.0,0%,3.3,12,6,0.667,3.49,29,29,0,1,0,0,175.1,171,75,68,16,48,1,199,9,1,6,728,1.249,126,data,nelsoji02
+2017,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,9,Alex Wood,LAD,1.0,0.0,0%,3.5,16,3,0.842,2.72,27,25,0,0,0,0,152.1,123,50,46,15,38,6,151,6,0,2,614,1.057,152,data,woodal02
+2018,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,1,Blake Snell,TBR,169.0,17.0,80%,7.1,21,5,0.808,1.89,31,31,0,0,0,0,180.2,112,41,38,16,64,2,221,1,0,13,700,0.974,217,data,snellbl01
+2018,Cy Young,AL,American League,HOU,Houston Astros,West,2,Justin Verlander,HOU,154.0,13.0,73%,6.3,16,9,0.64,2.52,34,34,0,1,1,0,214.0,156,63,60,28,37,0,290,8,2,5,833,0.902,164,data,verlaju01
+2018,Cy Young,AL,American League,CLE,Cleveland Indians,Central,3,Corey Kluber,CLE,71.0,0.0,34%,6.0,20,7,0.741,2.89,33,33,0,2,1,0,215.0,179,75,69,25,34,0,222,3,0,2,842,0.991,150,data,klubeco01
+2018,Cy Young,AL,American League,BOS,Boston Red Sox,East,4,Chris Sale,BOS,59.0,0.0,28%,6.5,12,4,0.75,2.11,27,27,0,0,0,0,158.0,102,39,37,11,34,0,237,14,0,4,617,0.861,209,data,salech01
+2018,Cy Young,AL,American League,HOU,Houston Astros,West,5,Gerrit Cole,HOU,26.0,0.0,12%,5.2,15,5,0.75,2.88,32,32,0,1,1,0,200.1,143,68,64,19,64,0,276,7,0,9,799,1.033,144,data,colege01
+2018,Cy Young,AL,American League,CLE,Cleveland Indians,Central,6,Trevor Bauer,CLE,13.0,0.0,6%,6.0,12,6,0.667,2.21,28,27,1,0,0,1,175.1,134,51,43,9,57,2,221,9,0,12,717,1.089,196,data,bauertr01
+2018,Cy Young,AL,American League,OAK,Oakland Athletics,West,6,Blake Treinen,OAK,13.0,0.0,6%,4.4,9,2,0.818,0.78,68,0,58,0,0,38,80.1,46,12,7,2,21,3,100,1,0,6,315,0.834,531,data,treinbl01
+2018,Cy Young,AL,American League,SEA,Seattle Mariners,West,8,Edwin Díaz,SEA,4.0,0.0,2%,3.1,0,4,0.0,1.96,73,0,65,0,0,57,73.1,41,17,16,5,17,0,124,6,1,3,280,0.791,208,data,diazed04
+2018,Cy Young,AL,American League,NYY,New York Yankees,East,9,Luis Severino,NYY,1.0,0.0,0%,4.0,19,8,0.704,3.39,32,32,0,1,1,0,191.1,173,76,72,19,46,0,220,5,0,8,780,1.145,124,data,severlu01
+2018,Cy Young,NL,National League,NYM,New York Mets,East,1,Jacob deGrom,NYM,207.0,29.0,99%,9.4,10,9,0.526,1.7,32,32,0,1,0,0,217.0,152,48,41,10,46,3,269,5,0,2,835,0.912,218,data,degroja01
+2018,Cy Young,NL,National League,WSN,Washington Nationals,East,2,Max Scherzer,WSN,123.0,1.0,59%,7.9,18,7,0.72,2.53,33,33,0,2,1,0,220.2,150,66,62,23,51,4,300,12,1,4,866,0.911,168,data,scherma01
+2018,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,3,Aaron Nola,PHI,86.0,0.0,41%,9.7,17,6,0.739,2.37,33,33,0,0,0,0,212.1,149,57,56,17,58,3,224,7,1,4,831,0.975,173,data,nolaaa01
+2018,Cy Young,NL,National League,COL,Colorado Rockies,West,4,Kyle Freeland,COL,49.0,0.0,23%,7.8,17,7,0.708,2.85,33,33,0,0,0,0,202.1,182,64,64,17,70,2,173,6,0,2,844,1.245,166,data,freelky01
+2018,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,5,Patrick Corbin,ARI,23.0,0.0,11%,4.4,11,7,0.611,3.15,33,33,0,1,1,0,200.0,162,70,70,15,48,3,246,5,0,8,800,1.05,133,data,corbipa01
+2018,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,6,Miles Mikolas,STL,13.0,0.0,6%,5.1,18,4,0.818,2.83,32,32,0,1,1,0,200.2,186,70,63,16,29,4,146,7,1,2,808,1.071,137,data,mikolmi01
+2018,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,7,Josh Hader,MIL,4.0,0.0,2%,2.1,6,1,0.857,2.43,55,0,14,0,0,12,81.1,36,23,22,9,30,0,143,1,1,0,306,0.811,168,data,haderjo01
+2018,Cy Young,NL,National League,ATL,Atlanta Braves,East,8,Mike Foltynewicz,ATL,3.0,0.0,1%,4.3,13,10,0.565,2.85,31,31,0,2,1,0,183.0,130,65,58,17,68,3,202,6,2,7,744,1.082,143,data,foltymi01
+2018,Cy Young,NL,National League,CHC,Chicago Cubs,Central,9,Jon Lester,CHC,2.0,0.0,1%,2.7,18,6,0.75,3.32,32,32,0,0,0,0,181.2,174,75,67,24,64,1,149,6,0,4,761,1.31,125,data,lestejo01
+2019,Cy Young,AL,American League,HOU,Houston Astros,West,1,Justin Verlander,HOU,171.0,17.0,81%,7.4,21,6,0.778,2.58,34,34,0,2,1,0,223.0,137,66,64,36,42,0,300,6,0,4,847,0.803,179,data,verlaju01
+2019,Cy Young,AL,American League,HOU,Houston Astros,West,2,Gerrit Cole,HOU,159.0,13.0,76%,6.7,20,5,0.8,2.5,33,33,0,0,0,0,212.1,142,66,59,29,48,0,326,3,3,4,817,0.895,185,data,colege01
+2019,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,3,Charlie Morton,TBR,75.0,0.0,36%,4.9,16,6,0.727,3.05,33,33,0,0,0,0,194.2,154,71,66,15,57,0,240,12,1,5,790,1.084,144,data,mortoch02
+2019,Cy Young,AL,American League,CLE,Cleveland Indians,Central,4,Shane Bieber,CLE,64.0,0.0,30%,4.8,15,8,0.652,3.28,34,33,1,3,2,0,214.1,186,86,78,31,40,1,259,6,1,6,859,1.054,144,data,biebesh01
+2019,Cy Young,AL,American League,TEX,Texas Rangers,West,5,Lance Lynn,TEX,18.0,0.0,9%,7.7,16,11,0.593,3.67,33,33,0,0,0,0,208.1,195,89,85,21,59,0,246,8,0,18,875,1.219,141,data,lynnla01
+2019,Cy Young,AL,American League,CHW,Chicago White Sox,Central,6,Lucas Giolito,CHW,8.0,0.0,4%,5.4,14,9,0.609,3.41,29,29,0,3,2,0,176.2,131,69,67,24,57,1,228,4,0,6,705,1.064,134,data,giolilu01
+2019,Cy Young,AL,American League,BOS,Boston Red Sox,East,6,Eduardo Rodríguez,BOS,8.0,0.0,4%,5.5,19,6,0.76,3.81,34,34,0,0,0,0,203.1,195,88,86,24,75,2,213,7,0,3,859,1.328,128,data,rodried05
+2019,Cy Young,AL,American League,TEX,Texas Rangers,West,8,Mike Minor,TEX,7.0,0.0,3%,8.0,14,10,0.583,3.59,32,32,0,2,1,0,208.1,190,86,83,30,68,1,200,7,0,2,863,1.238,144,data,minormi01
+2019,Cy Young,NL,National League,NYM,New York Mets,East,1,Jacob deGrom,NYM,207.0,29.0,99%,7.2,11,8,0.579,2.43,32,32,0,0,0,0,204.0,154,59,55,19,44,1,255,7,0,2,804,0.971,169,data,degroja01
+2019,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,2,Hyun Jin Ryu,LAD,88.0,1.0,42%,5.1,14,5,0.737,2.32,29,29,0,1,1,0,182.2,160,53,47,17,24,2,163,4,0,0,723,1.007,179,data,ryuhy01
+2019,Cy Young,NL,National League,WSN,Washington Nationals,East,3,Max Scherzer,WSN,72.0,0.0,34%,5.3,11,7,0.611,2.92,27,27,0,0,0,0,172.1,144,59,56,18,33,2,243,7,0,0,693,1.027,154,data,scherma01
+2019,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,4,Jack Flaherty,STL,69.0,0.0,33%,5.7,11,8,0.579,2.75,33,33,0,0,0,0,196.1,135,62,60,25,55,2,231,7,0,6,772,0.968,152,data,flaheja01
+2019,Cy Young,NL,National League,WSN,Washington Nationals,East,5,Stephen Strasburg,WSN,53.0,0.0,25%,5.7,18,6,0.75,3.32,33,33,0,0,0,0,209.0,161,79,77,24,56,4,251,10,0,8,841,1.038,135,data,strasst01
+2019,Cy Young,NL,National League,ATL,Atlanta Braves,East,6,Michael Soroka,ATL,9.0,0.0,4%,6.0,13,4,0.765,2.68,29,29,0,0,0,0,174.2,153,56,52,14,41,1,142,7,0,3,701,1.111,171,data,sorokmi01
+2019,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,7,Sonny Gray,CIN,4.0,0.0,2%,6.2,11,8,0.579,2.87,31,31,0,0,0,0,175.1,122,59,56,17,68,1,205,7,1,7,708,1.084,162,data,grayso01
+2019,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,8,Clayton Kershaw,LAD,3.0,0.0,1%,3.3,16,5,0.762,3.03,29,28,0,0,0,0,178.1,145,63,60,28,41,0,189,2,1,7,706,1.043,137,data,kershcl01
+2019,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,9,Walker Buehler,LAD,2.0,0.0,1%,2.3,14,4,0.778,3.26,30,30,0,2,0,0,182.1,153,77,66,20,37,0,215,7,0,4,737,1.042,127,data,buehlwa01
+2019,Cy Young,NL,National League,SDP,San Diego Padres,West,9,Kirby Yates,SDP,2.0,0.0,1%,3.0,0,5,0.0,1.19,60,0,51,0,0,41,60.2,41,14,8,2,13,1,101,7,0,2,243,0.89,354,data,yateski01
+2019,Cy Young,NL,National League,WSN,Washington Nationals,East,11,Patrick Corbin,WSN,1.0,0.0,0%,5.1,14,7,0.667,3.25,33,33,0,1,1,0,202.0,169,81,73,24,70,2,238,3,0,4,835,1.183,138,data,corbipa01
+2020,Cy Young,AL,American League,CLE,Cleveland Indians,Central,1,Shane Bieber,CLE,210.0,30.0,100%,3.2,8,1,0.889,1.63,12,12,0,0,0,0,77.1,46,15,14,7,21,0,122,1,0,5,297,0.866,273,data,biebesh01
+2020,Cy Young,AL,American League,MIN,Minnesota Twins,Central,2,Kenta Maeda,MIN,92.0,0.0,44%,1.6,6,1,0.857,2.7,11,11,0,0,0,0,66.2,40,20,20,9,10,0,80,0,0,0,248,0.75,160,data,maedake01
+2020,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,3,Hyun Jin Ryu,TOR,51.0,0.0,24%,2.9,5,2,0.714,2.69,12,12,0,0,0,0,67.0,60,22,20,6,17,0,72,1,0,1,275,1.149,164,data,ryuhy01
+2020,Cy Young,AL,American League,NYY,New York Yankees,East,4,Gerrit Cole,NYY,50.0,0.0,24%,2.2,7,3,0.7,2.84,12,12,0,2,1,0,73.0,53,27,23,14,17,0,94,2,0,2,288,0.959,151,data,colege01
+2020,Cy Young,AL,American League,CHW,Chicago White Sox,Central,5,Dallas Keuchel,CHW,46.0,0.0,22%,2.1,6,2,0.75,1.99,11,11,0,0,0,0,63.1,52,15,14,2,17,0,42,0,0,0,257,1.089,224,data,keuchda01
+2020,Cy Young,AL,American League,TEX,Texas Rangers,West,6,Lance Lynn,TEX,22.0,0.0,10%,2.2,6,3,0.667,3.32,13,13,0,1,0,0,84.0,64,34,31,13,25,0,89,6,0,2,344,1.06,135,data,lynnla01
+2020,Cy Young,AL,American League,CHW,Chicago White Sox,Central,7,Lucas Giolito,CHW,18.0,0.0,9%,0.8,4,3,0.571,3.48,12,12,0,1,1,0,72.1,47,31,28,8,28,0,97,2,0,3,288,1.037,128,data,giolilu01
+2020,Cy Young,AL,American League,OAK,Oakland Athletics,West,8,Chris Bassitt,OAK,10.0,0.0,5%,2.2,5,2,0.714,2.29,11,11,0,0,0,0,63.0,56,18,16,6,17,0,55,2,0,2,261,1.159,183,data,bassich01
+2020,Cy Young,AL,American League,LAA,Los Angeles Angels,West,9,Dylan Bundy,LAA,5.0,0.0,2%,1.7,6,3,0.667,3.29,11,11,0,1,0,0,65.2,51,27,24,5,17,1,72,4,0,2,267,1.036,138,data,bundydy01
+2020,Cy Young,AL,American League,OAK,Oakland Athletics,West,9,Liam Hendriks,OAK,5.0,0.0,2%,1.4,3,1,0.75,1.78,24,0,20,0,0,14,25.1,14,6,5,1,3,1,37,0,0,0,92,0.671,238,data,hendrli01
+2020,Cy Young,AL,American League,HOU,Houston Astros,West,11,Framber Valdez,HOU,1.0,0.0,0%,1.2,5,3,0.625,3.57,11,10,0,0,0,0,70.2,63,32,28,5,16,0,76,5,1,6,288,1.118,125,data,valdefr01
+2020,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,1,Trevor Bauer,CIN,201.0,27.0,96%,3.0,5,4,0.556,1.73,11,11,0,2,2,0,73.0,41,17,14,9,17,1,100,3,0,3,278,0.795,284,data,bauertr01
+2020,Cy Young,NL,National League,CHC,Chicago Cubs,Central,2,Yu Darvish,CHC,123.0,3.0,59%,2.8,8,3,0.727,2.01,12,12,0,0,0,0,76.0,59,18,17,5,14,1,93,2,0,3,297,0.961,224,data,darviyu01
+2020,Cy Young,NL,National League,NYM,New York Mets,East,3,Jacob deGrom,NYM,89.0,0.0,42%,2.6,4,2,0.667,2.38,12,12,0,0,0,0,68.0,47,21,18,7,18,0,104,0,0,4,268,0.956,180,data,degroja01
+2020,Cy Young,NL,National League,SDP,San Diego Padres,West,4,Dinelson Lamet,SDP,57.0,0.0,27%,2.3,3,1,0.75,2.09,12,12,0,0,0,0,69.0,39,18,16,5,20,0,93,4,0,1,267,0.855,201,data,lametdi01
+2020,Cy Young,NL,National League,ATL,Atlanta Braves,East,5,Max Fried,ATL,15.0,0.0,7%,2.9,7,0,1.0,2.25,11,11,0,0,0,0,56.0,42,14,14,2,19,0,50,4,1,1,224,1.089,208,data,friedma01
+2020,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,6,Corbin Burnes,MIL,12.0,0.0,6%,2.1,4,1,0.8,2.11,12,9,2,0,0,0,59.2,37,15,14,2,24,0,88,3,0,5,240,1.022,216,data,burneco01
+2020,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,7,Aaron Nola,PHI,3.0,0.0,1%,2.2,5,5,0.5,3.28,12,12,0,2,1,0,71.1,54,31,26,9,23,2,96,2,0,1,289,1.079,137,data,nolaaa01
+2020,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,7,Devin Williams,MIL,3.0,0.0,1%,1.3,4,1,0.8,0.33,22,0,1,0,0,0,27.0,8,4,1,1,9,0,53,1,0,3,100,0.63,1375,data,willide03
+2020,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,9,Zac Gallen,ARI,2.0,0.0,1%,2.5,3,2,0.6,2.75,12,12,0,0,0,0,72.0,55,24,22,9,25,0,82,2,0,4,291,1.111,164,data,galleza01
+2020,Cy Young,NL,National League,CHC,Chicago Cubs,Central,9,Kyle Hendricks,CHC,2.0,0.0,1%,2.0,6,5,0.545,2.88,12,12,0,1,1,0,81.1,73,26,26,10,8,1,64,1,0,1,315,0.996,156,data,hendrky01
+2020,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,9,Clayton Kershaw,LAD,2.0,0.0,1%,1.8,6,2,0.75,2.16,10,10,0,0,0,0,58.1,41,18,14,8,8,0,62,1,0,0,221,0.84,202,data,kershcl01
+2020,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,12,Zack Wheeler,PHI,1.0,0.0,0%,2.8,4,2,0.667,2.92,11,11,0,0,0,0,71.0,67,26,23,3,16,2,53,7,0,0,288,1.169,154,data,wheelza01
+2021,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,1,Robbie Ray,TOR,207.0,29.0,99%,6.9,13,7,0.65,2.84,32,32,0,0,0,0,193.1,150,62,61,33,52,0,248,4,0,5,773,1.045,157,data,rayro02
+2021,Cy Young,AL,American League,NYY,New York Yankees,East,2,Gerrit Cole,NYY,123.0,1.0,59%,5.7,16,8,0.667,3.23,30,30,0,2,1,0,181.1,151,69,65,24,41,0,243,2,1,5,726,1.059,133,data,colege01
+2021,Cy Young,AL,American League,CHW,Chicago White Sox,Central,3,Lance Lynn,CHW,48.0,0.0,23%,5.4,11,6,0.647,2.69,28,28,0,1,1,0,157.0,123,52,47,18,45,2,176,2,0,5,641,1.07,163,data,lynnla01
+2021,Cy Young,AL,American League,BOS,Boston Red Sox,East,4,Nathan Eovaldi,BOS,41.0,0.0,20%,4.3,11,9,0.55,3.75,32,32,0,0,0,0,182.1,182,81,76,15,35,2,195,7,0,6,764,1.19,125,data,eovalna01
+2021,Cy Young,AL,American League,CHW,Chicago White Sox,Central,5,Carlos Rodón,CHW,34.0,0.0,16%,5.1,13,5,0.722,2.37,24,24,0,1,1,0,132.2,91,39,35,13,36,1,185,8,0,7,534,0.957,185,data,rodonca01
+2021,Cy Young,AL,American League,OAK,Oakland Athletics,West,6,Frankie Montas,OAK,21.0,0.0,10%,3.7,13,9,0.591,3.37,32,32,0,0,0,0,187.0,164,79,70,20,57,1,207,7,0,11,778,1.182,122,data,montafr02
+2021,Cy Young,AL,American League,HOU,Houston Astros,West,7,Lance McCullers Jr.,HOU,14.0,0.0,7%,3.3,13,5,0.722,3.16,28,28,0,0,0,0,162.1,122,59,57,13,76,0,185,10,0,7,684,1.22,136,data,mcculla02
+2021,Cy Young,AL,American League,CHW,Chicago White Sox,Central,8,Liam Hendriks,CHW,10.0,0.0,5%,2.6,8,3,0.727,2.54,69,0,58,0,0,38,71.0,45,23,20,11,7,1,113,1,0,6,267,0.732,173,data,hendrli01
+2021,Cy Young,AL,American League,TOT,,,9,José Berríos,TOT,8.0,0.0,4%,3.4,12,9,0.571,3.52,32,32,0,1,0,0,192.0,159,83,75,22,45,0,204,15,0,3,781,1.063,123,data,berrijo01
+2021,Cy Young,AL,American League,OAK,Oakland Athletics,West,10,Chris Bassitt,OAK,2.0,0.0,1%,4.0,12,4,0.75,3.15,27,27,0,1,1,0,157.1,127,55,55,15,39,1,159,11,1,5,637,1.055,131,data,bassich01
+2021,Cy Young,AL,American League,CHW,Chicago White Sox,Central,11,Lucas Giolito,CHW,1.0,0.0,0%,4.3,11,9,0.55,3.53,31,31,0,1,0,0,178.2,145,74,70,27,52,1,201,2,0,12,720,1.103,124,data,giolilu01
+2021,Cy Young,AL,American League,LAA,Los Angeles Angels,West,11,Raisel Iglesias,LAA,1.0,0.0,0%,2.8,7,5,0.583,2.57,65,0,59,0,0,34,70.0,53,25,20,11,12,0,103,1,1,2,273,0.929,174,data,iglesra01
+2021,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,1,Corbin Burnes,MIL,151.0,12.0,72%,5.3,11,5,0.688,2.43,28,28,0,0,0,0,167.0,123,47,45,7,34,0,234,6,0,5,657,0.94,170,data,burneco01
+2021,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,2,Zack Wheeler,PHI,141.0,12.0,67%,7.5,14,10,0.583,2.78,32,32,0,3,2,0,213.1,169,72,66,16,46,1,247,8,0,6,849,1.008,150,data,wheelza01
+2021,Cy Young,NL,National League,TOT,,,3,Max Scherzer,TOT,113.0,6.0,54%,6.1,15,4,0.789,2.46,30,30,0,1,0,0,179.1,119,53,49,23,36,0,236,10,0,2,693,0.864,167,data,scherma01
+2021,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,4,Walker Buehler,LAD,70.0,0.0,33%,7.1,16,4,0.8,2.47,33,33,0,0,0,0,207.2,149,61,57,19,52,2,212,6,0,5,815,0.968,171,data,buehlwa01
+2021,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,5,Brandon Woodruff,MIL,21.0,0.0,10%,5.3,9,10,0.474,2.56,30,30,0,0,0,0,179.1,130,54,51,18,43,0,211,7,0,2,708,0.965,161,data,woodrbr01
+2021,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Kevin Gausman,SFG,7.0,0.0,3%,5.2,14,6,0.7,2.81,33,33,0,0,0,0,192.0,150,66,60,20,50,1,227,4,0,7,775,1.042,147,data,gausmke01
+2021,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,7,Julio Urías,LAD,3.0,0.0,1%,4.8,20,3,0.87,2.96,32,32,0,0,0,0,185.2,151,67,61,19,38,3,195,7,1,2,745,1.018,143,data,uriasju01
+2021,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,7,Adam Wainwright,STL,3.0,0.0,1%,3.7,17,7,0.708,3.05,32,32,0,3,1,0,206.1,168,72,70,21,50,3,174,9,1,4,828,1.057,128,data,wainwad01
+2021,Cy Young,NL,National League,NYM,New York Mets,East,9,Jacob deGrom,NYM,1.0,0.0,0%,4.5,7,2,0.778,1.08,15,15,0,1,1,0,92.0,40,14,11,6,11,0,146,1,0,0,324,0.554,373,data,degroja01
+2022,Cy Young,AL,American League,HOU,Houston Astros,West,1,Justin Verlander,HOU,210.0,30.0,100%,5.6,18,4,0.818,1.75,28,28,0,0,0,0,175.0,116,43,34,12,29,0,185,6,0,3,666,0.829,218,data,verlaju01
+2022,Cy Young,AL,American League,CHW,Chicago White Sox,Central,2,Dylan Cease,CHW,97.0,0.0,46%,6.4,14,8,0.636,2.2,32,32,0,1,1,0,184.0,126,55,45,16,78,2,227,3,1,7,747,1.109,180,data,ceasedy01
+2022,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,3,Alek Manoah,TOR,87.0,0.0,41%,6.0,16,7,0.696,2.24,31,31,0,0,0,0,196.2,144,55,49,16,51,0,180,15,0,5,786,0.992,172,data,manoaal01
+2022,Cy Young,AL,American League,LAA,Los Angeles Angels,West,4,Shohei Ohtani,LAA,82.0,0.0,39%,6.3,15,9,0.625,2.33,28,28,0,0,0,0,166.0,124,45,43,14,44,0,219,2,0,14,660,1.012,172,data,ohtansh01
+2022,Cy Young,AL,American League,HOU,Houston Astros,West,5,Framber Valdez,HOU,14.0,0.0,7%,3.4,17,6,0.739,2.82,31,31,0,3,1,0,201.1,166,71,63,11,67,0,194,11,1,11,827,1.157,135,data,valdefr01
+2022,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,6,Shane McClanahan,TBR,10.0,0.0,5%,4.1,12,8,0.6,2.54,28,28,0,0,0,0,166.1,116,52,47,19,38,1,194,3,0,9,641,0.926,144,data,mcclash01
+2022,Cy Young,AL,American League,CLE,Cleveland Guardians,Central,7,Shane Bieber,CLE,5.0,0.0,2%,3.5,13,8,0.619,2.88,31,31,0,1,0,0,200.0,172,70,64,18,36,0,198,2,1,5,791,1.04,131,data,biebesh01
+2022,Cy Young,AL,American League,NYY,New York Yankees,East,8,Nestor Cortes,NYY,3.0,0.0,1%,4.4,12,4,0.75,2.44,28,28,0,1,1,0,158.1,108,44,43,16,38,0,163,2,0,1,615,0.922,161,data,cortene01
+2022,Cy Young,AL,American League,NYY,New York Yankees,East,9,Gerrit Cole,NYY,1.0,0.0,0%,2.6,13,8,0.619,3.5,33,33,0,0,0,0,200.2,154,81,78,33,50,0,257,2,2,2,793,1.017,112,data,colege01
+2022,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,9,Kevin Gausman,TOR,1.0,0.0,0%,3.0,12,10,0.545,3.35,31,31,0,0,0,0,174.2,188,72,65,15,28,0,205,1,2,2,725,1.237,115,data,gausmke01
+2022,Cy Young,NL,National League,MIA,Miami Marlins,East,1,Sandy Alcantara,MIA,210.0,30.0,100%,8.0,14,9,0.609,2.28,32,32,0,6,1,0,228.2,174,67,58,16,50,1,207,9,0,3,886,0.98,180,data,alcansa01
+2022,Cy Young,NL,National League,ATL,Atlanta Braves,East,2,Max Fried,ATL,72.0,0.0,34%,6.0,14,7,0.667,2.48,30,30,0,0,0,0,185.1,156,55,51,12,32,2,170,4,0,9,733,1.014,166,data,friedma01
+2022,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,3,Julio Urías,LAD,66.0,0.0,31%,4.6,17,7,0.708,2.16,31,31,0,0,0,0,175.0,127,51,42,23,41,0,166,5,1,0,689,0.96,186,data,uriasju01
+2022,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,4,Aaron Nola,PHI,48.0,0.0,23%,5.7,11,13,0.458,3.25,32,32,0,2,1,0,205.0,168,75,74,19,29,1,235,9,0,2,807,0.961,123,data,nolaaa01
+2022,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,5,Zac Gallen,ARI,45.0,0.0,21%,5.3,12,4,0.75,2.54,31,31,0,0,0,0,184.0,121,56,52,15,47,0,192,12,0,5,714,0.913,158,data,galleza01
+2022,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Carlos Rodón,SFG,30.0,0.0,14%,5.2,14,8,0.636,2.88,31,31,0,1,0,0,178.0,131,59,57,12,52,0,237,3,0,10,710,1.028,137,data,rodonca01
+2022,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,7,Corbin Burnes,MIL,20.0,0.0,10%,4.3,12,8,0.6,2.94,33,33,0,0,0,0,202.0,144,73,66,23,51,0,243,13,0,10,797,0.965,137,data,burneco01
+2022,Cy Young,NL,National League,SDP,San Diego Padres,West,8,Yu Darvish,SDP,7.0,0.0,3%,4.5,16,8,0.667,3.1,30,30,0,0,0,0,194.2,148,67,67,22,37,0,197,12,1,4,771,0.95,122,data,darviyu01
+2022,Cy Young,NL,National League,NYM,New York Mets,East,9,Edwin Díaz,NYM,6.0,0.0,3%,3.2,3,1,0.75,1.31,61,0,49,0,0,32,62.0,34,9,9,3,18,1,118,2,0,2,235,0.839,297,data,diazed04
+2022,Cy Young,NL,National League,ATL,Atlanta Braves,East,10,Kyle Wright,ATL,3.0,0.0,1%,3.7,21,5,0.808,3.19,30,30,0,0,0,0,180.1,156,67,64,19,53,0,174,9,0,7,738,1.159,128,data,wrighky01
+2022,Cy Young,NL,National League,SFG,San Francisco Giants,West,11,Logan Webb,SFG,2.0,0.0,1%,4.6,15,9,0.625,2.9,32,32,0,0,0,0,192.1,174,76,62,11,49,0,163,7,0,6,787,1.159,136,data,webblo01
+2022,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,12,Ryan Helsley,STL,1.0,0.0,0%,2.8,9,1,0.9,1.25,54,0,33,0,0,19,64.2,28,11,9,6,20,1,94,0,0,1,239,0.742,313,data,helslry01
+2023,Cy Young,AL,American League,NYY,New York Yankees,East,1,Gerrit Cole,NYY,210.0,30.0,100%,7.4,15,4,0.789,2.63,33,33,0,2,2,0,209.0,157,64,61,20,48,0,222,7,1,4,821,0.981,165,data,colege01
+2023,Cy Young,AL,American League,MIN,Minnesota Twins,Central,2,Sonny Gray,MIN,104.0,0.0,50%,5.6,8,8,0.5,2.79,32,32,0,0,0,0,184.0,156,59,57,8,55,0,183,6,1,6,754,1.147,157,data,grayso01
+2023,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,3,Kevin Gausman,TOR,82.0,0.0,39%,3.5,12,9,0.571,3.16,31,31,0,0,0,0,185.0,163,72,65,19,55,0,237,3,2,3,763,1.178,136,data,gausmke01
+2023,Cy Young,AL,American League,BAL,Baltimore Orioles,East,4,Kyle Bradish,BAL,39.0,0.0,19%,4.8,12,7,0.632,2.83,30,30,0,0,0,0,168.2,132,54,53,14,44,0,168,8,0,9,671,1.043,144,data,bradiky01
+2023,Cy Young,AL,American League,SEA,Seattle Mariners,West,5,Luis Castillo,SEA,23.0,0.0,11%,3.2,14,9,0.609,3.34,33,33,0,0,0,0,197.0,160,81,73,28,56,0,219,5,0,3,802,1.096,118,data,castilu02
+2023,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,6,Zach Eflin,TBR,19.0,0.0,9%,3.6,16,8,0.667,3.5,31,31,0,0,0,0,177.2,158,69,69,19,24,1,186,3,0,0,703,1.024,120,data,eflinza01
+2023,Cy Young,AL,American League,MIN,Minnesota Twins,Central,7,Pablo López,MIN,11.0,0.0,5%,3.4,11,8,0.579,3.66,32,32,0,1,1,0,194.0,176,81,79,24,48,1,234,9,0,7,801,1.155,119,data,lopezpa01
+2023,Cy Young,AL,American League,SEA,Seattle Mariners,West,8,George Kirby,SEA,8.0,0.0,4%,3.8,13,10,0.565,3.35,31,31,0,1,0,0,190.2,179,74,71,22,19,1,172,6,0,1,757,1.038,118,data,kirbyge01
+2023,Cy Young,AL,American League,HOU,Houston Astros,West,9,Framber Valdez,HOU,6.0,0.0,3%,3.2,12,11,0.522,3.45,31,31,0,2,2,0,198.0,166,86,76,19,57,0,200,10,0,6,808,1.126,123,data,valdefr01
+2023,Cy Young,AL,American League,TOR,Toronto Blue Jays,East,10,Chris Bassitt,TOR,4.0,0.0,2%,2.6,16,8,0.667,3.6,33,33,0,1,1,0,200.0,176,88,80,28,59,2,186,12,3,4,826,1.175,119,data,bassich01
+2023,Cy Young,AL,American League,BAL,Baltimore Orioles,East,11,Félix Bautista,BAL,3.0,0.0,1%,3.0,8,2,0.8,1.48,56,0,46,0,0,33,61.0,30,14,10,4,26,0,110,2,0,7,237,0.918,277,data,bautife01
+2023,Cy Young,AL,American League,BOS,Boston Red Sox,East,12,Chris Martin,BOS,1.0,0.0,0%,3.2,4,1,0.8,1.05,55,0,12,0,0,3,51.1,45,6,6,2,8,3,46,0,0,1,199,1.032,434,data,martich02
+2023,Cy Young,NL,National League,SDP,San Diego Padres,West,1,Blake Snell,SDP,204.0,28.0,97%,6.5,14,9,0.609,2.25,32,32,0,0,0,0,180.0,115,47,45,15,99,0,234,3,2,13,742,1.189,187,data,snellbl01
+2023,Cy Young,NL,National League,SFG,San Francisco Giants,West,2,Logan Webb,SFG,86.0,1.0,41%,5.6,11,13,0.458,3.25,33,33,0,2,1,0,216.0,201,83,78,20,31,0,194,5,0,1,850,1.074,128,data,webblo01
+2023,Cy Young,NL,National League,ARI,Arizona Diamondbacks,West,3,Zac Gallen,ARI,68.0,1.0,32%,4.4,17,9,0.654,3.47,34,34,0,1,1,0,210.0,188,87,81,22,47,0,220,5,1,8,846,1.119,126,data,galleza01
+2023,Cy Young,NL,National League,ATL,Atlanta Braves,East,4,Spencer Strider,ATL,64.0,0.0,30%,3.0,20,5,0.8,3.86,32,32,0,0,0,0,186.2,146,85,80,22,58,1,281,9,2,6,763,1.093,113,data,stridsp01
+2023,Cy Young,NL,National League,CHC,Chicago Cubs,Central,5,Justin Steele,CHC,31.0,0.0,15%,3.2,16,5,0.762,3.06,30,30,0,0,0,0,173.1,167,71,59,14,36,0,176,7,1,9,716,1.171,139,data,steelju01
+2023,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,6,Zack Wheeler,PHI,28.0,0.0,13%,4.2,13,6,0.684,3.61,32,32,0,0,0,0,192.0,168,82,77,20,39,0,212,9,0,1,787,1.078,119,data,wheelza01
+2023,Cy Young,NL,National League,NYM,New York Mets,East,7,Kodai Senga,NYM,16.0,0.0,8%,4.5,12,7,0.632,2.98,29,29,0,0,0,0,166.1,126,60,55,17,77,0,202,5,1,14,694,1.22,140,data,sengako01
+2023,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,8,Corbin Burnes,MIL,13.0,0.0,6%,3.5,10,8,0.556,3.39,32,32,0,0,0,0,193.2,141,77,73,22,66,0,200,8,1,10,784,1.069,127,data,burneco01
+2024,Cy Young,AL,American League,DET,Detroit Tigers,Central,1,Tarik Skubal,DET,210.0,30.0,100%,6.7,18,4,0.818,2.39,31,31,0,0,0,0,192.0,142,54,51,15,35,0,228,9,0,2,753,0.922,174,data,skubata01
+2024,Cy Young,AL,American League,KCR,Kansas City Royals,Central,2,Seth Lugo,KCR,93.0,0.0,44%,5.0,16,9,0.64,3.0,33,33,0,1,0,0,206.2,177,75,69,16,48,1,181,9,0,4,836,1.089,137,data,lugose01
+2024,Cy Young,AL,American League,CLE,Cleveland Guardians,Central,3,Emmanuel Clase,CLE,66.0,0.0,31%,4.4,4,2,0.667,0.61,74,0,66,0,0,47,74.1,39,10,5,2,10,1,66,2,0,2,270,0.659,667,data,claseem01
+2024,Cy Young,AL,American League,KCR,Kansas City Royals,Central,4,Cole Ragans,KCR,48.0,0.0,23%,4.7,11,9,0.55,3.14,32,32,0,1,0,0,186.1,146,71,65,15,67,1,223,6,0,11,762,1.143,131,data,raganco01
+2024,Cy Young,AL,American League,BAL,Baltimore Orioles,East,5,Corbin Burnes,BAL,47.0,0.0,22%,3.9,15,9,0.625,2.92,32,32,0,0,0,0,194.1,165,76,63,22,48,0,181,2,3,7,784,1.096,133,data,burneco01
+2024,Cy Young,AL,American League,SEA,Seattle Mariners,West,6,Logan Gilbert,SEA,25.0,0.0,12%,3.0,9,12,0.429,3.23,33,33,0,1,0,0,208.2,148,83,75,26,37,1,220,4,0,11,803,0.887,115,data,gilbelo01
+2024,Cy Young,AL,American League,HOU,Houston Astros,West,7,Framber Valdez,HOU,17.0,0.0,8%,4.6,15,7,0.682,2.91,28,28,0,1,0,0,176.1,140,60,57,13,55,0,169,6,1,8,703,1.106,138,data,valdefr01
+2024,Cy Young,AL,American League,TEX,Texas Rangers,West,8,Kirby Yates,TEX,2.0,0.0,1%,3.1,7,2,0.778,1.17,61,0,50,0,0,33,61.2,23,10,8,3,28,5,85,2,2,1,237,0.827,326,data,yateski01
+2024,Cy Young,AL,American League,TOT,,,9,Yusei Kikuchi,TOT,1.0,0.0,0%,1.6,9,10,0.474,4.05,32,32,0,0,0,0,175.2,167,85,79,25,44,0,206,2,0,4,736,1.201,101,data,kikucyu01
+2024,Cy Young,AL,American League,CLE,Cleveland Guardians,Central,9,Cade Smith,CLE,1.0,0.0,0%,2.4,6,1,0.857,1.91,74,0,2,0,0,1,75.1,51,16,16,1,17,0,103,3,1,0,289,0.903,211,data,smithca06
+2024,Cy Young,NL,National League,ATL,Atlanta Braves,East,1,Chris Sale,ATL,198.0,26.0,94%,6.2,18,3,0.857,2.38,29,29,0,0,0,0,177.2,141,48,47,9,39,0,225,8,1,4,702,1.013,174,data,salech01
+2024,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,2,Zack Wheeler,PHI,130.0,4.0,62%,6.5,16,7,0.696,2.57,32,32,0,0,0,0,200.0,139,62,57,20,52,0,224,8,0,8,787,0.955,163,data,wheelza01
+2024,Cy Young,NL,National League,PIT,Pittsburgh Pirates,Central,3,Paul Skenes,PIT,53.0,0.0,25%,5.8,11,3,0.786,1.96,23,23,0,0,0,0,133.0,94,31,29,10,32,0,170,6,1,2,514,0.947,211,data,skenepa01
+2024,Cy Young,NL,National League,SDP,San Diego Padres,West,4,Dylan Cease,SDP,45.0,0.0,21%,4.0,14,11,0.56,3.47,33,33,0,1,1,0,189.1,137,80,73,18,65,0,224,2,0,12,762,1.067,118,data,ceasedy01
+2024,Cy Young,NL,National League,CHC,Chicago Cubs,Central,5,Shota Imanaga,CHC,38.0,0.0,18%,3.0,15,3,0.833,2.91,29,29,0,0,0,0,173.1,149,66,56,27,28,0,174,3,0,3,694,1.021,137,data,imanash01
+2024,Cy Young,NL,National League,SFG,San Francisco Giants,West,6,Logan Webb,SFG,18.0,0.0,9%,3.8,13,10,0.565,3.47,33,33,0,1,1,0,204.2,202,83,79,11,50,3,172,2,1,4,841,1.231,112,data,webblo01
+2024,Cy Young,NL,National League,SDP,San Diego Padres,West,7,Michael King,SDP,14.0,0.0,7%,4.1,13,9,0.591,2.95,31,30,0,0,0,0,173.2,144,71,57,17,63,2,201,7,0,1,726,1.192,139,data,kingmi01
+2024,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,8,Hunter Greene,CIN,5.0,0.0,2%,6.0,9,5,0.643,2.75,26,26,0,0,0,0,150.1,96,47,46,12,57,0,169,19,1,7,611,1.018,160,data,greenhu01
+2024,Cy Young,NL,National League,STL,St. Louis Cardinals,Central,9,Ryan Helsley,STL,4.0,0.0,2%,2.8,7,4,0.636,2.04,65,0,62,0,0,49,66.1,50,19,15,3,23,3,79,0,0,1,266,1.101,202,data,helslry01
+2024,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,10,Cristopher Sánchez,PHI,2.0,0.0,1%,3.8,11,9,0.55,3.32,31,31,0,2,1,0,181.2,182,76,67,11,44,0,153,0,1,7,754,1.244,126,data,sanchcr01
+2024,Cy Young,NL,National League,ATL,Atlanta Braves,East,11,Reynaldo López,ATL,1.0,0.0,0%,5.1,8,5,0.615,1.99,26,25,0,0,0,0,135.2,108,32,30,10,42,0,148,2,1,2,543,1.106,208,data,lopezre01
+2024,Cy Young,NL,National League,NYM,New York Mets,East,11,Sean Manaea,NYM,1.0,0.0,0%,2.9,12,6,0.667,3.47,32,32,0,0,0,0,181.2,134,75,70,21,63,0,184,9,0,4,738,1.084,114,data,manaese01
+2024,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,11,Aaron Nola,PHI,1.0,0.0,0%,4.0,14,8,0.636,3.57,33,33,0,1,1,0,199.1,189,84,79,30,50,0,197,3,0,2,820,1.199,117,data,nolaaa01
+2025,Cy Young,AL,American League,DET,Detroit Tigers,Central,1,Tarik Skubal,DET,198.0,26.0,94%,6.4,13,6,0.684,2.21,31,31,0,1,1,0,195.1,141,55,48,18,33,0,241,5,2,3,748,0.891,185,data,skubata01
+2025,Cy Young,AL,American League,BOS,Boston Red Sox,East,2,Garrett Crochet,BOS,132.0,4.0,63%,6.0,18,5,0.783,2.59,32,32,0,1,1,0,205.1,165,62,59,24,46,0,255,3,3,7,814,1.028,160,data,crochga01
+2025,Cy Young,AL,American League,HOU,Houston Astros,West,3,Hunter Brown,HOU,80.0,0.0,38%,5.9,12,9,0.571,2.43,31,31,0,1,0,0,185.1,133,55,50,17,57,1,206,7,1,0,729,1.025,167,data,brownhu01
+2025,Cy Young,AL,American League,NYY,New York Yankees,East,4,Max Fried,NYY,61.0,0.0,29%,4.6,19,5,0.792,2.86,32,32,0,0,0,0,195.1,164,73,62,14,51,0,189,10,1,8,801,1.101,145,data,friedma01
+2025,Cy Young,AL,American League,SEA,Seattle Mariners,West,5,Bryan Woo,SEA,26.0,0.0,12%,4.3,15,7,0.682,2.94,30,30,0,0,0,0,186.2,137,64,61,26,36,0,198,4,0,3,731,0.927,128,data,woobr01
+2025,Cy Young,AL,American League,NYY,New York Yankees,East,6,Carlos Rodón,NYY,5.0,0.0,2%,4.7,18,9,0.667,3.09,33,33,0,0,0,0,195.1,132,74,67,22,73,0,203,9,0,4,789,1.049,134,data,rodonca01
+2025,Cy Young,AL,American League,BOS,Boston Red Sox,East,7,Aroldis Chapman,BOS,4.0,0.0,2%,3.4,5,3,0.625,1.17,67,0,43,0,0,32,61.1,28,9,8,3,15,0,85,0,0,6,228,0.701,354,data,chapmar01
+2025,Cy Young,AL,American League,TEX,Texas Rangers,West,8,Jacob deGrom,TEX,2.0,0.0,1%,3.0,12,8,0.6,2.97,30,30,0,0,0,0,172.2,122,57,57,26,37,0,185,3,0,3,669,0.921,128,data,degroja01
+2025,Cy Young,AL,American League,TBR,Tampa Bay Rays,East,9,Drew Rasmussen,TBR,1.0,0.0,0%,4.4,10,5,0.667,2.76,31,31,0,0,0,0,150.0,116,47,46,18,37,1,127,5,0,3,585,1.02,150,data,rasmudr01
+2025,Cy Young,AL,American League,BAL,Baltimore Orioles,East,9,Trevor Rogers,BAL,1.0,0.0,0%,5.3,9,3,0.75,1.81,18,18,0,1,0,0,109.2,70,23,22,6,29,0,103,2,1,0,423,0.903,221,data,rogertr01
+2025,Cy Young,NL,National League,PIT,Pittsburgh Pirates,Central,1,Paul Skenes,PIT,210.0,30.0,100%,8.0,10,10,0.5,1.97,32,32,0,1,0,0,187.2,136,45,41,11,42,0,216,6,0,2,733,0.948,226,data,skenepa01
+2025,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,2,Cristopher Sánchez,PHI,120.0,0.0,57%,8.1,13,5,0.722,2.5,32,32,0,1,0,0,202.0,171,58,56,12,44,0,212,6,1,6,807,1.064,178,data,sanchcr01
+2025,Cy Young,NL,National League,LAD,Los Angeles Dodgers,West,3,Yoshinobu Yamamoto,LAD,72.0,0.0,34%,4.9,12,8,0.6,2.49,30,30,0,0,0,0,173.2,113,53,48,14,59,0,201,3,0,5,684,0.99,167,data,yamamyo01
+2025,Cy Young,NL,National League,SFG,San Francisco Giants,West,4,Logan Webb,SFG,47.0,0.0,22%,4.2,15,11,0.577,3.22,34,34,0,0,0,0,207.0,210,82,74,14,46,0,224,6,0,2,856,1.237,124,data,webblo01
+2025,Cy Young,NL,National League,MIL,Milwaukee Brewers,Central,5,Freddy Peralta,MIL,44.0,0.0,21%,5.5,17,6,0.739,2.7,33,33,0,0,0,0,176.2,124,54,53,21,66,0,204,9,2,4,723,1.075,155,data,peralfr01
+2025,Cy Young,NL,National League,SDP,San Diego Padres,West,6,Nick Pivetta,SDP,7.0,0.0,3%,5.0,13,5,0.722,2.87,31,31,0,0,0,0,181.2,129,63,58,22,50,1,190,3,0,1,721,0.985,144,data,pivetni01
+2025,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,7,Jesús Luzardo,PHI,5.0,0.0,2%,3.8,15,7,0.682,3.92,32,32,0,0,0,0,183.2,167,85,80,16,57,0,216,3,1,2,758,1.22,113,data,luzarje01
+2025,Cy Young,NL,National League,CIN,Cincinnati Reds,Central,8,Andrew Abbott,CIN,4.0,0.0,2%,5.4,10,7,0.588,2.87,29,29,0,1,1,0,166.1,148,60,53,19,43,0,149,3,0,4,684,1.148,152,data,abbotan01
+2025,Cy Young,NL,National League,PHI,Philadelphia Phillies,East,9,Zack Wheeler,PHI,1.0,0.0,0%,5.1,10,5,0.667,2.71,24,24,0,1,0,0,149.2,107,48,45,19,33,0,195,8,0,2,585,0.935,164,data,wheelza01

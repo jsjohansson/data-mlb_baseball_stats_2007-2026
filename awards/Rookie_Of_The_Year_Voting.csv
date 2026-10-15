@@ -1,0 +1,308 @@
+﻿Season,Award,League,League_Name,Team,Team_Name,Division,Rank,Name,Tm,Vote Pts,1st Place,Share,WAR,G,AB,R,H,HR,RBI,SB,BB,BA,OBP,SLG,OPS,W,L,ERA,WHIP,G_2,GS,SV,IP,H_2,HR_2,BB_2,SO,Player_ID,Row_Type
+2007,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,1,Dustin Pedroia,BOS,132.0,24.0,94%,3.9,139,520,86,165,8,50,7,47,0.317,0.38,0.442,0.823,,,,,,,,,,,,,pedrodu01,data
+2007,Rookie Of The Year,AL,American League,TBD,Tampa Bay Devil Rays,East,2,Delmon Young,TBD,56.0,3.0,40%,0.9,162,645,65,186,13,93,10,26,0.288,0.316,0.408,0.723,,,,,,,,,,,,,youngde03,data
+2007,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,3,Brian Bannister,KCR,36.0,1.0,26%,2.9,2,3,0,1,0,0,0,0,0.333,0.5,0.333,0.833,12.0,9.0,3.87,1.212,27.0,27.0,0.0,165.0,156.0,15.0,44.0,77.0,bannibr01,data
+2007,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,4,Daisuke Matsuzaka,BOS,12.0,0.0,9%,4.0,2,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15.0,12.0,4.4,1.324,32.0,32.0,0.0,204.2,191.0,25.0,80.0,201.0,matsuda01,data
+2007,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,5,Reggie Willits,LAA,11.0,0.0,8%,0.7,136,430,74,126,0,34,27,69,0.293,0.391,0.344,0.735,,,,,,,,,,,,,willire03,data
+2007,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,6,Hideki Okajima,BOS,3.0,0.0,2%,2.9,3,0,0,0,0,0,0,0,,,,,3.0,2.0,2.22,0.971,66.0,0.0,5.0,69.0,50.0,6.0,17.0,63.0,okajihi01,data
+2007,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,7,Josh Fields,CHW,1.0,0.0,1%,0.0,100,373,54,91,23,67,1,35,0.244,0.308,0.48,0.788,,,,,,,,,,,,,fieldjo02,data
+2007,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,7,Joakim Soria,KCR,1.0,0.0,1%,2.4,6,0,0,0,0,0,0,0,,,,,2.0,3.0,2.48,0.942,62.0,0.0,17.0,69.0,46.0,3.0,19.0,75.0,soriajo01,data
+2007,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,1,Ryan Braun,MIL,128.0,17.0,80%,2.0,113,451,91,146,34,97,15,29,0.324,0.37,0.634,1.004,,,,,,,,,,,,,braunry02,data
+2007,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,2,Troy Tulowitzki,COL,126.0,15.0,79%,6.8,155,609,104,177,24,99,7,57,0.291,0.359,0.479,0.838,,,,,,,,,,,,,tulowtr01,data
+2007,Rookie Of The Year,NL,National League,HOU,Houston Astros,Central,3,Hunter Pence,HOU,15.0,0.0,9%,3.4,108,456,57,147,17,69,11,26,0.322,0.36,0.539,0.899,,,,,,,,,,,,,pencehu01,data
+2007,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,4,Chris Young,ARI,10.0,0.0,6%,0.7,148,569,85,135,32,68,27,43,0.237,0.295,0.467,0.763,,,,,,,,,,,,,youngch04,data
+2007,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,5,Kyle Kendrick,PHI,7.0,0.0,4%,2.4,19,39,6,6,0,2,0,3,0.154,0.244,0.154,0.398,10.0,4.0,3.87,1.273,20.0,20.0,0.0,121.0,129.0,16.0,25.0,49.0,kendrky01,data
+2007,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,6,Yunel Escobar,ATL,1.0,0.0,1%,2.4,94,319,54,104,5,28,5,27,0.326,0.385,0.451,0.837,,,,,,,,,,,,,escobyu01,data
+2007,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,6,James Loney,LAD,1.0,0.0,1%,2.2,96,344,41,114,15,67,0,28,0.331,0.381,0.538,0.919,,,,,,,,,,,,,loneyja01,data
+2008,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Evan Longoria,TBR,140.0,28.0,100%,4.8,122,448,67,122,27,85,7,46,0.272,0.343,0.531,0.874,,,,,,,,,,,,,longoev01,data
+2008,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,2,Alexei Ramírez,CHW,59.0,0.0,42%,1.5,136,480,65,139,21,77,13,18,0.29,0.317,0.475,0.792,,,,,,,,,,,,,ramiral03,data
+2008,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,3,Jacoby Ellsbury,BOS,26.0,0.0,19%,3.0,145,554,98,155,9,47,50,41,0.28,0.336,0.394,0.729,,,,,,,,,,,,,ellsbja01,data
+2008,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,4,Mike Aviles,KCR,9.0,0.0,6%,4.7,102,419,68,136,10,51,8,18,0.325,0.354,0.48,0.833,,,,,,,,,,,,,avilemi01,data
+2008,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,4,Armando Galarraga,DET,9.0,0.0,6%,4.1,2,2,2,0,0,0,0,3,0.0,0.6,0.0,0.6,13.0,7.0,3.73,1.192,30.0,28.0,0.0,178.2,152.0,28.0,61.0,126.0,galarar01,data
+2008,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,6,Joey Devine,OAK,3.0,0.0,2%,1.9,1,0,0,0,0,0,0,0,,,,,6.0,1.0,0.59,0.832,42.0,0.0,1.0,45.2,23.0,0.0,15.0,49.0,devinjo01,data
+2008,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,6,Denard Span,MIN,3.0,0.0,2%,4.3,93,347,70,102,6,47,18,50,0.294,0.387,0.432,0.819,,,,,,,,,,,,,spande01,data
+2008,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,8,Nick Blackburn,MIN,1.0,0.0,1%,2.4,1,3,0,1,0,0,0,0,0.333,0.333,0.333,0.667,11.0,11.0,4.05,1.36,33.0,33.0,0.0,193.1,224.0,23.0,39.0,96.0,blackni01,data
+2008,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,8,Joba Chamberlain,NYY,1.0,0.0,1%,3.5,2,3,0,0,0,0,0,1,0.0,0.25,0.0,0.25,4.0,3.0,2.6,1.256,42.0,12.0,0.0,100.1,87.0,5.0,39.0,118.0,chambjo03,data
+2008,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,8,Brad Ziegler,OAK,1.0,0.0,1%,2.8,3,0,0,0,0,0,0,0,,,,,3.0,0.0,1.06,1.156,47.0,0.0,11.0,59.2,47.0,2.0,22.0,30.0,zieglbr01,data
+2008,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,1,Geovany Soto,CHC,158.0,31.0,99%,3.3,141,494,66,141,23,86,0,62,0.285,0.364,0.504,0.868,,,,,,,,,,,,,sotoge01,data
+2008,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,2,Joey Votto,CIN,76.0,1.0,48%,3.3,151,526,69,156,24,84,7,59,0.297,0.368,0.506,0.874,,,,,,,,,,,,,vottojo01,data
+2008,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Jair Jurrjens,ATL,34.0,0.0,21%,2.2,36,58,7,6,0,0,0,6,0.103,0.188,0.138,0.325,13.0,10.0,3.68,1.37,31.0,31.0,0.0,188.1,188.0,11.0,70.0,139.0,jurrjja01,data
+2008,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,4,Edinson Vólquez,CIN,9.0,0.0,6%,4.5,31,61,3,6,0,1,0,0,0.098,0.098,0.098,0.197,17.0,6.0,3.21,1.327,33.0,32.0,0.0,196.0,167.0,14.0,93.0,206.0,volqued01,data
+2008,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,5,Jay Bruce,CIN,7.0,0.0,4%,0.8,108,413,63,105,21,52,4,33,0.254,0.314,0.453,0.767,,,,,,,,,,,,,bruceja01,data
+2008,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,6,Kosuke Fukudome,CHC,4.0,0.0,3%,0.6,150,501,79,129,10,58,12,81,0.257,0.359,0.379,0.738,,,,,,,,,,,,,fukudko01,data
+2009,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,1,Andrew Bailey,OAK,88.0,13.0,55%,3.7,5,0,0,0,0,0,0,0,,,,,6.0,3.0,1.84,0.876,68.0,0.0,26.0,83.1,49.0,5.0,24.0,91.0,bailean01,data
+2009,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,2,Elvis Andrus,TEX,65.0,8.0,41%,3.6,145,480,72,128,6,40,33,40,0.267,0.329,0.373,0.702,,,,,,,,,,,,,andruel01,data
+2009,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,3,Rick Porcello,DET,64.0,7.0,40%,2.5,2,5,0,2,0,2,0,0,0.4,0.4,0.4,0.8,14.0,9.0,3.96,1.336,31.0,31.0,0.0,170.2,176.0,23.0,52.0,89.0,porceri01,data
+2009,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,4,Jeff Niemann,TBR,21.0,0.0,13%,2.3,3,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,6.0,3.94,1.351,31.0,30.0,0.0,180.2,185.0,17.0,59.0,125.0,niemaje01,data
+2009,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,5,Gordon Beckham,CHW,10.0,0.0,6%,2.1,103,378,58,102,14,63,7,41,0.27,0.347,0.46,0.808,,,,,,,,,,,,,beckhgo01,data
+2009,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,6,Brett Anderson,OAK,4.0,0.0,3%,2.2,2,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11.0,11.0,4.06,1.283,30.0,30.0,0.0,175.1,180.0,20.0,45.0,150.0,anderbr04,data
+2009,Rookie Of The Year,NL,National League,FLA,Florida Marlins,East,1,Chris Coghlan,FLA,105.0,17.0,66%,1.1,128,504,84,162,9,47,8,53,0.321,0.39,0.46,0.85,,,,,,,,,,,,,coghlch01,data
+2009,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,2,J.A. Happ,PHI,94.0,10.0,59%,3.9,33,43,2,4,0,1,0,1,0.093,0.114,0.116,0.23,12.0,4.0,2.93,1.235,35.0,23.0,0.0,166.0,149.0,20.0,56.0,119.0,happja01,data
+2009,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,3,Tommy Hanson,ATL,37.0,2.0,23%,3.5,20,37,2,2,0,1,0,1,0.054,0.079,0.054,0.133,11.0,4.0,2.89,1.183,21.0,21.0,0.0,127.2,105.0,10.0,46.0,116.0,hansoto01,data
+2009,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,4,Andrew McCutchen,PIT,25.0,2.0,16%,2.4,108,433,74,124,12,54,22,54,0.286,0.365,0.471,0.836,,,,,,,,,,,,,mccutan01,data
+2009,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,5,Casey McGehee,MIL,18.0,1.0,11%,1.3,116,355,58,107,16,66,0,34,0.301,0.36,0.499,0.859,,,,,,,,,,,,,mcgehca01,data
+2009,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,6,Randy Wells,CHC,3.0,0.0,2%,4.3,26,47,5,9,0,2,0,2,0.191,0.224,0.255,0.48,12.0,10.0,3.05,1.276,27.0,27.0,0.0,165.1,165.0,14.0,46.0,104.0,wellsra01,data
+2009,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,7,Garrett Jones,PIT,2.0,0.0,1%,3.3,82,314,45,92,21,44,10,40,0.293,0.372,0.567,0.938,,,,,,,,,,,,,jonesga02,data
+2009,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,8,Everth Cabrera,SDP,1.0,0.0,1%,1.4,103,377,59,96,2,31,25,46,0.255,0.342,0.361,0.703,,,,,,,,,,,,,cabreev01,data
+2009,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,8,Dexter Fowler,COL,1.0,0.0,1%,1.2,135,433,73,115,4,34,27,67,0.266,0.363,0.406,0.77,,,,,,,,,,,,,fowlede01,data
+2009,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,8,Gerardo Parra,ARI,1.0,0.0,1%,0.2,120,455,59,132,5,60,5,25,0.29,0.324,0.404,0.729,,,,,,,,,,,,,parrage01,data
+2009,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,8,Colby Rasmus,STL,1.0,0.0,1%,1.9,147,474,72,119,16,52,3,36,0.251,0.307,0.407,0.714,,,,,,,,,,,,,rasmuco01,data
+2010,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,1,Neftalí Feliz,TEX,122.0,20.0,87%,2.5,6,0,0,0,0,0,0,0,,,,,4.0,3.0,2.73,0.88,70.0,0.0,40.0,69.1,43.0,5.0,18.0,71.0,felizne01,data
+2010,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,2,Austin Jackson,DET,98.0,8.0,70%,5.1,151,618,103,181,4,41,27,47,0.293,0.345,0.4,0.745,,,,,,,,,,,,,jacksau01,data
+2010,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,3,Danny Valencia,MIN,12.0,0.0,9%,2.0,85,299,30,93,7,40,2,20,0.311,0.351,0.448,0.799,,,,,,,,,,,,,valenda01,data
+2010,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,4,Wade Davis,TBR,11.0,0.0,8%,1.3,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12.0,10.0,4.07,1.351,29.0,29.0,0.0,168.0,165.0,24.0,62.0,113.0,daviswa01,data
+2010,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,5,Brennan Boesch,DET,3.0,0.0,2%,0.9,133,464,49,119,14,67,7,40,0.256,0.32,0.416,0.736,,,,,,,,,,,,,boescbr01,data
+2010,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,5,John Jaso,TBR,3.0,0.0,2%,2.6,109,339,57,89,5,44,4,59,0.263,0.372,0.378,0.75,,,,,,,,,,,,,jasojo01,data
+2010,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,5,Brian Matusz,BAL,3.0,0.0,2%,2.8,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10.0,12.0,4.3,1.343,32.0,32.0,0.0,175.2,173.0,19.0,63.0,143.0,matusbr01,data
+2010,Rookie Of The Year,NL,National League,SFG,San Francisco Giants,West,1,Buster Posey,SFG,129.0,20.0,81%,3.9,108,406,58,124,18,67,0,30,0.305,0.357,0.505,0.862,,,,,,,,,,,,,poseybu01,data
+2010,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,2,Jason Heyward,ATL,107.0,9.0,67%,6.4,142,520,83,144,18,72,11,91,0.277,0.393,0.456,0.849,,,,,,,,,,,,,heywaja01,data
+2010,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Jaime García,STL,24.0,1.0,15%,2.9,29,54,8,10,0,2,0,2,0.185,0.214,0.204,0.418,13.0,8.0,2.7,1.316,28.0,28.0,0.0,163.1,151.0,9.0,64.0,132.0,garcija02,data
+2010,Rookie Of The Year,NL,National League,FLA,Florida Marlins,East,4,Gaby Sánchez,FLA,18.0,2.0,11%,0.4,151,572,72,156,19,85,5,57,0.273,0.341,0.448,0.788,,,,,,,,,,,,,sanchga01,data
+2010,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,5,Starlin Castro,CHC,3.0,0.0,2%,1.6,125,463,53,139,3,41,10,29,0.3,0.347,0.408,0.755,,,,,,,,,,,,,castrst01,data
+2010,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,5,Neil Walker,PIT,3.0,0.0,2%,2.1,110,426,57,126,12,66,2,34,0.296,0.349,0.462,0.811,,,,,,,,,,,,,walkene01,data
+2010,Rookie Of The Year,NL,National League,NYM,New York Mets,East,7,Ike Davis,NYM,2.0,0.0,1%,3.3,147,523,73,138,19,71,3,72,0.264,0.351,0.44,0.791,,,,,,,,,,,,,davisik02,data
+2010,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,8,José Tábata,PIT,1.0,0.0,1%,0.8,102,405,61,121,4,35,19,28,0.299,0.346,0.4,0.746,,,,,,,,,,,,,tabatjo01,data
+2010,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,8,Jonny Venters,ATL,1.0,0.0,1%,1.3,77,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,4.0,1.95,1.205,79.0,0.0,1.0,83.0,61.0,1.0,39.0,93.0,ventejo01,data
+2011,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Jeremy Hellickson,TBR,102.0,17.0,73%,4.2,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,10.0,2.95,1.153,29.0,29.0,0.0,189.0,146.0,21.0,72.0,117.0,hellije01,data
+2011,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Mark Trumbo,LAA,63.0,5.0,45%,2.9,149,539,65,137,29,87,9,25,0.254,0.291,0.477,0.768,,,,,,,,,,,,,trumbma01,data
+2011,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,3,Eric Hosmer,KCR,38.0,4.0,27%,1.4,128,523,66,153,19,78,11,34,0.293,0.334,0.465,0.799,,,,,,,,,,,,,hosmeer01,data
+2011,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,4,Iván Nova,NYY,30.0,1.0,21%,2.5,2,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16.0,4.0,3.7,1.331,28.0,27.0,0.0,165.1,163.0,13.0,57.0,98.0,novaiv01,data
+2011,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,5,Michael Pineda,SEA,11.0,0.0,8%,2.2,2,5,0,1,0,0,0,0,0.2,0.2,0.2,0.4,9.0,10.0,3.74,1.099,28.0,28.0,0.0,171.0,133.0,18.0,55.0,173.0,pinedmi01,data
+2011,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,6,Dustin Ackley,SEA,6.0,1.0,4%,3.7,90,333,39,91,6,36,6,40,0.273,0.348,0.417,0.766,,,,,,,,,,,,,ackledu01,data
+2011,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,7,Desmond Jennings,TBR,1.0,0.0,1%,2.4,63,247,44,64,10,25,20,31,0.259,0.356,0.449,0.805,,,,,,,,,,,,,jennide01,data
+2011,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,7,Jordan Walden,LAA,1.0,0.0,1%,0.7,4,0,0,0,0,0,0,0,,,,,5.0,5.0,2.98,1.243,62.0,0.0,32.0,60.1,49.0,3.0,26.0,67.0,waldejo01,data
+2011,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,1,Craig Kimbrel,ATL,160.0,32.0,100%,2.5,75,0,0,0,0,0,0,0,,,,,4.0,3.0,2.1,1.039,79.0,0.0,46.0,77.0,48.0,3.0,32.0,127.0,kimbrcr01,data
+2011,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,2,Freddie Freeman,ATL,70.0,0.0,44%,1.5,157,571,67,161,21,76,4,53,0.282,0.346,0.448,0.795,,,,,,,,,,,,,freemfr01,data
+2011,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,3,Vance Worley,PHI,40.0,0.0,25%,3.5,24,45,4,10,0,5,0,1,0.222,0.239,0.244,0.484,11.0,3.0,3.01,1.23,25.0,21.0,0.0,131.2,116.0,10.0,46.0,119.0,worleva01,data
+2011,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,4,Wilson Ramos,WSN,6.0,0.0,4%,2.1,113,389,48,104,15,52,0,38,0.267,0.334,0.445,0.779,,,,,,,,,,,,,ramoswi01,data
+2011,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,5,Josh Collmenter,ARI,5.0,0.0,3%,2.0,29,40,2,6,0,1,0,2,0.15,0.209,0.15,0.359,10.0,10.0,3.38,1.069,31.0,24.0,0.0,154.1,137.0,17.0,28.0,100.0,collmjo01,data
+2011,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,6,Danny Espinosa,WSN,3.0,0.0,2%,2.9,158,573,72,135,21,66,17,57,0.236,0.323,0.414,0.737,,,,,,,,,,,,,espinda01,data
+2011,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,7,Darwin Barney,CHC,2.0,0.0,1%,1.8,143,529,66,146,2,43,9,22,0.276,0.313,0.353,0.666,,,,,,,,,,,,,barneda01,data
+2011,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,7,Kenley Jansen,LAD,2.0,0.0,1%,0.9,48,0,0,0,0,0,0,0,,,,,2.0,1.0,2.85,1.043,51.0,0.0,5.0,53.2,30.0,3.0,26.0,96.0,janseke01,data
+2012,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,1,Mike Trout,LAA,140.0,28.0,100%,10.5,139,559,129,182,30,83,49,67,0.326,0.399,0.564,0.963,,,,,,,,,,,,,troutmi01,data
+2012,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,2,Yoenis Céspedes,OAK,63.0,0.0,45%,4.0,129,487,70,142,23,82,16,43,0.292,0.356,0.505,0.861,,,,,,,,,,,,,cespeyo01,data
+2012,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,3,Yu Darvish,TEX,46.0,0.0,33%,3.5,1,3,0,1,0,0,0,0,0.333,0.333,0.333,0.667,16.0,9.0,3.9,1.28,29.0,29.0,0.0,191.1,156.0,14.0,89.0,221.0,darviyu01,data
+2012,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,4,Wei-Yin Chen,BAL,2.0,0.0,1%,2.5,2,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12.0,11.0,4.02,1.261,32.0,32.0,0.0,192.2,186.0,29.0,57.0,154.0,chenwe02,data
+2012,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,5,Jarrod Parker,OAK,1.0,0.0,1%,3.8,3,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13.0,8.0,3.47,1.263,29.0,29.0,0.0,181.1,166.0,11.0,63.0,140.0,parkeja02,data
+2012,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,1,Bryce Harper,WSN,112.0,16.0,70%,5.2,139,533,98,144,22,59,18,56,0.27,0.34,0.477,0.817,,,,,,,,,,,,,harpebr03,data
+2012,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,2,Wade Miley,ARI,105.0,12.0,66%,3.3,30,65,4,11,0,2,0,2,0.169,0.194,0.2,0.394,16.0,11.0,3.33,1.182,32.0,29.0,0.0,194.2,193.0,14.0,37.0,144.0,mileywa01,data
+2012,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,3,Todd Frazier,CIN,45.0,3.0,28%,2.3,128,422,55,115,19,67,3,36,0.273,0.331,0.498,0.829,,,,,,,,,,,,,frazito01,data
+2012,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,4,Wilin Rosario,COL,12.0,1.0,8%,1.6,117,396,67,107,28,71,4,25,0.27,0.312,0.53,0.843,,,,,,,,,,,,,rosarwi01,data
+2012,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,5,Nori Aoki,MIL,11.0,0.0,7%,3.2,151,520,81,150,10,50,30,43,0.288,0.355,0.433,0.787,,,,,,,,,,,,,aokino01,data
+2012,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,6,Yonder Alonso,SDP,1.0,0.0,1%,1.5,155,549,47,150,9,62,3,62,0.273,0.348,0.393,0.741,,,,,,,,,,,,,alonsyo01,data
+2012,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,6,Matt Carpenter,STL,1.0,0.0,1%,1.1,114,296,44,87,6,46,1,34,0.294,0.365,0.463,0.828,,,,,,,,,,,,,carpema01,data
+2012,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,6,Jordan Pacheco,COL,1.0,0.0,1%,-0.3,132,475,51,147,5,54,7,22,0.309,0.341,0.421,0.762,,,,,,,,,,,,,pachejo01,data
+2013,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Wil Myers,TBR,131.0,23.0,87%,2.2,88,335,50,98,13,53,5,33,0.293,0.354,0.478,0.831,,,,,,,,,,,,,myerswi01,data
+2013,Rookie Of The Year,AL,American League,TOT,,,2,Jose Iglesias,TOT,80.0,5.0,53%,2.4,109,350,39,106,3,29,5,15,0.303,0.349,0.386,0.735,,,,,,,,,,,,,iglesjo01,data
+2013,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Chris Archer,TBR,35.0,1.0,23%,2.0,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9.0,7.0,3.22,1.127,23.0,23.0,0.0,128.2,107.0,15.0,38.0,101.0,archech01,data
+2013,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Dan Straily,OAK,15.0,1.0,10%,1.5,2,2,0,0,0,0,0,1,0.0,0.333,0.0,0.333,10.0,8.0,3.96,1.241,27.0,27.0,0.0,152.1,132.0,16.0,57.0,124.0,straida01,data
+2013,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,5,JB Shuck,LAA,4.0,0.0,3%,0.9,129,437,60,128,2,39,8,27,0.293,0.331,0.366,0.697,,,,,,,,,,,,,shuckja01,data
+2013,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,6,Cody Allen,CLE,2.0,0.0,1%,1.4,8,0,0,0,0,0,0,0,,,,,6.0,1.0,2.43,1.251,77.0,0.0,2.0,70.1,62.0,7.0,26.0,88.0,allenco01,data
+2013,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,6,Martín Pérez,TEX,2.0,0.0,1%,1.6,2,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10.0,6.0,3.62,1.335,20.0,20.0,0.0,124.1,129.0,15.0,37.0,84.0,perezma02,data
+2013,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,8,David Lough,KCR,1.0,0.0,1%,2.4,96,315,35,90,5,33,5,10,0.286,0.311,0.413,0.724,,,,,,,,,,,,,loughda01,data
+2013,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,1,José Fernández,MIA,142.0,26.0,95%,6.6,25,50,5,11,1,5,0,0,0.22,0.216,0.34,0.556,12.0,6.0,2.19,0.979,28.0,28.0,0.0,172.2,111.0,10.0,58.0,187.0,fernajo02,data
+2013,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,2,Yasiel Puig,LAD,95.0,4.0,63%,4.7,104,382,66,122,19,42,11,36,0.319,0.391,0.534,0.925,,,,,,,,,,,,,puigya01,data
+2013,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Shelby Miller,STL,12.0,0.0,8%,3.4,29,53,3,4,1,2,0,1,0.075,0.109,0.151,0.26,15.0,9.0,3.06,1.206,31.0,31.0,0.0,173.1,152.0,20.0,57.0,169.0,millesh01,data
+2013,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,4,Hyun Jin Ryu,LAD,10.0,0.0,7%,3.8,27,58,5,12,0,5,0,2,0.207,0.233,0.293,0.526,14.0,8.0,3.0,1.203,30.0,30.0,0.0,192.0,182.0,15.0,49.0,154.0,ryuhy01,data
+2013,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,5,Julio Teheran,ATL,7.0,0.0,5%,3.4,30,58,1,13,0,2,0,2,0.224,0.25,0.276,0.526,14.0,8.0,3.2,1.174,30.0,30.0,0.0,185.2,173.0,22.0,45.0,170.0,teherju01,data
+2013,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,6,Jedd Gyorko,SDP,2.0,0.0,1%,2.5,125,486,62,121,23,63,1,33,0.249,0.301,0.444,0.745,,,,,,,,,,,,,gyorkje01,data
+2013,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,7,Nolan Arenado,COL,1.0,0.0,1%,2.5,133,486,49,130,10,52,2,23,0.267,0.301,0.405,0.706,,,,,,,,,,,,,arenano01,data
+2013,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,7,Evan Gattis,ATL,1.0,0.0,1%,1.1,105,354,44,86,21,65,0,21,0.243,0.291,0.48,0.771,,,,,,,,,,,,,gattiev01,data
+2014,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,1,José Abreu,CHW,150.0,30.0,100%,5.8,145,556,80,176,36,107,3,51,0.317,0.383,0.581,0.964,,,,,,,,,,,,,abreujo02,data
+2014,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels of Anaheim,West,2,Matt Shoemaker,LAA,40.0,0.0,27%,2.4,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16.0,4.0,3.04,1.074,27.0,20.0,0.0,136.0,122.0,14.0,24.0,124.0,shoemma01,data
+2014,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,3,Dellin Betances,NYY,27.0,0.0,18%,3.7,6,0,0,0,0,0,0,0,,,,,5.0,0.0,1.4,0.778,70.0,0.0,1.0,90.0,46.0,4.0,24.0,135.0,betande01,data
+2014,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,4,Collin McHugh,HOU,21.0,0.0,14%,3.8,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11.0,9.0,2.73,1.022,25.0,25.0,0.0,154.2,117.0,13.0,41.0,157.0,mchugco01,data
+2014,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,5,Masahiro Tanaka,NYY,16.0,0.0,11%,3.1,3,9,0,1,0,0,0,0,0.111,0.111,0.111,0.222,13.0,5.0,2.77,1.056,20.0,20.0,0.0,136.1,123.0,15.0,21.0,141.0,tanakma01,data
+2014,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,6,Yordano Ventura,KCR,9.0,0.0,6%,3.4,2,4,1,1,0,0,0,0,0.25,0.25,0.25,0.5,14.0,10.0,3.2,1.295,31.0,30.0,0.0,183.0,168.0,14.0,69.0,159.0,ventuyo01,data
+2014,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,7,Danny Santana,MIN,3.0,0.0,2%,3.8,101,405,70,129,7,40,20,19,0.319,0.353,0.472,0.824,,,,,,,,,,,,,santada01,data
+2014,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,8,Nick Castellanos,DET,1.0,0.0,1%,-0.1,148,533,50,138,11,66,2,36,0.259,0.306,0.394,0.7,,,,,,,,,,,,,casteni01,data
+2014,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,8,Brock Holt,BOS,1.0,0.0,1%,2.1,106,449,68,126,4,29,12,33,0.281,0.331,0.381,0.711,,,,,,,,,,,,,holtbr01,data
+2014,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,8,Jake Odorizzi,TBR,1.0,0.0,1%,1.3,2,4,0,0,0,1,0,1,0.0,0.2,0.0,0.2,11.0,13.0,4.13,1.28,31.0,31.0,0.0,168.0,156.0,20.0,59.0,174.0,odorija01,data
+2014,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,8,George Springer,HOU,1.0,0.0,1%,2.0,78,295,45,68,20,51,5,39,0.231,0.336,0.468,0.804,,,,,,,,,,,,,springe01,data
+2014,Rookie Of The Year,NL,National League,NYM,New York Mets,East,1,Jacob deGrom,NYM,142.0,26.0,95%,3.5,22,46,3,10,0,2,0,1,0.217,0.234,0.261,0.495,9.0,6.0,2.69,1.14,22.0,22.0,0.0,140.1,117.0,7.0,43.0,144.0,degroja01,data
+2014,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,2,Billy Hamilton,CIN,92.0,4.0,61%,2.5,152,563,72,141,6,48,56,34,0.25,0.292,0.355,0.648,,,,,,,,,,,,,hamilbi02,data
+2014,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Kolten Wong,STL,14.0,0.0,9%,2.4,113,402,52,100,12,42,20,21,0.249,0.292,0.388,0.68,,,,,,,,,,,,,wongko01,data
+2014,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,4,Ken Giles,PHI,8.0,0.0,5%,2.0,42,0,0,0,0,0,0,0,,,,,3.0,1.0,1.18,0.788,44.0,0.0,1.0,45.2,25.0,1.0,11.0,64.0,gileske01,data
+2014,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,5,Ender Inciarte,ARI,4.0,0.0,3%,3.3,118,418,54,116,4,27,19,25,0.278,0.318,0.359,0.677,,,,,,,,,,,,,inciaen01,data
+2014,Rookie Of The Year,NL,National League,SFG,San Francisco Giants,West,6,Joe Panik,SFG,3.0,0.0,2%,1.9,73,269,31,82,1,18,0,16,0.305,0.343,0.368,0.711,,,,,,,,,,,,,panikjo01,data
+2014,Rookie Of The Year,NL,National League,NYM,New York Mets,East,7,Travis d'Arnaud,NYM,2.0,0.0,1%,0.5,108,385,48,93,13,41,1,32,0.242,0.302,0.416,0.718,,,,,,,,,,,,,darnatr01,data
+2014,Rookie Of The Year,NL,National League,NYM,New York Mets,East,7,Jeurys Familia,NYM,2.0,0.0,1%,1.1,71,3,0,2,0,1,0,0,0.667,0.667,0.667,1.333,2.0,5.0,2.21,1.177,76.0,0.0,5.0,77.1,59.0,3.0,32.0,73.0,familje01,data
+2014,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,7,Kyle Hendricks,CHC,2.0,0.0,1%,2.9,13,24,1,3,0,1,0,3,0.125,0.222,0.125,0.347,7.0,2.0,2.46,1.083,13.0,13.0,0.0,80.1,72.0,4.0,15.0,47.0,hendrky01,data
+2014,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,10,Chase Anderson,ARI,1.0,0.0,1%,0.5,21,34,0,1,0,0,0,0,0.029,0.057,0.029,0.087,9.0,7.0,4.01,1.373,21.0,21.0,0.0,114.1,117.0,16.0,40.0,105.0,anderch01,data
+2015,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,1,Carlos Correa,HOU,124.0,17.0,83%,4.7,99,387,52,108,22,68,14,40,0.279,0.345,0.512,0.857,,,,,,,,,,,,,correca01,data
+2015,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,2,Francisco Lindor,CLE,109.0,13.0,73%,4.1,99,390,50,122,12,51,12,27,0.313,0.353,0.482,0.835,,,,,,,,,,,,,lindofr01,data
+2015,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,3,Miguel Sanó,MIN,20.0,0.0,13%,2.3,80,279,46,75,18,52,1,53,0.269,0.385,0.53,0.916,,,,,,,,,,,,,sanomi01,data
+2015,Rookie Of The Year,AL,American League,TOR,Toronto Blue Jays,East,4,Roberto Osuna,TOR,8.0,0.0,5%,1.8,4,0,0,0,0,0,0,0,,,,,1.0,6.0,2.58,0.919,68.0,0.0,20.0,69.2,48.0,7.0,16.0,75.0,osunaro01,data
+2015,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,5,Billy Burns,OAK,6.0,0.0,4%,3.0,125,520,70,153,5,42,26,26,0.294,0.334,0.392,0.726,,,,,,,,,,,,,burnsbi02,data
+2015,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,6,Eddie Rosario,MIN,2.0,0.0,1%,2.3,122,453,60,121,13,50,11,15,0.267,0.289,0.459,0.748,,,,,,,,,,,,,rosared01,data
+2015,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,7,Delino DeShields,TEX,1.0,0.0,1%,0.9,121,425,83,111,2,37,25,53,0.261,0.344,0.374,0.718,,,,,,,,,,,,,deshide02,data
+2015,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,1,Kris Bryant,CHC,150.0,30.0,100%,5.4,151,559,87,154,26,99,13,77,0.275,0.369,0.488,0.858,,,,,,,,,,,,,bryankr01,data
+2015,Rookie Of The Year,NL,National League,SFG,San Francisco Giants,West,2,Matt Duffy,SFG,70.0,0.0,47%,4.0,149,573,77,169,12,77,12,30,0.295,0.334,0.428,0.762,,,,,,,,,,,,,duffyma01,data
+2015,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,3,Jung Ho Kang,PIT,28.0,0.0,19%,4.1,126,421,60,121,15,58,5,28,0.287,0.355,0.461,0.816,,,,,,,,,,,,,kangju01,data
+2015,Rookie Of The Year,NL,National League,NYM,New York Mets,East,4,Noah Syndergaard,NYM,16.0,0.0,11%,2.8,22,43,2,9,1,4,0,1,0.209,0.227,0.302,0.53,9.0,7.0,3.24,1.047,24.0,24.0,0.0,150.0,126.0,19.0,31.0,166.0,syndeno01,data
+2015,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,5,Justin Bour,MIA,4.0,0.0,3%,0.3,129,409,42,107,23,73,0,34,0.262,0.321,0.479,0.8,,,,,,,,,,,,,bourju01,data
+2015,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,6,Joc Pederson,LAD,1.0,0.0,1%,2.5,151,480,67,101,26,54,4,92,0.21,0.346,0.417,0.763,,,,,,,,,,,,,pederjo01,data
+2015,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,6,Stephen Piscotty,STL,1.0,0.0,1%,1.1,63,233,29,71,7,39,2,20,0.305,0.359,0.494,0.853,,,,,,,,,,,,,piscost01,data
+2016,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,1,Michael Fulmer,DET,142.0,26.0,95%,5.4,1,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11.0,7.0,3.06,1.119,26.0,26.0,0.0,159.0,136.0,16.0,42.0,132.0,fulmemi01,data
+2016,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,2,Gary Sánchez,NYY,91.0,4.0,61%,3.0,53,201,34,60,20,42,1,24,0.299,0.376,0.657,1.032,,,,,,,,,,,,,sanchga02,data
+2016,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,3,Tyler Naquin,CLE,20.0,0.0,13%,1.3,116,321,52,95,14,43,6,36,0.296,0.372,0.514,0.886,,,,,,,,,,,,,naquity01,data
+2016,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,4,Chris Devenski,HOU,7.0,0.0,5%,2.8,6,0,0,0,0,0,0,0,,,,,4.0,4.0,2.16,0.914,48.0,5.0,1.0,108.1,79.0,4.0,20.0,104.0,devench02,data
+2016,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,5,Edwin Díaz,SEA,4.0,0.0,3%,1.4,3,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4.0,2.79,1.161,49.0,0.0,18.0,51.2,45.0,5.0,15.0,88.0,diazed04,data
+2016,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,5,Nomar Mazara,TEX,4.0,0.0,3%,0.4,145,516,59,137,20,64,0,39,0.266,0.32,0.419,0.739,,,,,,,,,,,,,mazarno01,data
+2016,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,7,Tim Anderson,CHW,2.0,0.0,1%,2.3,99,410,57,116,9,30,10,13,0.283,0.306,0.432,0.738,,,,,,,,,,,,,anderti01,data
+2016,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,1,Corey Seager,LAD,150.0,30.0,100%,5.3,157,627,105,193,26,72,3,54,0.308,0.365,0.512,0.877,,,,,,,,,,,,,seageco01,data
+2016,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,2,Trea Turner,WSN,42.0,0.0,28%,3.3,73,307,53,105,13,40,33,14,0.342,0.37,0.567,0.937,,,,,,,,,,,,,turnetr01,data
+2016,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,3,Kenta Maeda,LAD,37.0,0.0,25%,2.8,34,57,5,7,1,4,0,1,0.123,0.138,0.193,0.331,16.0,11.0,3.48,1.139,32.0,32.0,0.0,175.2,150.0,20.0,50.0,179.0,maedake01,data
+2016,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,4,Trevor Story,COL,24.0,0.0,16%,4.1,97,372,67,101,27,72,8,35,0.272,0.341,0.567,0.909,,,,,,,,,,,,,storytr01,data
+2016,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,5,Aledmys Díaz,STL,14.0,0.0,9%,2.9,111,404,71,121,17,65,4,41,0.3,0.369,0.51,0.879,,,,,,,,,,,,,diazal02,data
+2016,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,6,Jon Gray,COL,1.0,0.0,1%,2.1,26,47,2,7,0,4,0,2,0.149,0.184,0.191,0.375,10.0,10.0,4.61,1.262,29.0,29.0,0.0,168.0,153.0,18.0,59.0,185.0,grayjo02,data
+2016,Rookie Of The Year,NL,National League,NYM,New York Mets,East,6,Steven Matz,NYM,1.0,0.0,1%,2.6,22,36,0,5,0,2,0,4,0.139,0.22,0.222,0.442,9.0,8.0,3.4,1.209,22.0,22.0,0.0,132.1,129.0,14.0,31.0,129.0,matzst01,data
+2016,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,6,Seunghwan Oh,STL,1.0,0.0,1%,2.9,72,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6.0,3.0,1.92,0.916,76.0,0.0,19.0,79.2,55.0,5.0,18.0,103.0,ohse01,data
+2017,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,1,Aaron Judge,NYY,150.0,30.0,100%,8.1,155,542,128,154,52,114,9,127,0.284,0.422,0.627,1.049,,,,,,,,,,,,,judgeaa01,data
+2017,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,2,Andrew Benintendi,BOS,75.0,0.0,50%,3.0,151,573,84,155,20,90,20,70,0.271,0.352,0.424,0.776,,,,,,,,,,,,,beninan01,data
+2017,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,3,Trey Mancini,BAL,31.0,0.0,21%,2.6,147,543,65,159,24,78,1,33,0.293,0.338,0.488,0.826,,,,,,,,,,,,,mancitr01,data
+2017,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,4,Yuli Gurriel,HOU,5.0,0.0,3%,2.7,139,529,69,158,18,75,3,22,0.299,0.332,0.486,0.817,,,,,,,,,,,,,gourryu01,data
+2017,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Matt Olson,OAK,5.0,0.0,3%,2.9,59,189,33,49,24,45,0,22,0.259,0.352,0.651,1.003,,,,,,,,,,,,,olsonma02,data
+2017,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,6,Jordan Montgomery,NYY,4.0,0.0,3%,2.8,2,3,0,0,0,0,0,2,0.0,0.4,0.0,0.4,9.0,7.0,3.88,1.23,29.0,29.0,0.0,155.1,140.0,21.0,51.0,144.0,montgjo01,data
+2017,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,1,Cody Bellinger,LAD,150.0,30.0,100%,4.0,132,480,87,128,39,97,10,64,0.267,0.352,0.581,0.933,,,,,,,,,,,,,bellico01,data
+2017,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,2,Paul DeJong,STL,56.0,0.0,37%,2.7,108,417,55,119,25,65,1,21,0.285,0.325,0.532,0.857,,,,,,,,,,,,,dejonpa01,data
+2017,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,3,Josh Bell,PIT,32.0,0.0,21%,0.9,159,549,75,140,26,90,2,66,0.255,0.334,0.466,0.8,,,,,,,,,,,,,belljo02,data
+2017,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,4,Rhys Hoskins,PHI,12.0,0.0,8%,2.2,50,170,37,44,18,48,2,37,0.259,0.396,0.618,1.014,,,,,,,,,,,,,hoskirh01,data
+2017,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,5,Germán Márquez,COL,10.0,0.0,7%,3.5,26,45,4,8,0,5,0,0,0.178,0.178,0.222,0.4,11.0,7.0,4.39,1.377,29.0,29.0,0.0,162.0,174.0,25.0,49.0,147.0,marquge01,data
+2017,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,6,Manuel Margot,SDP,5.0,0.0,3%,2.3,126,487,53,128,13,39,17,35,0.263,0.313,0.409,0.721,,,,,,,,,,,,,margoma01,data
+2017,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,7,Kyle Freeland,COL,3.0,0.0,2%,3.5,33,52,3,8,1,2,0,1,0.154,0.17,0.231,0.401,11.0,11.0,4.1,1.487,33.0,28.0,0.0,156.0,169.0,17.0,63.0,107.0,freelky01,data
+2017,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,8,Luis Castillo,CIN,1.0,0.0,1%,2.5,14,29,0,2,0,1,0,1,0.069,0.1,0.069,0.169,3.0,7.0,3.12,1.075,15.0,15.0,0.0,89.1,64.0,11.0,32.0,98.0,castilu02,data
+2017,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,8,Ian Happ,CHC,1.0,0.0,1%,1.6,115,364,62,92,24,68,8,39,0.253,0.328,0.514,0.842,,,,,,,,,,,,,happia01,data
+2018,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels,West,1,Shohei Ohtani,LAA,137.0,25.0,91%,4.1,104,326,59,93,22,61,10,37,0.285,0.361,0.564,0.925,4.0,2.0,3.31,1.161,10.0,10.0,0.0,51.2,38.0,6.0,22.0,63.0,ohtansh01,data
+2018,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,2,Miguel Andujar,NYY,89.0,5.0,59%,2.8,149,573,83,170,27,92,2,25,0.297,0.328,0.527,0.855,,,,,,,,,,,,,andujmi01,data
+2018,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,3,Gleyber Torres,NYY,25.0,0.0,17%,3.4,123,431,54,117,24,77,6,42,0.271,0.34,0.48,0.82,,,,,,,,,,,,,torregl01,data
+2018,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,4,Joey Wendle,TBR,17.0,0.0,11%,4.7,139,487,62,146,7,61,16,37,0.3,0.354,0.435,0.789,,,,,,,,,,,,,wendljo01,data
+2018,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,5,Daniel Palka,CHW,1.0,0.0,1%,0.6,124,417,56,100,27,67,2,30,0.24,0.294,0.484,0.778,,,,,,,,,,,,,palkada01,data
+2018,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,5,Ryan Yarbrough,TBR,1.0,0.0,1%,1.1,3,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16.0,6.0,3.91,1.29,38.0,6.0,0.0,147.1,140.0,18.0,50.0,128.0,yarbrry01,data
+2018,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,1,Ronald Acuña Jr.,ATL,144.0,27.0,96%,3.9,111,433,78,127,26,64,16,45,0.293,0.366,0.552,0.917,,,,,,,,,,,,,acunaro01,data
+2018,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,2,Juan Soto,WSN,89.0,2.0,59%,3.0,116,414,77,121,22,70,5,79,0.292,0.406,0.517,0.923,,,,,,,,,,,,,sotoju01,data
+2018,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,3,Walker Buehler,LAD,28.0,1.0,19%,3.7,22,43,1,7,0,1,0,2,0.163,0.2,0.163,0.363,8.0,5.0,2.62,0.961,24.0,23.0,0.0,137.1,95.0,12.0,37.0,151.0,buehlwa01,data
+2018,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,4,Brian Anderson,MIA,4.0,0.0,3%,3.1,156,590,87,161,11,65,2,62,0.273,0.357,0.4,0.757,,,,,,,,,,,,,anderbr06,data
+2018,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,5,Jack Flaherty,STL,2.0,0.0,1%,3.2,28,46,2,7,0,0,0,2,0.152,0.188,0.152,0.34,8.0,9.0,3.34,1.106,28.0,28.0,0.0,151.0,108.0,20.0,59.0,182.0,flaheja01,data
+2018,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,6,Harrison Bader,STL,1.0,0.0,1%,3.2,138,379,61,100,12,37,15,31,0.264,0.334,0.422,0.756,,,,,,,,,,,,,baderha01,data
+2018,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,6,Yoshihisa Hirano,ARI,1.0,0.0,1%,1.2,70,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,3.0,2.44,1.085,75.0,0.0,3.0,66.1,49.0,6.0,23.0,59.0,hiranyo01,data
+2018,Rookie Of The Year,NL,National League,NYM,New York Mets,East,6,Jeff McNeil,NYM,1.0,0.0,1%,3.0,63,225,35,74,3,19,7,14,0.329,0.381,0.471,0.852,,,,,,,,,,,,,mcneije01,data
+2019,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,1,Yordan Alvarez,HOU,150.0,30.0,100%,3.7,87,313,58,98,27,78,0,52,0.313,0.412,0.655,1.067,,,,,,,,,,,,,alvaryo01,data
+2019,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,2,John Means,BAL,53.0,0.0,35%,4.5,2,1,0,1,0,0,0,1,1.0,1.0,1.0,2.0,12.0,11.0,3.6,1.135,31.0,27.0,0.0,155.0,138.0,23.0,38.0,121.0,meansjo01,data
+2019,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Brandon Lowe,TBR,27.0,0.0,18%,2.9,82,296,42,80,17,51,5,25,0.27,0.336,0.514,0.85,,,,,,,,,,,,,lowebr01,data
+2019,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,4,Eloy Jiménez,CHW,20.0,0.0,13%,1.6,122,468,69,125,31,79,0,30,0.267,0.315,0.513,0.828,,,,,,,,,,,,,jimenel02,data
+2019,Rookie Of The Year,AL,American League,TOR,Toronto Blue Jays,East,5,Cavan Biggio,TOR,7.0,0.0,5%,3.1,100,354,66,83,16,48,14,71,0.234,0.364,0.429,0.793,,,,,,,,,,,,,biggica01,data
+2019,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,6,Luis Arraez,MIN,5.0,0.0,3%,1.6,92,326,54,109,4,28,2,36,0.334,0.399,0.439,0.838,,,,,,,,,,,,,arraelu01,data
+2019,Rookie Of The Year,AL,American League,TOR,Toronto Blue Jays,East,6,Vladimir Guerrero Jr.,TOR,5.0,0.0,3%,2.2,123,464,52,126,15,69,0,46,0.272,0.339,0.433,0.772,,,,,,,,,,,,,guerrvl02,data
+2019,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,8,Óscar Mercado,CLE,3.0,0.0,2%,2.2,115,438,70,118,15,54,15,28,0.269,0.318,0.443,0.761,,,,,,,,,,,,,mercaos01,data
+2019,Rookie Of The Year,NL,National League,NYM,New York Mets,East,1,Pete Alonso,NYM,148.0,29.0,99%,5.4,161,597,103,155,53,120,1,72,0.26,0.358,0.583,0.941,,,,,,,,,,,,,alonspe01,data
+2019,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,2,Michael Soroka,ATL,82.0,1.0,55%,5.9,27,52,2,4,0,3,0,2,0.077,0.143,0.077,0.22,13.0,4.0,2.68,1.111,29.0,29.0,0.0,174.2,153.0,14.0,41.0,142.0,sorokmi01,data
+2019,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,3,Fernando Tatis Jr.,SDP,26.0,0.0,17%,4.0,84,334,61,106,22,53,16,30,0.317,0.379,0.59,0.969,,,,,,,,,,,,,tatisfe02,data
+2019,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,4,Bryan Reynolds,PIT,9.0,0.0,6%,4.2,134,491,83,154,16,68,3,46,0.314,0.377,0.503,0.88,,,,,,,,,,,,,reynobr01,data
+2019,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,5,Dakota Hudson,STL,4.0,0.0,3%,1.8,30,51,1,4,0,2,0,0,0.078,0.096,0.078,0.175,16.0,7.0,3.35,1.408,33.0,32.0,1.0,174.2,160.0,22.0,86.0,136.0,hudsoda02,data
+2019,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,6,Víctor Robles,WSN,1.0,0.0,1%,4.2,155,546,86,139,17,65,28,35,0.255,0.326,0.419,0.745,,,,,,,,,,,,,roblevi01,data
+2020,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,1,Kyle Lewis,SEA,150.0,30.0,100%,1.6,58,206,37,54,11,28,5,34,0.262,0.364,0.437,0.801,,,,,,,,,,,,,lewisky01,data
+2020,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,2,Luis Robert Jr.,CHW,83.0,0.0,55%,1.9,56,202,33,47,11,31,9,20,0.233,0.302,0.436,0.738,,,,,,,,,,,,,roberlu01,data
+2020,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,3,Cristian Javier,HOU,11.0,0.0,7%,1.3,0,0,0,0,0,0,0,0,,,,,5.0,2.0,3.48,0.994,12.0,10.0,0.0,54.1,36.0,11.0,18.0,54.0,javiecr01,data
+2020,Rookie Of The Year,AL,American League,DET,Detroit Tigers,Central,4,Willi Castro,DET,7.0,0.0,5%,0.5,36,129,21,45,6,24,0,7,0.349,0.381,0.55,0.932,,,,,,,,,,,,,castrwi01,data
+2020,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Sean Murphy,OAK,7.0,0.0,5%,1.1,43,116,21,27,7,14,0,24,0.233,0.364,0.457,0.821,,,,,,,,,,,,,murphse01,data
+2020,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,6,James Karinchak,CLE,5.0,0.0,3%,0.6,0,0,0,0,0,0,0,0,,,,,1.0,2.0,2.67,1.111,27.0,0.0,1.0,27.0,14.0,1.0,16.0,53.0,karinja01,data
+2020,Rookie Of The Year,AL,American League,LAA,Los Angeles Angels,West,7,Jared Walsh,LAA,4.0,0.0,3%,0.7,32,99,19,29,9,26,0,5,0.293,0.324,0.646,0.971,,,,,,,,,,,,,walshja01,data
+2020,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,8,Jesús Luzardo,OAK,1.0,0.0,1%,0.7,0,0,0,0,0,0,0,0,,,,,3.0,2.0,4.12,1.271,12.0,9.0,0.0,59.0,58.0,9.0,17.0,59.0,luzarje01,data
+2020,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,8,Ryan Mountcastle,BAL,1.0,0.0,1%,0.7,35,126,12,42,5,23,0,11,0.333,0.386,0.492,0.878,,,,,,,,,,,,,mountry01,data
+2020,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,8,Brady Singer,KCR,1.0,0.0,1%,1.1,0,0,0,0,0,0,0,0,,,,,4.0,5.0,4.06,1.166,12.0,12.0,0.0,64.1,52.0,8.0,23.0,61.0,singebr01,data
+2020,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,1,Devin Williams,MIL,95.0,14.0,63%,1.3,0,0,0,0,0,0,0,0,,,,,4.0,1.0,0.33,0.63,22.0,0.0,0.0,27.0,8.0,1.0,9.0,53.0,willide03,data
+2020,Rookie Of The Year,NL,National League,PHI,Philadelphia Phillies,East,2,Alec Bohm,PHI,74.0,9.0,49%,0.7,44,160,24,54,4,23,1,16,0.338,0.4,0.481,0.881,,,,,,,,,,,,,bohmal01,data
+2020,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,2,Jake Cronenworth,SDP,74.0,6.0,49%,1.6,54,172,26,49,4,20,3,18,0.285,0.354,0.477,0.831,,,,,,,,,,,,,croneja01,data
+2020,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,4,Tony Gonsolin,LAD,11.0,1.0,7%,1.5,1,0,0,0,0,0,0,0,,,,,2.0,2.0,2.31,0.836,9.0,8.0,0.0,46.2,32.0,2.0,7.0,46.0,gonsoto01,data
+2020,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,5,Dustin May,LAD,8.0,0.0,5%,1.5,0,0,0,0,0,0,0,0,,,,,3.0,1.0,2.57,1.089,12.0,10.0,0.0,56.0,45.0,9.0,16.0,44.0,maydu01,data
+2020,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,6,Ke'Bryan Hayes,PIT,5.0,0.0,3%,1.9,24,85,17,32,5,11,1,9,0.376,0.442,0.682,1.124,,,,,,,,,,,,,hayeske01,data
+2020,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,7,Ian Anderson,ATL,1.0,0.0,1%,1.2,0,0,0,0,0,0,0,0,,,,,3.0,2.0,1.95,1.082,6.0,6.0,0.0,32.1,21.0,1.0,14.0,41.0,anderia01,data
+2020,Rookie Of The Year,NL,National League,NYM,New York Mets,East,7,Andrés Giménez,NYM,1.0,0.0,1%,1.0,49,118,22,31,3,12,8,7,0.263,0.333,0.398,0.732,,,,,,,,,,,,,gimenan01,data
+2020,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,7,Sixto Sánchez,MIA,1.0,0.0,1%,1.6,0,0,0,0,0,0,0,0,,,,,3.0,2.0,3.46,1.205,7.0,7.0,0.0,39.0,36.0,3.0,11.0,33.0,sanchsi01,data
+2021,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,1,Randy Arozarena,TBR,124.0,22.0,83%,4.2,141,529,94,145,20,69,20,56,0.274,0.356,0.459,0.815,,,,,,,,,,,,,arozara01,data
+2021,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,2,Luis Garcia,HOU,63.0,2.0,42%,2.5,3,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11.0,8.0,3.48,1.178,30.0,28.0,0.0,155.1,133.0,19.0,50.0,167.0,garcilu05,data
+2021,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,3,Wander Franco,TBR,30.0,2.0,20%,3.5,70,281,53,81,7,39,2,24,0.288,0.347,0.463,0.81,,,,,,,,,,,,,francwa01,data
+2021,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,4,Adolis García,TEX,27.0,3.0,18%,3.9,149,581,77,141,31,90,16,32,0.243,0.286,0.454,0.741,,,,,,,,,,,,,garciad02,data
+2021,Rookie Of The Year,AL,American League,CLE,Cleveland Indians,Central,5,Emmanuel Clase,CLE,11.0,1.0,7%,2.8,5,0,0,0,0,0,0,0,,,,,4.0,5.0,1.29,0.962,71.0,0.0,24.0,69.2,51.0,2.0,16.0,74.0,claseem01,data
+2021,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,6,Ryan Mountcastle,BAL,10.0,0.0,7%,1.1,144,534,77,136,33,89,4,41,0.255,0.309,0.487,0.796,,,,,,,,,,,,,mountry01,data
+2021,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,7,Shane McClanahan,TBR,3.0,0.0,2%,1.8,0,0,0,0,0,0,0,0,,,,,10.0,6.0,3.43,1.273,25.0,25.0,0.0,123.1,120.0,14.0,37.0,141.0,mcclash01,data
+2021,Rookie Of The Year,AL,American League,TOR,Toronto Blue Jays,East,8,Alek Manoah,TOR,2.0,0.0,1%,2.9,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9.0,2.0,3.22,1.048,20.0,20.0,0.0,111.2,77.0,12.0,40.0,127.0,manoaal01,data
+2021,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,1,Jonathan India,CIN,148.0,29.0,99%,4.1,150,532,98,143,21,69,12,71,0.269,0.376,0.459,0.835,,,,,,,,,,,,,indiajo01,data
+2021,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,2,Trevor Rogers,MIA,86.0,1.0,57%,3.3,25,43,0,3,0,0,0,1,0.07,0.091,0.07,0.161,7.0,8.0,2.64,1.15,25.0,25.0,0.0,133.0,107.0,6.0,46.0,157.0,rogertr01,data
+2021,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Dylan Carlson,STL,22.0,0.0,15%,3.2,149,542,79,144,18,65,2,57,0.266,0.343,0.437,0.78,,,,,,,,,,,,,carlsdy01,data
+2021,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,4,Patrick Wisdom,CHC,5.0,0.0,3%,2.1,106,338,54,78,28,61,4,32,0.231,0.305,0.518,0.823,,,,,,,,,,,,,wisdopa01,data
+2021,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,5,Ian Anderson,ATL,3.0,0.0,2%,2.6,22,37,0,2,0,0,0,1,0.054,0.079,0.081,0.16,9.0,5.0,3.58,1.231,24.0,24.0,0.0,128.1,105.0,16.0,53.0,124.0,anderia01,data
+2021,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,6,Frank Schwindel,CHC,2.0,0.0,1%,1.8,56,222,42,76,13,40,2,16,0.342,0.389,0.613,1.002,,,,,,,,,,,,,schwifr01,data
+2021,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,6,Tyler Stephenson,CIN,2.0,0.0,1%,2.0,132,350,56,100,10,45,0,41,0.286,0.366,0.431,0.797,,,,,,,,,,,,,stephty01,data
+2021,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,8,David Bednar,PIT,1.0,0.0,1%,2.1,58,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3.0,1.0,2.23,0.973,61.0,0.0,3.0,60.2,40.0,5.0,19.0,77.0,bednada01,data
+2021,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,8,Vladimir Gutierrez,CIN,1.0,0.0,1%,1.6,21,33,3,3,0,1,0,2,0.091,0.143,0.091,0.234,9.0,6.0,4.74,1.412,22.0,22.0,0.0,114.0,115.0,20.0,46.0,88.0,gutievl01,data
+2022,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,1,Julio Rodríguez,SEA,148.0,29.0,99%,6.2,132,511,84,145,28,75,25,40,0.284,0.345,0.509,0.853,,,,,,,,,,,,,rodriju01,data
+2022,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,2,Adley Rutschman,BAL,68.0,1.0,45%,5.4,113,398,70,101,13,42,4,65,0.254,0.362,0.445,0.806,,,,,,,,,,,,,rutscad01,data
+2022,Rookie Of The Year,AL,American League,CLE,Cleveland Guardians,Central,3,Steven Kwan,CLE,44.0,0.0,29%,5.7,147,563,89,168,6,52,19,62,0.298,0.373,0.4,0.772,,,,,,,,,,,,,kwanst01,data
+2022,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,4,Bobby Witt Jr.,KCR,7.0,0.0,5%,0.9,150,591,82,150,20,80,30,30,0.254,0.294,0.428,0.722,,,,,,,,,,,,,wittbo02,data
+2022,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,5,Jeremy Peña,HOU,2.0,0.0,1%,5.0,136,521,72,132,22,63,11,22,0.253,0.289,0.426,0.715,,,,,,,,,,,,,penaje02,data
+2022,Rookie Of The Year,AL,American League,SEA,Seattle Mariners,West,6,George Kirby,SEA,1.0,0.0,1%,1.4,0,0,0,0,0,0,0,0,,,,,8.0,5.0,3.39,1.208,25.0,25.0,0.0,130.0,135.0,13.0,22.0,133.0,kirbyge01,data
+2022,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,1,Michael Harris II,ATL,134.0,22.0,89%,5.1,114,414,75,123,19,64,20,21,0.297,0.339,0.514,0.853,,,,,,,,,,,,,harrimi04,data
+2022,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,2,Spencer Strider,ATL,103.0,8.0,69%,3.8,0,0,0,0,0,0,0,0,,,,,11.0,5.0,2.67,0.995,31.0,20.0,0.0,131.2,86.0,7.0,45.0,202.0,stridsp01,data
+2022,Rookie Of The Year,NL,National League,STL,St. Louis Cardinals,Central,3,Brendan Donovan,STL,22.0,0.0,15%,4.0,126,391,64,110,5,45,2,60,0.281,0.394,0.379,0.773,,,,,,,,,,,,,donovbr01,data
+2022,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,4,Jake McCarthy,ARI,4.0,0.0,3%,2.4,99,321,53,91,8,43,23,23,0.283,0.342,0.427,0.769,,,,,,,,,,,,,mccarja02,data
+2022,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,5,Alexis Díaz,CIN,3.0,0.0,2%,2.9,0,0,0,0,0,0,0,0,,,,,7.0,3.0,1.84,0.958,59.0,0.0,10.0,63.2,28.0,5.0,33.0,83.0,diazal03,data
+2022,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,6,Oneil Cruz,PIT,2.0,0.0,1%,2.3,87,331,45,77,17,54,10,28,0.233,0.294,0.45,0.744,,,,,,,,,,,,,cruzon01,data
+2022,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,6,Nick Lodolo,CIN,2.0,0.0,1%,2.6,0,0,0,0,0,0,0,0,,,,,4.0,7.0,3.66,1.248,19.0,19.0,0.0,103.1,90.0,13.0,39.0,131.0,lodolni01,data
+2023,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,1,Gunnar Henderson,BAL,150.0,30.0,100%,6.1,150,560,100,143,28,82,10,56,0.255,0.325,0.489,0.814,,,,,,,,,,,,,hendegu01,data
+2023,Rookie Of The Year,AL,American League,CLE,Cleveland Guardians,Central,2,Tanner Bibee,CLE,67.0,0.0,45%,3.9,0,0,0,0,0,0,0,0,,,,,10.0,4.0,2.98,1.176,25.0,25.0,0.0,142.0,122.0,13.0,45.0,141.0,bibeeta01,data
+2023,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,3,Triston Casas,BOS,25.0,0.0,17%,2.2,132,429,66,113,24,65,0,70,0.263,0.367,0.49,0.856,,,,,,,,,,,,,casastr01,data
+2023,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,4,Josh Jung,TEX,16.0,0.0,11%,2.6,122,478,75,127,23,70,1,30,0.266,0.315,0.467,0.781,,,,,,,,,,,,,jungjo01,data
+2023,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,5,Yainer Diaz,HOU,6.0,0.0,4%,3.2,104,355,51,100,23,60,0,11,0.282,0.308,0.538,0.846,,,,,,,,,,,,,diazya02,data
+2023,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,6,Masataka Yoshida,BOS,3.0,0.0,2%,1.4,140,537,71,155,15,72,8,34,0.289,0.338,0.445,0.783,,,,,,,,,,,,,yoshima02,data
+2023,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,7,Edouard Julien,MIN,2.0,0.0,1%,2.6,109,338,60,89,16,37,3,64,0.263,0.381,0.459,0.839,,,,,,,,,,,,,julieed01,data
+2023,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,8,Anthony Volpe,NYY,1.0,0.0,1%,3.3,159,541,62,113,21,60,24,52,0.209,0.283,0.383,0.666,,,,,,,,,,,,,volpean01,data
+2023,Rookie Of The Year,NL,National League,ARI,Arizona Diamondbacks,West,1,Corbin Carroll,ARI,150.0,30.0,100%,5.3,155,565,116,161,25,76,54,57,0.285,0.362,0.506,0.868,,,,,,,,,,,,,carroco02,data
+2023,Rookie Of The Year,NL,National League,NYM,New York Mets,East,2,Kodai Senga,NYM,71.0,0.0,47%,4.5,0,0,0,0,0,0,0,0,,,,,12.0,7.0,2.98,1.22,29.0,29.0,0.0,166.1,126.0,17.0,77.0,202.0,sengako01,data
+2023,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,3,James Outman,LAD,20.0,0.0,13%,3.4,151,483,86,120,23,70,16,68,0.248,0.353,0.437,0.79,,,,,,,,,,,,,outmaja01,data
+2023,Rookie Of The Year,NL,National League,COL,Colorado Rockies,West,4,Nolan Jones,COL,17.0,0.0,11%,4.3,106,367,60,109,20,62,20,53,0.297,0.389,0.542,0.931,,,,,,,,,,,,,jonesno01,data
+2023,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,5,Matt McLain,CIN,5.0,0.0,3%,3.6,89,365,65,106,16,50,14,31,0.29,0.357,0.507,0.864,,,,,,,,,,,,,mclaima01,data
+2023,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,6,Spencer Steer,CIN,4.0,0.0,3%,2.9,156,582,74,158,23,86,15,68,0.271,0.356,0.464,0.82,,,,,,,,,,,,,steersp01,data
+2023,Rookie Of The Year,NL,National League,SFG,San Francisco Giants,West,7,Patrick Bailey,SFG,1.0,0.0,1%,0.8,97,326,29,76,7,48,1,21,0.233,0.285,0.359,0.644,,,,,,,,,,,,,bailepa01,data
+2023,Rookie Of The Year,NL,National League,CIN,Cincinnati Reds,Central,7,Elly De La Cruz,CIN,1.0,0.0,1%,0.7,98,388,67,91,13,44,35,35,0.235,0.3,0.41,0.71,,,,,,,,,,,,,delacel01,data
+2023,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,7,Eury Pérez,MIA,1.0,0.0,1%,2.7,0,0,0,0,0,0,0,0,,,,,5.0,6.0,3.15,1.128,19.0,19.0,0.0,91.1,72.0,15.0,31.0,108.0,perezeu02,data
+2024,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,1,Luis Gil,NYY,106.0,15.0,71%,2.9,0,0,0,0,0,0,0,0,,,,,15.0,7.0,3.5,1.193,29.0,29.0,0.0,151.2,104.0,18.0,77.0,171.0,gillu01,data
+2024,Rookie Of The Year,AL,American League,BAL,Baltimore Orioles,East,2,Colton Cowser,BAL,101.0,13.0,67%,2.8,153,499,77,121,24,69,9,52,0.242,0.321,0.447,0.768,,,,,,,,,,,,,cowseco01,data
+2024,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,3,Austin Wells,NYY,17.0,0.0,11%,2.6,115,354,42,81,13,55,1,47,0.229,0.322,0.395,0.718,,,,,,,,,,,,,wellsau01,data
+2024,Rookie Of The Year,AL,American League,OAK,Oakland Athletics,West,4,Mason Miller,OAK,16.0,1.0,11%,2.5,0,0,0,0,0,0,0,0,,,,,2.0,2.0,2.49,0.877,55.0,0.0,28.0,65.0,36.0,6.0,21.0,104.0,millema03,data
+2024,Rookie Of The Year,AL,American League,CLE,Cleveland Guardians,Central,5,Cade Smith,CLE,12.0,1.0,8%,2.4,0,0,0,0,0,0,0,0,,,,,6.0,1.0,1.91,0.903,74.0,0.0,1.0,75.1,51.0,1.0,17.0,103.0,smithca06,data
+2024,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,6,Wilyer Abreu,BOS,11.0,0.0,7%,3.6,132,399,59,101,15,58,8,40,0.253,0.322,0.459,0.781,,,,,,,,,,,,,abreuwi02,data
+2024,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,7,Wyatt Langford,TEX,7.0,0.0,5%,4.2,134,499,74,126,16,74,19,51,0.253,0.325,0.415,0.74,,,,,,,,,,,,,langfwy01,data
+2024,Rookie Of The Year,NL,National League,PIT,Pittsburgh Pirates,Central,1,Paul Skenes,PIT,136.0,23.0,91%,5.8,0,0,0,0,0,0,0,0,,,,,11.0,3.0,1.96,0.947,23.0,23.0,0.0,133.0,94.0,10.0,32.0,170.0,skenepa01,data
+2024,Rookie Of The Year,NL,National League,SDP,San Diego Padres,West,2,Jackson Merrill,SDP,104.0,7.0,69%,4.5,156,554,77,162,24,90,16,29,0.292,0.326,0.5,0.826,,,,,,,,,,,,,merrija01,data
+2024,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,3,Jackson Chourio,MIL,26.0,0.0,17%,3.9,148,528,80,145,21,79,22,39,0.275,0.327,0.464,0.791,,,,,,,,,,,,,chourja01,data
+2024,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,4,Shota Imanaga,CHC,4.0,0.0,3%,3.0,0,0,0,0,0,0,0,0,,,,,15.0,3.0,2.91,1.021,29.0,29.0,0.0,173.1,149.0,27.0,28.0,174.0,imanash01,data
+2025,Rookie Of The Year,AL,American League,ATH,Athletics,West,1,Nick Kurtz,ATH,210.0,30.0,100%,5.0,117,420,90,122,36,86,2,63,0.29,0.383,0.619,1.002,,,,,,,,,,,,,kurtzni01,data
+2025,Rookie Of The Year,AL,American League,ATH,Athletics,West,2,Jacob Wilson,ATH,107.0,0.0,51%,2.6,125,486,62,151,13,63,5,27,0.311,0.355,0.444,0.8,,,,,,,,,,,,,wilsoja05,data
+2025,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,3,Roman Anthony,BOS,72.0,0.0,34%,3.3,71,257,48,75,8,32,4,40,0.292,0.396,0.463,0.859,,,,,,,,,,,,,anthoro01,data
+2025,Rookie Of The Year,AL,American League,KCR,Kansas City Royals,Central,4,Noah Cameron,KCR,54.0,0.0,26%,3.8,0,0,0,0,0,0,0,0,,,,,9.0,7.0,2.99,1.099,24.0,24.0,0.0,138.1,109.0,18.0,43.0,114.0,camerno01,data
+2025,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,5,Colson Montgomery,CHW,23.0,0.0,11%,3.3,71,255,43,61,21,55,0,25,0.239,0.311,0.529,0.84,,,,,,,,,,,,,montgco01,data
+2025,Rookie Of The Year,AL,American League,BOS,Boston Red Sox,East,6,Carlos Narváez,BOS,21.0,0.0,10%,2.8,118,403,51,97,15,50,1,38,0.241,0.306,0.419,0.726,,,,,,,,,,,,,narvaca01,data
+2025,Rookie Of The Year,AL,American League,TEX,Texas Rangers,West,7,Jack Leiter,TEX,6.0,0.0,3%,0.4,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10.0,10.0,3.86,1.279,29.0,29.0,0.0,151.2,127.0,18.0,67.0,148.0,leiteja01,data
+2025,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,8,Will Warren,NYY,5.0,0.0,2%,0.6,0,0,0,0,0,0,0,0,,,,,9.0,8.0,4.44,1.374,33.0,33.0,0.0,162.1,158.0,22.0,65.0,171.0,warrewi01,data
+2025,Rookie Of The Year,AL,American League,MIN,Minnesota Twins,Central,9,Luke Keaschall,MIN,3.0,0.0,1%,2.0,49,182,25,55,4,28,14,19,0.302,0.382,0.445,0.827,,,,,,,,,,,,,keasclu01,data
+2025,Rookie Of The Year,AL,American League,TOR,Toronto Blue Jays,East,10,Braydon Fisher,TOR,2.0,0.0,1%,1.4,0,0,0,0,0,0,0,0,,,,,7.0,0.0,2.7,1.02,52.0,1.0,0.0,50.0,32.0,4.0,19.0,62.0,fishebr02,data
+2025,Rookie Of The Year,AL,American League,HOU,Houston Astros,West,10,Cam Smith,HOU,2.0,0.0,1%,2.0,134,441,55,104,9,51,8,43,0.236,0.312,0.358,0.671,,,,,,,,,,,,,smithca07,data
+2025,Rookie Of The Year,AL,American League,CHW,Chicago White Sox,Central,10,Shane Smith,CHW,2.0,0.0,1%,2.4,0,0,0,0,0,0,0,0,,,,,7.0,8.0,3.81,1.196,29.0,29.0,0.0,146.1,117.0,17.0,58.0,145.0,smithsh02,data
+2025,Rookie Of The Year,AL,American League,NYY,New York Yankees,East,13,Jasson Domínguez,NYY,1.0,0.0,0%,0.5,123,381,58,98,10,47,23,41,0.257,0.331,0.388,0.719,,,,,,,,,,,,,dominja01,data
+2025,Rookie Of The Year,AL,American League,ATH,Athletics,West,13,Luis Morales,ATH,1.0,0.0,0%,1.5,0,0,0,0,0,0,0,0,,,,,4.0,3.0,3.14,1.151,10.0,9.0,0.0,48.2,38.0,8.0,18.0,43.0,morallu01,data
+2025,Rookie Of The Year,AL,American League,TBR,Tampa Bay Rays,East,13,Chandler Simpson,TBR,1.0,0.0,0%,0.3,109,414,53,122,0,26,44,20,0.295,0.326,0.345,0.671,,,,,,,,,,,,,simpsch01,data
+2025,Rookie Of The Year,NL,National League,ATL,Atlanta Braves,East,1,Drake Baldwin,ATL,183.0,21.0,87%,3.4,124,405,56,111,19,80,0,38,0.274,0.341,0.469,0.81,,,,,,,,,,,,,baldwdr01,data
+2025,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,2,Cade Horton,CHC,139.0,9.0,66%,2.1,0,0,0,0,0,0,0,0,,,,,11.0,4.0,2.67,1.085,23.0,22.0,0.0,118.0,95.0,10.0,33.0,97.0,hortoca01,data
+2025,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,3,Caleb Durbin,MIL,69.0,0.0,33%,2.7,136,445,60,114,11,53,18,30,0.256,0.334,0.387,0.721,,,,,,,,,,,,,durbica01,data
+2025,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,4,Isaac Collins,MIL,62.0,0.0,30%,2.0,130,372,56,98,9,54,16,57,0.263,0.368,0.411,0.779,,,,,,,,,,,,,colliis01,data
+2025,Rookie Of The Year,NL,National League,WSN,Washington Nationals,East,5,Daylen Lile,WSN,17.0,0.0,8%,0.7,91,321,51,96,9,41,8,21,0.299,0.347,0.498,0.845,,,,,,,,,,,,,lileda01,data
+2025,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,6,Agustín Ramírez,MIA,10.0,0.0,5%,-0.3,136,537,72,124,21,67,16,36,0.231,0.287,0.413,0.701,,,,,,,,,,,,,ramirag01,data
+2025,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,7,Chad Patrick,MIL,9.0,0.0,4%,2.0,0,0,0,0,0,0,0,0,,,,,3.0,8.0,3.53,1.279,27.0,23.0,0.0,119.2,113.0,13.0,40.0,127.0,patrich01,data
+2025,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,8,Jakob Marsee,MIA,8.0,0.0,4%,1.9,55,209,28,61,5,33,14,22,0.292,0.363,0.478,0.842,,,,,,,,,,,,,marseja01,data
+2025,Rookie Of The Year,NL,National League,LAD,Los Angeles Dodgers,West,9,Jack Dreyer,LAD,4.0,0.0,2%,1.3,0,0,0,0,0,0,0,0,,,,,3.0,2.0,2.95,1.048,67.0,5.0,4.0,76.1,56.0,4.0,24.0,74.0,dreyeja01,data
+2025,Rookie Of The Year,NL,National League,CHC,Chicago Cubs,Central,9,Matt Shaw,CHC,4.0,0.0,2%,3.0,126,393,57,89,13,44,17,38,0.226,0.295,0.394,0.69,,,,,,,,,,,,,shawma01,data
+2025,Rookie Of The Year,NL,National League,NYM,New York Mets,East,11,Nolan McLean,NYM,2.0,0.0,1%,1.8,0,0,0,0,0,0,0,0,,,,,5.0,1.0,2.06,1.042,8.0,8.0,0.0,48.0,34.0,4.0,16.0,57.0,mcleano01,data
+2025,Rookie Of The Year,NL,National League,MIL,Milwaukee Brewers,Central,11,Jacob Misiorowski,MIL,2.0,0.0,1%,0.5,0,0,0,0,0,0,0,0,,,,,5.0,3.0,4.36,1.242,15.0,14.0,0.0,66.0,51.0,8.0,31.0,87.0,misioja01,data
+2025,Rookie Of The Year,NL,National League,MIA,Miami Marlins,East,13,Heriberto Hernández,MIA,1.0,0.0,0%,1.0,87,256,40,68,10,45,1,31,0.266,0.347,0.438,0.784,,,,,,,,,,,,,hernahe01,data
