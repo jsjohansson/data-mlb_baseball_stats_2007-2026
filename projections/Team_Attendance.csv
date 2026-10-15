@@ -1,0 +1,621 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Current_Home_Games,Current_Attendance,Current_Attendance_Per_Game,Prior_Home_Games,Prior_Attendance,Prior_Attendance_Per_Game,YoY_Attendance_Diff,YoY_Attendance_Diff_Per_Game,Row_Type
+2007,STL,St. Louis Cardinals,NL,National League,Central,81,"3,552,180","43,854",80,"3,407,104","42,589","145,076","1,265",data
+2007,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,365,632","41,551",81,"3,406,790","42,059","-41,158",-508,data
+2007,CHW,Chicago White Sox,AL,American League,Central,81,"2,684,395","33,141",81,"2,957,414","36,511","-273,019","-3,371",data
+2007,CIN,Cincinnati Reds,NL,National League,Central,81,"2,058,593","25,415",81,"2,134,472","26,352","-75,879",-937,data
+2007,COL,Colorado Rockies,NL,National League,West,82,"2,376,250","28,979",81,"2,104,560","25,982","271,690","2,996",data
+2007,DET,Detroit Tigers,AL,American League,Central,81,"3,047,124","37,619",81,"2,595,937","32,049","451,187","5,570",data
+2007,HOU,Houston Astros,NL,National League,Central,81,"3,020,405","37,289",81,"3,022,763","37,318","-2,358",-29,data
+2007,KCR,Kansas City Royals,AL,American League,Central,81,"1,616,867","19,961",81,"1,372,684","16,947","244,183","3,015",data
+2007,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,869,144","35,422",81,"2,335,643","28,835","533,501","6,586",data
+2007,MIN,Minnesota Twins,AL,American League,Central,81,"2,296,383","28,350",81,"2,285,018","28,210","11,365",140,data
+2007,NYY,New York Yankees,AL,American League,East,81,"4,271,867","52,739",81,"4,247,980","52,444","23,887",295,data
+2007,PHI,Philadelphia Phillies,NL,National League,East,81,"3,108,330","38,374",81,"2,701,815","33,356","406,515","5,019",data
+2007,SEA,Seattle Mariners,AL,American League,West,82,"2,672,409","32,590",81,"2,480,717","30,626","191,692","1,964",data
+2007,WSN,Washington Nationals,NL,National League,East,81,"1,961,579","24,217",81,"2,153,080","26,581","-191,501","-2,364",data
+2007,SFG,San Francisco Giants,NL,National League,West,81,"3,223,202","39,793",81,"3,130,304","38,646","92,898","1,147",data
+2007,ATL,Atlanta Braves,NL,National League,East,81,"2,745,303","33,893",81,"2,549,524","31,476","195,779","2,417",data
+2007,FLA,Florida Marlins,NL,National League,East,81,"1,370,511","16,920",81,"1,165,120","14,384","205,391","2,536",data
+2007,SDP,San Diego Padres,NL,National League,West,81,"2,790,074","34,445",81,"2,659,732","32,836","130,342","1,609",data
+2007,TBD,Tampa Bay Devil Rays,AL,American League,East,81,"1,389,106","17,149",81,"1,369,031","16,902","20,075",248,data
+2007,TEX,Texas Rangers,AL,American League,West,81,"2,353,862","29,060",81,"2,388,757","29,491","-34,895",-431,data
+2007,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,324,252","28,694",81,"2,091,005","25,815","233,247","2,880",data
+2007,BAL,Baltimore Orioles,AL,American League,East,81,"2,172,487","26,821",81,"2,153,150","26,582","19,337",239,data
+2007,CHC,Chicago Cubs,NL,National League,Central,81,"3,252,462","40,154",81,"3,123,215","38,558","129,247","1,596",data
+2007,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,856,753","47,614",81,"3,758,421","46,400","98,332","1,214",data
+2007,NYM,New York Mets,NL,National League,East,81,"3,853,955","47,580",81,"3,372,045","41,630","481,910","5,950",data
+2007,OAK,Oakland Athletics,AL,American League,West,81,"1,921,844","23,726",81,"1,976,625","24,403","-54,781",-676,data
+2007,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,749,142","21,594",81,"1,861,549","22,982","-112,407","-1,388",data
+2007,TOR,Toronto Blue Jays,AL,American League,East,81,"2,360,648","29,144",81,"2,302,182","28,422","58,466",722,data
+2007,BOS,Boston Red Sox,AL,American League,East,81,"2,970,755","36,676",81,"2,930,768","36,182","39,987",494,data
+2007,CLE,Cleveland Indians,AL,American League,Central,80,"2,275,911","28,449",81,"1,998,070","24,668","277,841","3,781",data
+2007,Total,,,,,2431,"79,511,425","32,707",2429,"76,035,475","31,303","3,475,950","1,430",summary
+2008,OAK,Oakland Athletics,AL,American League,West,81,"1,665,262","20,559",81,"1,921,844","23,726","-256,582","-3,168",data
+2008,WSN,Washington Nationals,NL,National League,East,80,"2,320,400","29,005",81,"1,961,579","24,217","358,821","4,788",data
+2008,ATL,Atlanta Braves,NL,National League,East,81,"2,532,834","31,270",81,"2,745,303","33,893","-212,469","-2,623",data
+2008,BAL,Baltimore Orioles,AL,American League,East,80,"1,950,075","24,376",81,"2,172,487","26,821","-222,412","-2,445",data
+2008,CHC,Chicago Cubs,NL,National League,Central,81,"3,299,840","40,739",81,"3,252,462","40,154","47,378",585,data
+2008,CIN,Cincinnati Reds,NL,National League,Central,81,"2,058,632","25,415",81,"2,058,593","25,415",39,,data
+2008,CLE,Cleveland Indians,AL,American League,Central,81,"2,169,760","26,787",80,"2,275,911","28,449","-106,151","-1,662",data
+2008,DET,Detroit Tigers,AL,American League,Central,81,"3,202,654","39,539",81,"3,047,124","37,619","155,530","1,920",data
+2008,FLA,Florida Marlins,NL,National League,East,81,"1,335,076","16,482",81,"1,370,511","16,920","-35,435",-437,data
+2008,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,730,553","46,056",81,"3,856,753","47,614","-126,200","-1,558",data
+2008,MIN,Minnesota Twins,AL,American League,Central,81,"2,302,431","28,425",81,"2,296,383","28,350","6,048",75,data
+2008,PHI,Philadelphia Phillies,NL,National League,East,81,"3,422,583","42,254",81,"3,108,330","38,374","314,253","3,880",data
+2008,SDP,San Diego Padres,NL,National League,West,81,"2,427,535","29,970",81,"2,790,074","34,445","-362,539","-4,476",data
+2008,SEA,Seattle Mariners,AL,American League,West,81,"2,329,702","28,762",82,"2,672,409","32,590","-342,707","-3,829",data
+2008,NYY,New York Yankees,AL,American League,East,81,"4,298,655","53,070",81,"4,271,867","52,739","26,788",331,data
+2008,STL,St. Louis Cardinals,NL,National League,Central,81,"3,430,403","42,351",81,"3,552,180","43,854","-121,777","-1,503",data
+2008,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,336,747","41,194",81,"3,365,632","41,551","-28,885",-357,data
+2008,COL,Colorado Rockies,NL,National League,West,81,"2,650,218","32,719",82,"2,376,250","28,979","273,968","3,740",data
+2008,MIL,Milwaukee Brewers,NL,National League,Central,81,"3,068,908","37,888",81,"2,869,144","35,422","199,764","2,466",data
+2008,TOR,Toronto Blue Jays,AL,American League,East,81,"2,399,786","29,627",81,"2,360,648","29,144","39,138",483,data
+2008,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,509,924","30,987",81,"2,324,252","28,694","185,672","2,292",data
+2008,CHW,Chicago White Sox,AL,American League,Central,82,"2,501,103","30,501",81,"2,684,395","33,141","-183,292","-2,639",data
+2008,HOU,Houston Astros,NL,National League,Central,80,"2,779,487","34,744",81,"3,020,405","37,289","-240,918","-2,545",data
+2008,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,609,076","19,865",81,"1,749,142","21,594","-140,066","-1,729",data
+2008,SFG,San Francisco Giants,NL,National League,West,81,"2,863,837","35,356",81,"3,223,202","39,793","-359,365","-4,437",data
+2008,BOS,Boston Red Sox,AL,American League,East,81,"3,048,250","37,633",81,"2,970,755","36,676","77,495",957,data
+2008,KCR,Kansas City Royals,AL,American League,Central,81,"1,578,922","19,493",81,"1,616,867","19,961","-37,945",-468,data
+2008,NYM,New York Mets,NL,National League,East,81,"4,042,047","49,902",81,"3,853,955","47,580","188,092","2,322",data
+2008,TBR,Tampa Bay Rays,AL,American League,East,81,"1,811,986","22,370",81,"1,389,106","17,149","422,880","5,221",data
+2008,TEX,Texas Rangers,AL,American League,West,81,"1,945,677","24,021",81,"2,353,862","29,060","-408,185","-5,039",data
+2008,Total,,,,,2428,"78,622,363","32,382",2431,"79,511,425","32,707","-889,062",-366,summary
+2009,PHI,Philadelphia Phillies,NL,National League,East,81,"3,600,693","44,453",81,"3,422,583","42,254","178,110","2,199",data
+2009,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,240,386","40,005",81,"3,336,747","41,194","-96,361","-1,190",data
+2009,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,129,183","26,286",81,"2,509,924","30,987","-380,741","-4,701",data
+2009,BAL,Baltimore Orioles,AL,American League,East,81,"1,907,163","23,545",80,"1,950,075","24,376","-42,912",-831,data
+2009,CIN,Cincinnati Reds,NL,National League,Central,81,"1,747,919","21,579",81,"2,058,632","25,415","-310,713","-3,836",data
+2009,FLA,Florida Marlins,NL,National League,East,81,"1,464,109","18,075",81,"1,335,076","16,482","129,033","1,593",data
+2009,HOU,Houston Astros,NL,National League,Central,81,"2,521,081","31,124",80,"2,779,487","34,744","-258,406","-3,619",data
+2009,MIN,Minnesota Twins,AL,American League,Central,82,"2,416,237","29,466",81,"2,302,431","28,425","113,806","1,041",data
+2009,SDP,San Diego Padres,NL,National League,West,81,"1,922,603","23,736",81,"2,427,535","29,970","-504,932","-6,234",data
+2009,STL,St. Louis Cardinals,NL,National League,Central,81,"3,343,252","41,275",81,"3,430,403","42,351","-87,151","-1,076",data
+2009,TEX,Texas Rangers,AL,American League,West,81,"2,156,016","26,617",81,"1,945,677","24,021","210,339","2,597",data
+2009,TOR,Toronto Blue Jays,AL,American League,East,81,"1,876,129","23,162",81,"2,399,786","29,627","-523,657","-6,465",data
+2009,BOS,Boston Red Sox,AL,American League,East,81,"3,062,699","37,811",81,"3,048,250","37,633","14,449",178,data
+2009,CHW,Chicago White Sox,AL,American League,Central,81,"2,284,163","28,200",82,"2,501,103","30,501","-216,940","-2,302",data
+2009,SFG,San Francisco Giants,NL,National League,West,81,"2,861,111","35,322",81,"2,863,837","35,356","-2,726",-34,data
+2009,ATL,Atlanta Braves,NL,National League,East,81,"2,373,631","29,304",81,"2,532,834","31,270","-159,203","-1,965",data
+2009,CLE,Cleveland Indians,AL,American League,Central,81,"1,766,242","21,805",81,"2,169,760","26,787","-403,518","-4,982",data
+2009,COL,Colorado Rockies,NL,National League,West,81,"2,665,080","32,902",81,"2,650,218","32,719","14,862",183,data
+2009,DET,Detroit Tigers,AL,American League,Central,81,"2,567,192","31,694",81,"3,202,654","39,539","-635,462","-7,845",data
+2009,KCR,Kansas City Royals,AL,American League,Central,81,"1,799,686","22,218",81,"1,578,922","19,493","220,764","2,725",data
+2009,MIL,Milwaukee Brewers,NL,National League,Central,81,"3,037,451","37,499",81,"3,068,908","37,888","-31,457",-388,data
+2009,OAK,Oakland Athletics,AL,American League,West,81,"1,408,783","17,392",81,"1,665,262","20,559","-256,479","-3,166",data
+2009,CHC,Chicago Cubs,NL,National League,Central,80,"3,168,859","39,611",81,"3,299,840","40,739","-130,981","-1,128",data
+2009,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,761,669","46,440",81,"3,730,553","46,056","31,116",384,data
+2009,NYM,New York Mets,NL,National League,East,81,"3,154,270","38,942",81,"4,042,047","49,902","-887,777","-10,960",data
+2009,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,577,853","19,480",81,"1,609,076","19,865","-31,223",-385,data
+2009,TBR,Tampa Bay Rays,AL,American League,East,81,"1,874,962","23,148",81,"1,811,986","22,370","62,976",777,data
+2009,WSN,Washington Nationals,NL,National League,East,81,"1,817,280","22,436",80,"2,320,400","29,005","-503,120","-6,569",data
+2009,SEA,Seattle Mariners,AL,American League,West,81,"2,195,128","27,100",81,"2,329,702","28,762","-134,574","-1,661",data
+2009,NYY,New York Yankees,AL,American League,East,81,"3,719,358","45,918",81,"4,298,655","53,070","-579,297","-7,152",data
+2009,Total,,,,,2430,"73,420,188","30,214",2428,"78,622,363","32,382","-5,202,175","-2,141",summary
+2010,BOS,Boston Red Sox,AL,American League,East,81,"3,046,445","37,610",81,"3,062,699","37,811","-16,254",-201,data
+2010,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,250,754","40,133",81,"3,240,386","40,005","10,368",128,data
+2010,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,057,224","25,398",81,"2,129,183","26,286","-71,959",-888,data
+2010,ATL,Atlanta Braves,NL,National League,East,81,"2,510,121","30,989",81,"2,373,631","29,304","136,490","1,685",data
+2010,CHW,Chicago White Sox,AL,American League,Central,81,"2,194,378","27,091",81,"2,284,163","28,200","-89,785","-1,108",data
+2010,CIN,Cincinnati Reds,NL,National League,Central,81,"2,060,550","25,439",81,"1,747,919","21,579","312,631","3,860",data
+2010,HOU,Houston Astros,NL,National League,Central,81,"2,331,490","28,784",81,"2,521,081","31,124","-189,591","-2,341",data
+2010,KCR,Kansas City Royals,AL,American League,Central,81,"1,615,326","19,942",81,"1,799,686","22,218","-184,360","-2,276",data
+2010,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,776,531","34,278",81,"3,037,451","37,499","-260,920","-3,221",data
+2010,NYM,New York Mets,NL,National League,East,81,"2,573,077","31,766",81,"3,154,270","38,942","-581,193","-7,175",data
+2010,OAK,Oakland Athletics,AL,American League,West,81,"1,418,391","17,511",81,"1,408,783","17,392","9,608",119,data
+2010,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,613,399","19,919",81,"1,577,853","19,480","35,546",439,data
+2010,TEX,Texas Rangers,AL,American League,West,81,"2,505,171","30,928",81,"2,156,016","26,617","349,155","4,311",data
+2010,WSN,Washington Nationals,NL,National League,East,81,"1,828,065","22,569",81,"1,817,280","22,436","10,785",133,data
+2010,TBR,Tampa Bay Rays,AL,American League,East,81,"1,865,002","23,025",81,"1,874,962","23,148","-9,960",-123,data
+2010,BAL,Baltimore Orioles,AL,American League,East,81,"1,733,019","21,395",81,"1,907,163","23,545","-174,144","-2,150",data
+2010,COL,Colorado Rockies,NL,National League,West,81,"2,875,245","35,497",81,"2,665,080","32,902","210,165","2,595",data
+2010,DET,Detroit Tigers,AL,American League,Central,81,"2,461,237","30,386",81,"2,567,192","31,694","-105,955","-1,308",data
+2010,FLA,Florida Marlins,NL,National League,East,81,"1,524,894","18,826",81,"1,464,109","18,075","60,785",750,data
+2010,SFG,San Francisco Giants,NL,National League,West,81,"3,037,267","37,497",81,"2,861,111","35,322","176,156","2,175",data
+2010,CHC,Chicago Cubs,NL,National League,Central,81,"3,062,973","37,814",80,"3,168,859","39,611","-105,886","-1,796",data
+2010,CLE,Cleveland Indians,AL,American League,Central,81,"1,391,644","17,181",81,"1,766,242","21,805","-374,598","-4,625",data
+2010,MIN,Minnesota Twins,AL,American League,Central,81,"3,223,640","39,798",82,"2,416,237","29,466","807,403","10,332",data
+2010,PHI,Philadelphia Phillies,NL,National League,East,84,"3,777,322","44,968",81,"3,600,693","44,453","176,629",515,data
+2010,SDP,San Diego Padres,NL,National League,West,81,"2,131,774","26,318",81,"1,922,603","23,736","209,171","2,582",data
+2010,SEA,Seattle Mariners,AL,American League,West,81,"2,085,168","25,743",81,"2,195,128","27,100","-109,960","-1,358",data
+2010,STL,St. Louis Cardinals,NL,National League,Central,81,"3,301,218","40,756",81,"3,343,252","41,275","-42,034",-519,data
+2010,TOR,Toronto Blue Jays,AL,American League,East,78,"1,495,482","19,173",81,"1,876,129","23,162","-380,647","-3,989",data
+2010,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,562,318","43,979",81,"3,761,669","46,440","-199,351","-2,461",data
+2010,NYY,New York Yankees,AL,American League,East,81,"3,765,807","46,491",81,"3,719,358","45,918","46,449",573,data
+2010,Total,,,,,2430,"73,074,932","30,072",2430,"73,420,188","30,214","-345,256",-142,summary
+2011,CIN,Cincinnati Reds,NL,National League,Central,81,"2,213,588","27,328",81,"2,060,550","25,439","153,038","1,889",data
+2011,KCR,Kansas City Royals,AL,American League,Central,81,"1,724,450","21,290",81,"1,615,326","19,942","109,124","1,347",data
+2011,LAD,Los Angeles Dodgers,NL,National League,West,81,"2,935,139","36,236",81,"3,562,318","43,979","-627,179","-7,743",data
+2011,NYY,New York Yankees,AL,American League,East,81,"3,653,680","45,107",81,"3,765,807","46,491","-112,127","-1,384",data
+2011,STL,St. Louis Cardinals,NL,National League,Central,81,"3,093,954","38,197",81,"3,301,218","40,756","-207,264","-2,559",data
+2011,WSN,Washington Nationals,NL,National League,East,80,"1,940,478","24,256",81,"1,828,065","22,569","112,413","1,687",data
+2011,CHC,Chicago Cubs,NL,National League,Central,81,"3,017,966","37,259",81,"3,062,973","37,814","-45,007",-556,data
+2011,CLE,Cleveland Indians,AL,American League,Central,81,"1,840,835","22,726",81,"1,391,644","17,181","449,191","5,546",data
+2011,COL,Colorado Rockies,NL,National League,West,81,"2,909,777","35,923",81,"2,875,245","35,497","34,532",426,data
+2011,FLA,Florida Marlins,NL,National League,East,78,"1,477,462","18,942",81,"1,524,894","18,826","-47,432",116,data
+2011,OAK,Oakland Athletics,AL,American League,West,81,"1,476,791","18,232",81,"1,418,391","17,511","58,400",721,data
+2011,PHI,Philadelphia Phillies,NL,National League,East,81,"3,680,718","45,441",84,"3,777,322","44,968","-96,604",473,data
+2011,TBR,Tampa Bay Rays,AL,American League,East,81,"1,529,188","18,879",81,"1,865,002","23,025","-335,814","-4,146",data
+2011,TEX,Texas Rangers,AL,American League,West,81,"2,946,949","36,382",81,"2,505,171","30,928","441,778","5,454",data
+2011,TOR,Toronto Blue Jays,AL,American League,East,81,"1,818,103","22,446",78,"1,495,482","19,173","322,621","3,273",data
+2011,BAL,Baltimore Orioles,AL,American League,East,81,"1,755,461","21,672",81,"1,733,019","21,395","22,442",277,data
+2011,MIL,Milwaukee Brewers,NL,National League,Central,81,"3,071,373","37,918",81,"2,776,531","34,278","294,842","3,640",data
+2011,SDP,San Diego Padres,NL,National League,West,81,"2,143,018","26,457",81,"2,131,774","26,318","11,244",139,data
+2011,CHW,Chicago White Sox,AL,American League,Central,81,"2,001,117","24,705",81,"2,194,378","27,091","-193,261","-2,386",data
+2011,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,940,429","23,956",81,"1,613,399","19,919","327,030","4,037",data
+2011,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,166,321","39,090",81,"3,250,754","40,133","-84,433","-1,042",data
+2011,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,105,432","25,993",81,"2,057,224","25,398","48,208",595,data
+2011,ATL,Atlanta Braves,NL,National League,East,81,"2,372,940","29,296",81,"2,510,121","30,989","-137,181","-1,694",data
+2011,BOS,Boston Red Sox,AL,American League,East,81,"3,054,001","37,704",81,"3,046,445","37,610","7,556",93,data
+2011,DET,Detroit Tigers,AL,American League,Central,81,"2,642,045","32,618",81,"2,461,237","30,386","180,808","2,232",data
+2011,HOU,Houston Astros,NL,National League,Central,81,"2,067,016","25,519",81,"2,331,490","28,784","-264,474","-3,265",data
+2011,MIN,Minnesota Twins,AL,American League,Central,81,"3,168,116","39,113",81,"3,223,640","39,798","-55,524",-685,data
+2011,NYM,New York Mets,NL,National League,East,81,"2,352,596","29,044",81,"2,573,077","31,766","-220,481","-2,722",data
+2011,SEA,Seattle Mariners,AL,American League,West,84,"1,939,421","23,088",81,"2,085,168","25,743","-145,747","-2,654",data
+2011,SFG,San Francisco Giants,NL,National League,West,81,"3,387,303","41,819",81,"3,037,267","37,497","350,036","4,321",data
+2011,Total,,,,,2429,"73,425,667","30,229",2430,"73,074,932","30,072","350,735",144,summary
+2012,OAK,Oakland Athletics,AL,American League,West,81,"1,679,013","20,729",81,"1,476,791","18,232","202,222","2,497",data
+2012,MIA,Miami Marlins,NL,National League,East,81,"2,219,444","27,401",78,"1,477,462","18,942","741,982","8,459",data
+2012,CHC,Chicago Cubs,NL,National League,Central,81,"2,882,756","35,590",81,"3,017,966","37,259","-135,210","-1,669",data
+2012,CIN,Cincinnati Reds,NL,National League,Central,81,"2,347,251","28,978",81,"2,213,588","27,328","133,663","1,650",data
+2012,CLE,Cleveland Indians,AL,American League,Central,81,"1,603,596","19,797",81,"1,840,835","22,726","-237,239","-2,929",data
+2012,DET,Detroit Tigers,AL,American League,Central,81,"3,028,033","37,383",81,"2,642,045","32,618","385,988","4,765",data
+2012,NYM,New York Mets,NL,National League,East,81,"2,242,803","27,689",81,"2,352,596","29,044","-109,793","-1,355",data
+2012,PIT,Pittsburgh Pirates,NL,National League,Central,81,"2,091,918","25,826",81,"1,940,429","23,956","151,489","1,870",data
+2012,SDP,San Diego Padres,NL,National League,West,81,"2,123,721","26,219",81,"2,143,018","26,457","-19,297",-238,data
+2012,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,061,770","37,800",81,"3,166,321","39,090","-104,551","-1,291",data
+2012,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,177,617","26,884",81,"2,105,432","25,993","72,185",891,data
+2012,BAL,Baltimore Orioles,AL,American League,East,81,"2,102,240","25,954",81,"1,755,461","21,672","346,779","4,281",data
+2012,HOU,Houston Astros,NL,National League,Central,81,"1,607,733","19,849",81,"2,067,016","25,519","-459,283","-5,670",data
+2012,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,831,385","34,955",81,"3,071,373","37,918","-239,988","-2,963",data
+2012,TBR,Tampa Bay Rays,AL,American League,East,81,"1,559,681","19,255",81,"1,529,188","18,879","30,493",376,data
+2012,TEX,Texas Rangers,AL,American League,West,81,"3,460,280","42,720",81,"2,946,949","36,382","513,331","6,337",data
+2012,COL,Colorado Rockies,NL,National League,West,81,"2,630,458","32,475",81,"2,909,777","35,923","-279,319","-3,448",data
+2012,MIN,Minnesota Twins,AL,American League,Central,81,"2,776,354","34,276",81,"3,168,116","39,113","-391,762","-4,837",data
+2012,PHI,Philadelphia Phillies,NL,National League,East,81,"3,565,718","44,021",81,"3,680,718","45,441","-115,000","-1,420",data
+2012,TOR,Toronto Blue Jays,AL,American League,East,81,"2,099,663","25,922",81,"1,818,103","22,446","281,560","3,476",data
+2012,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,324,246","41,040",81,"2,935,139","36,236","389,107","4,804",data
+2012,WSN,Washington Nationals,NL,National League,East,81,"2,370,794","29,269",80,"1,940,478","24,256","430,316","5,013",data
+2012,ATL,Atlanta Braves,NL,National League,East,81,"2,420,171","29,879",81,"2,372,940","29,296","47,231",583,data
+2012,BOS,Boston Red Sox,AL,American League,East,81,"3,043,003","37,568",81,"3,054,001","37,704","-10,998",-136,data
+2012,CHW,Chicago White Sox,AL,American League,Central,81,"1,965,955","24,271",81,"2,001,117","24,705","-35,162",-434,data
+2012,KCR,Kansas City Royals,AL,American League,Central,81,"1,739,859","21,480",81,"1,724,450","21,290","15,409",190,data
+2012,NYY,New York Yankees,AL,American League,East,81,"3,542,406","43,733",81,"3,653,680","45,107","-111,274","-1,374",data
+2012,SEA,Seattle Mariners,AL,American League,West,81,"1,721,920","21,258",84,"1,939,421","23,088","-217,501","-1,830",data
+2012,SFG,San Francisco Giants,NL,National League,West,81,"3,377,371","41,696",81,"3,387,303","41,819","-9,932",-123,data
+2012,STL,St. Louis Cardinals,NL,National League,Central,81,"3,262,109","40,273",81,"3,093,954","38,197","168,155","2,076",data
+2012,Total,,,,,2430,"74,859,268","30,806",2429,"73,425,667","30,229","1,433,601",590,summary
+2013,HOU,Houston Astros,AL,American League,West,81,"1,651,883","20,394",81,"1,607,733","19,849","44,150",545,data
+2013,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,134,895","26,357",81,"2,177,617","26,884","-42,722",-527,data
+2013,ATL,Atlanta Braves,NL,National League,East,81,"2,548,679","31,465",81,"2,420,171","29,879","128,508","1,587",data
+2013,CHW,Chicago White Sox,AL,American League,Central,81,"1,768,413","21,832",81,"1,965,955","24,271","-197,542","-2,439",data
+2013,CIN,Cincinnati Reds,NL,National League,Central,80,"2,492,101","31,151",81,"2,347,251","28,978","144,850","2,173",data
+2013,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,743,527","46,216",81,"3,324,246","41,040","419,281","5,176",data
+2013,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,531,105","31,248",81,"2,831,385","34,955","-300,280","-3,707",data
+2013,MIN,Minnesota Twins,AL,American League,Central,81,"2,477,644","30,588",81,"2,776,354","34,276","-298,710","-3,688",data
+2013,NYY,New York Yankees,AL,American League,East,81,"3,279,589","40,489",81,"3,542,406","43,733","-262,817","-3,245",data
+2013,NYM,New York Mets,NL,National League,East,81,"2,135,657","26,366",81,"2,242,803","27,689","-107,146","-1,323",data
+2013,OAK,Oakland Athletics,AL,American League,West,81,"1,809,302","22,337",81,"1,679,013","20,729","130,289","1,609",data
+2013,PIT,Pittsburgh Pirates,NL,National League,Central,81,"2,256,862","27,862",81,"2,091,918","25,826","164,944","2,036",data
+2013,WSN,Washington Nationals,NL,National League,East,81,"2,652,422","32,746",81,"2,370,794","29,269","281,628","3,477",data
+2013,TBR,Tampa Bay Rays,AL,American League,East,81,"1,510,300","18,646",81,"1,559,681","19,255","-49,381",-610,data
+2013,TOR,Toronto Blue Jays,AL,American League,East,81,"2,536,562","31,316",81,"2,099,663","25,922","436,899","5,394",data
+2013,BAL,Baltimore Orioles,AL,American League,East,81,"2,357,561","29,106",81,"2,102,240","25,954","255,321","3,152",data
+2013,COL,Colorado Rockies,NL,National League,West,81,"2,793,828","34,492",81,"2,630,458","32,475","163,370","2,017",data
+2013,DET,Detroit Tigers,AL,American League,Central,81,"3,083,397","38,067",81,"3,028,033","37,383","55,364",684,data
+2013,PHI,Philadelphia Phillies,NL,National League,East,81,"3,012,403","37,190",81,"3,565,718","44,021","-553,315","-6,831",data
+2013,SFG,San Francisco Giants,NL,National League,West,82,"3,369,106","41,087",81,"3,377,371","41,696","-8,265",-609,data
+2013,TEX,Texas Rangers,AL,American League,West,82,"3,178,273","38,759",81,"3,460,280","42,720","-282,007","-3,960",data
+2013,BOS,Boston Red Sox,AL,American League,East,81,"2,833,333","34,979",81,"3,043,003","37,568","-209,670","-2,589",data
+2013,CHC,Chicago Cubs,NL,National League,Central,81,"2,642,682","32,626",81,"2,882,756","35,590","-240,074","-2,964",data
+2013,CLE,Cleveland Indians,AL,American League,Central,81,"1,572,926","19,419",81,"1,603,596","19,797","-30,670",-379,data
+2013,KCR,Kansas City Royals,AL,American League,Central,81,"1,750,754","21,614",81,"1,739,859","21,480","10,895",135,data
+2013,MIA,Miami Marlins,NL,National League,East,81,"1,586,322","19,584",81,"2,219,444","27,401","-633,122","-7,816",data
+2013,SEA,Seattle Mariners,AL,American League,West,81,"1,761,546","21,747",81,"1,721,920","21,258","39,626",489,data
+2013,STL,St. Louis Cardinals,NL,National League,Central,81,"3,369,769","41,602",81,"3,262,109","40,273","107,660","1,329",data
+2013,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,019,505","37,278",81,"3,061,770","37,800","-42,265",-522,data
+2013,SDP,San Diego Padres,NL,National League,West,81,"2,166,691","26,749",81,"2,123,721","26,219","42,970",530,data
+2013,Total,,,,,2431,"74,027,037","30,451",2430,"74,859,268","30,806","-832,231",-342,summary
+2014,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,073,730","25,602",81,"2,134,895","26,357","-61,165",-755,data
+2014,SDP,San Diego Padres,NL,National League,West,81,"2,195,373","27,103",81,"2,166,691","26,749","28,682",354,data
+2014,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,095,935","38,221",81,"3,019,505","37,278","76,430",944,data
+2014,BAL,Baltimore Orioles,AL,American League,East,81,"2,464,473","30,426",81,"2,357,561","29,106","106,912","1,320",data
+2014,CHW,Chicago White Sox,AL,American League,Central,81,"1,650,821","20,381",81,"1,768,413","21,832","-117,592","-1,452",data
+2014,CIN,Cincinnati Reds,NL,National League,Central,81,"2,476,664","30,576",80,"2,492,101","31,151","-15,437",-575,data
+2014,DET,Detroit Tigers,AL,American League,Central,81,"2,917,209","36,015",81,"3,083,397","38,067","-166,188","-2,052",data
+2014,MIA,Miami Marlins,NL,National League,East,81,"1,732,283","21,386",81,"1,586,322","19,584","145,961","1,802",data
+2014,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,797,384","34,536",81,"2,531,105","31,248","266,279","3,287",data
+2014,NYM,New York Mets,NL,National League,East,81,"2,148,808","26,528",81,"2,135,657","26,366","13,151",162,data
+2014,OAK,Oakland Athletics,AL,American League,West,81,"2,003,628","24,736",81,"1,809,302","22,337","194,326","2,399",data
+2014,PIT,Pittsburgh Pirates,NL,National League,Central,81,"2,442,564","30,155",81,"2,256,862","27,862","185,702","2,293",data
+2014,TBR,Tampa Bay Rays,AL,American League,East,81,"1,446,464","17,858",81,"1,510,300","18,646","-63,836",-788,data
+2014,TEX,Texas Rangers,AL,American League,West,81,"2,718,733","33,565",82,"3,178,273","38,759","-459,540","-5,195",data
+2014,HOU,Houston Astros,AL,American League,West,81,"1,751,829","21,628",81,"1,651,883","20,394","99,946","1,234",data
+2014,BOS,Boston Red Sox,AL,American League,East,81,"2,956,089","36,495",81,"2,833,333","34,979","122,756","1,516",data
+2014,CHC,Chicago Cubs,NL,National League,Central,81,"2,652,113","32,742",81,"2,642,682","32,626","9,431",116,data
+2014,CLE,Cleveland Indians,AL,American League,Central,81,"1,437,393","17,746",81,"1,572,926","19,419","-135,533","-1,673",data
+2014,COL,Colorado Rockies,NL,National League,West,81,"2,680,329","33,090",81,"2,793,828","34,492","-113,499","-1,401",data
+2014,KCR,Kansas City Royals,AL,American League,Central,81,"1,956,482","24,154",81,"1,750,754","21,614","205,728","2,540",data
+2014,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,782,337","46,696",81,"3,743,527","46,216","38,810",479,data
+2014,TOR,Toronto Blue Jays,AL,American League,East,81,"2,375,525","29,327",81,"2,536,562","31,316","-161,037","-1,988",data
+2014,WSN,Washington Nationals,NL,National League,East,81,"2,579,389","31,844",81,"2,652,422","32,746","-73,033",-902,data
+2014,MIN,Minnesota Twins,AL,American League,Central,81,"2,250,606","27,785",81,"2,477,644","30,588","-227,038","-2,803",data
+2014,NYY,New York Yankees,AL,American League,East,81,"3,401,624","41,995",81,"3,279,589","40,489","122,035","1,507",data
+2014,STL,St. Louis Cardinals,NL,National League,Central,81,"3,540,649","43,712",81,"3,369,769","41,602","170,880","2,110",data
+2014,ATL,Atlanta Braves,NL,National League,East,81,"2,354,305","29,065",81,"2,548,679","31,465","-194,374","-2,400",data
+2014,PHI,Philadelphia Phillies,NL,National League,East,81,"2,423,852","29,924",81,"3,012,403","37,190","-588,551","-7,266",data
+2014,SEA,Seattle Mariners,AL,American League,West,81,"2,064,334","25,486",81,"1,761,546","21,747","302,788","3,738",data
+2014,SFG,San Francisco Giants,NL,National League,West,81,"3,368,697","41,589",82,"3,369,106","41,087",-409,502,data
+2014,Total,,,,,2430,"73,739,622","30,346",2431,"74,027,037","30,451","-287,415",-118,summary
+2015,CHC,Chicago Cubs,NL,National League,Central,81,"2,959,812","36,541",81,"2,652,113","32,742","307,699","3,799",data
+2015,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,080,145","25,681",81,"2,073,730","25,602","6,415",79,data
+2015,CIN,Cincinnati Reds,NL,National League,Central,81,"2,419,506","29,870",81,"2,476,664","30,576","-57,158",-706,data
+2015,DET,Detroit Tigers,AL,American League,Central,81,"2,726,048","33,655",81,"2,917,209","36,015","-191,161","-2,360",data
+2015,HOU,Houston Astros,AL,American League,West,81,"2,153,585","26,587",81,"1,751,829","21,628","401,756","4,960",data
+2015,KCR,Kansas City Royals,AL,American League,Central,81,"2,708,549","33,439",81,"1,956,482","24,154","752,067","9,285",data
+2015,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,764,815","46,479",81,"3,782,337","46,696","-17,522",-216,data
+2015,MIA,Miami Marlins,NL,National League,East,81,"1,752,235","21,633",81,"1,732,283","21,386","19,952",246,data
+2015,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,542,558","31,390",81,"2,797,384","34,536","-254,826","-3,146",data
+2015,NYY,New York Yankees,AL,American League,East,81,"3,193,795","39,430",81,"3,401,624","41,995","-207,829","-2,566",data
+2015,OAK,Oakland Athletics,AL,American League,West,81,"1,768,175","21,829",81,"2,003,628","24,736","-235,453","-2,907",data
+2015,PHI,Philadelphia Phillies,NL,National League,East,81,"1,831,080","22,606",81,"2,423,852","29,924","-592,772","-7,318",data
+2015,SEA,Seattle Mariners,AL,American League,West,81,"2,193,581","27,081",81,"2,064,334","25,486","129,247","1,596",data
+2015,TBR,Tampa Bay Rays,AL,American League,East,84,"1,287,054","15,322",81,"1,446,464","17,858","-159,410","-2,536",data
+2015,WSN,Washington Nationals,NL,National League,East,81,"2,619,843","32,344",81,"2,579,389","31,844","40,454",499,data
+2015,SDP,San Diego Padres,NL,National League,West,81,"2,459,752","30,367",81,"2,195,373","27,103","264,379","3,264",data
+2015,LAA,Los Angeles Angels of Anaheim,AL,American League,West,81,"3,012,765","37,195",81,"3,095,935","38,221","-83,170","-1,027",data
+2015,ATL,Atlanta Braves,NL,National League,East,81,"2,001,392","24,709",81,"2,354,305","29,065","-352,913","-4,357",data
+2015,BAL,Baltimore Orioles,AL,American League,East,78,"2,281,202","29,246",81,"2,464,473","30,426","-183,271","-1,179",data
+2015,CHW,Chicago White Sox,AL,American League,Central,81,"1,755,810","21,677",81,"1,650,821","20,381","104,989","1,296",data
+2015,CLE,Cleveland Indians,AL,American League,Central,80,"1,388,905","17,361",81,"1,437,393","17,746","-48,488",-384,data
+2015,COL,Colorado Rockies,NL,National League,West,81,"2,506,789","30,948",81,"2,680,329","33,090","-173,540","-2,142",data
+2015,TEX,Texas Rangers,AL,American League,West,81,"2,491,875","30,764",81,"2,718,733","33,565","-226,858","-2,801",data
+2015,BOS,Boston Red Sox,AL,American League,East,81,"2,880,694","35,564",81,"2,956,089","36,495","-75,395",-931,data
+2015,MIN,Minnesota Twins,AL,American League,Central,81,"2,220,054","27,408",81,"2,250,606","27,785","-30,552",-377,data
+2015,NYM,New York Mets,NL,National League,East,81,"2,569,753","31,725",81,"2,148,808","26,528","420,945","5,197",data
+2015,PIT,Pittsburgh Pirates,NL,National League,Central,81,"2,498,596","30,847",81,"2,442,564","30,155","56,032",692,data
+2015,SFG,San Francisco Giants,NL,National League,West,81,"3,375,882","41,678",81,"3,368,697","41,589","7,185",89,data
+2015,STL,St. Louis Cardinals,NL,National League,Central,81,"3,520,889","43,468",81,"3,540,649","43,712","-19,760",-244,data
+2015,TOR,Toronto Blue Jays,AL,American League,East,81,"2,794,891","34,505",81,"2,375,525","29,327","419,366","5,177",data
+2015,Total,,,,,2429,"73,760,030","30,366",2430,"73,739,622","30,346","20,408",8,summary
+2016,KCR,Kansas City Royals,AL,American League,Central,81,"2,557,712","31,577",81,"2,708,549","33,439","-150,837","-1,862",data
+2016,PIT,Pittsburgh Pirates,NL,National League,Central,81,"2,249,201","27,768",81,"2,498,596","30,847","-249,395","-3,079",data
+2016,TBR,Tampa Bay Rays,AL,American League,East,81,"1,286,163","15,879",84,"1,287,054","15,322",-891,556,data
+2016,LAA,Los Angeles Angels,AL,American League,West,81,"3,016,142","37,236",81,"3,012,765","37,195","3,377",42,data
+2016,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,036,216","25,138",81,"2,080,145","25,681","-43,929",-542,data
+2016,ATL,Atlanta Braves,NL,National League,East,81,"2,020,914","24,950",81,"2,001,392","24,709","19,522",241,data
+2016,BAL,Baltimore Orioles,AL,American League,East,81,"2,172,344","26,819",78,"2,281,202","29,246","-108,858","-2,427",data
+2016,CIN,Cincinnati Reds,NL,National League,Central,81,"1,894,085","23,384",81,"2,419,506","29,870","-525,421","-6,487",data
+2016,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,315,244","28,583",81,"2,542,558","31,390","-227,314","-2,806",data
+2016,OAK,Oakland Athletics,AL,American League,West,81,"1,521,506","18,784",81,"1,768,175","21,829","-246,669","-3,045",data
+2016,SDP,San Diego Padres,NL,National League,West,81,"2,351,422","29,030",81,"2,459,752","30,367","-108,330","-1,337",data
+2016,TEX,Texas Rangers,AL,American League,West,81,"2,710,402","33,462",81,"2,491,875","30,764","218,527","2,698",data
+2016,CLE,Cleveland Indians,AL,American League,Central,81,"1,591,667","19,650",80,"1,388,905","17,361","202,762","2,289",data
+2016,MIA,Miami Marlins,NL,National League,East,80,"1,712,417","21,405",81,"1,752,235","21,633","-39,818",-227,data
+2016,NYY,New York Yankees,AL,American League,East,81,"3,063,405","37,820",81,"3,193,795","39,430","-130,390","-1,610",data
+2016,SFG,San Francisco Giants,NL,National League,West,81,"3,365,256","41,546",81,"3,375,882","41,678","-10,626",-131,data
+2016,WSN,Washington Nationals,NL,National League,East,81,"2,481,938","30,641",81,"2,619,843","32,344","-137,905","-1,703",data
+2016,CHW,Chicago White Sox,AL,American League,Central,81,"1,746,293","21,559",81,"1,755,810","21,677","-9,517",-117,data
+2016,COL,Colorado Rockies,NL,National League,West,81,"2,602,524","32,130",81,"2,506,789","30,948","95,735","1,182",data
+2016,DET,Detroit Tigers,AL,American League,Central,80,"2,493,859","31,173",81,"2,726,048","33,655","-232,189","-2,482",data
+2016,NYM,New York Mets,NL,National League,East,81,"2,789,602","34,440",81,"2,569,753","31,725","219,849","2,714",data
+2016,SEA,Seattle Mariners,AL,American League,West,81,"2,267,928","27,999",81,"2,193,581","27,081","74,347",918,data
+2016,TOR,Toronto Blue Jays,AL,American League,East,81,"3,392,099","41,878",81,"2,794,891","34,505","597,208","7,373",data
+2016,BOS,Boston Red Sox,AL,American League,East,81,"2,955,434","36,487",81,"2,880,694","35,564","74,740",923,data
+2016,CHC,Chicago Cubs,NL,National League,Central,81,"3,232,420","39,906",81,"2,959,812","36,541","272,608","3,366",data
+2016,HOU,Houston Astros,AL,American League,West,81,"2,306,623","28,477",81,"2,153,585","26,587","153,038","1,889",data
+2016,MIN,Minnesota Twins,AL,American League,Central,81,"1,963,912","24,246",81,"2,220,054","27,408","-256,142","-3,162",data
+2016,PHI,Philadelphia Phillies,NL,National League,East,81,"1,915,144","23,644",81,"1,831,080","22,606","84,064","1,038",data
+2016,STL,St. Louis Cardinals,NL,National League,Central,81,"3,444,490","42,525",81,"3,520,889","43,468","-76,399",-943,data
+2016,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,703,312","45,720",81,"3,764,815","46,479","-61,503",-759,data
+2016,Total,,,,,2428,"73,159,674","30,132",2429,"73,760,030","30,366","-600,356",-247,summary
+2017,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,134,375","26,350",81,"2,036,216","25,138","98,159","1,212",data
+2017,STL,St. Louis Cardinals,NL,National League,Central,81,"3,448,337","42,572",81,"3,444,490","42,525","3,847",47,data
+2017,TBR,Tampa Bay Rays,AL,American League,East,81,"1,253,619","15,477",81,"1,286,163","15,879","-32,544",-402,data
+2017,BAL,Baltimore Orioles,AL,American League,East,81,"2,028,424","25,042",81,"2,172,344","26,819","-143,920","-1,777",data
+2017,BOS,Boston Red Sox,AL,American League,East,81,"2,917,678","36,021",81,"2,955,434","36,487","-37,756",-466,data
+2017,CIN,Cincinnati Reds,NL,National League,Central,81,"1,836,917","22,678",81,"1,894,085","23,384","-57,168",-706,data
+2017,HOU,Houston Astros,AL,American League,West,81,"2,403,671","29,675",81,"2,306,623","28,477","97,048","1,198",data
+2017,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,765,856","46,492",81,"3,703,312","45,720","62,544",772,data
+2017,MIL,Milwaukee Brewers,NL,National League,Central,84,"2,627,705","31,282",81,"2,315,244","28,583","312,461","2,699",data
+2017,MIN,Minnesota Twins,AL,American League,Central,81,"2,051,279","25,324",81,"1,963,912","24,246","87,367","1,079",data
+2017,NYM,New York Mets,NL,National League,East,81,"2,460,622","30,378",81,"2,789,602","34,440","-328,980","-4,061",data
+2017,OAK,Oakland Athletics,AL,American League,West,81,"1,475,721","18,219",81,"1,521,506","18,784","-45,785",-565,data
+2017,TEX,Texas Rangers,AL,American League,West,81,"2,507,760","30,960",81,"2,710,402","33,462","-202,642","-2,502",data
+2017,WSN,Washington Nationals,NL,National League,East,81,"2,524,980","31,173",81,"2,481,938","30,641","43,042",531,data
+2017,CHW,Chicago White Sox,AL,American League,Central,81,"1,629,470","20,117",81,"1,746,293","21,559","-116,823","-1,442",data
+2017,LAA,Los Angeles Angels,AL,American League,West,81,"3,019,585","37,279",81,"3,016,142","37,236","3,443",43,data
+2017,COL,Colorado Rockies,NL,National League,West,81,"2,953,650","36,465",81,"2,602,524","32,130","351,126","4,335",data
+2017,DET,Detroit Tigers,AL,American League,Central,81,"2,321,599","28,662",80,"2,493,859","31,173","-172,260","-2,512",data
+2017,PHI,Philadelphia Phillies,NL,National League,East,81,"1,905,354","23,523",81,"1,915,144","23,644","-9,790",-121,data
+2017,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,919,447","23,697",81,"2,249,201","27,768","-329,754","-4,071",data
+2017,SDP,San Diego Padres,NL,National League,West,81,"2,138,491","26,401",81,"2,351,422","29,030","-212,931","-2,629",data
+2017,CHC,Chicago Cubs,NL,National League,Central,81,"3,199,562","39,501",81,"3,232,420","39,906","-32,858",-406,data
+2017,KCR,Kansas City Royals,AL,American League,Central,81,"2,220,370","27,412",81,"2,557,712","31,577","-337,342","-4,165",data
+2017,NYY,New York Yankees,AL,American League,East,81,"3,188,116","39,359",81,"3,063,405","37,820","124,711","1,540",data
+2017,SEA,Seattle Mariners,AL,American League,West,81,"2,135,445","26,364",81,"2,267,928","27,999","-132,483","-1,636",data
+2017,SFG,San Francisco Giants,NL,National League,West,81,"3,303,652","40,786",81,"3,365,256","41,546","-61,604",-761,data
+2017,CLE,Cleveland Indians,AL,American League,Central,81,"2,048,138","25,286",81,"1,591,667","19,650","456,471","5,635",data
+2017,MIA,Miami Marlins,NL,National League,East,78,"1,583,014","20,295",80,"1,712,417","21,405","-129,403","-1,110",data
+2017,TOR,Toronto Blue Jays,AL,American League,East,81,"3,203,886","39,554",81,"3,392,099","41,878","-188,213","-2,324",data
+2017,ATL,Atlanta Braves,NL,National League,East,81,"2,505,252","30,929",81,"2,020,914","24,950","484,338","5,979",data
+2017,Total,,,,,2430,"72,711,975","29,923",2428,"73,159,674","30,132","-447,699",-184,summary
+2018,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,242,695","27,688",81,"2,134,375","26,350","108,320","1,337",data
+2018,ATL,Atlanta Braves,NL,National League,East,81,"2,555,781","31,553",81,"2,505,252","30,929","50,529",624,data
+2018,BAL,Baltimore Orioles,AL,American League,East,81,"1,564,192","19,311",81,"2,028,424","25,042","-464,232","-5,731",data
+2018,KCR,Kansas City Royals,AL,American League,Central,81,"1,665,107","20,557",81,"2,220,370","27,412","-555,263","-6,855",data
+2018,LAD,Los Angeles Dodgers,NL,National League,West,82,"3,857,500","47,043",81,"3,765,856","46,492","91,644",551,data
+2018,MIA,Miami Marlins,NL,National League,East,81,"811,104","10,014",78,"1,583,014","20,295","-771,910","-10,281",data
+2018,NYM,New York Mets,NL,National League,East,81,"2,224,995","27,469",81,"2,460,622","30,378","-235,627","-2,909",data
+2018,OAK,Oakland Athletics,AL,American League,West,81,"1,573,616","19,427",81,"1,475,721","18,219","97,895","1,209",data
+2018,SDP,San Diego Padres,NL,National League,West,81,"2,168,536","26,772",81,"2,138,491","26,401","30,045",371,data
+2018,SEA,Seattle Mariners,AL,American League,West,81,"2,299,489","28,389",81,"2,135,445","26,364","164,044","2,025",data
+2018,TBR,Tampa Bay Rays,AL,American League,East,81,"1,154,973","14,259",81,"1,253,619","15,477","-98,646","-1,218",data
+2018,TEX,Texas Rangers,AL,American League,West,81,"2,107,107","26,014",81,"2,507,760","30,960","-400,653","-4,946",data
+2018,TOR,Toronto Blue Jays,AL,American League,East,81,"2,325,281","28,707",81,"3,203,886","39,554","-878,605","-10,847",data
+2018,CIN,Cincinnati Reds,NL,National League,Central,81,"1,629,356","20,116",81,"1,836,917","22,678","-207,561","-2,562",data
+2018,DET,Detroit Tigers,AL,American League,Central,81,"1,856,970","22,926",81,"2,321,599","28,662","-464,629","-5,736",data
+2018,LAA,Los Angeles Angels,AL,American League,West,81,"3,020,216","37,287",81,"3,019,585","37,279",631,8,data
+2018,HOU,Houston Astros,AL,American League,West,81,"2,980,549","36,797",81,"2,403,671","29,675","576,878","7,122",data
+2018,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,850,875","35,196",84,"2,627,705","31,282","223,170","3,914",data
+2018,PIT,Pittsburgh Pirates,NL,National League,Central,80,"1,465,316","18,316",81,"1,919,447","23,697","-454,131","-5,380",data
+2018,NYY,New York Yankees,AL,American League,East,81,"3,482,855","42,998",81,"3,188,116","39,359","294,739","3,639",data
+2018,SFG,San Francisco Giants,NL,National League,West,81,"3,156,185","38,965",81,"3,303,652","40,786","-147,467","-1,821",data
+2018,BOS,Boston Red Sox,AL,American League,East,81,"2,895,575","35,748",81,"2,917,678","36,021","-22,103",-273,data
+2018,CHW,Chicago White Sox,AL,American League,Central,81,"1,608,817","19,862",81,"1,629,470","20,117","-20,653",-255,data
+2018,MIN,Minnesota Twins,AL,American League,Central,81,"1,959,197","24,188",81,"2,051,279","25,324","-92,082","-1,137",data
+2018,PHI,Philadelphia Phillies,NL,National League,East,81,"2,158,124","26,644",81,"1,905,354","23,523","252,770","3,121",data
+2018,STL,St. Louis Cardinals,NL,National League,Central,81,"3,403,587","42,020",81,"3,448,337","42,572","-44,750",-552,data
+2018,WSN,Washington Nationals,NL,National League,East,81,"2,529,604","31,230",81,"2,524,980","31,173","4,624",57,data
+2018,CLE,Cleveland Indians,AL,American League,Central,81,"1,926,701","23,786",81,"2,048,138","25,286","-121,437","-1,499",data
+2018,COL,Colorado Rockies,NL,National League,West,81,"3,015,880","37,233",81,"2,953,650","36,465","62,230",768,data
+2018,CHC,Chicago Cubs,NL,National League,Central,82,"3,181,089","38,794",81,"3,199,562","39,501","-18,473",-707,data
+2018,Total,,,,,2431,"69,671,272","28,660",2430,"72,711,975","29,923","-3,040,703","-1,251",summary
+2019,OAK,Oakland Athletics,AL,American League,West,81,"1,670,734","20,626",81,"1,573,616","19,427","97,118","1,199",data
+2019,CIN,Cincinnati Reds,NL,National League,Central,81,"1,809,075","22,334",81,"1,629,356","20,116","179,719","2,219",data
+2019,KCR,Kansas City Royals,AL,American League,Central,81,"1,479,659","18,267",81,"1,665,107","20,557","-185,448","-2,289",data
+2019,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,974,309","49,066",82,"3,857,500","47,043","116,809","2,023",data
+2019,MIA,Miami Marlins,NL,National League,East,81,"811,302","10,016",81,"811,104","10,014",198,2,data
+2019,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,923,333","36,091",81,"2,850,875","35,196","72,458",895,data
+2019,MIN,Minnesota Twins,AL,American League,Central,81,"2,303,299","28,436",81,"1,959,197","24,188","344,102","4,248",data
+2019,NYY,New York Yankees,AL,American League,East,81,"3,304,404","40,795",81,"3,482,855","42,998","-178,451","-2,203",data
+2019,PHI,Philadelphia Phillies,NL,National League,East,81,"2,727,421","33,672",81,"2,158,124","26,644","569,297","7,028",data
+2019,SDP,San Diego Padres,NL,National League,West,81,"2,396,399","29,585",81,"2,168,536","26,772","227,863","2,813",data
+2019,SEA,Seattle Mariners,AL,American League,West,81,"1,791,109","22,112",81,"2,299,489","28,389","-508,380","-6,276",data
+2019,TBR,Tampa Bay Rays,AL,American League,East,81,"1,178,735","14,552",81,"1,154,973","14,259","23,762",293,data
+2019,TEX,Texas Rangers,AL,American League,West,81,"2,132,994","26,333",81,"2,107,107","26,014","25,887",320,data
+2019,TOR,Toronto Blue Jays,AL,American League,East,81,"1,750,144","21,607",81,"2,325,281","28,707","-575,137","-7,100",data
+2019,WSN,Washington Nationals,NL,National League,East,81,"2,259,781","27,899",81,"2,529,604","31,230","-269,823","-3,331",data
+2019,ATL,Atlanta Braves,NL,National League,East,81,"2,654,920","32,777",81,"2,555,781","31,553","99,139","1,224",data
+2019,CLE,Cleveland Indians,AL,American League,Central,81,"1,738,642","21,465",81,"1,926,701","23,786","-188,059","-2,322",data
+2019,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,491,439","18,413",80,"1,465,316","18,316","26,123",96,data
+2019,LAA,Los Angeles Angels,AL,American League,West,81,"3,023,012","37,321",81,"3,020,216","37,287","2,796",35,data
+2019,BAL,Baltimore Orioles,AL,American League,East,81,"1,307,807","16,146",81,"1,564,192","19,311","-256,385","-3,165",data
+2019,DET,Detroit Tigers,AL,American League,Central,81,"1,501,430","18,536",81,"1,856,970","22,926","-355,540","-4,389",data
+2019,NYM,New York Mets,NL,National League,East,81,"2,442,532","30,155",81,"2,224,995","27,469","217,537","2,686",data
+2019,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,135,510","26,364",81,"2,242,695","27,688","-107,185","-1,323",data
+2019,CHW,Chicago White Sox,AL,American League,Central,80,"1,649,775","20,622",81,"1,608,817","19,862","40,958",760,data
+2019,COL,Colorado Rockies,NL,National League,West,81,"2,993,244","36,954",81,"3,015,880","37,233","-22,636",-279,data
+2019,HOU,Houston Astros,AL,American League,West,81,"2,857,367","35,276",81,"2,980,549","36,797","-123,182","-1,521",data
+2019,SFG,San Francisco Giants,NL,National League,West,81,"2,707,760","33,429",81,"3,156,185","38,965","-448,425","-5,536",data
+2019,STL,St. Louis Cardinals,NL,National League,Central,81,"3,480,393","42,968",81,"3,403,587","42,020","76,806",948,data
+2019,CHC,Chicago Cubs,NL,National League,Central,81,"3,094,865","38,208",82,"3,181,089","38,794","-86,224",-586,data
+2019,BOS,Boston Red Sox,AL,American League,East,81,"2,915,502","35,994",81,"2,895,575","35,748","19,927",246,data
+2019,Total,,,,,2429,"68,506,896","28,204",2431,"69,671,272","28,660","-1,164,376",-479,summary
+2020,LAD,Los Angeles Dodgers,NL,National League,West,30,,,81,"3,974,309","49,066",,,data
+2020,WSN,Washington Nationals,NL,National League,East,33,,,81,"2,259,781","27,899",,,data
+2020,BOS,Boston Red Sox,AL,American League,East,31,,,81,"2,915,502","35,994",,,data
+2020,CHW,Chicago White Sox,AL,American League,Central,30,,,80,"1,649,775","20,622",,,data
+2020,CHC,Chicago Cubs,NL,National League,Central,33,,,81,"3,094,865","38,208",,,data
+2020,CIN,Cincinnati Reds,NL,National League,Central,29,,,81,"1,809,075","22,334",,,data
+2020,CLE,Cleveland Indians,AL,American League,Central,30,,,81,"1,738,642","21,465",,,data
+2020,HOU,Houston Astros,AL,American League,West,28,,,81,"2,857,367","35,276",,,data
+2020,NYM,New York Mets,NL,National League,East,29,,,81,"2,442,532","30,155",,,data
+2020,OAK,Oakland Athletics,AL,American League,West,32,,,81,"1,670,734","20,626",,,data
+2020,PHI,Philadelphia Phillies,NL,National League,East,32,,,81,"2,727,421","33,672",,,data
+2020,SDP,San Diego Padres,NL,National League,West,32,,,81,"2,396,399","29,585",,,data
+2020,STL,St. Louis Cardinals,NL,National League,Central,27,,,81,"3,480,393","42,968",,,data
+2020,TBR,Tampa Bay Rays,AL,American League,East,29,,,81,"1,178,735","14,552",,,data
+2020,TEX,Texas Rangers,AL,American League,West,30,,,81,"2,132,994","26,333",,,data
+2020,DET,Detroit Tigers,AL,American League,Central,27,,,81,"1,501,430","18,536",,,data
+2020,PIT,Pittsburgh Pirates,NL,National League,Central,32,,,81,"1,491,439","18,413",,,data
+2020,LAA,Los Angeles Angels,AL,American League,West,31,,,81,"3,023,012","37,321",,,data
+2020,MIN,Minnesota Twins,AL,American League,Central,31,,,81,"2,303,299","28,436",,,data
+2020,SFG,San Francisco Giants,NL,National League,West,33,,,81,"2,707,760","33,429",,,data
+2020,ATL,Atlanta Braves,NL,National League,East,30,,,81,"2,654,920","32,777",,,data
+2020,BAL,Baltimore Orioles,AL,American League,East,33,,,81,"1,307,807","16,146",,,data
+2020,ARI,Arizona Diamondbacks,NL,National League,West,30,,,81,"2,135,510","26,364",,,data
+2020,COL,Colorado Rockies,NL,National League,West,30,,,81,"2,993,244","36,954",,,data
+2020,KCR,Kansas City Royals,AL,American League,Central,30,,,81,"1,479,659","18,267",,,data
+2020,NYY,New York Yankees,AL,American League,East,31,,,81,"3,304,404","40,795",,,data
+2020,SEA,Seattle Mariners,AL,American League,West,24,,,81,"1,791,109","22,112",,,data
+2020,MIL,Milwaukee Brewers,NL,National League,Central,29,,,81,"2,923,333","36,091",,,data
+2020,TOR,Toronto Blue Jays,AL,American League,East,26,,,81,"1,750,144","21,607",,,data
+2020,MIA,Miami Marlins,NL,National League,East,26,,,81,"811,302","10,016",,,data
+2020,Total,,,,,898,,,2429,"68,506,896","28,204",,,summary
+2021,LAA,Los Angeles Angels,AL,American League,West,82,"1,515,689","18,484",31,,,"1,515,689","18,484",data
+2021,CHC,Chicago Cubs,NL,National League,Central,81,"1,978,934","24,431",33,,,"1,978,934","24,431",data
+2021,CIN,Cincinnati Reds,NL,National League,Central,81,"1,505,024","18,581",29,,,"1,505,024","18,581",data
+2021,COL,Colorado Rockies,NL,National League,West,81,"1,938,645","23,934",30,,,"1,938,645","23,934",data
+2021,DET,Detroit Tigers,AL,American League,Central,81,"1,102,621","13,613",27,,,"1,102,621","13,613",data
+2021,KCR,Kansas City Royals,AL,American League,Central,81,"1,159,613","14,316",30,,,"1,159,613","14,316",data
+2021,MIA,Miami Marlins,NL,National League,East,81,"642,617","7,934",26,,,"642,617","7,934",data
+2021,MIL,Milwaukee Brewers,NL,National League,Central,81,"1,824,282","22,522",29,,,"1,824,282","22,522",data
+2021,NYY,New York Yankees,AL,American League,East,81,"1,959,854","24,196",31,,,"1,959,854","24,196",data
+2021,OAK,Oakland Athletics,AL,American League,West,81,"701,430","8,660",32,,,"701,430","8,660",data
+2021,PHI,Philadelphia Phillies,NL,National League,East,81,"1,515,890","18,715",32,,,"1,515,890","18,715",data
+2021,SDP,San Diego Padres,NL,National League,West,81,"2,191,950","27,061",32,,,"2,191,950","27,061",data
+2021,SEA,Seattle Mariners,AL,American League,West,81,"1,215,985","15,012",24,,,"1,215,985","15,012",data
+2021,BOS,Boston Red Sox,AL,American League,East,81,"1,725,323","21,300",31,,,"1,725,323","21,300",data
+2021,CLE,Cleveland Indians,AL,American League,Central,81,"1,114,368","13,758",30,,,"1,114,368","13,758",data
+2021,TEX,Texas Rangers,AL,American League,West,81,"2,110,258","26,053",30,,,"2,110,258","26,053",data
+2021,WSN,Washington Nationals,NL,National League,East,81,"1,465,543","18,093",33,,,"1,465,543","18,093",data
+2021,BAL,Baltimore Orioles,AL,American League,East,81,"793,229","9,793",33,,,"793,229","9,793",data
+2021,CHW,Chicago White Sox,AL,American League,Central,81,"1,596,385","19,708",30,,,"1,596,385","19,708",data
+2021,HOU,Houston Astros,AL,American League,West,81,"2,068,509","25,537",28,,,"2,068,509","25,537",data
+2021,MIN,Minnesota Twins,AL,American League,Central,81,"1,310,199","16,175",31,,,"1,310,199","16,175",data
+2021,NYM,New York Mets,NL,National League,East,81,"1,511,926","18,666",29,,,"1,511,926","18,666",data
+2021,PIT,Pittsburgh Pirates,NL,National League,Central,81,"859,498","10,611",32,,,"859,498","10,611",data
+2021,STL,St. Louis Cardinals,NL,National League,Central,81,"2,102,530","25,957",27,,,"2,102,530","25,957",data
+2021,TOR,Toronto Blue Jays,AL,American League,East,80,"805,901","10,074",26,,,"805,901","10,074",data
+2021,ARI,Arizona Diamondbacks,NL,National League,West,81,"1,043,010","12,877",30,,,"1,043,010","12,877",data
+2021,ATL,Atlanta Braves,NL,National League,East,80,"2,299,647","28,746",30,,,"2,299,647","28,746",data
+2021,LAD,Los Angeles Dodgers,NL,National League,West,81,"2,804,693","34,626",30,,,"2,804,693","34,626",data
+2021,SFG,San Francisco Giants,NL,National League,West,81,"1,679,484","20,734",33,,,"1,679,484","20,734",data
+2021,TBR,Tampa Bay Rays,AL,American League,East,81,"761,072","9,396",29,,,"761,072","9,396",data
+2021,Total,,,,,2429,"45,304,109","18,651",898,,,"45,304,109","18,651",summary
+2022,LAA,Los Angeles Angels,AL,American League,West,81,"2,457,461","30,339",82,"1,515,689","18,484","941,772","11,855",data
+2022,ARI,Arizona Diamondbacks,NL,National League,West,81,"1,605,199","19,817",81,"1,043,010","12,877","562,189","6,941",data
+2022,ATL,Atlanta Braves,NL,National League,East,81,"3,129,931","38,641",80,"2,299,647","28,746","830,284","9,896",data
+2022,CHC,Chicago Cubs,NL,National League,Central,81,"2,616,780","32,306",81,"1,978,934","24,431","637,846","7,875",data
+2022,KCR,Kansas City Royals,AL,American League,Central,81,"1,277,686","15,774",81,"1,159,613","14,316","118,073","1,458",data
+2022,STL,St. Louis Cardinals,NL,National League,Central,81,"3,320,551","40,994",81,"2,102,530","25,957","1,218,021","15,037",data
+2022,WSN,Washington Nationals,NL,National League,East,81,"2,026,401","25,017",81,"1,465,543","18,093","560,858","6,924",data
+2022,COL,Colorado Rockies,NL,National League,West,81,"2,597,428","32,067",81,"1,938,645","23,934","658,783","8,133",data
+2022,DET,Detroit Tigers,AL,American League,Central,82,"1,575,544","19,214",81,"1,102,621","13,613","472,923","5,601",data
+2022,MIN,Minnesota Twins,AL,American League,Central,81,"1,801,128","22,236",81,"1,310,199","16,175","490,929","6,061",data
+2022,NYY,New York Yankees,AL,American League,East,81,"3,136,207","38,719",81,"1,959,854","24,196","1,176,353","14,523",data
+2022,PHI,Philadelphia Phillies,NL,National League,East,81,"2,276,736","28,108",81,"1,515,890","18,715","760,846","9,393",data
+2022,SFG,San Francisco Giants,NL,National League,West,81,"2,482,686","30,650",81,"1,679,484","20,734","803,202","9,916",data
+2022,TBR,Tampa Bay Rays,AL,American League,East,81,"1,128,127","13,927",81,"761,072","9,396","367,055","4,532",data
+2022,TOR,Toronto Blue Jays,AL,American League,East,81,"2,653,830","32,763",80,"805,901","10,074","1,847,929","22,690",data
+2022,BAL,Baltimore Orioles,AL,American League,East,81,"1,368,367","16,893",81,"793,229","9,793","575,138","7,100",data
+2022,TEX,Texas Rangers,AL,American League,West,81,"2,011,361","24,832",81,"2,110,258","26,053","-98,897","-1,221",data
+2022,CHW,Chicago White Sox,AL,American League,Central,81,"2,009,359","24,807",81,"1,596,385","19,708","412,974","5,098",data
+2022,CIN,Cincinnati Reds,NL,National League,Central,81,"1,395,770","17,232",81,"1,505,024","18,581","-109,254","-1,349",data
+2022,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,257,458","15,524",81,"859,498","10,611","397,960","4,913",data
+2022,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,861,408","47,672",81,"2,804,693","34,626","1,056,715","13,046",data
+2022,MIA,Miami Marlins,NL,National League,East,81,"907,487","11,204",81,"642,617","7,934","264,870","3,270",data
+2022,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,422,420","29,906",81,"1,824,282","22,522","598,138","7,384",data
+2022,SDP,San Diego Padres,NL,National League,West,81,"2,987,470","36,882",81,"2,191,950","27,061","795,520","9,821",data
+2022,BOS,Boston Red Sox,AL,American League,East,81,"2,625,089","32,409",81,"1,725,323","21,300","899,766","11,108",data
+2022,CLE,Cleveland Guardians,AL,American League,Central,81,"1,295,870","15,998",81,"1,114,368","13,758","181,502","2,241",data
+2022,NYM,New York Mets,NL,National League,East,81,"2,564,737","31,663",81,"1,511,926","18,666","1,052,811","12,998",data
+2022,SEA,Seattle Mariners,AL,American League,West,81,"2,287,267","28,238",81,"1,215,985","15,012","1,071,282","13,226",data
+2022,HOU,Houston Astros,AL,American League,West,81,"2,688,998","33,198",81,"2,068,509","25,537","620,489","7,660",data
+2022,OAK,Oakland Athletics,AL,American League,West,80,"787,902","9,849",81,"701,430","8,660","86,472","1,189",data
+2022,Total,,,,,2430,"64,556,658","26,567",2429,"45,304,109","18,651","19,252,549","7,923",summary
+2023,BOS,Boston Red Sox,AL,American League,East,81,"2,672,130","32,989",81,"2,625,089","32,409","47,041",581,data
+2023,CHC,Chicago Cubs,NL,National League,Central,81,"2,775,149","34,261",81,"2,616,780","32,306","158,369","1,955",data
+2023,CIN,Cincinnati Reds,NL,National League,Central,81,"2,038,302","25,164",81,"1,395,770","17,232","642,532","7,932",data
+2023,HOU,Houston Astros,AL,American League,West,81,"3,052,347","37,683",81,"2,688,998","33,198","363,349","4,486",data
+2023,KCR,Kansas City Royals,AL,American League,Central,81,"1,307,052","16,136",81,"1,277,686","15,774","29,366",363,data
+2023,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,837,079","47,371",81,"3,861,408","47,672","-24,329",-300,data
+2023,MIA,Miami Marlins,NL,National League,East,81,"1,162,819","14,356",81,"907,487","11,204","255,332","3,152",data
+2023,NYY,New York Yankees,AL,American League,East,81,"3,269,016","40,358",81,"3,136,207","38,719","132,809","1,640",data
+2023,OAK,Oakland Athletics,AL,American League,West,81,"832,352","10,276",80,"787,902","9,849","44,450",427,data
+2023,SDP,San Diego Padres,NL,National League,West,81,"3,271,554","40,390",81,"2,987,470","36,882","284,084","3,507",data
+2023,SEA,Seattle Mariners,AL,American League,West,81,"2,690,418","33,215",81,"2,287,267","28,238","403,151","4,977",data
+2023,STL,St. Louis Cardinals,NL,National League,Central,81,"3,241,091","40,013",81,"3,320,551","40,994","-79,460",-981,data
+2023,TBR,Tampa Bay Rays,AL,American League,East,81,"1,440,301","17,781",81,"1,128,127","13,927","312,174","3,854",data
+2023,TEX,Texas Rangers,AL,American League,West,81,"2,533,044","31,272",81,"2,011,361","24,832","521,683","6,441",data
+2023,WSN,Washington Nationals,NL,National League,East,81,"1,865,832","23,035",81,"2,026,401","25,017","-160,569","-1,982",data
+2023,CHW,Chicago White Sox,AL,American League,Central,81,"1,669,628","20,613",81,"2,009,359","24,807","-339,731","-4,194",data
+2023,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,551,347","31,498",81,"2,422,420","29,906","128,927","1,592",data
+2023,ARI,Arizona Diamondbacks,NL,National League,West,81,"1,961,182","24,212",81,"1,605,199","19,817","355,983","4,395",data
+2023,ATL,Atlanta Braves,NL,National League,East,81,"3,191,505","39,401",81,"3,129,931","38,641","61,574",760,data
+2023,COL,Colorado Rockies,NL,National League,West,81,"2,607,935","32,197",81,"2,597,428","32,067","10,507",130,data
+2023,DET,Detroit Tigers,AL,American League,Central,81,"1,612,876","19,912",82,"1,575,544","19,214","37,332",698,data
+2023,LAA,Los Angeles Angels,AL,American League,West,81,"2,640,575","32,600",81,"2,457,461","30,339","183,114","2,261",data
+2023,BAL,Baltimore Orioles,AL,American League,East,81,"1,936,798","23,911",81,"1,368,367","16,893","568,431","7,018",data
+2023,CLE,Cleveland Guardians,AL,American League,Central,81,"1,834,068","22,643",81,"1,295,870","15,998","538,198","6,644",data
+2023,MIN,Minnesota Twins,AL,American League,Central,81,"1,974,124","24,372",81,"1,801,128","22,236","172,996","2,136",data
+2023,NYM,New York Mets,NL,National League,East,81,"2,573,555","31,772",81,"2,564,737","31,663","8,818",109,data
+2023,PHI,Philadelphia Phillies,NL,National League,East,81,"3,052,605","37,686",81,"2,276,736","28,108","775,869","9,579",data
+2023,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,630,624","20,131",81,"1,257,458","15,524","373,166","4,607",data
+2023,SFG,San Francisco Giants,NL,National League,West,81,"2,500,153","30,866",81,"2,482,686","30,650","17,467",216,data
+2023,TOR,Toronto Blue Jays,AL,American League,East,81,"3,021,904","37,307",81,"2,653,830","32,763","368,074","4,544",data
+2023,Total,,,,,2430,"70,747,365","29,114",2430,"64,556,658","26,567","6,190,707","2,548",summary
+2024,SDP,San Diego Padres,NL,National League,West,81,"3,330,545","41,118",81,"3,271,554","40,390","58,991",728,data
+2024,LAD,Los Angeles Dodgers,NL,National League,West,81,"3,941,251","48,657",81,"3,837,079","47,371","104,172","1,286",data
+2024,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,341,876","28,912",81,"1,961,182","24,212","380,694","4,700",data
+2024,BAL,Baltimore Orioles,AL,American League,East,81,"2,281,129","28,162",81,"1,936,798","23,911","344,331","4,251",data
+2024,CHW,Chicago White Sox,AL,American League,Central,81,"1,380,733","17,046",81,"1,669,628","20,613","-288,895","-3,567",data
+2024,CIN,Cincinnati Reds,NL,National League,Central,81,"2,024,178","24,990",81,"2,038,302","25,164","-14,124",-174,data
+2024,HOU,Houston Astros,AL,American League,West,81,"2,835,234","35,003",81,"3,052,347","37,683","-217,113","-2,680",data
+2024,KCR,Kansas City Royals,AL,American League,Central,81,"1,658,347","20,473",81,"1,307,052","16,136","351,295","4,337",data
+2024,MIA,Miami Marlins,NL,National League,East,81,"1,087,455","13,425",81,"1,162,819","14,356","-75,364",-930,data
+2024,OAK,Oakland Athletics,AL,American League,West,81,"922,286","11,386",81,"832,352","10,276","89,934","1,110",data
+2024,SEA,Seattle Mariners,AL,American League,West,81,"2,555,813","31,553",81,"2,690,418","33,215","-134,605","-1,662",data
+2024,TBR,Tampa Bay Rays,AL,American League,East,81,"1,337,739","16,515",81,"1,440,301","17,781","-102,562","-1,266",data
+2024,TEX,Texas Rangers,AL,American League,West,81,"2,651,553","32,735",81,"2,533,044","31,272","118,509","1,463",data
+2024,NYM,New York Mets,NL,National League,East,81,"2,329,299","28,757",81,"2,573,555","31,772","-244,256","-3,016",data
+2024,PHI,Philadelphia Phillies,NL,National League,East,81,"3,363,712","41,527",81,"3,052,605","37,686","311,107","3,841",data
+2024,CHC,Chicago Cubs,NL,National League,Central,81,"2,909,794","35,923",81,"2,775,149","34,261","134,645","1,662",data
+2024,WSN,Washington Nationals,NL,National League,East,81,"1,967,302","24,288",81,"1,865,832","23,035","101,470","1,253",data
+2024,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,537,202","31,323",81,"2,551,347","31,498","-14,145",-175,data
+2024,MIN,Minnesota Twins,AL,American League,Central,81,"1,951,616","24,094",81,"1,974,124","24,372","-22,508",-278,data
+2024,STL,St. Louis Cardinals,NL,National League,Central,81,"2,878,115","35,532",81,"3,241,091","40,013","-362,976","-4,481",data
+2024,LAA,Los Angeles Angels,AL,American League,West,81,"2,577,597","31,822",81,"2,640,575","32,600","-62,978",-778,data
+2024,ATL,Atlanta Braves,NL,National League,East,81,"3,011,755","37,182",81,"3,191,505","39,401","-179,750","-2,219",data
+2024,COL,Colorado Rockies,NL,National League,West,81,"2,540,195","31,360",81,"2,607,935","32,197","-67,740",-836,data
+2024,DET,Detroit Tigers,AL,American League,Central,81,"1,858,295","22,942",81,"1,612,876","19,912","245,419","3,030",data
+2024,NYY,New York Yankees,AL,American League,East,81,"3,309,838","40,862",81,"3,269,016","40,358","40,822",504,data
+2024,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,720,361","21,239",81,"1,630,624","20,131","89,737","1,108",data
+2024,SFG,San Francisco Giants,NL,National League,West,81,"2,647,736","32,688",81,"2,500,153","30,866","147,583","1,822",data
+2024,CLE,Cleveland Guardians,AL,American League,Central,80,"2,056,264","25,703",81,"1,834,068","22,643","222,196","3,060",data
+2024,TOR,Toronto Blue Jays,AL,American League,East,81,"2,681,236","33,102",81,"3,021,904","37,307","-340,668","-4,206",data
+2024,BOS,Boston Red Sox,AL,American League,East,81,"2,659,949","32,839",81,"2,672,130","32,989","-12,181",-150,data
+2024,Total,,,,,2429,"71,348,405","29,374",2430,"70,747,365","29,114","601,040",247,summary
+2025,CHC,Chicago Cubs,NL,National League,Central,81,"3,017,983","37,259",81,"2,909,794","35,923","108,189","1,336",data
+2025,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,393,973","29,555",81,"2,341,876","28,912","52,097",643,data
+2025,CHW,Chicago White Sox,AL,American League,Central,81,"1,445,738","17,849",81,"1,380,733","17,046","65,005",803,data
+2025,CIN,Cincinnati Reds,NL,National League,Central,81,"2,170,963","26,802",81,"2,024,178","24,990","146,785","1,812",data
+2025,HOU,Houston Astros,AL,American League,West,81,"2,727,877","33,677",81,"2,835,234","35,003","-107,357","-1,325",data
+2025,KCR,Kansas City Royals,AL,American League,Central,81,"1,748,801","21,590",81,"1,658,347","20,473","90,454","1,117",data
+2025,LAD,Los Angeles Dodgers,NL,National League,West,81,"4,012,470","49,537",81,"3,941,251","48,657","71,219",879,data
+2025,MIA,Miami Marlins,NL,National League,East,81,"1,156,880","14,282",81,"1,087,455","13,425","69,425",857,data
+2025,NYY,New York Yankees,AL,American League,East,81,"3,392,659","41,885",81,"3,309,838","40,862","82,821","1,022",data
+2025,SDP,San Diego Padres,NL,National League,West,81,"3,437,201","42,435",81,"3,330,545","41,118","106,656","1,317",data
+2025,SEA,Seattle Mariners,AL,American League,West,81,"2,538,053","31,334",81,"2,555,813","31,553","-17,760",-219,data
+2025,STL,St. Louis Cardinals,NL,National League,Central,81,"2,250,007","27,778",81,"2,878,115","35,532","-628,108","-7,754",data
+2025,TEX,Texas Rangers,AL,American League,West,81,"2,397,069","29,593",81,"2,651,553","32,735","-254,484","-3,142",data
+2025,TOR,Toronto Blue Jays,AL,American League,East,81,"2,849,935","35,184",81,"2,681,236","33,102","168,699","2,083",data
+2025,WSN,Washington Nationals,NL,National League,East,81,"1,916,768","23,664",81,"1,967,302","24,288","-50,534",-624,data
+2025,TBR,Tampa Bay Rays,AL,American League,East,81,"786,750","9,713",81,"1,337,739","16,515","-550,989","-6,802",data
+2025,ATH,Athletics,AL,American League,West,81,"768,464","9,487",81,"922,286","11,386","-153,822","-1,899",data
+2025,BAL,Baltimore Orioles,AL,American League,East,81,"1,803,655","22,267",81,"2,281,129","28,162","-477,474","-5,895",data
+2025,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,650,089","32,717",81,"2,537,202","31,323","112,887","1,394",data
+2025,PHI,Philadelphia Phillies,NL,National League,East,81,"3,375,457","41,672",81,"3,363,712","41,527","11,745",145,data
+2025,MIN,Minnesota Twins,AL,American League,Central,81,"1,768,728","21,836",81,"1,951,616","24,094","-182,888","-2,258",data
+2025,LAA,Los Angeles Angels,AL,American League,West,81,"2,615,506","32,290",81,"2,577,597","31,822","37,909",468,data
+2025,ATL,Atlanta Braves,NL,National League,East,81,"2,903,167","35,842",81,"3,011,755","37,182","-108,588","-1,341",data
+2025,BOS,Boston Red Sox,AL,American League,East,81,"2,776,496","34,278",81,"2,659,949","32,839","116,547","1,439",data
+2025,COL,Colorado Rockies,NL,National League,West,81,"2,404,613","29,687",81,"2,540,195","31,360","-135,582","-1,674",data
+2025,DET,Detroit Tigers,AL,American League,Central,81,"2,413,442","29,796",81,"1,858,295","22,942","555,147","6,854",data
+2025,NYM,New York Mets,NL,National League,East,81,"3,184,570","39,316",81,"2,329,299","28,757","855,271","10,559",data
+2025,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,525,025","18,827",81,"1,720,361","21,239","-195,336","-2,412",data
+2025,SFG,San Francisco Giants,NL,National League,West,81,"2,925,823","36,121",81,"2,647,736","32,688","278,087","3,433",data
+2025,CLE,Cleveland Guardians,AL,American League,Central,81,"2,051,360","25,325",80,"2,056,264","25,703","-4,904",-378,data
+2025,Total,,,,,2430,"71,409,522","29,387",2429,"71,348,405","29,374","61,117",25,summary
+2026,CHC,Chicago Cubs,NL,National League,Central,81,"2,969,583","36,662",81,"3,017,983","37,259","-48,400",-598,data
+2026,ARI,Arizona Diamondbacks,NL,National League,West,81,"2,288,586","28,254",81,"2,393,973","29,555","-105,387","-1,301",data
+2026,CHW,Chicago White Sox,AL,American League,Central,81,"1,986,425","24,524",81,"1,445,738","17,849","540,687","6,675",data
+2026,CIN,Cincinnati Reds,NL,National League,Central,81,"1,991,703","24,589",81,"2,170,963","26,802","-179,260","-2,213",data
+2026,HOU,Houston Astros,AL,American League,West,81,"2,472,118","30,520",81,"2,727,877","33,677","-255,759","-3,158",data
+2026,KCR,Kansas City Royals,AL,American League,Central,81,"1,527,098","18,853",81,"1,748,801","21,590","-221,703","-2,737",data
+2026,LAD,Los Angeles Dodgers,NL,National League,West,81,"4,034,219","49,805",81,"4,012,470","49,537","21,749",269,data
+2026,MIA,Miami Marlins,NL,National League,East,81,"1,231,018","15,198",81,"1,156,880","14,282","74,138",915,data
+2026,NYY,New York Yankees,AL,American League,East,80,"3,297,154","41,214",80,"3,347,655","41,846","-50,501",-631,data
+2026,SDP,San Diego Padres,NL,National League,West,81,"3,347,081","41,322",81,"3,437,201","42,435","-90,120","-1,113",data
+2026,SEA,Seattle Mariners,AL,American League,West,81,"2,883,798","35,602",81,"2,538,053","31,334","345,745","4,268",data
+2026,STL,St. Louis Cardinals,NL,National League,Central,81,"2,233,902","27,579",81,"2,250,007","27,778","-16,105",-199,data
+2026,TEX,Texas Rangers,AL,American League,West,81,"2,406,217","29,706",81,"2,397,069","29,593","9,148",113,data
+2026,TOR,Toronto Blue Jays,AL,American League,East,81,"3,338,878","41,221",81,"2,849,935","35,184","488,943","6,036",data
+2026,WSN,Washington Nationals,NL,National League,East,81,"1,839,116","22,705",81,"1,916,768","23,664","-77,652",-959,data
+2026,TBR,Tampa Bay Rays,AL,American League,East,81,"1,414,975","17,469",81,"786,750","9,713","628,225","7,756",data
+2026,ATH,Athletics,AL,American League,West,81,"799,240","9,867",81,"768,464","9,487","30,776",380,data
+2026,BAL,Baltimore Orioles,AL,American League,East,81,"1,829,252","22,583",81,"1,803,655","22,267","25,597",316,data
+2026,MIL,Milwaukee Brewers,NL,National League,Central,81,"2,788,934","34,431",81,"2,650,089","32,717","138,845","1,714",data
+2026,PHI,Philadelphia Phillies,NL,National League,East,81,"3,230,526","39,883",81,"3,375,457","41,672","-144,931","-1,789",data
+2026,MIN,Minnesota Twins,AL,American League,Central,81,"1,740,366","21,486",81,"1,768,728","21,836","-28,362",-350,data
+2026,LAA,Los Angeles Angels,AL,American League,West,81,"2,631,919","32,493",81,"2,615,506","32,290","16,413",203,data
+2026,ATL,Atlanta Braves,NL,National League,East,81,"2,800,446","34,573",81,"2,903,167","35,842","-102,721","-1,268",data
+2026,BOS,Boston Red Sox,AL,American League,East,81,"2,827,315","34,905",81,"2,776,496","34,278","50,819",627,data
+2026,COL,Colorado Rockies,NL,National League,West,81,"2,245,426","27,721",81,"2,404,613","29,687","-159,187","-1,965",data
+2026,DET,Detroit Tigers,AL,American League,Central,81,"2,322,853","28,677",81,"2,413,442","29,796","-90,589","-1,118",data
+2026,NYM,New York Mets,NL,National League,East,81,"2,712,120","33,483",81,"3,184,570","39,316","-472,450","-5,833",data
+2026,PIT,Pittsburgh Pirates,NL,National League,Central,81,"1,704,229","21,040",81,"1,525,025","18,827","179,204","2,212",data
+2026,SFG,San Francisco Giants,NL,National League,West,81,"2,856,810","35,269",81,"2,925,823","36,121","-69,013",-852,data
+2026,CLE,Cleveland Guardians,AL,American League,Central,81,"2,001,415","24,709",81,"2,051,360","25,325","-49,945",-617,data
+2026,Total,,,,,2429,"71,752,722","29,540",2429,"71,364,518","29,380","388,204",160,summary

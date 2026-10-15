@@ -1,0 +1,41 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Lg,Top Seed,Division Winner,Division Winner_2,Wild Card,Wild Card_2,Wild Card_3,ppr_wc_4,ppr_wc_5,Row_Type
+2007,,,NL,National League,,,NL,Arizona Diamondbacks,Philadelphia Phillies,Chicago Cubs,Colorado Rockies,,,,,data
+2007,,,AL,American League,,,AL,Boston Red Sox,Cleveland Indians,Los Angeles Angels of Anaheim,New York Yankees,,,,,data
+2008,,,NL,National League,,,NL,Chicago Cubs,Philadelphia Phillies,Los Angeles Dodgers,Milwaukee Brewers,,,,,data
+2008,,,AL,American League,,,AL,Los Angeles Angels of Anaheim,Tampa Bay Rays,Chicago White Sox,Boston Red Sox,,,,,data
+2009,,,NL,National League,,,NL,Los Angeles Dodgers,Philadelphia Phillies,St. Louis Cardinals,Colorado Rockies,,,,,data
+2009,,,AL,American League,,,AL,New York Yankees,Los Angeles Angels of Anaheim,Minnesota Twins,Boston Red Sox,,,,,data
+2010,,,NL,National League,,,NL,Philadelphia Phillies,San Francisco Giants,Cincinnati Reds,Atlanta Braves,,,,,data
+2010,,,AL,American League,,,AL,Tampa Bay Rays,Minnesota Twins,Texas Rangers,New York Yankees,,,,,data
+2011,,,NL,National League,,,NL,Philadelphia Phillies,Milwaukee Brewers,Arizona Diamondbacks,St. Louis Cardinals,,,,,data
+2011,,,AL,American League,,,AL,New York Yankees,Texas Rangers,Detroit Tigers,Tampa Bay Rays,,,,,data
+2012,,,NL,National League,,,NL,Washington Nationals,Cincinnati Reds,San Francisco Giants,Atlanta Braves,St. Louis Cardinals,,,,data
+2012,,,AL,American League,,,AL,New York Yankees,Oakland Athletics,Detroit Tigers,Texas Rangers,Baltimore Orioles,,,,data
+2013,,,NL,National League,,,NL,St. Louis Cardinals,Atlanta Braves,Los Angeles Dodgers,Pittsburgh Pirates,Cincinnati Reds,,,,data
+2013,,,AL,American League,,,AL,Boston Red Sox,Oakland Athletics,Detroit Tigers,Cleveland Indians,Tampa Bay Rays,,,,data
+2014,,,NL,National League,,,NL,Washington Nationals,Los Angeles Dodgers,St. Louis Cardinals,Pittsburgh Pirates,San Francisco Giants,,,,data
+2014,,,AL,American League,,,AL,Los Angeles Angels of Anaheim,Baltimore Orioles,Detroit Tigers,Kansas City Royals,Oakland Athletics,,,,data
+2015,,,NL,National League,,,NL,St. Louis Cardinals,Los Angeles Dodgers,New York Mets,Pittsburgh Pirates,Chicago Cubs,,,,data
+2015,,,AL,American League,,,AL,Kansas City Royals,Toronto Blue Jays,Texas Rangers,New York Yankees,Houston Astros,,,,data
+2016,,,NL,National League,,,NL,Chicago Cubs,Washington Nationals,Los Angeles Dodgers,San Francisco Giants,New York Mets,,,,data
+2016,,,AL,American League,,,AL,Texas Rangers,Cleveland Indians,Boston Red Sox,Toronto Blue Jays,Baltimore Orioles,,,,data
+2017,,,NL,National League,,,NL,Los Angeles Dodgers,Washington Nationals,Chicago Cubs,Arizona Diamondbacks,Colorado Rockies,,,,data
+2017,,,AL,American League,,,AL,Cleveland Indians,Houston Astros,Boston Red Sox,New York Yankees,Minnesota Twins,,,,data
+2018,,,NL,National League,,,NL,Milwaukee Brewers,Los Angeles Dodgers,Atlanta Braves,Chicago Cubs,Colorado Rockies,,,,data
+2018,,,AL,American League,,,AL,Boston Red Sox,Houston Astros,Cleveland Indians,New York Yankees,Oakland Athletics,,,,data
+2019,,,NL,National League,,,NL,Los Angeles Dodgers,Atlanta Braves,St. Louis Cardinals,Milwaukee Brewers,Washington Nationals,,,,data
+2019,,,AL,American League,,,AL,Houston Astros,Minnesota Twins,New York Yankees,Oakland Athletics,Tampa Bay Rays,,,,data
+2020,,,NL,National League,,,NL,Los Angeles Dodgers,Atlanta Braves,Chicago Cubs,San Diego Padres,Miami Marlins,Cincinnati Reds,St. Louis Cardinals,Milwaukee Brewers,data
+2020,,,AL,American League,,,AL,Tampa Bay Rays,Minnesota Twins,Oakland Athletics,Chicago White Sox,New York Yankees,Houston Astros,Cleveland Indians,Toronto Blue Jays,data
+2021,,,NL,National League,,,NL,San Francisco Giants,Milwaukee Brewers,Atlanta Braves,Los Angeles Dodgers,St. Louis Cardinals,,,,data
+2021,,,AL,American League,,,AL,Tampa Bay Rays,Houston Astros,Chicago White Sox,Boston Red Sox,New York Yankees,,,,data
+2022,,,NL,National League,,,NL,Los Angeles Dodgers,Atlanta Braves,St. Louis Cardinals,New York Mets,San Diego Padres,Philadelphia Phillies,,,data
+2022,,,AL,American League,,,AL,Houston Astros,New York Yankees,Cleveland Guardians,Toronto Blue Jays,Seattle Mariners,Tampa Bay Rays,,,data
+2023,,,NL,National League,,,NL,Atlanta Braves,Los Angeles Dodgers,Milwaukee Brewers,Philadelphia Phillies,Miami Marlins,Arizona Diamondbacks,,,data
+2023,,,AL,American League,,,AL,Baltimore Orioles,Houston Astros,Minnesota Twins,Tampa Bay Rays,Texas Rangers,Toronto Blue Jays,,,data
+2024,,,NL,National League,,,NL,Los Angeles Dodgers,Philadelphia Phillies,Milwaukee Brewers,San Diego Padres,Arizona Diamondbacks,Atlanta Braves,,,data
+2024,,,AL,American League,,,AL,New York Yankees,Cleveland Guardians,Houston Astros,Baltimore Orioles,Kansas City Royals,Detroit Tigers,,,data
+2025,,,NL,National League,,,NL,Milwaukee Brewers,Philadelphia Phillies,Los Angeles Dodgers,Chicago Cubs,San Diego Padres,Cincinnati Reds,,,data
+2025,,,AL,American League,,,AL,Toronto Blue Jays,Seattle Mariners,Cleveland Guardians,New York Yankees,Boston Red Sox,Detroit Tigers,,,data
+2026,,,NL,National League,,,NL,Milwaukee Brewers,Los Angeles Dodgers,Atlanta Braves,San Diego Padres,Chicago Cubs,Philadelphia Phillies,,,data
+2026,,,AL,American League,,,AL,Tampa Bay Rays,Cleveland Guardians,Houston Astros,New York Yankees,Boston Red Sox,Chicago White Sox,,,data

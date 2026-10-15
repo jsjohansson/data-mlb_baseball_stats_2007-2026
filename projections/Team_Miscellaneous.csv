@@ -1,0 +1,601 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Tm,Stadium,Attendance,Attend/G,BatAge,PAge,BPF,PPF,#HOF,#A-S,#a-tA-S,Est. Payroll,Time,Managers,Chall,Succ,Succ%,Player_ID,Row_Type
+2007,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,325,249","28,707",26.6,28.2,107,107,1,3,13,"$52,067,546",2:53,Melvin,,,,melvibo01,data
+2007,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,745,207","33,891",27.7,29.4,98,98,3,2,12,"$87,290,833",2:53,Cox,,,,coxbo01,data
+2007,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,164,822","26,726",30.4,29.0,101,102,0,1,9,"$93,174,808",2:59,PerlozzoandTrembley,,,,perlosa01,data
+2007,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,970,755","36,676",30.1,31.1,106,105,1,6,19,"$143,026,214",3:09,Francona,,,,francte01,data
+2007,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,252,462","40,154",29.3,28.4,105,104,0,2,14,"$101,670,332",2:50,Piniella,,,,pinielo01,data
+2007,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"2,684,395","33,141",29.8,27.7,104,104,1,1,14,"$108,671,833",2:53,Guillén,,,,guilloz01,data
+2007,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,058,593","25,415",29.7,29.1,104,104,1,1,12,"$68,524,980",2:52,NarronandMackanin,,,,narroje01,data
+2007,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,"Jacobs Field, Miller Park","2,275,912","28,449",28.0,29.4,101,100,1,3,13,"$61,673,267",3:02,Wedge,,,,wedgeer01,data
+2007,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,376,250","28,979",27.9,28.1,107,108,1,2,10,"$54,041,000",2:56,Hurdle,,,,hurdlcl01,data
+2007,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"3,047,133","37,619",30.9,28.5,102,101,1,5,17,"$95,180,369",3:00,Leyland,,,,leylaji99,data
+2007,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,Dolphin Stadium,"1,370,511","16,920",26.7,26.2,97,98,0,1,8,"$30,507,000",2:57,González,,,,gonzafr99,data
+2007,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,Minute Maid Park,"3,020,405","37,289",31.4,30.2,100,100,1,2,11,"$87,759,000",2:55,GarnerandCooper,,,,garneph01,data
+2007,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,616,867","19,961",28.0,27.1,100,101,0,1,10,"$67,691,500",2:57,Bell,,,,bellbu01,data
+2007,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,365,632","41,551",28.6,28.4,101,100,1,3,14,"$109,251,333",2:51,Scioscia,,,,sciosmi01,data
+2007,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,857,036","47,618",29.7,31.1,101,100,1,3,20,"$108,454,524",2:54,Little,,,,littlgr99,data
+2007,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,869,144","35,422",27.7,29.1,100,100,0,4,14,"$70,986,500",2:53,Yost,,,,yostne01,data
+2007,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Hubert H. Humphrey Metrodome,"2,296,383","28,350",28.4,27.4,95,95,1,3,13,"$71,439,500",2:48,Gardenhire,,,,gardero01,data
+2007,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Shea Stadium,"3,853,955","47,580",30.7,31.3,98,97,4,4,19,"$116,181,663",2:57,Randolph,,,,randowi01,data
+2007,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium II,"4,271,083","52,729",30.8,31.4,101,100,3,3,16,"$207,039,045",3:14,Torre,,,,torrejo01,data
+2007,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,McAfee Coliseum,"1,921,844","23,726",28.9,26.9,94,94,1,1,10,"$79,366,940",2:53,Geren,,,,gerenbo01,data
+2007,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,108,325","38,374",28.8,30.6,104,103,0,3,15,"$89,428,213",3:03,Manuel,,,,manuech01,data
+2007,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,749,142","21,594",27.2,27.1,97,98,0,1,11,"$38,537,833",2:47,Tracy,,,,tracyji01,data
+2007,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,790,074","34,445",29.9,31.5,90,90,2,3,12,"$58,110,567",2:48,Black,,,,blackbu02,data
+2007,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,223,215","39,793",32.7,27.3,101,101,0,1,14,"$90,219,056",2:50,Bochy,,,,bochybr01,data
+2007,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,672,223","32,588",29.9,28.1,96,97,2,2,10,"$106,460,833",2:49,HargroveandMcLaren,,,,hargrmi01,data
+2007,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,552,180","43,854",30.2,29.6,99,99,1,1,13,"$90,286,823",2:54,La Russa,,,,larusto01,data
+2007,TBD,Tampa Bay Devil Rays,AL,American League,East,AL East,Tampa Bay Devil Rays,"Ballpark at Disney's Wide World of Sports, Tropicana Field","1,387,603","17,131",25.9,27.0,98,100,0,1,9,"$24,623,500",3:00,Maddon,,,,maddojo99,data
+2007,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Ameriquest Field,"2,353,862","29,060",29.4,27.7,101,101,0,1,13,"$68,643,675",2:59,Washington,,,,washiro01,data
+2007,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,360,644","29,144",30.5,27.3,100,99,2,1,10,"$81,942,800",2:52,Gibbons,,,,gibbojo02,data
+2007,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Robert F. Kennedy Stadium,"1,943,812","23,998",27.9,27.5,94,95,0,1,9,"$36,947,500",2:55,Acta,,,,actama99,data
+2008,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,509,924","30,987",26.7,29.4,107,107,1,2,11,"$66,202,712",2:52,Melvin,,,,melvibo01,data
+2008,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,532,834","31,270",27.2,28.6,98,97,3,2,12,"$102,365,683",2:52,Cox,,,,coxbo01,data
+2008,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,950,075","24,376",30.1,27.9,101,102,0,1,9,"$67,196,246",2:58,Trembley,,,,trembda99,data
+2008,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"3,048,250","37,633",29.8,29.2,107,106,1,7,21,"$133,390,035",3:06,Francona,,,,francte01,data
+2008,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,300,200","40,743",30.1,28.9,107,106,0,8,14,"$120,345,833",2:55,Piniella,,,,pinielo01,data
+2008,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"2,500,648","30,496",30.6,28.3,104,105,2,2,16,"$121,189,332",2:51,Guillén,,,,guilloz01,data
+2008,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,058,632","25,415",28.6,28.7,102,102,1,1,10,"$74,167,695",2:55,Baker,,,,bakerdu01,data
+2008,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"2,169,760","26,787",27.6,28.6,98,97,1,2,12,"$78,970,066",3:01,Wedge,,,,wedgeer01,data
+2008,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,650,218","32,719",27.5,28.5,109,109,1,2,12,"$68,655,500",2:54,Hurdle,,,,hurdlcl01,data
+2008,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"3,202,645","39,539",30.3,29.9,102,102,1,1,17,"$138,785,196",3:00,Leyland,,,,leylaji99,data
+2008,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,Dolphin Stadium,"1,335,076","16,482",28.0,26.6,101,101,0,2,8,"$21,811,500",2:56,González,,,,gonzafr99,data
+2008,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,"Miller Park, Minute Maid Park","2,779,487","34,744",31.1,30.9,97,98,0,2,13,"$87,946,807",2:52,Cooper,,,,coopece01,data
+2008,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,578,922","19,493",28.0,27.6,98,99,0,1,8,"$59,445,500",2:54,Hillman,,,,hillmtr99,data
+2008,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,336,747","41,194",29.0,27.6,102,102,1,3,16,"$119,216,333",2:47,Scioscia,,,,sciosmi01,data
+2008,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,730,553","46,056",28.5,29.5,98,97,3,1,18,"$118,588,536",2:57,Torre,,,,torrejo01,data
+2008,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"3,068,458","37,882",28.7,29.9,98,98,1,3,14,"$80,937,499",2:55,YostandSveum,,,,yostne01,data
+2008,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Hubert H. Humphrey Metrodome,"2,302,431","28,425",26.2,27.5,96,96,1,3,11,"$56,932,766",2:53,Gardenhire,,,,gardero01,data
+2008,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Shea Stadium,"4,042,045","49,902",30.1,29.0,98,98,3,2,11,"$137,793,376",3:02,RandolphandManuel,,,,randowi01,data
+2008,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium II,"4,298,655","53,070",31.4,30.6,103,101,4,3,19,"$212,286,789",3:05,Girardi,,,,girarjo01,data
+2008,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,"McAfee Coliseum, Tokyo Dome","1,665,256","20,559",27.2,26.5,94,94,1,1,8,"$47,967,126",2:48,Geren,,,,gerenbo01,data
+2008,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,422,583","42,254",30.1,30.6,102,101,0,2,12,"$97,879,880",2:55,Manuel,,,,manuech01,data
+2008,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,609,076","19,865",28.4,26.5,96,97,0,1,10,"$48,689,783",2:54,Russell,,,,russejo02,data
+2008,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,427,535","29,970",28.9,30.2,87,88,2,1,11,"$73,677,616",2:52,Black,,,,blackbu02,data
+2008,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"2,863,837","35,356",29.6,27.1,102,102,0,2,12,"$76,594,500",2:53,Bochy,,,,bochybr01,data
+2008,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,329,702","28,762",29.7,28.5,96,97,2,1,11,"$117,666,482",2:47,McLarenandRiggleman,,,,mclarjo99,data
+2008,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,432,917","42,382",28.8,30.2,98,98,0,2,12,"$99,624,449",2:54,La Russa,,,,larusto01,data
+2008,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,"Ballpark at Disney's Wide World of Sports, Tropicana Field","1,811,986","22,370",27.0,27.5,101,101,0,3,13,"$44,970,597",3:02,Maddon,,,,maddojo99,data
+2008,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"1,945,677","24,021",27.7,28.1,101,102,0,4,13,"$68,037,326",3:02,Washington,,,,washiro01,data
+2008,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,399,786","29,627",31.0,28.6,97,97,3,1,13,"$97,793,900",2:51,GibbonsandGaston,,,,gibbojo02,data
+2008,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,320,400","29,005",27.7,27.3,98,100,0,1,13,"$54,961,000",2:50,Acta,,,,actama99,data
+2009,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,128,765","26,281",26.5,27.7,105,106,0,2,10,"$75,920,666",2:56,MelvinandHinch,,,,melvibo01,data
+2009,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,373,631","29,304",28.8,28.9,99,98,1,1,11,"$99,593,166",2:54,Cox,,,,coxbo01,data
+2009,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,907,163","23,545",28.7,28.1,101,102,0,1,14,"$69,904,166",2:52,Trembley,,,,trembda99,data
+2009,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"3,062,699","37,811",30.0,29.8,105,104,3,6,23,"$125,439,499",3:06,Francona,,,,francte01,data
+2009,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,168,859","39,611",29.9,28.4,107,106,0,1,11,"$139,652,000",2:52,Piniella,,,,pinielo01,data
+2009,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"2,284,163","28,200",29.8,29.5,105,105,1,1,16,"$101,081,000",2:46,Guillén,,,,guilloz01,data
+2009,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,747,919","21,579",27.8,29.0,100,100,1,1,12,"$78,979,000",2:58,Baker,,,,bakerdu01,data
+2009,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,766,242","21,805",27.4,27.8,95,95,0,1,12,"$85,224,866",3:01,Wedge,,,,wedgeer01,data
+2009,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,665,080","32,902",27.8,28.5,112,112,1,2,12,"$79,250,200",2:57,HurdleandTracy,,,,hurdlcl01,data
+2009,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,567,165","31,693",29.8,26.6,101,101,0,4,11,"$119,510,145",2:50,Leyland,,,,leylaji99,data
+2009,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,Land Shark Stadium,"1,464,109","18,075",27.0,26.3,102,102,0,2,6,"$40,029,000",3:00,González,,,,gonzafr99,data
+2009,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,Minute Maid Park,"2,521,076","31,124",31.6,31.2,98,98,1,2,12,"$105,804,414",2:51,CooperandClark,,,,coopece01,data
+2009,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,797,891","22,196",27.6,28.7,97,99,0,1,6,"$76,817,333",2:54,Hillman,,,,hillmtr99,data
+2009,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,240,386","40,005",29.6,28.6,99,98,1,3,14,"$118,169,000",2:56,Scioscia,,,,sciosmi01,data
+2009,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,761,655","46,440",29.7,27.8,95,95,1,3,19,"$102,117,592",3:08,Torre,,,,torrejo01,data
+2009,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"3,037,451","37,499",29.3,30.0,98,98,1,3,11,"$81,384,502",3:00,Macha,,,,machake01,data
+2009,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Hubert H. Humphrey Metrodome,"2,416,237","29,466",27.6,27.9,98,98,1,3,11,"$67,804,266",2:56,Gardenhire,,,,gardero01,data
+2009,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"3,168,571","39,118",29.5,29.2,97,97,2,4,13,"$151,994,237",2:55,Manuel,,,,manueje01,data
+2009,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,719,358","45,918",30.7,29.3,105,103,3,3,17,"$210,330,039",3:11,Girardi,,,,girarjo01,data
+2009,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,408,783","17,392",29.1,25.7,98,98,0,1,7,"$65,945,000",2:50,Geren,,,,gerenbo01,data
+2009,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,600,693","44,453",31.3,31.2,101,100,1,5,14,"$115,479,046",2:56,Manuel,,,,manuech01,data
+2009,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,577,853","19,480",27.0,26.3,98,99,0,2,10,"$51,912,500",2:49,Russell,,,,russejo02,data
+2009,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"1,919,603","23,699",28.0,26.8,90,90,0,2,10,"$50,954,200",2:55,Black,,,,blackbu02,data
+2009,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"2,862,110","35,335",29.0,28.7,102,101,1,2,15,"$91,944,450",2:49,Bochy,,,,bochybr01,data
+2009,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,195,533","27,105",29.9,27.4,94,95,3,2,9,"$100,134,166",2:46,Wakamatsu,,,,wakamdo01,data
+2009,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,343,252","41,275",28.5,30.1,98,97,1,3,11,"$90,928,409",2:48,La Russa,,,,larusto01,data
+2009,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,874,962","23,148",27.8,28.4,98,97,0,5,14,"$67,270,334",3:01,Maddon,,,,maddojo99,data
+2009,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"2,156,016","26,617",27.8,27.7,104,104,2,3,19,"$79,723,548",2:51,Washington,,,,washiro01,data
+2009,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"1,876,129","23,162",29.9,28.4,100,99,2,2,12,"$83,964,500",2:56,Gaston,,,,gastoci01,data
+2009,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,817,226","22,435",28.3,27.4,99,101,0,1,11,"$64,384,000",2:55,ActaandRiggleman,,,,actama99,data
+2010,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,056,697","25,391",26.8,27.9,105,105,0,1,8,"$61,368,166",2:58,HinchandGibson,,,,,data
+2010,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,510,119","30,989",28.6,30.1,98,97,2,6,19,"$84,423,666",2:56,Cox,,,,coxbo01,data
+2010,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,733,019","21,395",28.6,28.4,99,100,0,1,14,"$81,612,500",2:53,"Trembley,SamuelandShowalter",,,,trembda99,data
+2010,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"3,046,445","37,610",30.9,29.6,106,105,2,6,20,"$164,507,333",3:10,Francona,,,,francte01,data
+2010,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,062,973","37,814",29.4,28.2,104,105,0,1,12,"$147,009,001",2:50,PiniellaandQuade,,,,pinielo01,data
+2010,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"2,194,378","27,091",30.7,29.0,103,103,1,2,16,"$107,195,000",2:47,Guillén,,,,guilloz01,data
+2010,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,060,550","25,439",29.0,28.2,102,101,1,4,14,"$75,321,542",2:56,Baker,,,,bakerdu01,data
+2010,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,391,644","17,181",27.2,26.6,94,95,0,1,12,"$61,203,966",2:54,Acta,,,,actama99,data
+2010,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,875,245","35,497",28.8,28.1,115,115,1,2,10,"$90,677,000",3:00,Tracy,,,,tracyji01,data
+2010,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,461,237","30,386",29.0,26.5,102,101,0,3,11,"$124,039,928",2:54,Leyland,,,,leylaji99,data
+2010,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,"Estadio Hiram Bithorn, Sun Life Stadium","1,524,894","18,826",26.9,27.1,103,103,0,2,6,"$57,454,719",2:55,GonzálezandRodríguez,,,,gonzafr99,data
+2010,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,Minute Maid Park,"2,331,490","28,784",29.5,29.6,97,98,0,1,8,"$93,216,000",2:49,Mills,,,,millsbr01,data
+2010,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,615,327","19,942",28.9,27.5,99,101,0,1,8,"$73,105,210",2:51,HillmanandYost,,,,hillmtr99,data
+2010,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,250,814","40,134",29.7,28.3,96,96,0,2,15,"$104,963,866",2:54,Scioscia,,,,sciosmi01,data
+2010,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,562,320","43,979",30.3,28.1,96,96,0,4,18,"$95,358,016",3:01,Torre,,,,torrejo01,data
+2010,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,776,531","34,278",27.8,29.2,100,100,1,3,16,"$81,108,278",3:03,Macha,,,,machake01,data
+2010,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"3,223,640","39,798",28.4,28.6,98,98,2,2,14,"$97,559,166",2:51,Gardenhire,,,,gardero01,data
+2010,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,559,738","31,602",28.4,29.5,97,97,1,2,10,"$134,422,942",2:57,Manuel,,,,manueje01,data
+2010,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,765,807","46,491",30.4,30.3,106,104,3,8,21,"$210,733,389",3:09,Girardi,,,,girarjo01,data
+2010,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,418,391","17,511",27.8,26.0,99,99,0,2,8,"$57,904,900",2:44,Geren,,,,gerenbo01,data
+2010,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,777,322","44,968",31.8,31.1,102,101,1,3,18,"$141,928,379",2:54,Manuel,,,,manuech01,data
+2010,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,613,399","19,919",26.5,28.6,98,100,0,1,9,"$37,443,000",2:52,Russell,,,,russejo02,data
+2010,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,131,774","26,318",29.1,27.2,91,91,0,2,10,"$37,799,300",2:56,Black,,,,blackbu02,data
+2010,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,037,443","37,499",29.6,27.9,97,97,0,2,11,"$98,641,333",2:52,Bochy,,,,bochybr01,data
+2010,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,085,630","25,749",29.6,27.1,93,95,2,1,14,"$86,510,000",2:43,WakamatsuandBrown,,,,wakamdo01,data
+2010,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,301,218","40,756",28.8,30.2,97,96,0,5,14,"$93,540,751",2:52,La Russa,,,,larusto01,data
+2010,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,864,999","23,025",27.5,28.0,95,94,0,4,14,"$71,923,471",3:02,Maddon,,,,maddojo99,data
+2010,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"2,505,171","30,928",28.3,27.6,109,108,1,6,16,"$56,474,374",2:57,Washington,,,,washiro01,data
+2010,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"1,495,482","19,173",29.3,28.0,102,101,0,3,8,"$62,734,000",2:48,Gaston,,,,gastoci01,data
+2010,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,828,066","22,569",29.1,28.0,99,100,1,1,12,"$67,701,000",2:57,Riggleman,,,,rigglji99,data
+2011,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,105,432","25,993",28.2,27.4,103,103,0,2,12,"$54,823,166",2:53,Gibson,,,,gibsoki01,data
+2011,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,372,940","29,296",28.9,28.4,101,100,1,5,18,"$93,855,132",2:56,González,,,,gonzafr99,data
+2011,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,755,461","21,672",28.3,28.2,102,103,1,1,15,"$88,299,038",2:54,Showalter,,,,showabu99,data
+2011,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"3,054,001","37,704",30.1,30.3,105,105,1,6,21,"$166,662,475",3:13,Francona,,,,francte01,data
+2011,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,017,966","37,259",29.3,29.4,101,102,0,1,14,"$136,547,329",2:58,Quade,,,,quademi99,data
+2011,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"2,001,117","24,705",30.0,28.5,106,106,0,2,15,"$127,789,000",2:49,GuillénandCooper,,,,guilloz01,data
+2011,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,213,588","27,328",28.6,27.7,104,103,1,4,17,"$77,297,134",3:03,Baker,,,,bakerdu01,data
+2011,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,840,835","22,726",27.8,26.7,94,96,1,2,13,"$49,426,566",2:56,Acta,,,,actama99,data
+2011,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,909,777","35,923",28.6,27.7,119,119,1,1,13,"$91,648,071",3:03,Tracy,,,,tracyji01,data
+2011,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,642,045","32,618",28.6,27.8,102,101,0,5,11,"$106,875,231",3:00,Leyland,,,,leylaji99,data
+2011,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,Sun Life Stadium,"1,520,562","18,772",27.4,28.0,101,102,0,1,11,"$57,694,000",2:58,"Rodríguez,HydeandMcKeon",,,,rodried02,data
+2011,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,Minute Maid Park,"2,067,016","25,519",28.2,27.2,98,99,0,1,7,"$71,110,500",2:56,Mills,,,,millsbr01,data
+2011,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,724,450","21,290",25.8,26.4,99,100,0,1,13,"$35,712,000",2:54,Yost,,,,yostne01,data
+2011,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,166,321","39,090",28.9,28.4,92,92,0,3,13,"$138,543,166",2:53,Scioscia,,,,sciosmi01,data
+2011,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"2,935,139","36,236",29.8,28.6,96,96,0,3,15,"$103,785,477",3:02,Mattingly,,,,mattido01,data
+2011,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"3,071,373","37,918",28.9,29.3,103,103,0,3,14,"$86,636,333",2:56,Roenicke,,,,roeniro01,data
+2011,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"3,168,116","39,113",27.5,28.5,99,99,2,1,10,"$112,737,000",2:50,Gardenhire,,,,gardero01,data
+2011,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,352,596","29,044",28.0,30.0,96,96,1,2,11,"$151,897,309",2:59,Collins,,,,collite99,data
+2011,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,653,680","45,107",30.6,31.0,106,105,4,8,20,"$206,275,028",3:08,Girardi,,,,girarjo01,data
+2011,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,O.co Coliseum,"1,476,791","18,232",29.1,27.4,98,98,0,1,8,"$67,094,000",2:53,GerenandMelvin,,,,gerenbo01,data
+2011,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,680,718","45,441",31.4,29.2,101,100,1,5,17,"$172,976,379",2:52,Manuel,,,,manuech01,data
+2011,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,940,429","23,956",27.2,28.1,95,97,0,3,12,"$45,047,000",3:00,Hurdle,,,,hurdlcl01,data
+2011,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,143,018","26,457",28.0,28.1,93,93,0,1,9,"$45,869,140",2:52,Black,,,,blackbu02,data
+2011,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,387,303","41,819",30.2,28.5,92,91,1,5,15,"$124,198,333",2:54,Bochy,,,,bochybr01,data
+2011,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"1,896,321","23,411",29.3,26.8,90,92,1,3,12,"$86,110,600",2:46,Wedge,,,,wedgeer01,data
+2011,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,093,954","38,197",29.3,30.2,98,97,0,3,14,"$105,433,572",2:55,La Russa,,,,larusto01,data
+2011,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,529,188","18,879",28.2,27.8,93,92,0,3,11,"$41,053,571",2:58,Maddon,,,,maddojo99,data
+2011,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"2,946,949","36,382",29.1,28.8,109,108,1,5,16,"$93,799,264",2:55,Washington,,,,washiro01,data
+2011,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"1,818,103","22,446",28.3,27.6,104,104,0,2,6,"$64,567,800",2:55,Farrell,,,,farrejo03,data
+2011,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,940,478","24,256",28.4,27.6,100,100,1,1,10,"$68,492,928",2:57,"Riggleman,McLarenandJohnson",,,,rigglji99,data
+2012,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,177,617","26,884",28.3,27.4,103,103,0,1,13,"$67,069,833",2:58,Gibson,,,,gibsoki01,data
+2012,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,420,171","29,879",28.5,27.6,102,101,1,4,16,"$86,208,000",2:55,González,,,,gonzafr99,data
+2012,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,102,240","25,954",28.0,27.6,102,103,1,3,16,"$77,949,000",3:00,Showalter,,,,showabu99,data
+2012,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"3,043,003","37,568",29.4,28.7,104,103,1,1,17,"$110,386,000",3:09,Valentine,,,,valenbo02,data
+2012,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,882,756","35,590",27.8,27.9,101,103,0,2,11,"$86,159,366",2:58,Sveum,,,,sveumda01,data
+2012,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"1,965,955","24,271",30.0,27.5,104,104,0,4,17,"$118,208,000",2:54,Ventura,,,,venturo01,data
+2012,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,347,251","28,978",28.8,27.1,104,104,1,3,14,"$80,309,500",3:00,Baker,,,,bakerdu01,data
+2012,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,603,596","19,797",27.8,27.6,94,95,0,2,13,"$78,911,300",2:58,ActaandAlomar,,,,actama99,data
+2012,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,630,458","32,475",28.1,28.2,117,117,1,1,13,"$75,485,000",3:06,Tracy,,,,tracyji01,data
+2012,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"3,028,033","37,383",27.9,28.2,105,104,0,3,10,"$131,394,000",2:59,Leyland,,,,leylaji99,data
+2012,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,Minute Maid Park,"1,607,733","19,849",26.6,27.2,100,102,0,1,8,"$37,651,000",3:02,MillsandDeFrancesco,,,,millsbr01,data
+2012,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,739,859","21,480",26.1,27.3,102,102,0,1,14,"$61,747,075",2:57,Yost,,,,yostne01,data
+2012,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,061,770","37,800",28.7,30.1,94,93,0,4,16,"$141,073,500",2:57,Scioscia,,,,sciosmi01,data
+2012,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,324,246","41,040",30.4,29.0,96,96,0,2,16,"$177,033,600",3:05,Mattingly,,,,mattido01,data
+2012,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"2,219,444","27,401",28.3,28.8,102,103,0,1,15,"$107,678,000",2:57,Guillén,,,,guilloz01,data
+2012,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,831,385","34,955",29.2,29.0,105,104,0,1,16,"$95,717,000",3:08,Roenicke,,,,roeniro01,data
+2012,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,776,354","34,276",28.9,27.8,98,100,1,1,10,"$99,066,000",2:59,Gardenhire,,,,gardero01,data
+2012,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,242,803","27,689",27.9,30.3,95,96,0,2,9,"$91,621,424",2:56,Collins,,,,collite99,data
+2012,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,542,406","43,733",32.9,30.3,104,103,5,4,20,"$197,977,900",3:07,Girardi,,,,girarjo01,data
+2012,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,O.co Coliseum,"1,679,013","20,729",27.7,27.9,95,95,0,1,13,"$61,202,500",3:02,Melvin,,,,melvibo01,data
+2012,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,565,718","44,021",31.1,29.1,102,102,2,3,15,"$171,501,558",2:56,Manuel,,,,manuech01,data
+2012,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"2,091,918","25,826",27.6,30.2,95,95,0,2,15,"$70,077,000",3:01,Hurdle,,,,hurdlcl01,data
+2012,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,123,721","26,219",27.4,28.0,91,91,0,1,12,"$55,494,700",2:56,Black,,,,blackbu02,data
+2012,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,377,371","41,696",27.8,30.0,89,89,0,4,15,"$117,637,350",3:02,Bochy,,,,bochybr01,data
+2012,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"1,721,920","21,258",27.0,27.9,92,93,1,1,12,"$78,235,600",2:56,Wedge,,,,wedgeer01,data
+2012,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,262,109","40,273",29.2,28.6,98,96,1,6,16,"$112,071,000",3:01,Matheny,,,,mathemi01,data
+2012,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,559,681","19,255",29.7,28.1,95,94,0,2,13,"$63,368,700",3:06,Maddon,,,,maddojo99,data
+2012,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"3,460,280","42,720",29.7,28.8,109,107,1,8,19,"$124,119,900",3:00,Washington,,,,washiro01,data
+2012,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,099,663","25,922",27.8,27.8,102,103,0,1,10,"$82,352,700",2:58,Farrell,,,,farrejo03,data
+2012,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,370,794","29,269",27.2,27.0,101,101,0,4,14,"$92,386,000",3:03,Johnson,,,,johnsda02,data
+2013,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,134,895","26,357",28.1,27.6,102,103,0,2,11,"$80,060,500",3:08,Gibson,,,,gibsoki01,data
+2013,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,548,679","31,465",26.8,27.2,101,100,0,3,12,"$95,618,750",2:59,González,,,,gonzafr99,data
+2013,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,357,561","29,106",27.8,27.9,103,102,0,5,18,"$100,832,000",3:01,Showalter,,,,showabu99,data
+2013,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,833,333","34,979",29.6,30.2,103,103,1,3,20,"$175,395,500",3:15,Farrell,,,,farrejo03,data
+2013,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,642,682","32,626",27.9,28.7,102,103,0,1,9,"$67,874,166",3:07,Sveum,,,,sveumda01,data
+2013,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"1,768,413","21,832",29.2,27.1,104,105,0,2,12,"$81,401,900",3:02,Ventura,,,,venturo01,data
+2013,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,492,101","31,151",28.5,27.7,101,101,0,3,15,"$106,255,535",3:08,Baker,,,,bakerdu01,data
+2013,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,572,926","19,419",28.7,27.5,95,95,0,2,16,"$87,342,433",3:03,Francona,,,,francte01,data
+2013,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,793,828","34,492",27.7,28.3,118,119,1,3,12,"$73,768,000",3:05,Weiss,,,,weisswa01,data
+2013,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"3,083,397","38,067",30.0,28.4,104,104,0,6,13,"$154,407,000",3:06,Leyland,,,,leylaji99,data
+2013,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"1,651,883","20,394",25.9,27.2,99,101,0,1,5,"$14,672,300",3:12,Porter,,,,portebo03,data
+2013,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,750,754","21,614",26.9,28.9,103,103,0,3,16,"$87,426,250",2:55,Yost,,,,yostne01,data
+2013,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,019,505","37,278",27.8,29.1,94,94,0,1,10,"$116,532,500",3:12,Scioscia,,,,sciosmi01,data
+2013,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,743,527","46,216",30.6,28.1,96,95,0,1,21,"$254,161,000",3:07,Mattingly,,,,mattido01,data
+2013,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"1,586,322","19,584",27.7,26.0,102,103,0,1,9,"$24,761,900",2:57,Redmond,,,,redmomi01,data
+2013,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,531,105","31,248",27.9,28.8,103,103,0,2,12,"$86,945,000",3:03,Roenicke,,,,roeniro01,data
+2013,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,477,644","30,588",28.3,28.3,101,102,1,2,9,"$63,042,500",3:06,Gardenhire,,,,gardero01,data
+2013,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,135,657","26,366",28.3,29.1,94,95,0,2,9,"$69,425,860",3:08,Collins,,,,collite99,data
+2013,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,279,589","40,489",31.9,31.8,100,100,4,2,17,"$246,534,750",3:05,Girardi,,,,girarjo01,data
+2013,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,O.co Coliseum,"1,809,302","22,337",28.3,28.3,98,97,0,2,15,"$69,440,000",3:05,Melvin,,,,melvibo01,data
+2013,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,012,403","37,190",30.0,28.7,100,100,1,2,10,"$150,860,000",2:59,ManuelandSandberg,,,,manuech01,data
+2013,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"2,256,862","27,862",27.9,28.7,95,95,0,5,19,"$99,230,000",3:06,Hurdle,,,,hurdlcl01,data
+2013,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,166,691","26,749",28.1,28.8,91,91,0,1,11,"$65,988,600",3:00,Black,,,,blackbu02,data
+2013,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,369,106","41,087",28.7,29.6,93,92,0,4,12,"$139,845,667",3:05,Bochy,,,,bochybr01,data
+2013,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"1,761,546","21,747",28.6,28.0,92,92,0,2,10,"$78,887,000",3:04,Wedge,,,,wedgeer01,data
+2013,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,369,769","41,602",28.7,26.9,101,100,1,6,15,"$112,583,000",3:01,Matheny,,,,mathemi01,data
+2013,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,510,300","18,646",29.5,29.0,97,96,0,2,12,"$71,163,500",3:11,Maddon,,,,maddojo99,data
+2013,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Rangers Ballpark in Arlington,"3,178,273","38,759",29.6,27.9,103,103,1,3,18,"$139,261,200",3:04,Washington,,,,washiro01,data
+2013,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,536,562","31,316",29.0,30.9,102,103,0,4,12,"$124,517,800",2:55,Gibbons,,,,gibbojo02,data
+2013,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,652,422","32,746",27.7,27.7,103,101,0,2,14,"$112,493,250",2:57,Johnson,,,,johnsda02,data
+2014,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,"Chase Field, Sydney Cricket Grounds","2,073,730","25,602",27.6,28.0,102,102,0,2,13,"$89,926,500",3:03,GibsonandTrammell,37.0,19.0,51%,gibsoki01,data
+2014,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,354,305","29,065",26.8,27.3,98,97,0,3,11,"$108,081,500",3:04,González,34.0,23.0,67%,gonzafr99,data
+2014,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,464,473","30,426",28.3,27.7,103,103,0,3,17,"$109,097,500",3:07,Showalter,28.0,14.0,50%,showabu99,data
+2014,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,956,089","36,495",29.2,29.9,104,104,1,2,22,"$134,628,929",3:17,Farrell,34.0,19.0,55%,farrejo03,data
+2014,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,652,113","32,742",26.8,28.0,102,103,0,3,8,"$59,800,500",3:12,Renteria,57.0,25.0,43%,renteri01,data
+2014,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"1,650,821","20,381",27.7,27.4,97,98,0,3,9,"$87,475,500",3:08,Ventura,36.0,17.0,47%,venturo01,data
+2014,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,476,664","30,576",29.0,28.0,100,100,0,5,11,"$102,230,000",3:03,Price,27.0,12.0,44%,pricebr99,data
+2014,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,437,393","17,746",28.6,27.2,103,102,0,1,14,"$73,509,399",3:12,Francona,33.0,17.0,51%,francte01,data
+2014,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,680,329","33,090",27.4,28.5,116,116,0,2,9,"$95,403,500",3:12,Weiss,37.0,14.0,37%,weisswa01,data
+2014,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,917,209","36,015",29.8,28.5,101,101,0,4,18,"$169,135,500",3:14,Ausmus,39.0,23.0,58%,ausmubr01,data
+2014,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"1,751,829","21,628",25.4,27.9,100,101,0,1,6,"$44,736,800",3:10,PorterandLawless,31.0,19.0,61%,portebo03,data
+2014,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,956,482","24,154",28.2,28.9,104,103,0,3,16,"$89,804,075",3:02,Yost,35.0,22.0,62%,yostne01,data
+2014,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,095,935","38,221",29.3,28.4,95,94,0,2,14,"$128,667,000",3:15,Scioscia,36.0,20.0,55%,sciosmi01,data
+2014,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,782,337","46,696",29.3,29.9,96,95,0,4,21,"$233,386,026",3:14,Mattingly,38.0,21.0,55%,mattido01,data
+2014,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"1,732,283","21,386",27.4,26.4,100,101,0,2,13,"$42,365,400",3:05,Redmond,27.0,19.0,70%,redmomi01,data
+2014,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,797,384","34,536",28.8,29.0,103,103,0,4,15,"$109,567,000",3:07,Roenicke,27.0,17.0,62%,roeniro01,data
+2014,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,250,606","27,785",27.5,29.2,102,102,1,2,12,"$87,044,000",3:07,Gardenhire,40.0,21.0,52%,gardero01,data
+2014,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,148,808","26,528",28.4,28.9,94,94,0,1,11,"$82,663,615",3:08,Collins,31.0,14.0,45%,collite99,data
+2014,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,401,624","41,995",32.8,29.3,100,100,4,3,19,"$258,118,959",3:12,Girardi,30.0,24.0,80%,girarjo01,data
+2014,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,O.co Coliseum,"2,003,628","24,736",29.6,28.2,98,97,0,6,16,"$89,160,900",3:05,Melvin,26.0,14.0,53%,melvibo01,data
+2014,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"2,423,852","29,924",30.8,30.1,101,102,0,1,12,"$176,444,967",3:09,Sandberg,32.0,14.0,43%,sandbry01,data
+2014,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"2,442,564","30,155",27.3,28.1,99,98,0,3,14,"$80,729,000",3:09,Hurdle,35.0,20.0,57%,hurdlcl01,data
+2014,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,195,373","27,103",27.9,28.8,92,92,0,2,6,"$76,662,100",3:01,Black,33.0,17.0,51%,blackbu02,data
+2014,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,368,697","41,589",28.6,31.7,95,94,0,3,16,"$163,510,167",3:05,Bochy,35.0,22.0,62%,bochybr01,data
+2014,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,064,334","25,486",27.5,29.0,95,95,0,4,13,"$95,471,000",2:59,McClendon,35.0,20.0,57%,mcclell01,data
+2014,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,540,649","43,712",28.6,27.2,100,99,0,4,15,"$129,932,500",3:03,Matheny,32.0,13.0,40%,mathemi01,data
+2014,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,446,464","17,858",29.3,28.4,97,97,0,1,14,"$77,814,300",3:19,Maddon,49.0,21.0,42%,maddojo99,data
+2014,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,718,733","33,565",28.4,27.9,104,104,1,2,17,"$129,801,239",3:06,WashingtonandBogar,43.0,22.0,51%,washiro01,data
+2014,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,375,525","29,327",29.2,29.6,100,99,0,3,14,"$136,466,200",3:01,Gibbons,47.0,16.0,34%,gibbojo02,data
+2014,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,579,389","31,844",28.8,28.3,104,102,0,2,15,"$137,235,080",3:05,Williams,32.0,21.0,65%,willima04,data
+2015,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,080,145","25,681",26.6,27.1,105,105,0,2,8,"$64,434,000",3:10,Hale,34.0,21.0,61%,halech01,data
+2015,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Turner Field,"2,001,392","24,709",28.8,26.6,97,98,0,1,13,"$104,037,500",2:55,González,46.0,22.0,47%,gonzafr99,data
+2015,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,281,202","29,246",27.9,28.3,102,102,0,4,13,"$112,989,833",2:55,Showalter,30.0,17.0,56%,showabu99,data
+2015,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,880,694","35,564",28.3,28.6,107,107,1,1,21,"$183,931,900",3:06,Farrell,52.0,21.0,40%,farrejo03,data
+2015,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,919,122","36,039",26.9,29.3,98,97,0,2,18,"$115,306,610",3:02,Maddon,48.0,28.0,58%,maddojo99,data
+2015,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"1,755,810","21,677",28.2,27.8,96,97,0,1,11,"$112,889,700",3:00,Ventura,41.0,21.0,51%,venturo01,data
+2015,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,419,506","29,870",29.5,27.3,100,101,0,2,14,"$111,572,286",3:02,Price,33.0,20.0,60%,pricebr99,data
+2015,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,388,905","17,361",28.0,27.3,107,107,0,1,13,"$59,163,766",3:00,Francona,28.0,15.0,53%,francte01,data
+2015,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,506,789","30,948",28.0,28.7,118,118,0,3,8,"$96,438,600",3:06,Weiss,47.0,25.0,53%,weisswa01,data
+2015,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,726,048","33,655",28.3,28.7,99,99,0,4,18,"$172,284,750",3:09,Ausmus,27.0,11.0,40%,ausmubr01,data
+2015,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,153,585","26,587",26.3,29.4,97,97,0,2,12,"$93,256,200",3:03,Hinch,48.0,23.0,47%,,data
+2015,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"2,708,549","33,439",29.1,30.0,104,104,0,7,16,"$121,590,475",3:00,Yost,33.0,21.0,63%,yostne01,data
+2015,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,"3,012,765","37,195",28.7,28.3,94,94,0,3,11,"$131,522,500",3:00,Scioscia,40.0,24.0,60%,sciosmi01,data
+2015,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,764,815","46,479",29.5,28.1,95,94,0,5,16,"$265,140,429",3:03,Mattingly,41.0,17.0,41%,mattido01,data
+2015,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"1,752,235","21,633",27.9,27.3,96,97,1,2,12,"$71,231,500",2:51,RedmondandJennings,31.0,19.0,61%,redmomi01,data
+2015,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,542,558","31,390",28.1,28.4,100,101,0,2,13,"$70,869,500",3:01,RoenickeandCounsell,30.0,16.0,53%,roeniro01,data
+2015,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,220,054","27,408",28.3,29.1,100,101,1,2,14,"$107,755,000",2:57,Molitor,42.0,26.0,61%,molitpa01,data
+2015,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,569,753","31,725",28.6,28.2,97,97,0,1,13,"$98,874,473",2:56,Collins,35.0,19.0,54%,collite99,data
+2015,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,193,795","39,430",31.4,27.4,101,101,2,3,16,"$214,051,957",3:08,Girardi,30.0,22.0,73%,girarjo01,data
+2015,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,O.co Coliseum,"1,768,175","21,829",27.9,27.8,97,97,0,2,14,"$64,016,001",3:01,Melvin,29.0,15.0,51%,melvibo01,data
+2015,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"1,831,080","22,606",28.0,28.5,97,98,0,1,11,"$103,082,167",2:58,SandbergandMackanin,38.0,24.0,63%,sandbry01,data
+2015,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"2,498,596","30,847",28.2,29.6,99,99,0,4,15,"$104,457,499",3:06,Hurdle,44.0,25.0,56%,hurdlcl01,data
+2015,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,459,752","30,367",27.6,29.1,95,95,0,1,8,"$125,203,700",3:01,"Black,RobertsandMurphy",43.0,19.0,44%,blackbu02,data
+2015,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,375,882","41,678",28.9,31.5,99,98,0,4,13,"$180,018,166",3:02,Bochy,38.0,21.0,55%,bochybr01,data
+2015,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,193,581","27,081",28.6,28.6,95,95,0,2,13,"$130,681,400",3:01,McClendon,38.0,27.0,71%,mcclell01,data
+2015,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,520,889","43,468",28.4,28.2,101,100,0,6,14,"$128,241,500",2:59,Matheny,31.0,16.0,51%,mathemi01,data
+2015,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,287,054","15,322",28.5,26.7,96,97,0,2,10,"$64,571,233",2:59,Cash,54.0,17.0,31%,cashke01,data
+2015,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,491,875","30,764",28.7,28.1,105,105,1,1,14,"$178,860,789",3:04,Banister,50.0,17.0,34%,banisje01,data
+2015,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,794,891","34,505",29.6,29.2,103,102,0,3,20,"$117,917,400",2:53,Gibbons,45.0,20.0,44%,gibbojo02,data
+2015,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,619,843","32,344",28.4,28.6,102,101,0,2,16,"$176,496,372",2:54,Williams,29.0,12.0,41%,willima04,data
+2016,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,036,216","25,138",26.7,26.4,107,107,0,1,12,"$78,399,500",3:14,Hale,37.0,22.0,59%,halech01,data
+2016,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,"Fort Bragg Park, Turner Field","2,020,914","24,950",28.9,26.4,98,99,0,1,13,"$74,999,750",3:08,GonzálezandSnitker,42.0,18.0,42%,gonzafr99,data
+2016,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,172,344","26,819",28.5,27.9,102,102,0,5,17,"$153,744,833",3:00,Showalter,39.0,20.0,51%,showabu99,data
+2016,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,955,434","36,487",28.5,29.0,106,106,1,6,19,"$218,682,750",3:12,Farrell,46.0,20.0,43%,farrejo03,data
+2016,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,232,420","39,906",27.4,29.9,101,100,0,7,19,"$176,097,333",3:05,Maddon,42.0,21.0,50%,maddojo99,data
+2016,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,U.S. Cellular Field,"1,746,293","21,559",28.3,28.6,96,96,0,2,16,"$113,416,000",3:03,Ventura,39.0,20.0,51%,venturo01,data
+2016,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,894,085","23,384",27.8,27.1,101,102,0,2,11,"$77,329,561",3:04,Price,51.0,25.0,49%,pricebr99,data
+2016,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,591,667","19,650",29.0,28.1,109,107,0,3,13,"$94,511,067",3:03,Francona,49.0,28.0,57%,francte01,data
+2016,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,602,524","32,130",27.8,27.7,116,116,0,2,10,"$89,707,000",3:11,Weiss,54.0,32.0,59%,weisswa01,data
+2016,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,493,859","31,173",30.0,29.0,100,101,0,1,16,"$199,902,000",3:05,Ausmus,34.0,19.0,55%,ausmubr01,data
+2016,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,306,623","28,477",26.4,28.9,94,93,0,2,13,"$89,498,000",3:04,Hinch,37.0,16.0,43%,,data
+2016,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"2,557,712","31,577",28.5,29.9,102,102,0,4,15,"$125,132,675",2:59,Yost,37.0,25.0,67%,yostne01,data
+2016,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"3,016,142","37,236",28.5,28.4,95,95,0,1,9,"$139,712,000",3:04,Scioscia,38.0,21.0,55%,sciosmi01,data
+2016,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,703,312","45,720",28.9,28.9,97,96,0,3,18,"$231,342,096",3:10,Roberts,35.0,19.0,54%,roberda07,data
+2016,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,"Estadio Hiram Bithorn, Marlins Park","1,712,417","21,405",28.3,28.0,93,94,1,4,11,"$72,472,000",3:05,Mattingly,53.0,34.0,64%,mattido01,data
+2016,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,314,614","28,575",27.5,28.1,102,102,0,1,9,"$52,077,500",3:08,Counsell,47.0,22.0,46%,counscr01,data
+2016,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,963,912","24,246",26.9,28.3,100,100,1,1,17,"$93,333,700",3:05,Molitor,28.0,17.0,60%,molitpa01,data
+2016,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,789,602","34,440",29.5,28.4,96,96,0,4,14,"$155,221,282",3:05,Collins,28.0,18.0,64%,collite99,data
+2016,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,063,405","37,820",30.1,27.9,103,102,2,3,20,"$193,229,350",3:03,Girardi,28.0,18.0,64%,girarjo01,data
+2016,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,521,506","18,784",28.7,27.9,96,97,0,1,12,"$54,969,067",2:56,Melvin,34.0,22.0,64%,melvibo01,data
+2016,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"1,915,144","23,644",26.9,26.3,99,100,0,1,6,"$84,846,666",3:03,Mackanin,46.0,26.0,56%,mackape01,data
+2016,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"2,249,201","27,768",28.9,28.6,99,99,0,2,17,"$81,187,933",3:11,Hurdle,55.0,25.0,45%,hurdlcl01,data
+2016,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,351,422","29,030",28.1,28.1,95,95,0,2,11,"$50,656,166",3:06,Green,57.0,27.0,47%,greenan01,data
+2016,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,365,256","41,546",29.1,30.0,96,96,0,4,15,"$177,021,333",3:10,Bochy,49.0,31.0,63%,bochybr01,data
+2016,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,267,928","27,999",30.5,28.8,96,96,0,1,12,"$137,169,100",3:02,Servais,37.0,22.0,59%,servasc01,data
+2016,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,444,490","42,525",28.5,28.0,98,97,0,2,13,"$150,353,500",3:01,Matheny,54.0,28.0,51%,mathemi01,data
+2016,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,286,163","15,879",27.7,26.9,95,95,0,1,10,"$48,223,791",3:01,Cash,49.0,29.0,59%,cashke01,data
+2016,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,710,402","33,462",28.4,28.8,107,108,2,2,16,"$212,117,760",3:00,Banister,51.0,23.0,45%,banisje01,data
+2016,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"3,392,099","41,878",30.1,29.8,102,101,0,5,17,"$182,690,767",3:00,Gibbons,49.0,19.0,38%,gibbojo02,data
+2016,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,481,938","30,641",28.8,29.1,103,102,0,5,16,"$152,967,400",3:08,Baker,47.0,19.0,40%,bakerdu01,data
+2017,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,134,375","26,350",28.3,28.7,108,108,0,4,11,"$106,580,200",3:09,Lovullo,32.0,16.0,50%,lovulto01,data
+2017,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,SunTrust Park,"2,505,252","30,929",28.6,29.4,100,100,0,1,14,"$119,705,250",3:04,Snitker,47.0,19.0,40%,snitkbr99,data
+2017,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,028,424","25,042",28.6,28.2,97,99,0,1,18,"$161,621,633",3:09,Showalter,26.0,17.0,65%,showabu99,data
+2017,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,917,678","36,021",27.3,28.4,105,104,0,3,19,"$200,550,750",3:20,Farrell,43.0,16.0,37%,farrejo03,data
+2017,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,199,562","39,501",27.1,30.8,103,101,0,1,18,"$177,210,667",3:09,Maddon,53.0,28.0,52%,maddojo99,data
+2017,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,629,470","20,117",26.7,28.7,97,98,0,1,14,"$97,842,000",3:10,Renteria,35.0,17.0,48%,renteri01,data
+2017,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,836,917","22,678",27.2,27.6,101,103,0,2,11,"$79,315,786",3:03,Price,38.0,19.0,50%,pricebr99,data
+2017,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"2,048,138","25,286",28.1,28.9,106,104,0,5,13,"$114,427,167",3:06,Francona,32.0,15.0,46%,francte01,data
+2017,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,953,650","36,465",28.3,27.0,117,116,0,4,14,"$106,650,000",3:11,Black,38.0,16.0,42%,blackbu02,data
+2017,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,321,599","28,662",29.6,28.3,101,102,0,2,17,"$118,375,600",3:14,Ausmus,37.0,16.0,43%,ausmubr01,data
+2017,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,"Minute Maid Park, Tropicana Field","2,403,671","29,675",28.8,28.5,94,93,1,6,16,"$157,656,400",3:10,Hinch,39.0,18.0,46%,,data
+2017,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"2,220,370","27,412",28.9,30.3,101,102,0,3,19,"$127,555,817",3:02,Yost,34.0,24.0,70%,yostne01,data
+2017,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"3,019,585","37,279",29.9,29.1,97,97,0,1,8,"$181,125,500",3:11,Scioscia,39.0,21.0,53%,sciosmi01,data
+2017,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,765,856","46,492",27.9,29.7,96,95,0,6,20,"$201,466,263",3:11,Roberts,36.0,23.0,63%,roberda07,data
+2017,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"1,583,014","20,295",28.3,28.7,90,91,1,2,10,"$111,591,100",3:06,Mattingly,35.0,18.0,51%,mattido01,data
+2017,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,627,705","31,282",27.4,28.3,101,101,0,1,10,"$68,439,300",3:10,Counsell,43.0,17.0,39%,counscr01,data
+2017,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,051,279","25,324",27.1,29.6,100,101,1,3,17,"$103,932,500",3:11,Molitor,28.0,19.0,67%,molitpa01,data
+2017,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,460,622","30,378",28.9,27.5,94,95,0,1,14,"$176,615,252",3:09,Collins,39.0,23.0,58%,collite99,data
+2017,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,154,938","38,950",28.6,27.8,104,103,1,5,17,"$182,424,700",3:16,Girardi,40.0,30.0,75%,girarjo01,data
+2017,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,475,721","18,219",28.7,27.9,95,95,0,1,13,"$51,560,000",3:09,Melvin,32.0,16.0,50%,melvibo01,data
+2017,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"1,905,354","23,523",26.6,26.8,98,99,0,1,7,"$86,276,000",3:08,Mackanin,29.0,17.0,58%,mackape01,data
+2017,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,919,447","23,697",28.2,27.1,97,98,0,1,11,"$102,953,333",3:07,Hurdle,49.0,31.0,63%,hurdlcl01,data
+2017,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,138,491","26,401",26.2,27.7,95,97,0,1,7,"$49,248,767",3:00,Green,42.0,17.0,40%,greenan01,data
+2017,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,303,652","40,786",29.5,28.9,98,98,0,1,14,"$177,399,833",3:04,Bochy,31.0,19.0,61%,bochybr01,data
+2017,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,135,445","26,364",29.6,27.9,95,95,0,2,13,"$172,438,700",3:06,Servais,34.0,17.0,50%,servasc01,data
+2017,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,448,337","42,572",28.0,28.3,98,97,0,2,15,"$129,652,933",3:04,Matheny,50.0,26.0,52%,mathemi01,data
+2017,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,253,619","15,477",28.3,27.6,96,96,0,2,13,"$79,473,033",3:13,Cash,59.0,29.0,49%,cashke01,data
+2017,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,507,760","30,960",28.4,28.8,110,110,1,1,15,"$207,326,274",3:13,Banister,62.0,33.0,53%,banisje01,data
+2017,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"3,203,886","39,554",31.0,28.8,101,102,0,2,15,"$158,890,575",3:09,Gibbons,45.0,12.0,26%,gibbojo02,data
+2017,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,524,980","31,173",29.2,30.1,104,103,0,5,15,"$175,587,301",3:09,Baker,32.0,12.0,37%,bakerdu01,data
+2018,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,242,695","27,688",29.2,29.6,105,104,0,3,13,"$134,850,600",3:10,Lovullo,45.0,26.0,57%,lovulto01,data
+2018,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,SunTrust Park,"2,555,781","31,553",27.4,27.7,101,101,0,4,16,"$115,848,667",3:04,Snitker,45.0,18.0,40%,snitkbr99,data
+2018,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,564,192","19,311",28.4,27.1,98,100,0,1,17,"$141,555,833",3:01,Showalter,27.0,15.0,55%,showabu99,data
+2018,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,895,575","35,748",27.7,28.9,104,103,0,5,21,"$222,205,000",3:13,Cora,43.0,22.0,51%,coraal01,data
+2018,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,181,089","38,794",27.2,30.2,104,103,0,3,16,"$205,373,881",3:09,Maddon,43.0,27.0,62%,maddojo99,data
+2018,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,608,817","19,862",26.5,27.6,98,99,0,1,10,"$75,092,000",3:08,Renteria,40.0,20.0,50%,renteri01,data
+2018,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,629,356","20,116",27.2,27.1,102,103,0,3,11,"$94,587,500",3:03,PriceandRiggleman,38.0,14.0,36%,pricebr99,data
+2018,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,926,701","23,786",29.4,29.4,103,101,0,6,16,"$143,375,233",3:03,Francona,37.0,16.0,43%,francte01,data
+2018,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"3,015,880","37,233",28.7,27.9,117,117,0,3,13,"$136,658,500",3:04,Black,46.0,24.0,52%,blackbu02,data
+2018,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,856,970","22,926",27.9,28.6,103,105,0,1,11,"$111,531,000",3:00,Gardenhire,32.0,19.0,59%,gardero01,data
+2018,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,980,549","36,797",28.1,30.0,99,97,0,6,16,"$172,781,200",3:04,Hinch,34.0,14.0,41%,,data
+2018,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,665,107","20,557",28.6,27.6,100,101,0,1,10,"$95,199,167",2:57,Yost,41.0,31.0,75%,yostne01,data
+2018,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"3,020,216","37,287",29.5,27.5,98,98,0,1,8,"$166,849,666",3:09,Scioscia,42.0,23.0,54%,sciosmi01,data
+2018,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,857,500","47,043",28.1,29.2,98,96,0,3,19,"$164,703,429",3:13,Roberts,39.0,18.0,46%,roberda07,data
+2018,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"811,104","10,014",27.5,27.6,94,95,0,1,6,"$86,515,143",3:02,Mattingly,41.0,22.0,53%,mattido01,data
+2018,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,850,875","35,196",28.9,28.8,102,101,0,5,18,"$109,295,700",3:07,Counsell,34.0,7.0,20%,counscr01,data
+2018,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,959,197","24,188",28.2,28.5,101,100,1,1,17,"$110,275,000",3:10,Molitor,45.0,21.0,46%,molitpa01,data
+2018,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,224,995","27,469",28.4,28.0,92,92,0,1,20,"$161,403,844",3:01,Callaway,29.0,15.0,51%,callami01,data
+2018,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,482,855","42,998",27.2,28.8,100,98,1,4,16,"$160,643,032",3:11,Boone,35.0,26.0,74%,booneaa01,data
+2018,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,573,616","19,427",28.0,29.2,97,97,0,2,14,"$69,883,333",3:05,Melvin,42.0,21.0,50%,melvibo01,data
+2018,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"2,158,124","26,644",26.7,26.8,102,102,0,1,9,"$93,874,333",3:10,Kapler,44.0,27.0,61%,kaplega01,data
+2018,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,465,316","18,316",27.8,26.5,96,97,0,1,13,"$88,141,000",3:04,Hurdle,48.0,23.0,47%,hurdlcl01,data
+2018,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,168,536","26,772",26.9,27.7,93,95,0,1,7,"$93,821,067",3:00,Green,44.0,19.0,43%,greenan01,data
+2018,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,AT&T Park,"3,156,185","38,965",29.8,28.6,93,94,0,2,14,"$202,060,277",3:01,Bochy,31.0,23.0,74%,bochybr01,data
+2018,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,Safeco Field,"2,299,489","28,389",29.8,29.0,94,95,1,4,14,"$157,090,065",2:58,Servais,37.0,13.0,35%,servasc01,data
+2018,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,403,587","42,020",28.1,26.7,97,96,0,2,14,"$157,713,667",3:10,MathenyandShildt,47.0,18.0,38%,mathemi01,data
+2018,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,154,973","14,259",27.1,27.1,97,96,0,2,14,"$46,569,867",3:01,Cash,54.0,26.0,48%,cashke01,data
+2018,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,107,107","26,014",27.4,30.4,110,111,1,1,12,"$106,099,628",3:04,BanisterandWakamatsu,42.0,17.0,40%,banisje01,data
+2018,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,325,281","28,707",29.0,29.3,98,99,0,1,13,"$151,670,772",2:59,Gibbons,39.0,18.0,46%,gibbojo02,data
+2018,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,529,604","31,230",27.5,30.2,106,105,0,3,16,"$188,886,699",3:07,Martinez,40.0,21.0,52%,martida01,data
+2019,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,135,510","26,364",28.7,28.6,101,101,0,2,10,"$124,016,266",3:15,Lovullo,36.0,21.0,58%,lovulto01,data
+2019,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,SunTrust Park,"2,654,920","32,777",28.0,27.5,106,104,0,3,21,"$133,186,667",3:13,Snitker,30.0,16.0,53%,snitkbr99,data
+2019,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,307,807","16,146",26.5,27.3,100,102,0,1,8,"$82,696,100",3:07,Hyde,30.0,11.0,36%,hydebr99,data
+2019,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,915,502","35,994",27.3,29.0,106,105,0,3,16,"$218,978,142",3:25,Cora,33.0,22.0,66%,coraal01,data
+2019,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,094,865","38,208",27.7,31.1,100,100,0,3,19,"$220,305,215",3:12,Maddon,32.0,16.0,50%,maddojo99,data
+2019,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,649,775","20,622",27.6,27.6,98,99,0,3,12,"$80,846,333",3:10,Renteria,28.0,12.0,42%,renteri01,data
+2019,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,809,075","22,334",27.9,28.2,106,106,0,2,15,"$109,737,499",3:03,Bell,34.0,14.0,41%,bellda01,data
+2019,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,738,642","21,465",27.8,28.3,104,102,0,4,13,"$151,257,783",3:03,Francona,27.0,15.0,55%,francte01,data
+2019,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,993,244","36,954",28.2,27.3,116,117,0,4,13,"$145,348,500",3:14,Black,38.0,20.0,52%,blackbu02,data
+2019,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,501,430","18,536",27.6,27.8,101,103,0,1,13,"$100,618,500",3:02,Gardenhire,34.0,14.0,41%,gardero01,data
+2019,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,857,367","35,276",28.9,29.9,103,100,0,6,18,"$166,042,500",3:05,Hinch,39.0,20.0,51%,,data
+2019,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,479,659","18,267",27.6,27.9,102,103,0,1,6,"$98,183,242",3:03,Yost,28.0,23.0,82%,yostne01,data
+2019,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"3,023,012","37,321",28.8,27.0,100,100,0,2,10,"$158,078,584",3:15,Ausmus,31.0,17.0,54%,ausmubr01,data
+2019,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,974,309","49,066",27.9,28.9,97,94,0,5,16,"$193,553,333",3:12,Roberts,34.0,19.0,55%,roberda07,data
+2019,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,"811,302","10,016",28.4,26.5,96,97,0,1,8,"$74,683,643",3:05,Mattingly,43.0,22.0,51%,mattido01,data
+2019,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,"2,923,333","36,091",28.9,28.7,101,101,0,5,15,"$128,842,900",3:16,Counsell,28.0,16.0,57%,counscr01,data
+2019,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"2,303,299","28,436",27.8,28.2,99,98,0,3,15,"$113,758,333",3:14,Baldelli,39.0,12.0,30%,baldero01,data
+2019,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,442,532","30,155",27.9,28.6,93,93,0,3,19,"$154,837,230",3:09,Callaway,36.0,13.0,36%,callami01,data
+2019,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,304,404","40,795",28.3,30.2,98,96,1,5,17,"$228,442,421",3:11,Boone,22.0,15.0,68%,booneaa01,data
+2019,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,"1,670,734","20,626",27.8,30.8,94,93,0,2,13,"$102,935,833",3:07,Melvin,29.0,12.0,41%,melvibo01,data
+2019,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"2,727,421","33,672",27.6,28.4,101,101,0,1,13,"$141,786,962",3:15,Kapler,43.0,23.0,53%,kaplega01,data
+2019,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,491,439","18,413",27.4,27.2,97,98,0,2,13,"$72,915,501",3:12,HurdleandPrince,36.0,15.0,41%,hurdlcl01,data
+2019,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,396,399","29,585",26.1,26.3,94,95,0,1,12,"$90,260,767",3:07,GreenandBarajas,54.0,25.0,46%,greenan01,data
+2019,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,707,760","33,429",29.9,28.9,95,95,0,1,16,"$175,450,753",3:07,Bochy,28.0,15.0,53%,bochybr01,data
+2019,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"1,791,109","22,112",27.8,28.6,94,94,1,1,10,"$126,874,600",3:08,Servais,38.0,18.0,47%,servasc01,data
+2019,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,480,393","42,968",28.8,27.8,96,95,0,1,15,"$161,120,267",3:10,Shildt,39.0,16.0,41%,shildmi99,data
+2019,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,178,735","14,552",27.2,27.8,96,95,0,3,12,"$57,098,067",3:11,Cash,48.0,22.0,45%,cashke01,data
+2019,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Park in Arlington,"2,132,994","26,333",28.8,28.3,111,112,0,3,11,"$104,433,499",3:11,Woodward,46.0,29.0,63%,woodwch01,data
+2019,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"1,750,144","21,607",25.9,28.0,97,98,0,1,11,"$62,180,671",3:07,Montoyo,39.0,17.0,43%,montoch01,data
+2019,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,259,781","27,899",28.7,30.8,102,102,0,2,16,"$203,016,595",3:12,Martinez,31.0,15.0,48%,martida01,data
+2020,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,,,29.1,27.7,99,100,0,0,9,"$88,176,667",3:08,Lovullo,24.0,10.0,41%,lovulto01,data
+2020,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,,,28.2,28.5,106,104,0,0,20,"$130,705,000",3:13,Snitker,14.0,4.0,28%,snitkbr99,data
+2020,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,,,26.3,28.3,103,105,0,0,9,"$52,190,000",3:04,Hyde,24.0,8.0,33%,hydebr99,data
+2020,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,,,27.1,29.1,108,108,0,0,11,"$171,984,429",3:20,Roenicke,21.0,16.0,76%,roeniro01,data
+2020,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,,,27.9,30.3,100,100,0,0,14,"$181,560,000",3:06,Ross,17.0,10.0,58%,rossda01,data
+2020,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,,,27.7,27.6,100,100,0,0,15,"$119,066,333",3:10,Renteria,15.0,11.0,73%,renteri01,data
+2020,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,,,29.2,28.6,109,109,0,0,11,"$120,781,165",2:58,Bell,23.0,11.0,47%,bellda01,data
+2020,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,,,28.0,27.6,101,100,0,0,6,"$101,991,668",3:06,Francona,26.0,10.0,38%,francte01,data
+2020,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,,,28.7,27.3,114,115,0,0,13,"$144,730,000",3:10,Black,17.0,7.0,41%,blackbu02,data
+2020,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,,,27.6,26.6,100,102,0,0,12,"$88,385,000",2:59,GardenhireandMcClendon,18.0,12.0,66%,gardero01,data
+2020,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,,,29.2,27.0,102,100,0,0,15,"$217,000,000",3:08,Baker,13.0,4.0,30%,bakerdu01,data
+2020,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,,,27.8,27.1,104,105,0,0,11,"$68,600,000",3:05,Matheny,7.0,5.0,71%,mathemi01,data
+2020,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,,,28.5,27.4,101,102,0,0,9,"$181,254,762",3:14,Maddon,23.0,13.0,56%,maddojo99,data
+2020,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,,,28.0,27.6,99,97,0,0,17,"$216,508,333",3:09,Roberts,19.0,11.0,57%,roberda07,data
+2020,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,Marlins Park,,,29.0,27.5,100,101,0,0,11,"$68,450,000",3:05,Mattingly,26.0,11.0,42%,mattido01,data
+2020,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,Miller Park,,,28.5,28.0,102,101,0,0,16,"$103,541,667",3:02,Counsell,10.0,4.0,40%,counscr01,data
+2020,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,,,28.8,30.0,98,97,0,0,14,"$134,838,333",3:06,Baldelli,30.0,11.0,36%,baldero01,data
+2020,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,,,27.7,29.2,95,95,0,0,18,"$162,078,667",3:11,Rojas,18.0,8.0,44%,rojaslu99,data
+2020,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,,,28.5,29.2,97,96,0,0,11,"$218,635,714",3:06,Boone,12.0,5.0,41%,booneaa01,data
+2020,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland-Alameda County Coliseum,,,28.1,29.9,96,94,0,0,13,"$85,683,333",2:57,Melvin,23.0,7.0,30%,melvibo01,data
+2020,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,,,28.5,29.1,100,100,0,0,10,"$170,148,461",3:08,Girardi,29.0,17.0,58%,girarjo01,data
+2020,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,,,27.1,27.7,98,100,0,0,6,"$49,628,500",3:05,Shelton,10.0,2.0,20%,sheltde99,data
+2020,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,,,26.7,27.8,93,93,0,0,16,"$141,953,667",3:04,Tingler,20.0,9.0,45%,tinglja99,data
+2020,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,,,29.8,29.0,95,95,0,0,13,"$152,957,778",3:08,Kapler,35.0,11.0,31%,kaplega01,data
+2020,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,,,26.7,26.6,95,96,0,0,7,"$92,310,000",2:59,Servais,12.0,5.0,41%,servasc01,data
+2020,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,,,28.9,27.6,94,93,0,0,11,"$153,396,167",2:52,Shildt,12.0,8.0,66%,shildmi99,data
+2020,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,,,27.1,28.1,94,92,0,0,10,"$56,351,667",3:10,Cash,24.0,8.0,33%,cashke01,data
+2020,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,,,27.5,28.7,99,101,0,0,11,"$122,326,667",3:04,Woodward,21.0,11.0,52%,woodwch01,data
+2020,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Sahlen Field,,,25.9,29.5,100,99,0,0,13,"$76,078,572",3:15,Montoyo,29.0,6.0,20%,montoch01,data
+2020,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,,,28.6,30.8,99,99,0,0,15,"$172,237,283",3:10,Martinez,19.0,14.0,73%,martida01,data
+2021,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"1,043,010","12,877",28.9,28.5,99,100,0,1,11,"$77,691,667",3:15,Lovullo,10.0,2.0,20%,lovulto01,data
+2021,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"2,299,647","28,746",28.2,29.5,104,103,0,3,21,"$127,230,000",3:08,Snitker,12.0,2.0,16%,snitkbr99,data
+2021,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"793,229","9,793",26.7,28.1,101,103,0,1,7,"$42,075,000",3:06,Hyde,10.0,1.0,10%,hydebr99,data
+2021,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"1,725,323","21,300",28.0,29.7,107,108,0,5,12,"$156,095,000",3:17,Cora,10.0,6.0,60%,coraal01,data
+2021,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"1,978,934","24,431",29.1,29.4,99,100,0,2,13,"$144,413,500",3:16,Ross,18.0,9.0,50%,rossda01,data
+2021,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,596,385","19,708",28.1,28.3,102,101,0,4,14,"$115,546,333",3:09,La Russa,9.0,7.0,77%,larusto01,data
+2021,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,505,024","18,581",28.9,28.9,110,111,0,2,14,"$116,784,881",3:14,Bell,13.0,10.0,76%,bellda01,data
+2021,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,Progressive Field,"1,114,368","13,758",26.7,26.3,100,99,0,2,7,"$50,425,500",3:04,Francona,11.0,8.0,72%,francte01,data
+2021,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"1,938,645","23,934",28.1,28.3,113,114,0,1,7,"$92,675,000",3:12,Black,16.0,9.0,56%,blackbu02,data
+2021,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,102,621","13,613",28.1,27.3,97,98,0,1,12,"$78,590,500",3:06,Hinch,12.0,7.0,58%,,data
+2021,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,068,509","25,537",28.9,28.7,101,99,0,4,13,"$190,400,000",3:19,Baker,12.0,4.0,33%,bakerdu01,data
+2021,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,159,613","14,316",29.3,27.9,103,105,0,2,11,"$86,820,000",3:08,Matheny,17.0,6.0,35%,mathemi01,data
+2021,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"1,515,689","18,484",29.1,28.6,103,103,0,3,15,"$188,408,595",3:12,Maddon,20.0,6.0,30%,maddojo99,data
+2021,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"2,804,693","34,626",29.2,28.8,103,100,0,5,23,"$248,108,334",3:18,Roberts,22.0,12.0,54%,roberda07,data
+2021,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"642,617","7,934",28.2,27.3,99,100,0,1,11,"$35,150,000",3:11,Mattingly,16.0,2.0,12%,mattido01,data
+2021,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"1,824,282","22,522",28.7,28.1,99,98,0,5,16,"$85,517,626",3:16,Counsell,7.0,5.0,71%,counscr01,data
+2021,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,310,199","16,175",28.3,29.8,98,98,0,2,13,"$120,158,333",3:10,Baldelli,21.0,9.0,42%,baldero01,data
+2021,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"1,511,926","18,666",28.2,29.5,96,95,0,2,16,"$184,675,167",3:09,Rojas,14.0,5.0,35%,rojaslu99,data
+2021,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"1,959,854","24,196",29.3,29.3,100,99,0,3,17,"$209,799,047",3:16,Boone,10.0,3.0,30%,booneaa01,data
+2021,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,RingCentral Coliseum,"701,430","8,660",30.1,30.1,95,95,0,2,13,"$94,555,834",3:08,Melvin,10.0,1.0,10%,melvibo01,data
+2021,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"1,515,890","18,715",29.1,28.8,99,99,0,2,15,"$185,286,962",3:17,Girardi,15.0,5.0,33%,girarjo01,data
+2021,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"859,498","10,611",27.5,27.4,99,101,0,2,9,"$50,255,000",3:11,Shelton,15.0,8.0,53%,sheltde99,data
+2021,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,191,950","27,061",28.0,29.6,92,92,0,5,15,"$154,984,286",3:18,Tingler,19.0,10.0,52%,tinglja99,data
+2021,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"1,679,484","20,734",30.6,29.7,98,98,0,3,15,"$150,863,778",3:12,Kapler,19.0,12.0,63%,kaplega01,data
+2021,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"1,215,985","15,012",27.0,28.0,95,95,0,1,10,"$64,605,500",3:12,Servais,10.0,4.0,40%,servasc01,data
+2021,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"2,102,530","25,957",28.5,30.1,94,93,0,3,13,"$155,329,667",3:10,Shildt,11.0,6.0,54%,shildmi99,data
+2021,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"761,072","9,396",27.7,28.8,94,93,0,3,15,"$52,937,166",3:07,Cash,17.0,7.0,41%,cashke01,data
+2021,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,110,258","26,053",26.8,27.8,100,102,0,3,9,"$67,890,999",3:05,Woodward,20.0,9.0,45%,woodwch01,data
+2021,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,"Rogers Centre, Sahlen Field, TD Ballpark","805,901","10,074",26.8,29.1,104,103,0,4,20,"$121,694,071",3:04,Montoyo,25.0,9.0,36%,montoch01,data
+2021,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,465,543","18,093",28.6,30.1,95,96,0,4,19,"$172,370,147",3:13,Martinez,14.0,7.0,50%,martida01,data
+2022,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"1,605,199","19,817",26.5,30.0,99,99,0,1,9,"$78,860,000",3:06,Lovullo,40.0,19.0,47%,lovulto01,data
+2022,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"3,129,931","38,641",27.5,30.0,104,101,0,6,21,"$181,075,000",3:07,Snitker,37.0,21.0,56%,snitkbr99,data
+2022,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,368,367","16,893",27.0,27.7,99,100,0,1,12,"$48,000,000",3:08,Hyde,45.0,23.0,51%,hydebr99,data
+2022,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,625,089","32,409",28.8,30.2,108,108,0,3,14,"$188,420,000",3:11,Cora,18.0,8.0,44%,coraal01,data
+2022,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,616,780","32,306",27.9,29.5,103,103,0,2,9,"$131,085,000",3:06,Ross,47.0,19.0,40%,rossda01,data
+2022,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"2,009,359","24,807",29.3,29.6,102,102,0,2,14,"$167,458,334",3:08,La RussaandCairo,26.0,12.0,46%,larusto01,data
+2022,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,395,770","17,232",29.4,27.9,107,107,0,1,7,"$111,882,381",3:06,Bell,37.0,18.0,48%,bellda01,data
+2022,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,Progressive Field,"1,295,870","15,998",25.9,26.3,98,97,0,3,7,"$65,960,000",3:01,Francona,39.0,23.0,58%,francte01,data
+2022,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,597,428","32,067",29.0,29.1,112,114,0,1,9,"$112,605,000",3:05,Black,28.0,14.0,50%,blackbu02,data
+2022,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,575,544","19,214",27.9,27.5,99,100,0,2,13,"$117,740,000",2:58,Hinch,44.0,23.0,52%,,data
+2022,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,688,998","33,198",29.3,29.4,100,98,0,5,15,"$164,789,600",3:06,Baker,29.0,16.0,55%,bakerdu01,data
+2022,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,277,686","15,774",27.1,27.3,103,105,0,1,11,"$87,410,000",3:03,Matheny,42.0,23.0,54%,mathemi01,data
+2022,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"2,457,461","30,339",28.0,27.4,103,103,0,2,9,"$167,063,095",3:07,MaddonandNevin,42.0,16.0,38%,maddojo99,data
+2022,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,861,408","47,672",29.6,28.8,102,99,0,6,20,"$261,180,131",3:08,Roberts,33.0,12.0,36%,roberda07,data
+2022,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"907,487","11,204",28.9,27.6,100,101,0,3,12,"$68,200,000",3:06,Mattingly,36.0,17.0,47%,mattido01,data
+2022,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"2,422,420","29,906",29.1,28.6,100,99,0,3,11,"$128,421,127",3:11,Counsell,33.0,19.0,57%,counscr01,data
+2022,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,801,128","22,236",26.9,28.9,100,100,0,2,16,"$110,792,857",3:07,Baldelli,51.0,26.0,50%,baldero01,data
+2022,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,564,737","31,663",29.7,31.2,96,95,0,4,16,"$240,473,333",3:10,Showalter,33.0,26.0,78%,showabu99,data
+2022,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,136,207","38,719",30.3,29.2,102,101,0,6,17,"$238,950,714",3:13,Boone,33.0,19.0,57%,booneaa01,data
+2022,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,RingCentral Coliseum,"787,902","9,849",28.3,28.0,94,95,0,1,7,"$50,248,334",3:02,Kotsay,34.0,15.0,44%,kotsama01,data
+2022,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"2,276,736","28,108",28.2,29.2,99,98,0,2,19,"$209,488,461",3:11,GirardiandThomson,42.0,18.0,42%,girarjo01,data
+2022,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,257,458","15,524",26.3,27.3,99,100,0,1,5,"$37,925,000",3:04,Shelton,31.0,14.0,45%,sheltde99,data
+2022,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"2,987,470","36,882",28.2,30.3,94,93,0,3,19,"$192,600,824",3:13,Melvin,36.0,19.0,52%,melvibo01,data
+2022,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,482,686","30,650",30.0,29.1,98,97,0,2,12,"$147,929,667",3:08,Kapler,31.0,14.0,45%,kaplega01,data
+2022,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"2,287,267","28,238",27.6,27.9,95,95,0,2,18,"$78,285,000",3:06,Servais,19.0,9.0,47%,servasc01,data
+2022,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,320,551","40,994",28.8,29.4,97,96,0,5,12,"$156,814,666",3:08,Marmol,35.0,21.0,60%,marmool99,data
+2022,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,128,127","13,927",27.0,29.1,96,94,0,1,13,"$73,004,211",3:03,Cash,42.0,20.0,47%,cashke01,data
+2022,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,011,361","24,832",28.0,28.3,102,102,0,2,10,"$120,176,667",3:05,WoodwardandBeasley,49.0,17.0,34%,woodwch01,data
+2022,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,653,830","32,763",27.1,29.7,99,99,0,6,20,"$172,705,857",3:06,MontoyoandSchneider,48.0,21.0,43%,montoch01,data
+2022,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"2,026,401","25,017",28.7,29.7,95,97,0,1,13,"$125,051,666",3:07,Martinez,30.0,13.0,43%,martida01,data
+2023,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"1,961,182","24,212",27.4,28.5,100,100,0,4,8,"$115,247,571",2:43,Lovullo,39.0,26.0,66%,lovulto01,data
+2023,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"3,191,505","39,401",27.9,29.9,101,99,0,8,17,"$194,197,500",2:42,Snitker,25.0,14.0,56%,snitkbr99,data
+2023,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,936,798","23,911",27.2,28.4,96,95,0,4,16,"$82,758,114",2:47,Hyde,41.0,17.0,41%,hydebr99,data
+2023,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,672,130","32,989",28.6,30.0,106,106,0,1,10,"$181,282,500",2:45,Cora,19.0,10.0,52%,coraal01,data
+2023,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,775,149","34,261",28.4,29.6,97,97,0,3,11,"$162,918,250",2:43,Ross,46.0,20.0,43%,rossda01,data
+2023,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,669,628","20,613",27.9,29.2,101,103,0,1,12,"$140,725,951",2:41,Grifol,40.0,16.0,40%,grifope99,data
+2023,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,038,302","25,164",26.8,27.7,105,106,0,1,6,"$77,877,833",2:47,Bell,53.0,21.0,39%,bellda01,data
+2023,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,Progressive Field,"1,834,068","22,643",26.7,26.1,100,99,0,2,13,"$70,114,729",2:39,Francona,41.0,23.0,56%,francte01,data
+2023,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,607,935","32,197",28.2,29.7,111,113,0,1,10,"$155,645,682",2:41,Black,38.0,19.0,50%,blackbu02,data
+2023,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,612,876","19,912",27.4,27.7,100,101,0,1,10,"$119,236,836",2:38,Hinch,37.0,12.0,32%,,data
+2023,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"3,052,347","37,683",28.8,29.2,100,99,0,3,11,"$240,388,766",2:45,Baker,28.0,18.0,64%,bakerdu01,data
+2023,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,307,052","16,136",26.3,29.1,103,104,0,1,8,"$88,186,975",2:38,Quatraro,33.0,21.0,63%,quatrma99,data
+2023,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"2,640,575","32,600",28.6,28.0,103,104,0,3,14,"$218,537,055",2:44,Nevin,28.0,6.0,21%,nevinph01,data
+2023,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,837,079","47,371",30.9,28.1,100,98,0,5,13,"$227,091,667",2:43,Roberts,39.0,19.0,48%,roberda07,data
+2023,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"1,162,819","14,356",29.4,27.6,106,107,0,2,17,"$114,351,500",2:38,Schumaker,29.0,21.0,72%,schumsk01,data
+2023,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"2,551,347","31,498",27.7,29.3,99,98,0,2,12,"$138,288,760",2:40,Counsell,29.0,14.0,48%,counscr01,data
+2023,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,974,124","24,372",28.5,29.0,102,102,0,2,12,"$137,798,640",2:42,Baldelli,34.0,16.0,47%,baldero01,data
+2023,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,573,555","31,772",28.9,31.9,96,95,0,2,14,"$208,427,344",2:45,Showalter,27.0,10.0,37%,showabu99,data
+2023,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,269,016","40,358",28.5,29.1,102,101,0,2,12,"$259,417,008",2:42,Boone,30.0,18.0,60%,booneaa01,data
+2023,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland Coliseum,"832,352","10,276",27.1,28.0,95,98,0,1,7,"$51,230,000",2:44,Kotsay,39.0,19.0,48%,kotsama01,data
+2023,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,052,605","37,686",28.4,29.8,99,98,0,2,18,"$241,362,606",2:44,Thomson,36.0,18.0,50%,thomsro99,data
+2023,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,630,624","20,131",27.3,27.6,101,102,0,2,5,"$72,407,500",2:40,Shelton,41.0,17.0,41%,sheltde99,data
+2023,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"3,271,554","40,390",28.4,30.7,97,96,0,2,20,"$236,200,139",2:46,Melvin,39.0,17.0,43%,melvibo01,data
+2023,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,500,153","30,866",28.5,30.0,95,95,0,2,13,"$177,920,416",2:39,KaplerandCorrea,46.0,26.0,56%,kaplega01,data
+2023,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"2,690,418","33,215",27.8,27.4,93,92,0,3,13,"$128,155,663",2:43,Servais,35.0,16.0,45%,servasc01,data
+2023,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"3,241,091","40,013",27.5,29.7,100,100,0,1,10,"$174,086,450",2:43,Marmol,46.0,24.0,52%,marmool99,data
+2023,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,440,301","17,781",26.8,28.5,99,98,0,4,13,"$75,441,212",2:38,Cash,55.0,26.0,47%,cashke01,data
+2023,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,533,044","31,272",28.3,30.4,100,100,0,6,13,"$248,537,867",2:40,Bochy,29.0,11.0,37%,bochybr01,data
+2023,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"3,021,904","37,307",28.8,30.6,100,100,0,5,17,"$211,190,269",2:45,Schneider,52.0,18.0,34%,schnejo99,data
+2023,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,865,832","23,035",26.8,28.0,95,97,0,1,6,"$99,211,578",2:41,Martinez,29.0,22.0,75%,martida01,data
+2024,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,341,876","28,912",28.6,28.6,102,101,0,1,10,"$161,660,152",2:44,Lovullo,27.0,16.0,59%,lovulto01,data
+2024,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"3,011,755","37,182",29.3,31.5,101,100,0,4,19,"$241,662,300",2:35,Snitker,26.0,15.0,57%,snitkbr99,data
+2024,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"2,281,129","28,162",26.9,29.6,97,96,0,5,16,"$131,181,049",2:43,Hyde,42.0,22.0,52%,hydebr99,data
+2024,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,659,949","32,839",27.3,29.5,103,103,0,3,7,"$160,834,775",2:42,Cora,24.0,17.0,70%,coraal01,data
+2024,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,909,794","35,923",27.8,29.2,97,96,0,1,10,"$223,048,500",2:38,Counsell,38.0,23.0,60%,counscr01,data
+2024,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,380,733","17,046",27.8,27.7,100,102,0,1,6,"$123,336,791",2:36,GrifolandSizemore,21.0,8.0,38%,grifope99,data
+2024,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,024,178","24,990",27.1,29.1,106,106,0,2,7,"$98,323,334",2:37,BellandBenavides,41.0,19.0,46%,bellda01,data
+2024,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,Progressive Field,"2,056,264","25,703",26.1,27.7,101,100,0,5,10,"$94,230,728",2:36,Vogt,46.0,25.0,54%,vogtst01,data
+2024,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,540,195","31,360",27.9,28.2,111,114,0,1,6,"$147,069,963",2:39,Black,32.0,20.0,62%,blackbu02,data
+2024,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"1,858,295","22,942",26.7,27.9,103,103,0,2,7,"$105,584,833",2:34,Hinch,23.0,11.0,47%,,data
+2024,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Minute Maid Park,"2,835,234","35,003",28.8,29.6,101,100,0,3,14,"$275,678,766",2:39,Espada,34.0,21.0,61%,espadjo99,data
+2024,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,658,347","20,473",28.0,29.1,101,102,0,4,11,"$113,442,261",2:32,Quatraro,35.0,22.0,62%,quatrma99,data
+2024,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"2,577,597","31,822",27.3,28.9,103,104,0,1,7,"$165,637,050",2:37,Washington,32.0,17.0,53%,washiro01,data
+2024,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"3,941,251","48,657",30.3,29.7,97,96,0,6,16,"$262,386,278",2:41,Roberts,36.0,19.0,52%,roberda07,data
+2024,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"1,087,455","13,425",27.2,27.0,102,103,0,1,11,"$109,992,600",2:38,Schumaker,38.0,22.0,57%,schumsk01,data
+2024,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"2,537,202","31,323",26.4,29.0,101,100,0,2,8,"$115,142,460",2:41,Murphy,36.0,20.0,55%,murphpa99,data
+2024,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,951,616","24,094",28.7,27.9,104,104,0,2,8,"$135,262,591",2:38,Baldelli,32.0,17.0,53%,baldero01,data
+2024,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,329,299","28,757",30.0,31.0,96,95,0,1,17,"$262,702,250",2:44,Mendoza,42.0,21.0,50%,mendoca99,data
+2024,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,309,838","40,862",28.0,30.1,101,100,0,3,14,"$291,463,084",2:49,Boone,31.0,22.0,70%,booneaa01,data
+2024,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,Oakland Coliseum,"922,286","11,386",26.5,28.4,96,98,0,1,8,"$55,690,000",2:35,Kotsay,44.0,20.0,45%,kotsama01,data
+2024,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,363,712","41,527",29.1,29.5,102,101,0,8,19,"$248,632,283",2:41,Thomson,47.0,29.0,61%,thomsro99,data
+2024,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,720,361","21,239",28.6,27.4,100,100,0,2,8,"$97,476,500",2:39,Shelton,36.0,22.0,61%,sheltde99,data
+2024,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"3,330,545","41,118",29.0,28.8,100,99,0,5,16,"$159,391,555",2:41,Shildt,28.0,14.0,50%,shildmi99,data
+2024,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,647,736","32,688",28.7,27.3,94,94,0,2,10,"$232,370,883",2:36,Melvin,45.0,23.0,51%,melvibo01,data
+2024,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"2,555,813","31,553",28.9,27.7,93,92,0,2,12,"$142,547,548",2:37,ServaisandWilson,31.0,19.0,61%,servasc01,data
+2024,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"2,878,115","35,532",27.7,30.8,98,99,0,1,15,"$189,534,400",2:39,Marmol,33.0,14.0,42%,marmool99,data
+2024,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,337,739","16,515",27.2,28.3,99,99,0,1,9,"$128,533,112",2:37,Cash,35.0,19.0,54%,cashke01,data
+2024,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,651,553","32,735",28.1,31.7,95,94,0,3,13,"$261,471,834",2:38,Bochy,35.0,19.0,54%,bochybr01,data
+2024,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,681,236","33,102",28.1,30.5,102,102,0,1,13,"$225,628,287",2:40,Schneider,36.0,21.0,58%,schnejo99,data
+2024,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,967,302","24,288",26.4,28.9,97,98,0,2,9,"$132,086,867",2:37,Martinez,28.0,11.0,39%,martida01,data
+2025,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,393,973","29,555",27.8,29.8,100,100,0,3,12,"$178,806,067",2:44,Lovullo,37.0,27.0,72%,lovulto01,data
+2025,ATH,Athletics,AL,American League,West,AL West,Athletics,Sutter Health Park,"768,464","9,487",26.1,28.6,104,105,0,2,6,"$58,178,571",2:40,Kotsay,55.0,23.0,41%,kotsama01,data
+2025,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"2,903,167","35,842",28.3,29.4,100,99,0,3,17,"$223,005,000",2:40,Snitker,28.0,17.0,60%,snitkbr99,data
+2025,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,803,655","22,267",26.5,30.6,97,97,0,1,14,"$138,037,000",2:43,HydeandMansolino,36.0,13.0,36%,hydebr99,data
+2025,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,776,496","34,278",27.6,29.4,101,101,0,3,12,"$166,790,967",2:43,Cora,22.0,12.0,54%,coraal01,data
+2025,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"3,017,983","37,259",28.4,31.0,96,96,0,3,16,"$169,675,000",2:38,Counsell,45.0,25.0,55%,counscr01,data
+2025,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,445,738","17,849",26.9,27.5,101,102,0,1,6,"$63,430,000",2:39,Venable,26.0,16.0,61%,venabwi01,data
+2025,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"2,170,963","26,802",27.2,29.1,102,103,0,2,12,"$110,815,833",2:38,Francona,34.0,19.0,55%,francte01,data
+2025,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,Progressive Field,"2,051,360","25,325",27.4,27.1,101,101,0,2,7,"$88,787,000",2:37,Vogt,35.0,19.0,54%,vogtst01,data
+2025,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,404,613","29,687",26.7,27.7,112,115,0,1,5,"$104,724,285",2:36,BlackandSchaeffer,29.0,18.0,62%,blackbu02,data
+2025,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,413,442","29,796",26.7,28.8,100,100,0,6,9,"$132,893,334",2:38,Hinch,27.0,12.0,44%,,data
+2025,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Daikin Park,"2,727,877","33,677",28.8,29.2,100,100,0,4,10,"$204,583,333",2:41,Espada,27.0,19.0,70%,espadjo99,data
+2025,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,748,801","21,590",28.3,29.8,101,101,0,4,10,"$110,574,444",2:35,Quatraro,24.0,15.0,62%,quatrma99,data
+2025,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"2,615,506","32,290",28.0,30.0,98,100,0,1,8,"$172,808,094",2:43,WashingtonandMontgomery,28.0,14.0,50%,washiro01,data
+2025,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"4,012,470","49,537",30.7,29.6,99,98,0,5,19,"$338,188,810",2:44,Roberts,39.0,23.0,58%,roberda07,data
+2025,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"1,156,880","14,282",25.7,27.3,101,102,0,1,4,,2:42,McCullough,38.0,17.0,44%,mcculcl99,data
+2025,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"2,650,089","32,717",26.9,28.4,100,99,0,3,9,"$97,448,000",2:41,Murphy,24.0,17.0,70%,murphpa99,data
+2025,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,768,728","21,836",28.1,28.5,102,102,0,2,8,"$135,561,190",2:40,Baldelli,38.0,21.0,55%,baldero01,data
+2025,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"3,184,570","39,316",28.9,30.7,96,96,0,4,15,"$314,450,000",2:48,Mendoza,36.0,23.0,63%,mendoca99,data
+2025,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,392,659","41,885",28.6,30.5,103,101,0,4,16,"$265,827,533",2:51,Boone,33.0,17.0,51%,booneaa01,data
+2025,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,375,457","41,672",30.3,30.0,106,105,0,2,18,"$258,674,285",2:41,Thomson,30.0,21.0,70%,thomsro99,data
+2025,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,525,025","18,827",29.1,27.8,105,105,0,1,7,"$69,783,500",2:37,SheltonandKelly,40.0,21.0,52%,sheltde99,data
+2025,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"3,437,201","42,435",29.9,29.6,99,98,0,5,17,"$208,104,954",2:43,Shildt,28.0,17.0,60%,shildmi99,data
+2025,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,925,823","36,121",28.2,29.8,94,94,0,3,8,"$189,052,858",2:37,Melvin,42.0,22.0,52%,melvibo01,data
+2025,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"2,538,053","31,334",28.7,27.6,92,92,0,5,11,"$144,980,714",2:44,Wilson,26.0,15.0,57%,wilsoda01,data
+2025,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"2,250,007","27,778",26.6,29.5,94,95,0,1,9,"$127,965,000",2:38,Marmol,40.0,24.0,60%,marmool99,data
+2025,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Steinbrenner Field,"786,750","9,713",27.3,27.8,101,101,0,4,7,"$90,516,213",2:39,Cash,36.0,15.0,41%,cashke01,data
+2025,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,397,069","29,593",29.0,31.9,93,93,0,1,10,"$208,110,000",2:41,Bochy,48.0,20.0,41%,bochybr01,data
+2025,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"2,849,935","35,184",28.1,31.1,105,105,0,2,15,"$242,062,381",2:44,Schneider,41.0,25.0,60%,schnejo99,data
+2025,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,916,768","23,664",25.8,27.3,99,100,0,2,8,"$100,160,060",2:39,MartinezandCairo,37.0,20.0,54%,martida01,data
+2026,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,Chase Field,"2,288,586","28,254",28.4,30.4,98,98,0,2,11,"$205,921,284",2:45,Lovullo,35.0,22.0,62%,lovulto01,data
+2026,ATH,Athletics,AL,American League,West,AL West,Athletics,Sutter Health Park,"799,240","9,867",26.7,28.6,106,107,0,2,7,"$77,427,857",2:47,Kotsay,36.0,20.0,55%,kotsama01,data
+2026,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,Truist Park,"2,800,446","34,573",29.5,30.7,101,100,0,5,14,"$275,725,000",2:38,Weiss,34.0,17.0,50%,weisswa01,data
+2026,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,Oriole Park at Camden Yards,"1,829,252","22,583",26.7,29.8,98,98,0,1,10,"$114,287,000",2:47,Albernaz,54.0,31.0,57%,albercr99,data
+2026,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,Fenway Park,"2,827,315","34,905",28.3,29.6,99,98,0,4,10,"$237,693,334",2:43,CoraandTracy,30.0,16.0,53%,coraal01,data
+2026,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,Wrigley Field,"2,969,583","36,662",28.9,31.6,101,100,0,1,11,"$241,411,079",2:48,Counsell,43.0,24.0,55%,counscr01,data
+2026,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,Guaranteed Rate Field,"1,986,425","24,524",25.8,28.8,101,101,0,3,7,"$78,630,000",2:45,Venable,52.0,26.0,50%,venabwi01,data
+2026,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,Great American Ball Park,"1,991,703","24,589",27.2,28.3,99,99,0,2,7,"$109,118,333",2:44,Francona,32.0,18.0,56%,francte01,data
+2026,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,Progressive Field,"2,001,415","24,709",27.0,27.6,99,99,0,3,7,"$75,256,711",2:43,Vogt,41.0,30.0,73%,vogtst01,data
+2026,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,Coors Field,"2,245,426","27,721",26.5,30.2,114,118,0,1,5,"$87,189,286",2:46,Schaeffer,41.0,24.0,58%,schaewa99,data
+2026,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,Comerica Park,"2,322,853","28,677",26.1,29.7,102,101,0,4,12,"$144,281,859",2:42,Hinch,35.0,21.0,60%,,data
+2026,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,Daikin Park,"2,472,118","30,520",29.1,28.6,99,99,0,1,8,"$210,361,666",2:47,Espada,34.0,23.0,67%,espadjo99,data
+2026,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,Kauffman Stadium,"1,527,098","18,853",28.0,30.2,100,101,0,2,13,"$102,364,445",2:39,Quatraro,31.0,21.0,67%,quatrma99,data
+2026,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,Angel Stadium of Anaheim,"2,631,919","32,493",27.8,27.3,96,97,0,1,10,"$136,988,096",2:46,Suzuki,58.0,24.0,41%,suzukku01,data
+2026,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,Dodger Stadium,"4,034,219","49,805",30.9,28.5,101,100,0,6,18,"$368,699,449",2:44,Roberts,23.0,13.0,56%,roberda07,data
+2026,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,loanDepot park,"1,231,018","15,198",25.7,28.6,95,95,0,2,4,"$50,190,000",2:46,McCullough,47.0,29.0,61%,mcculcl99,data
+2026,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,American Family Field,"2,788,934","34,431",27.4,27.0,101,99,0,2,7,"$146,580,000",2:47,Murphy,42.0,30.0,71%,murphpa99,data
+2026,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,Target Field,"1,740,366","21,486",28.2,28.1,101,102,0,2,6,"$100,684,523",2:45,Shelton,33.0,19.0,57%,sheltde99,data
+2026,NYM,New York Mets,NL,National League,East,NL East,New York Mets,Citi Field,"2,712,120","33,483",27.6,30.1,96,96,0,1,13,"$267,817,634",2:46,MendozaandGreen,45.0,29.0,64%,mendoca99,data
+2026,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,Yankee Stadium III,"3,297,154","41,214",28.8,30.0,103,101,0,4,16,"$284,070,833",2:49,Boone,39.0,23.0,58%,booneaa01,data
+2026,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,Citizens Bank Park,"3,230,526","39,883",30.2,29.9,107,107,0,6,14,"$257,217,617",2:44,ThomsonandMattingly,46.0,33.0,71%,thomsro99,data
+2026,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,PNC Park,"1,704,229","21,040",28.0,27.3,104,104,0,2,11,"$95,694,833",2:48,Kelly,39.0,17.0,43%,kellydo01,data
+2026,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,Petco Park,"3,347,081","41,322",29.4,29.5,98,97,0,1,16,"$244,246,082",2:46,Stammen,39.0,21.0,53%,stammcr01,data
+2026,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,Oracle Park,"2,856,810","35,269",27.1,28.8,94,95,0,2,7,"$152,362,856",2:42,Vitello,46.0,17.0,36%,vitelto99,data
+2026,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,T-Mobile Park,"2,883,798","35,602",28.2,28.1,95,94,0,1,10,"$142,791,880",2:44,Wilson,50.0,28.0,56%,wilsoda01,data
+2026,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,Busch Stadium III,"2,233,902","27,579",25.4,27.7,93,93,0,3,3,,2:47,Marmol,36.0,22.0,61%,marmool99,data
+2026,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,Tropicana Field,"1,414,975","17,469",27.8,30.8,102,102,0,5,10,"$79,339,545",2:38,Cash,35.0,15.0,42%,cashke01,data
+2026,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,Globe Life Field,"2,406,217","29,706",29.3,30.3,93,93,0,1,9,"$181,925,000",2:44,Schumaker,33.0,13.0,39%,schumsk01,data
+2026,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,Rogers Centre,"3,338,878","41,221",28.8,29.9,106,106,0,4,14,"$221,400,344",2:44,Schneider,41.0,19.0,46%,schnejo99,data
+2026,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,Nationals Park,"1,839,116","22,705",24.8,28.3,101,102,0,3,5,"$63,662,500",2:47,Butera,47.0,27.0,57%,buterbl99,data
