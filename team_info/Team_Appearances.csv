@@ -1,0 +1,601 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Tm,G_team,G,GS,Batting,Defense,P,C,1B,2B,3B,SS,LF,CF,RF,OF,DH,PH,PR,Row_Type
+2007,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2305,162,2282,2102,631,191,214,184,197,169,197,171,197,536,7,243,11,data
+2007,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2398,162,2363,2143,690,180,190,179,197,188,205,174,167,539,9,290,33,data
+2007,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2348,162,1733,2107,652,188,193,175,176,190,212,185,169,547,174,91,55,data
+2007,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2278,162,1697,2073,613,183,189,184,170,179,212,176,197,571,169,84,34,data
+2007,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2379,162,2358,2135,640,177,176,201,175,187,187,219,252,615,7,263,52,data
+2007,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2257,162,1666,2036,625,181,174,167,179,169,202,185,183,550,171,100,26,data
+2007,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2383,162,2352,2157,684,205,185,172,190,180,214,192,174,564,9,265,16,data
+2007,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2225,162,1700,2011,557,179,186,180,185,171,201,172,216,576,167,116,41,data
+2007,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,163,2407,163,2375,2179,692,178,186,192,207,176,181,216,182,567,9,283,32,data
+2007,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2269,162,1699,2076,605,176,212,178,169,201,194,188,190,564,161,77,31,data
+2007,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,162,2423,162,2388,2164,722,174,206,171,184,172,191,195,188,561,9,284,29,data
+2007,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,162,2409,162,2378,2157,638,198,204,225,204,220,188,178,204,559,9,293,22,data
+2007,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2294,162,1726,2042,610,184,206,187,189,182,191,171,180,531,177,119,30,data
+2007,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2230,162,1707,2005,558,182,189,178,177,179,189,179,199,559,172,103,26,data
+2007,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2417,162,2386,2161,645,183,183,210,201,177,228,171,205,578,13,273,35,data
+2007,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2330,162,2295,2098,654,180,169,172,188,177,196,200,204,572,9,259,11,data
+2007,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2259,162,1690,2012,600,173,167,183,196,171,194,186,167,539,186,104,42,data
+2007,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2335,162,2314,2082,661,185,175,172,166,166,200,172,197,563,6,269,21,data
+2007,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2366,162,1733,2159,684,193,226,165,189,191,176,180,180,529,173,99,34,data
+2007,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2220,162,1649,2002,608,177,169,169,169,169,192,189,196,553,167,64,31,data
+2007,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2446,162,2424,2215,660,180,176,171,250,170,270,181,197,618,7,264,56,data
+2007,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2304,162,2267,2091,657,178,182,179,181,178,181,190,195,551,9,240,12,data
+2007,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,163,2334,163,2315,2075,648,181,164,185,194,165,208,176,182,551,7,279,18,data
+2007,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2338,162,1760,2087,618,185,188,178,173,176,202,177,207,583,163,96,58,data
+2007,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2371,162,2353,2143,658,180,196,186,175,178,248,189,187,589,6,264,50,data
+2007,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2440,162,2402,2205,678,186,183,198,191,189,219,211,208,615,9,317,19,data
+2007,TBD,Tampa Bay Devil Rays,AL,American League,East,AL East,Tampa Bay Devil Rays,162,2229,162,1628,2013,645,173,173,174,172,174,175,169,174,512,166,80,19,data
+2007,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2313,162,1718,2097,629,181,191,173,187,177,231,184,203,584,163,89,30,data
+2007,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2308,162,1758,2037,582,190,187,166,191,199,194,171,176,529,190,139,48,data
+2007,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2528,162,2488,2247,750,177,239,168,166,177,225,206,175,580,11,295,32,data
+2008,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2280,162,2263,2048,606,180,190,185,184,175,196,166,191,547,7,263,27,data
+2008,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2407,162,2377,2128,707,189,170,174,182,171,212,186,170,548,9,294,31,data
+2008,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,161,2340,161,1729,2102,653,190,168,179,177,219,203,172,165,532,165,117,36,data
+2008,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2293,162,1701,2075,628,198,190,169,195,200,198,182,186,542,176,62,40,data
+2008,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,161,2345,161,2310,2119,639,190,174,223,182,178,195,208,191,570,9,286,22,data
+2008,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,163,2298,163,1708,2075,626,172,187,191,183,181,182,234,178,576,175,75,49,data
+2008,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2392,162,2353,2137,669,189,178,178,178,191,216,213,192,576,9,285,28,data
+2008,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2199,162,1669,1965,561,180,179,178,199,169,193,165,186,527,172,112,31,data
+2008,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2310,162,2276,2091,647,173,175,206,182,178,181,200,180,550,9,253,20,data
+2008,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2267,162,1703,2075,602,173,184,180,204,177,231,178,193,591,161,66,25,data
+2008,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,161,2361,161,2328,2137,672,175,231,169,207,173,191,203,200,564,10,255,38,data
+2008,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,161,2312,161,2277,2089,649,189,175,188,183,170,220,186,165,553,9,252,16,data
+2008,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2250,162,1682,2044,601,166,184,203,171,206,201,202,189,552,168,71,44,data
+2008,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2229,162,1709,2004,545,183,181,179,193,180,193,178,198,558,167,74,30,data
+2008,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2376,162,2358,2139,623,186,172,249,188,201,209,187,190,549,6,277,43,data
+2008,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2227,162,2208,1988,607,166,169,178,189,171,173,176,173,519,6,249,7,data
+2008,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,163,2287,163,1683,2048,648,171,178,176,194,176,173,181,181,521,190,109,26,data
+2008,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2405,162,2383,2166,719,186,174,178,164,166,247,170,190,583,7,271,10,data
+2008,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2330,162,1730,2105,637,195,229,168,191,185,188,176,174,525,167,97,37,data
+2008,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,161,2282,161,1712,2030,602,172,176,168,189,176,215,219,209,557,181,91,57,data
+2008,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2396,162,2377,2149,630,189,166,168,212,168,265,173,210,623,7,291,62,data
+2008,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2340,162,2318,2070,659,174,172,180,190,183,176,174,184,524,6,290,17,data
+2008,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2343,162,2312,2069,653,181,166,186,166,178,195,189,183,549,12,286,25,data
+2008,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2296,162,1704,2057,631,191,204,171,174,171,175,179,179,530,172,106,46,data
+2008,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2381,162,2348,2157,640,191,216,212,199,199,198,179,181,544,9,276,31,data
+2008,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2396,162,2358,2189,668,186,187,218,192,202,237,200,207,593,10,275,26,data
+2008,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2299,162,1726,2054,610,172,170,171,169,170,210,177,231,606,200,133,16,data
+2008,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2282,162,1696,2051,619,172,195,179,187,180,200,188,187,539,192,118,16,data
+2008,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2244,162,1699,2006,583,186,173,181,174,184,215,168,178,548,188,89,33,data
+2008,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,161,2397,161,2367,2115,678,185,201,182,189,175,215,166,169,549,10,293,31,data
+2009,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2301,162,2268,2071,645,179,194,187,185,174,195,182,174,532,9,269,16,data
+2009,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2336,162,2311,2089,650,185,178,192,188,171,210,175,180,552,6,252,37,data
+2009,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2281,162,1675,2058,646,176,170,179,179,185,193,176,168,533,167,99,26,data
+2009,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2317,162,1732,2084,625,186,187,169,190,191,184,179,200,557,165,85,47,data
+2009,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,161,2343,161,2320,2115,641,178,175,207,194,174,211,200,195,578,6,277,14,data
+2009,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2241,162,1697,1993,577,177,180,181,170,170,179,196,195,549,177,105,47,data
+2009,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2314,162,2282,2104,640,190,177,173,185,194,199,183,195,565,9,252,15,data
+2009,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2188,162,1621,1973,607,174,179,173,174,173,183,176,178,521,168,63,28,data
+2009,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2352,162,2323,2129,646,170,183,196,212,180,216,191,195,571,9,259,33,data
+2009,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,163,2350,163,1781,2097,602,188,181,181,176,187,224,175,227,603,194,125,52,data
+2009,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,162,2394,162,2367,2149,692,182,191,166,203,175,204,187,211,576,11,281,28,data
+2009,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,162,2340,162,2319,2092,659,190,175,179,185,176,215,169,164,544,6,266,27,data
+2009,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2247,162,1690,2027,588,179,174,177,181,208,172,194,221,562,178,90,34,data
+2009,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2246,162,1688,2027,596,188,174,173,179,169,199,180,192,556,176,80,26,data
+2009,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2352,162,2318,2123,688,174,178,181,191,182,201,177,177,541,10,263,22,data
+2009,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2321,162,2285,2084,674,168,165,174,208,176,175,176,190,538,9,267,7,data
+2009,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,163,2315,163,1710,2076,643,182,175,183,185,176,201,219,186,550,171,83,54,data
+2009,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2377,162,2341,2120,673,187,177,178,171,182,230,170,177,568,9,289,11,data
+2009,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2369,162,1798,2136,623,199,186,173,209,198,197,204,226,580,177,97,61,data
+2009,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2306,162,1694,2083,650,171,208,174,192,167,186,188,198,548,173,77,27,data
+2009,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2285,162,2252,2017,621,188,166,173,179,169,191,169,172,527,12,283,20,data
+2009,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,161,2195,161,2179,1955,617,166,165,170,172,171,168,165,169,498,6,251,3,data
+2009,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2349,162,2317,2097,689,170,173,181,177,176,189,186,189,545,9,264,8,data
+2009,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2150,162,1608,1929,572,172,175,172,169,168,187,165,172,516,171,58,31,data
+2009,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2304,162,2287,2121,619,184,201,187,185,174,225,208,205,589,7,231,21,data
+2009,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2358,162,2338,2164,643,187,183,244,220,193,225,200,194,593,6,289,12,data
+2009,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2346,162,1721,2120,672,184,180,191,174,175,183,175,232,581,165,140,21,data
+2009,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2158,162,1592,1964,598,172,175,168,177,172,174,176,167,510,161,48,11,data
+2009,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2202,162,1638,1988,607,183,179,169,170,174,182,170,171,513,165,48,36,data
+2009,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2401,162,2367,2165,694,180,190,215,168,177,212,189,192,573,10,260,26,data
+2010,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2271,162,2247,2039,616,175,182,178,185,171,209,173,174,545,9,274,14,data
+2010,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2376,162,2362,2142,652,194,202,174,203,171,229,197,171,567,6,263,50,data
+2010,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2240,162,1664,2017,616,179,188,191,183,184,184,169,166,511,166,71,39,data
+2010,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2327,162,1754,2106,605,195,190,186,172,178,234,204,202,611,164,125,48,data
+2010,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2307,162,2279,2093,644,181,175,183,189,167,209,176,204,564,10,236,11,data
+2010,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2212,162,1672,1972,569,175,173,173,197,171,163,175,191,525,190,85,46,data
+2010,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2370,162,2338,2163,663,191,176,181,191,186,229,185,185,583,9,258,19,data
+2010,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2255,162,1661,2027,632,179,186,171,186,170,184,170,169,514,172,79,20,data
+2010,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2379,162,2348,2151,675,175,193,203,200,176,203,185,198,557,9,257,30,data
+2010,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2274,162,1730,2066,578,189,180,195,179,186,230,176,202,583,160,130,11,data
+2010,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,162,2300,162,2267,2055,643,171,197,167,225,171,173,179,174,516,10,256,24,data
+2010,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,162,2358,162,2322,2113,669,190,182,175,169,183,219,177,166,557,9,280,17,data
+2010,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2190,162,1620,1958,603,175,171,168,169,165,169,173,179,514,175,68,37,data
+2010,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2236,162,1698,1998,572,187,184,170,182,168,201,181,180,552,177,96,31,data
+2010,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2309,162,2284,2091,636,180,180,202,172,174,222,173,178,562,6,255,18,data
+2010,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2262,162,2234,2045,657,164,168,170,176,185,178,186,182,537,6,226,14,data
+2010,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2290,162,1702,2040,627,177,170,183,192,184,174,168,191,528,185,86,55,data
+2010,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2348,162,2318,2090,653,184,176,200,170,173,193,178,190,543,11,290,19,data
+2010,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2313,162,1764,2070,592,182,180,169,206,185,212,185,210,573,183,117,44,data
+2010,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2255,162,1709,2028,585,176,178,175,171,181,218,177,210,574,178,108,28,data
+2010,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2277,162,2246,2032,613,185,177,181,186,184,170,168,181,515,10,276,17,data
+2010,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2327,162,2291,2071,679,180,178,176,170,174,175,174,196,532,11,275,13,data
+2010,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2352,162,2329,2108,661,169,176,179,167,184,225,211,204,590,6,285,16,data
+2010,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2104,162,1614,1877,520,173,175,165,165,171,175,167,170,510,171,58,33,data
+2010,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2354,162,2337,2162,638,189,214,181,178,180,241,187,241,611,6,224,45,data
+2010,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2347,162,2328,2130,617,188,183,213,191,192,194,190,236,596,7,292,16,data
+2010,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2361,162,1767,2119,653,198,180,224,175,186,183,183,218,569,186,174,31,data
+2010,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2312,162,1708,2075,643,191,184,183,174,171,192,190,189,537,174,86,39,data
+2010,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2206,162,1623,2016,617,176,173,179,177,174,179,179,178,529,160,40,40,data
+2010,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2409,162,2375,2179,656,173,226,212,178,187,210,185,245,608,9,271,33,data
+2011,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2229,162,2197,1995,625,171,177,170,178,173,185,167,175,518,9,252,9,data
+2011,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2322,162,2295,2081,672,178,174,171,189,173,196,169,196,542,8,260,27,data
+2011,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2262,162,1654,2043,640,172,173,180,176,177,216,172,171,548,167,60,39,data
+2011,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2270,162,1698,2048,606,177,182,177,187,181,190,172,203,557,173,89,44,data
+2011,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2373,162,2338,2142,657,173,181,186,181,163,240,181,208,610,11,259,30,data
+2011,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2206,162,1671,1991,572,175,193,173,187,167,173,173,205,541,175,73,48,data
+2011,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2358,162,2324,2144,663,187,170,173,185,204,241,179,170,573,9,240,29,data
+2011,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2287,162,1675,2048,644,173,178,177,186,175,194,183,175,533,191,76,44,data
+2011,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2348,162,2323,2116,679,164,193,182,207,182,198,172,183,543,7,252,21,data
+2011,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2309,162,1755,2104,583,170,177,212,207,172,210,180,253,622,173,86,42,data
+2011,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,162,2348,162,2314,2121,670,186,172,175,211,177,196,194,186,558,11,260,32,data
+2011,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,162,2377,162,2355,2109,665,180,188,185,178,170,210,176,190,562,6,284,31,data
+2011,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2134,162,1582,1933,582,177,167,177,165,169,171,172,169,506,165,36,28,data
+2011,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2187,162,1672,1960,548,194,192,173,173,171,192,173,183,536,165,88,14,data
+2011,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,161,2304,161,2277,2100,622,179,187,209,182,180,235,173,180,575,12,233,29,data
+2011,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2292,162,2260,2068,596,189,180,195,188,181,192,206,186,558,9,260,31,data
+2011,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2269,162,1686,2009,619,195,177,180,166,172,178,163,187,524,181,93,49,data
+2011,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2383,162,2347,2115,676,190,185,189,175,168,188,181,196,560,11,312,18,data
+2011,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2301,162,1725,2090,627,181,178,183,198,176,207,176,208,574,183,72,41,data
+2011,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2229,162,1643,2019,622,167,176,170,186,177,189,178,177,534,164,75,22,data
+2011,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2203,162,2187,1963,556,184,178,194,172,176,171,174,175,518,6,264,26,data
+2011,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2444,162,2421,2207,711,187,186,171,202,184,185,171,240,580,6,278,26,data
+2011,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2355,162,2324,2122,651,182,185,192,187,175,202,181,204,563,9,288,20,data
+2011,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2090,162,1600,1889,513,174,182,175,175,169,194,177,166,525,161,52,30,data
+2011,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2370,162,2351,2156,642,196,188,193,181,189,241,213,198,591,6,245,49,data
+2011,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2403,162,2369,2209,630,188,187,237,230,184,198,197,252,632,10,262,36,data
+2011,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2284,162,1728,2061,600,201,182,188,186,203,192,171,191,542,162,137,16,data
+2011,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2186,162,1640,1992,579,180,185,170,174,174,195,209,189,546,165,66,18,data
+2011,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2264,162,1662,2046,636,170,177,174,192,179,183,182,181,532,171,64,48,data
+2011,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,161,2341,161,2307,2106,664,167,184,169,189,172,232,197,182,580,11,250,42,data
+2012,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2213,162,2188,1998,623,174,168,171,174,178,181,171,174,521,10,231,11,data
+2012,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2264,162,2228,2008,622,174,167,168,177,193,187,170,170,524,10,268,18,data
+2012,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2282,162,1661,2078,654,175,171,189,185,171,198,173,186,544,168,78,28,data
+2012,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2316,162,1700,2092,651,179,189,178,188,171,190,194,205,564,170,107,30,data
+2012,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2341,162,2317,2113,655,172,178,184,183,165,213,207,210,594,6,277,23,data
+2012,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2277,162,1687,2054,628,178,198,168,189,167,206,179,171,547,179,72,64,data
+2012,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2211,162,2189,2016,587,184,174,185,188,177,196,178,170,532,6,201,19,data
+2012,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2338,162,1716,2116,655,175,192,169,190,180,238,176,175,575,176,80,22,data
+2012,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2429,162,2403,2170,737,168,194,187,199,176,176,186,197,543,7,264,33,data
+2012,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2248,162,1694,2042,582,178,169,205,180,172,210,170,238,598,170,76,33,data
+2012,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,162,2421,162,2394,2189,703,175,188,176,199,181,205,198,221,595,6,263,32,data
+2012,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2249,162,1628,2031,662,173,171,177,168,165,164,192,168,521,173,60,34,data
+2012,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2267,162,1698,2037,606,195,175,173,173,174,216,206,190,561,166,73,33,data
+2012,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2356,162,2326,2158,668,168,205,192,213,174,238,176,185,580,10,247,22,data
+2012,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2269,162,2235,2052,645,166,175,171,178,168,223,189,178,569,9,234,23,data
+2012,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2415,162,2381,2148,674,186,203,176,186,186,186,205,192,564,10,322,20,data
+2012,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2271,162,1648,2049,661,177,173,181,184,170,187,171,181,528,170,64,45,data
+2012,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2420,162,2385,2166,667,189,185,198,171,177,222,201,208,601,10,329,16,data
+2012,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2367,162,1776,2125,647,185,187,169,195,170,253,172,200,595,174,149,33,data
+2012,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2247,162,1658,2027,624,175,187,173,166,177,197,174,177,532,173,111,17,data
+2012,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2294,162,2263,2053,602,179,192,182,181,169,241,173,185,576,11,281,22,data
+2012,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2360,162,2326,2129,645,180,209,179,171,199,206,170,216,570,11,270,26,data
+2012,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2383,162,2361,2157,691,171,175,191,168,181,238,187,224,606,8,280,25,data
+2012,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2236,162,1657,1995,613,172,170,172,172,183,192,171,170,526,169,87,36,data
+2012,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2384,162,2347,2192,688,181,210,185,203,195,211,182,186,561,14,220,32,data
+2012,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2391,162,2369,2157,668,185,194,226,189,181,195,190,205,572,6,286,37,data
+2012,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2406,162,1821,2154,633,214,190,228,218,205,194,174,193,548,184,156,37,data
+2012,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2236,162,1676,2027,590,176,183,170,176,170,219,225,183,570,165,94,25,data
+2012,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2289,162,1675,2062,657,178,185,176,175,172,199,177,184,542,174,94,30,data
+2012,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2338,162,2306,2129,644,173,185,179,180,167,255,211,210,619,9,252,30,data
+2013,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2349,162,2304,2077,689,172,171,180,191,176,195,181,179,528,12,285,22,data
+2013,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2293,162,2260,2092,628,174,169,178,228,172,215,183,191,561,10,214,40,data
+2013,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2246,162,1659,2021,635,175,168,188,169,170,192,166,166,523,180,90,23,data
+2013,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2265,162,1686,2057,612,177,193,180,185,169,221,172,191,564,174,93,41,data
+2013,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2294,162,2260,2051,651,170,163,173,182,163,184,181,196,553,11,277,12,data
+2013,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2279,162,1694,2062,632,185,182,181,182,166,212,208,174,553,169,76,47,data
+2013,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2286,162,2247,2098,623,185,176,176,185,179,242,173,169,579,12,236,20,data
+2013,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2337,162,1684,2114,702,174,183,169,194,177,175,172,205,543,183,78,45,data
+2013,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2330,162,2294,2079,665,171,184,178,177,181,202,176,180,544,10,260,18,data
+2013,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2274,162,1724,2063,590,179,180,179,202,177,232,181,185,578,170,105,40,data
+2013,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2266,162,1698,2026,609,180,184,170,168,172,213,188,201,564,180,107,40,data
+2013,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2236,162,1691,2006,589,186,169,196,181,169,171,180,193,525,180,79,48,data
+2013,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2311,162,1697,2091,658,185,180,179,176,182,203,177,188,551,162,88,26,data
+2013,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2336,162,2293,2166,666,171,187,202,224,190,213,184,191,569,11,210,18,data
+2013,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2244,162,2207,2003,633,178,178,179,188,168,170,171,165,502,10,240,8,data
+2013,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2335,162,2301,2086,663,174,211,178,198,170,189,175,171,526,11,275,15,data
+2013,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2332,162,1710,2089,673,172,171,175,183,194,186,172,189,540,164,103,42,data
+2013,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2378,162,2345,2149,696,169,187,179,181,173,199,209,201,581,11,266,12,data
+2013,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2253,162,1700,2021,590,198,184,173,188,181,176,177,197,531,174,119,15,data
+2013,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2313,162,1752,2083,609,198,212,198,170,178,186,188,185,539,186,166,14,data
+2013,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2310,162,2272,2065,628,175,193,179,175,173,181,185,219,564,10,262,33,data
+2013,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2369,162,2331,2153,627,174,226,186,172,202,199,173,228,586,12,289,24,data
+2013,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2359,162,2320,2128,650,175,189,178,182,172,249,237,245,625,12,271,24,data
+2013,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2237,162,1665,2017,610,175,175,174,168,183,201,185,193,553,169,78,36,data
+2013,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2396,162,2357,2185,686,190,183,186,210,181,213,199,169,562,11,263,19,data
+2013,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2341,162,2314,2146,645,191,187,191,223,195,211,179,201,577,11,237,30,data
+2013,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,163,2423,163,1830,2172,648,193,193,203,173,182,256,182,211,625,181,193,27,data
+2013,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,163,2321,163,1721,2092,638,175,193,171,176,171,209,204,181,578,183,142,23,data
+2013,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2314,162,1709,2078,649,184,179,203,178,183,205,173,181,544,180,124,31,data
+2013,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2241,162,2208,2021,602,175,176,173,176,165,207,177,186,561,11,233,23,data
+2014,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2274,162,2233,2023,650,168,166,170,169,169,191,175,177,534,11,253,21,data
+2014,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2252,162,2218,2029,634,174,165,202,176,172,181,167,172,517,13,206,34,data
+2014,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2294,162,1694,2081,641,174,184,179,194,170,231,174,176,570,158,77,29,data
+2014,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2283,162,1676,2070,655,175,184,176,182,169,199,179,200,552,164,101,24,data
+2014,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2358,162,2317,2126,699,173,167,192,191,166,200,194,192,568,11,275,9,data
+2014,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2285,162,1711,2039,615,181,172,167,175,171,200,181,208,568,176,85,49,data
+2014,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2213,162,2176,2000,590,175,187,179,179,172,209,179,173,548,11,220,21,data
+2014,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2391,162,1703,2163,735,177,175,180,183,169,189,180,202,558,179,123,16,data
+2014,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2387,162,2351,2146,709,172,185,185,183,189,190,196,191,547,11,270,12,data
+2014,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2330,162,1737,2110,635,188,193,181,201,187,196,193,183,544,166,79,43,data
+2014,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2229,162,1677,2011,600,174,191,172,176,177,197,174,175,534,169,87,27,data
+2014,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2273,162,1699,2041,613,185,171,178,179,168,175,207,213,550,183,51,63,data
+2014,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2468,162,1810,2229,705,188,194,172,246,178,200,178,190,555,178,123,46,data
+2014,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2364,162,2325,2166,658,179,186,178,191,231,196,190,188,558,10,237,17,data
+2014,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2311,162,2273,2056,649,178,193,186,170,169,176,175,183,521,10,279,9,data
+2014,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2327,162,2287,2103,640,179,208,193,197,177,185,176,183,535,10,253,19,data
+2014,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2292,162,1680,2067,653,169,182,169,172,190,194,180,186,548,169,97,44,data
+2014,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2294,162,2256,2072,651,175,180,167,170,179,217,187,188,561,12,247,17,data
+2014,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2288,162,1698,2071,637,183,181,186,194,181,179,174,205,545,163,100,27,data
+2014,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2358,162,1803,2100,603,197,217,204,172,175,203,194,202,570,182,187,38,data
+2014,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2282,162,2243,2052,623,171,185,175,190,175,200,184,169,546,10,259,20,data
+2014,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2362,162,2331,2125,614,173,233,182,192,180,202,177,221,577,12,322,28,data
+2014,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2362,162,2327,2119,643,180,193,181,185,166,236,211,222,598,11,313,23,data
+2014,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2333,162,1718,2094,660,173,183,178,165,177,189,187,213,567,187,93,48,data
+2014,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2353,162,2319,2160,637,187,207,188,203,174,245,190,168,587,11,236,29,data
+2014,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2324,162,2288,2106,647,180,172,188,174,180,199,211,212,576,10,258,21,data
+2014,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2352,162,1741,2087,656,196,173,199,170,173,216,182,183,561,191,171,23,data
+2014,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2264,162,1664,2036,638,166,176,177,176,173,187,180,179,539,172,97,21,data
+2014,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2397,162,1828,2130,611,193,193,233,239,177,194,193,191,553,182,202,41,data
+2014,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2265,162,2231,2022,620,171,177,182,176,170,197,176,185,543,12,248,17,data
+2015,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2393,162,2355,2140,712,181,179,192,190,189,191,175,193,532,11,270,14,data
+2015,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2340,162,2300,2113,694,170,184,172,201,166,216,178,174,548,12,255,21,data
+2015,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2249,162,1675,2033,615,167,182,176,172,176,207,182,200,565,163,89,21,data
+2015,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2268,162,1676,2057,637,173,181,186,186,174,199,169,192,545,178,72,35,data
+2015,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2406,162,2371,2210,714,204,169,207,194,179,230,182,202,595,10,288,22,data
+2015,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2265,162,1727,2014,576,197,173,180,209,171,176,173,175,523,167,118,29,data
+2015,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2337,162,2300,2080,683,173,173,179,171,169,201,182,177,543,11,263,16,data
+2015,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,161,2285,161,1693,2045,637,175,167,170,178,169,199,177,202,563,187,138,21,data
+2015,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2436,162,2396,2197,746,169,201,171,172,183,225,186,193,576,10,262,9,data
+2015,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,161,2340,161,1721,2128,666,174,196,183,229,175,180,183,170,528,167,83,38,data
+2015,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2333,162,1730,2101,644,182,205,172,181,170,226,195,182,567,168,122,40,data
+2015,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2263,162,1658,2063,655,193,170,174,177,170,187,178,181,532,164,40,40,data
+2015,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,162,2459,162,1823,2204,680,173,199,192,218,181,234,175,172,571,169,117,62,data
+2015,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2379,162,2340,2167,677,180,188,175,198,173,238,181,202,598,14,278,22,data
+2015,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2297,162,2260,2052,648,170,187,175,183,172,196,185,177,532,12,251,20,data
+2015,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2377,162,2341,2116,658,175,175,207,219,167,204,195,177,548,11,295,18,data
+2015,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2311,162,1680,2089,682,183,176,171,172,168,199,182,195,551,167,75,34,data
+2015,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2325,162,2291,2100,647,174,175,183,180,185,226,199,181,576,12,255,21,data
+2015,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2401,162,1795,2168,659,191,196,213,182,176,195,181,238,587,169,118,50,data
+2015,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2349,162,1742,2103,649,181,195,174,179,180,227,180,188,580,167,161,24,data
+2015,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2321,162,2281,2097,665,166,191,185,174,171,202,188,201,562,10,257,9,data
+2015,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2431,162,2391,2200,662,182,273,193,207,195,199,175,191,550,11,269,48,data
+2015,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2396,162,2355,2139,678,185,195,193,189,211,180,195,182,545,11,311,18,data
+2015,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2407,162,1786,2174,671,185,192,177,172,176,241,200,211,620,177,133,52,data
+2015,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2342,162,2301,2134,719,182,174,181,175,177,197,180,183,541,12,230,12,data
+2015,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2406,162,2369,2185,677,193,210,186,188,191,219,228,186,578,11,274,46,data
+2015,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2478,162,1839,2204,692,206,203,191,175,182,227,194,202,595,190,218,23,data
+2015,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2358,162,1741,2125,660,180,189,177,178,169,226,204,185,590,178,94,51,data
+2015,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2337,162,1742,2092,631,174,211,198,172,181,200,169,183,545,168,97,41,data
+2015,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2245,162,2206,2023,630,169,182,186,178,169,197,172,180,536,11,225,22,data
+2016,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2399,162,2354,2165,737,173,172,194,181,181,209,184,204,562,10,266,10,data
+2016,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,161,2390,161,2348,2136,748,173,165,195,176,182,194,171,162,522,10,272,17,data
+2016,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2258,162,1698,2060,605,179,177,164,175,179,217,180,220,589,160,74,31,data
+2016,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2284,162,1694,2053,625,183,184,190,205,172,196,165,169,527,174,110,28,data
+2016,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2332,162,2299,2149,665,198,179,198,207,175,258,194,200,615,10,236,19,data
+2016,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2217,162,1619,2002,643,179,165,166,165,169,173,180,182,519,173,53,27,data
+2016,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2287,162,2256,2068,646,173,177,189,173,174,187,187,186,548,11,230,17,data
+2016,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,161,2366,161,1748,2148,665,202,176,186,193,173,221,200,206,587,161,114,27,data
+2016,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2369,162,2322,2146,695,173,195,184,181,179,212,177,181,553,10,255,7,data
+2016,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,161,2295,161,1701,2069,637,172,185,181,207,173,177,186,178,536,170,89,31,data
+2016,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2334,162,1720,2097,662,187,201,179,181,173,211,191,173,553,178,118,34,data
+2016,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2244,162,1653,2022,634,183,171,178,173,173,178,177,176,521,174,50,38,data
+2016,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2419,162,1773,2184,689,182,187,220,184,189,224,182,177,570,170,98,54,data
+2016,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2491,162,2447,2264,768,179,184,204,188,173,238,200,197,604,11,325,11,data
+2016,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,161,2460,161,2420,2213,720,170,252,202,192,189,178,169,181,520,10,281,28,data
+2016,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2342,162,2303,2097,675,174,172,186,199,169,181,203,195,558,10,284,4,data
+2016,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2290,162,1641,2071,695,177,172,171,174,172,180,178,180,526,167,72,25,data
+2016,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2430,162,2394,2196,700,177,195,188,191,180,216,230,187,589,11,292,17,data
+2016,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2308,162,1709,2096,645,178,201,179,178,171,181,179,222,562,174,85,32,data
+2016,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2343,162,1744,2097,654,183,196,197,171,170,185,178,197,542,181,135,28,data
+2016,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2348,162,2311,2124,667,166,215,179,169,173,223,178,205,568,11,260,14,data
+2016,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2458,162,2420,2197,687,180,256,197,192,181,199,178,205,559,11,293,39,data
+2016,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2355,162,2317,2123,672,176,175,199,199,182,192,179,195,553,11,248,29,data
+2016,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2370,162,1780,2118,638,174,193,177,166,176,208,166,248,603,175,166,33,data
+2016,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2404,162,2368,2185,737,183,173,186,201,183,191,174,186,543,12,268,7,data
+2016,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2400,162,2365,2158,643,198,221,204,202,176,238,188,185,584,10,284,39,data
+2016,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2281,162,1670,2055,647,188,183,168,171,179,192,180,182,539,165,103,11,data
+2016,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2324,162,1720,2099,641,182,201,171,184,167,219,179,196,573,178,84,58,data
+2016,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2349,162,1749,2129,649,184,200,178,184,181,208,168,205,564,164,90,37,data
+2016,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2303,162,2266,2095,670,181,181,177,171,176,193,193,178,550,11,219,20,data
+2017,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2360,162,2319,2139,675,186,184,188,177,183,220,191,183,577,12,254,28,data
+2017,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2373,162,2334,2117,692,172,173,180,189,172,219,171,174,558,10,268,37,data
+2017,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2351,162,1737,2138,654,182,174,180,179,180,220,185,222,612,156,95,31,data
+2017,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2334,162,1706,2099,677,183,185,200,193,168,178,167,167,506,175,95,39,data
+2017,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2420,162,2380,2216,693,201,190,239,187,189,257,233,208,634,10,296,7,data
+2017,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2289,162,1653,2073,682,181,172,174,177,164,181,178,183,538,167,86,26,data
+2017,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2321,162,2286,2089,666,181,178,187,174,177,181,174,192,543,10,241,13,data
+2017,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2366,162,1754,2150,659,177,173,190,202,175,208,209,205,597,167,93,43,data
+2017,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2374,162,2329,2145,711,181,184,189,181,184,186,178,183,544,10,261,19,data
+2017,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2336,162,1710,2113,672,183,199,190,184,172,179,187,192,543,186,103,30,data
+2017,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2313,162,1677,2116,681,177,191,180,183,177,225,210,218,576,167,73,29,data
+2017,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2342,162,1690,2147,700,202,182,175,184,174,182,189,187,544,162,48,29,data
+2017,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2392,162,1729,2142,705,194,181,189,198,176,183,176,174,521,167,109,38,data
+2017,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2464,162,2426,2214,698,175,190,214,197,189,229,216,191,605,12,345,10,data
+2017,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2399,162,2359,2150,742,171,198,177,193,183,173,168,173,509,11,271,9,data
+2017,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2423,162,2384,2202,712,192,202,203,185,186,207,205,190,578,11,285,18,data
+2017,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2324,162,1685,2110,682,181,188,179,172,175,198,184,195,552,169,104,22,data
+2017,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2396,162,2353,2157,730,177,184,183,195,180,181,201,180,542,11,247,20,data
+2017,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2294,162,1707,2076,639,181,201,182,181,187,187,176,179,531,171,112,22,data
+2017,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2350,162,1709,2131,687,196,181,175,176,173,192,198,193,558,160,126,19,data
+2017,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2308,162,2274,2089,668,169,200,171,178,168,202,182,197,552,11,236,11,data
+2017,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2371,162,2328,2134,664,186,205,210,186,175,190,178,199,548,10,277,23,data
+2017,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2342,162,2296,2148,679,194,175,190,187,197,225,179,179,569,11,238,10,data
+2017,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2323,162,1682,2094,689,182,187,180,167,175,186,187,181,533,169,93,29,data
+2017,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2372,162,2335,2123,664,187,193,172,199,174,218,188,193,574,12,298,22,data
+2017,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2416,162,2375,2158,708,190,199,189,198,173,188,178,184,529,11,295,21,data
+2017,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2345,162,1716,2111,673,184,175,184,178,176,206,189,175,554,175,123,21,data
+2017,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2268,162,1679,2056,626,175,185,175,195,175,201,183,180,551,168,66,40,data
+2017,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2455,162,1762,2221,740,193,176,201,194,185,229,171,187,576,171,126,39,data
+2017,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2322,162,2284,2106,649,181,185,183,169,173,218,176,197,572,12,241,33,data
+2018,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2409,162,2372,2171,735,195,176,200,194,177,174,178,188,529,11,258,13,data
+2018,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2377,162,2336,2126,715,183,172,170,183,174,201,176,177,542,10,254,24,data
+2018,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2313,162,1701,2091,652,184,176,176,187,173,216,178,201,569,167,98,30,data
+2018,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2345,162,1703,2128,697,192,192,181,176,182,184,179,188,529,166,96,22,data
+2018,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,163,2490,163,2452,2282,763,183,190,232,213,196,253,225,219,626,11,280,18,data
+2018,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2348,162,1680,2121,715,179,168,169,166,170,208,186,192,564,170,90,30,data
+2018,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2402,162,2364,2192,706,176,197,190,187,180,207,184,216,585,10,244,18,data
+2018,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2413,162,1785,2189,671,176,184,182,181,175,199,202,246,624,179,97,74,data
+2018,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,163,2368,163,2331,2118,681,191,189,180,178,175,198,177,185,547,10,276,20,data
+2018,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2323,162,1666,2066,704,166,188,178,168,177,176,168,167,507,199,75,60,data
+2018,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2348,162,1719,2127,672,196,189,186,183,178,232,223,203,587,168,92,34,data
+2018,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2184,162,1579,1991,645,174,167,171,170,169,167,173,170,506,160,48,7,data
+2018,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2467,162,1750,2235,763,187,220,177,204,174,183,182,187,545,158,114,33,data
+2018,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,163,2574,163,2532,2334,756,199,222,236,199,179,255,243,213,651,10,362,16,data
+2018,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,161,2434,161,2393,2214,707,180,227,178,189,206,234,189,205,599,10,283,19,data
+2018,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,163,2496,163,2455,2269,722,183,207,242,188,211,217,190,231,585,13,288,17,data
+2018,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2351,162,1671,2138,728,179,186,171,177,171,186,193,199,546,164,102,21,data
+2018,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2333,162,2295,2080,663,180,186,184,185,174,186,182,185,529,11,258,17,data
+2018,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2269,162,1648,2074,670,179,177,192,186,180,177,170,181,517,160,71,14,data
+2018,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2403,162,1702,2191,740,186,178,183,175,164,226,199,180,584,161,138,16,data
+2018,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2474,162,2429,2209,758,180,177,174,205,206,186,176,211,553,10,295,22,data
+2018,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,161,2293,161,2253,2063,641,177,171,198,192,178,182,172,180,528,10,267,14,data
+2018,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2380,162,2339,2142,697,167,175,206,194,172,196,187,214,565,11,264,21,data
+2018,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2373,162,1711,2146,699,184,189,184,175,174,200,204,194,562,175,103,42,data
+2018,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2412,162,2368,2161,711,178,179,197,183,179,209,187,178,558,12,305,16,data
+2018,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2464,162,2424,2209,727,195,213,205,224,176,177,172,207,547,10,257,35,data
+2018,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2371,162,1710,2144,715,192,176,194,178,178,204,181,194,549,172,109,25,data
+2018,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2300,162,1678,2074,668,175,183,169,181,173,197,190,181,552,163,81,42,data
+2018,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2435,162,1725,2184,752,177,178,177,190,186,203,180,192,555,183,128,38,data
+2018,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2441,162,2408,2194,724,193,187,197,178,168,192,205,202,571,11,295,23,data
+2019,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2418,162,2374,2199,719,189,195,237,197,175,187,223,201,576,11,256,21,data
+2019,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2411,162,2364,2170,737,180,177,165,173,170,214,190,197,571,12,265,20,data
+2019,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2386,162,1739,2152,695,184,191,219,199,214,203,199,200,560,165,126,26,data
+2019,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2455,162,1715,2236,794,197,205,210,174,177,180,176,173,512,169,123,29,data
+2019,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2430,162,2388,2247,738,189,187,236,196,177,213,224,228,592,12,244,15,data
+2019,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,161,2311,161,1674,2094,697,167,165,172,168,175,196,199,210,561,172,87,27,data
+2019,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2462,162,2422,2241,697,194,202,255,186,191,264,200,194,616,14,319,28,data
+2019,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2321,162,1680,2112,684,183,172,177,182,179,208,173,191,552,163,101,25,data
+2019,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2452,162,2407,2181,752,185,187,203,182,175,185,199,174,540,12,305,8,data
+2019,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,161,2316,161,1627,2083,738,167,178,171,169,166,175,170,166,508,192,68,42,data
+2019,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2309,162,1704,2101,654,175,197,188,185,193,214,215,206,571,165,81,41,data
+2019,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2269,162,1635,2065,682,178,182,174,171,173,175,184,195,537,159,58,25,data
+2019,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2425,162,1726,2188,751,195,181,198,206,189,197,179,171,535,161,98,27,data
+2019,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2413,162,2365,2210,707,174,236,203,201,186,239,197,212,613,15,309,13,data
+2019,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2402,162,2360,2158,701,174,199,172,190,183,218,207,209,587,10,293,24,data
+2019,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2514,162,2468,2267,750,196,206,200,205,189,216,190,192,572,10,317,14,data
+2019,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2320,162,1685,2119,686,181,186,174,186,181,188,206,206,561,164,84,24,data
+2019,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2445,162,2406,2217,664,189,195,201,197,177,276,246,201,639,11,273,42,data
+2019,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2312,162,1645,2120,707,178,182,187,184,174,194,175,190,542,160,57,24,data
+2019,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2363,162,1699,2150,709,195,175,191,179,169,208,175,185,552,163,117,11,data
+2019,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2431,162,2386,2150,726,178,169,170,195,177,205,201,180,559,12,312,11,data
+2019,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2441,162,2399,2193,712,194,174,188,212,192,196,173,204,559,11,282,30,data
+2019,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2413,162,2376,2173,705,178,173,193,175,173,235,215,214,594,10,290,13,data
+2019,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2347,162,1691,2124,700,173,205,183,178,172,202,188,184,553,178,82,33,data
+2019,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2493,162,2439,2218,749,183,201,183,178,175,225,175,204,574,13,362,11,data
+2019,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2413,162,2371,2182,704,181,178,186,196,174,184,216,237,592,10,268,30,data
+2019,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2459,162,1758,2220,765,197,192,205,205,179,180,183,191,540,166,131,31,data
+2019,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2273,162,1654,2047,661,193,180,167,174,170,183,186,174,523,155,82,14,data
+2019,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2354,162,1649,2143,753,178,180,177,174,169,185,187,195,539,167,79,25,data
+2019,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2327,162,2287,2089,692,173,192,185,180,167,167,178,184,518,10,253,15,data
+2020,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,60,862,60,603,781,260,71,67,69,63,61,67,68,65,197,69,27,12,data
+2020,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,60,900,60,613,818,288,65,68,63,65,64,77,81,77,210,67,29,9,data
+2020,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,60,906,60,641,820,267,71,74,72,66,83,83,72,66,211,69,44,21,data
+2020,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,60,884,60,597,815,292,65,69,71,66,74,70,64,69,195,63,22,7,data
+2020,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,60,908,60,670,814,248,67,69,86,67,66,91,96,70,225,80,51,16,data
+2020,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,60,889,60,607,805,284,64,61,64,63,68,73,62,75,206,74,22,24,data
+2020,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,60,889,60,664,786,228,69,69,75,61,69,85,80,67,224,83,68,18,data
+2020,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,60,869,60,629,788,241,69,63,64,67,65,86,67,75,221,66,37,18,data
+2020,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,60,888,60,639,791,249,88,72,76,70,67,66,70,72,200,69,51,10,data
+2020,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,58,882,58,607,794,276,62,65,66,68,60,83,70,72,211,72,31,25,data
+2020,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,60,860,60,607,776,253,72,64,64,67,66,64,69,66,194,69,28,13,data
+2020,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,60,940,60,649,835,292,77,71,69,64,63,76,84,79,218,74,50,15,data
+2020,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,60,890,60,604,814,288,70,69,68,64,61,77,61,67,200,63,20,13,data
+2020,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,60,921,60,613,841,309,64,75,75,69,65,76,66,72,208,72,41,5,data
+2020,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,60,904,60,629,830,275,67,63,72,66,65,89,73,96,234,63,37,15,data
+2020,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,60,906,60,661,816,249,71,73,72,88,72,67,71,84,217,67,65,14,data
+2020,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,60,882,60,621,792,262,75,71,66,73,62,62,69,70,197,67,29,19,data
+2020,NYM,New York Mets,NL,National League,East,NL East,New York Mets,60,902,60,646,810,257,66,64,87,71,70,81,86,68,212,63,37,19,data
+2020,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,60,878,60,645,788,234,67,76,88,66,71,74,66,72,206,65,36,15,data
+2020,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,60,865,60,624,777,241,69,68,83,70,66,66,64,63,187,70,32,17,data
+2020,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,60,875,60,632,793,249,68,67,75,66,66,79,74,78,223,67,46,7,data
+2020,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,60,873,60,604,783,269,66,70,63,65,64,64,71,70,198,64,26,15,data
+2020,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,60,913,60,640,819,278,77,69,71,69,68,70,63,69,199,75,44,10,data
+2020,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,60,843,60,597,773,249,71,64,66,62,63,75,64,72,204,66,26,9,data
+2020,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,60,974,60,679,865,296,71,73,70,66,68,98,72,74,231,74,73,13,data
+2020,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,58,827,58,595,752,234,67,65,67,78,60,69,73,79,206,66,32,9,data
+2020,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,60,946,60,667,852,279,82,78,73,80,63,82,74,78,221,69,66,14,data
+2020,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,60,865,60,601,783,264,68,68,62,66,65,74,69,62,197,70,30,10,data
+2020,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,60,910,60,625,823,286,71,68,72,77,70,68,67,72,202,65,37,14,data
+2020,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,60,870,60,609,783,262,60,67,69,66,66,71,64,67,200,72,31,13,data
+2021,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2449,162,2403,2181,727,182,194,211,197,185,207,208,202,585,11,339,22,data
+2021,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,161,2392,161,2350,2139,742,172,172,165,174,167,196,216,197,560,13,272,10,data
+2021,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2376,162,1696,2164,731,176,172,207,181,191,213,177,188,552,158,86,32,data
+2021,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2353,162,1687,2144,725,190,196,202,175,180,189,184,174,527,159,95,23,data
+2021,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2475,162,2432,2227,761,189,179,200,203,183,216,209,195,587,10,309,15,data
+2021,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2292,162,1666,2094,674,188,172,172,174,171,215,194,198,567,166,83,22,data
+2021,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2472,162,2427,2248,741,180,200,186,192,177,210,228,200,611,11,303,23,data
+2021,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,162,2300,162,1652,2105,697,167,193,173,177,172,184,190,189,545,156,89,17,data
+2021,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,161,2344,161,2304,2106,704,175,187,193,189,179,188,198,179,537,11,280,13,data
+2021,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2341,162,1662,2130,739,179,183,183,167,186,187,187,180,532,175,72,41,data
+2021,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2319,162,1692,2093,674,189,174,171,176,170,211,177,176,549,163,94,27,data
+2021,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2368,162,1706,2151,718,187,177,184,191,176,179,171,219,559,171,80,32,data
+2021,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2325,162,1734,2148,724,176,176,174,186,172,218,185,210,572,134,74,12,data
+2021,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2459,162,2425,2243,762,171,218,211,196,177,219,203,213,598,13,280,17,data
+2021,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2436,162,2392,2184,757,186,174,189,183,178,202,192,189,558,10,271,36,data
+2021,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2403,162,2367,2176,695,191,230,195,216,177,191,176,189,546,11,294,13,data
+2021,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2356,162,1717,2143,691,192,178,190,187,187,220,194,194,581,161,112,28,data
+2021,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2419,162,2380,2170,705,187,173,188,193,174,230,204,186,581,12,292,16,data
+2021,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2354,162,1734,2137,674,181,191,195,199,195,203,197,195,562,160,94,45,data
+2021,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2353,162,1734,2102,666,175,168,205,173,174,204,175,226,577,194,158,31,data
+2021,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2394,162,2347,2190,687,182,208,188,189,181,206,214,192,594,10,276,10,data
+2021,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2393,162,2355,2141,745,164,191,189,190,180,188,178,187,541,10,290,4,data
+2021,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2497,162,2449,2230,786,182,182,184,179,179,204,183,194,566,10,307,13,data
+2021,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2360,162,1668,2148,746,180,173,182,174,166,219,168,173,552,168,102,12,data
+2021,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2597,162,2548,2347,761,179,208,214,202,177,265,248,224,657,16,407,26,data
+2021,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2384,162,2341,2134,718,177,173,196,178,182,182,173,198,537,11,258,11,data
+2021,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2389,162,1744,2165,693,184,203,186,204,177,218,194,196,567,167,120,36,data
+2021,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2252,162,1629,2041,669,176,169,169,186,165,185,171,173,518,160,89,14,data
+2021,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2383,162,1732,2148,698,197,174,174,200,169,212,215,212,562,169,100,39,data
+2021,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2386,162,2343,2123,731,170,177,181,172,172,196,184,175,547,11,284,14,data
+2022,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2407,162,1719,2152,708,197,170,181,188,182,188,188,206,554,191,148,17,data
+2022,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2259,162,1581,2065,680,165,163,177,164,165,212,165,188,555,174,48,13,data
+2022,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2359,162,1670,2137,703,180,167,190,189,175,197,177,200,557,181,96,36,data
+2022,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2379,162,1643,2172,738,188,205,179,179,184,175,188,205,548,177,92,19,data
+2022,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2388,162,1707,2158,690,175,204,191,180,181,185,216,185,577,188,133,24,data
+2022,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2371,162,1670,2156,711,187,171,179,169,172,210,193,224,590,181,71,49,data
+2022,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2406,162,1680,2177,736,198,190,191,194,171,190,183,190,547,172,119,25,data
+2022,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,162,2338,162,1672,2105,669,199,183,176,178,168,189,176,196,545,179,96,33,data
+2022,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2265,162,1613,2070,659,177,178,167,177,177,193,204,195,552,173,37,35,data
+2022,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2349,162,1618,2128,742,183,174,172,181,185,192,172,179,528,188,85,32,data
+2022,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2279,162,1637,2064,642,187,172,188,168,171,207,197,172,548,173,81,11,data
+2022,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2372,162,1671,2148,722,193,178,177,185,173,189,181,213,567,184,91,45,data
+2022,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2327,162,1705,2135,652,174,189,224,201,216,218,189,187,569,169,120,31,data
+2022,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2326,162,1620,2139,725,165,180,203,184,177,200,173,189,549,183,83,10,data
+2022,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2384,162,1701,2157,694,184,196,194,203,188,209,179,182,554,186,89,58,data
+2022,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2363,162,1655,2156,710,183,185,200,216,168,176,192,172,526,171,125,14,data
+2022,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2422,162,1725,2189,710,188,189,187,179,182,229,206,195,603,179,121,44,data
+2022,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2340,162,1708,2097,645,186,190,182,182,178,204,183,187,561,205,98,43,data
+2022,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2342,162,1675,2108,669,195,181,175,174,180,197,197,211,563,176,93,42,data
+2022,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2394,162,1709,2158,692,170,205,206,192,175,209,201,211,580,193,164,18,data
+2022,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2327,162,1655,2116,678,175,178,183,177,181,199,201,202,571,174,88,25,data
+2022,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2340,162,1680,2123,666,187,203,210,180,174,196,181,206,554,172,130,25,data
+2022,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2322,162,1680,2102,649,176,189,186,184,182,192,195,212,582,184,110,28,data
+2022,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2383,162,1694,2160,698,187,179,198,175,174,201,178,225,589,189,127,38,data
+2022,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2552,162,1822,2288,738,198,205,194,199,175,261,260,254,651,208,256,22,data
+2022,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2355,162,1729,2089,628,188,193,197,188,197,201,196,204,567,209,127,33,data
+2022,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2402,162,1675,2184,734,178,199,206,191,179,184,193,208,554,174,115,27,data
+2022,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2365,162,1673,2109,694,177,170,173,191,168,207,186,189,553,202,139,39,data
+2022,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2445,162,1699,2214,746,180,175,196,167,173,186,251,212,603,178,105,36,data
+2022,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2347,162,1599,2130,750,173,173,166,172,169,213,192,178,551,181,67,26,data
+2023,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2406,162,1715,2161,709,181,176,181,210,195,198,189,196,540,185,152,19,data
+2023,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2278,162,1586,2076,694,171,165,166,163,169,210,171,172,549,174,71,24,data
+2023,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2441,162,1735,2229,722,176,192,210,212,196,193,193,241,598,182,135,33,data
+2023,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2391,162,1724,2150,676,193,185,214,177,189,200,205,184,563,186,153,40,data
+2023,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2328,162,1670,2096,672,190,201,176,191,173,175,194,170,533,199,126,27,data
+2023,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2387,162,1707,2143,683,200,178,188,183,177,175,181,228,571,184,109,46,data
+2023,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2492,162,1742,2266,767,201,210,181,205,171,234,207,219,621,198,147,48,data
+2023,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,162,2372,162,1666,2149,707,208,201,171,174,180,165,173,197,523,182,91,42,data
+2023,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2352,162,1653,2117,706,183,177,197,182,169,173,186,183,525,176,107,21,data
+2023,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2422,162,1733,2186,697,172,167,240,239,194,226,185,200,580,203,173,42,data
+2023,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2282,162,1621,2073,675,185,170,182,169,166,192,189,180,532,171,82,14,data
+2023,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2369,162,1694,2143,688,179,193,198,186,169,216,186,195,568,178,100,42,data
+2023,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2314,162,1686,2106,653,192,208,209,191,198,174,182,183,531,169,113,33,data
+2023,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2421,162,1723,2205,713,169,186,224,181,198,236,199,232,625,183,176,15,data
+2023,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2420,162,1722,2188,706,186,186,187,179,204,192,195,211,571,181,112,31,data
+2023,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2358,162,1681,2122,680,166,193,207,199,174,184,198,224,565,196,123,38,data
+2023,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2427,162,1784,2197,650,176,231,229,205,186,246,222,209,626,183,187,37,data
+2023,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2374,162,1692,2101,685,182,168,189,195,176,200,177,191,543,209,124,34,data
+2023,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2321,162,1658,2097,665,194,172,171,174,169,210,189,216,578,171,82,35,data
+2023,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2432,162,1739,2171,694,171,207,186,202,195,207,182,203,572,205,205,27,data
+2023,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2323,162,1641,2117,685,173,195,169,202,172,214,193,175,562,169,93,25,data
+2023,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2412,162,1721,2170,691,190,193,216,173,204,196,212,223,576,175,153,16,data
+2023,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2329,162,1662,2086,669,188,197,191,175,168,178,178,183,532,202,114,30,data
+2023,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2391,162,1689,2143,712,179,176,205,170,174,203,172,175,540,215,149,32,data
+2023,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2441,162,1792,2199,658,185,200,196,197,193,244,232,214,631,193,217,27,data
+2023,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2298,162,1659,2073,646,184,180,189,180,170,204,193,191,554,188,104,15,data
+2023,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2353,162,1658,2119,698,190,196,184,194,176,170,180,197,530,180,105,26,data
+2023,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2302,162,1683,2093,629,198,173,174,172,186,228,170,191,576,191,71,29,data
+2023,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2403,162,1695,2155,712,189,175,209,182,181,207,193,183,554,196,114,48,data
+2023,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2305,162,1619,2099,688,167,179,187,179,170,216,173,179,551,168,80,32,data
+2024,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2436,162,1753,2157,698,188,188,194,173,178,192,184,203,551,225,163,28,data
+2024,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2283,162,1640,2053,643,177,162,173,169,170,203,171,201,561,177,77,42,data
+2024,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2412,162,1711,2160,708,168,184,189,198,170,209,193,205,574,190,140,25,data
+2024,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2415,162,1733,2198,696,183,210,234,184,204,209,194,222,563,181,193,19,data
+2024,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2364,162,1712,2127,658,190,198,182,224,174,178,180,187,533,173,133,14,data
+2024,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2360,162,1665,2117,698,187,167,181,174,180,178,186,197,543,182,121,34,data
+2024,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2380,162,1691,2141,696,182,180,179,176,167,229,206,209,602,193,128,34,data
+2024,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,161,2455,161,1705,2219,754,203,176,171,180,199,185,205,227,580,192,159,17,data
+2024,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2277,162,1633,2069,657,181,175,174,172,163,189,171,218,557,170,67,25,data
+2024,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2387,162,1726,2156,666,179,179,200,218,195,205,204,204,575,190,187,16,data
+2024,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,161,2336,161,1670,2112,672,170,188,181,176,165,229,188,204,581,176,110,32,data
+2024,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2409,162,1746,2175,668,182,182,214,185,173,223,203,203,613,193,156,64,data
+2024,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2308,162,1637,2088,677,173,175,203,183,169,175,185,176,530,192,98,19,data
+2024,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2403,162,1681,2203,727,170,179,206,193,193,219,212,209,591,167,123,13,data
+2024,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2451,162,1740,2201,718,193,202,187,205,172,199,207,205,579,172,156,25,data
+2024,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2381,162,1710,2129,681,171,195,184,192,172,192,187,205,556,202,161,27,data
+2024,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2451,162,1760,2202,697,174,174,228,205,181,241,194,200,600,207,183,33,data
+2024,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2404,162,1729,2171,677,201,166,192,203,174,208,212,223,591,187,122,41,data
+2024,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2304,162,1622,2094,683,188,196,171,180,166,177,187,176,529,178,59,39,data
+2024,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,162,2384,162,1691,2177,693,176,218,173,203,179,209,186,200,579,171,135,36,data
+2024,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2317,162,1640,2109,679,171,174,185,182,180,209,209,176,565,171,105,16,data
+2024,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2342,162,1669,2121,675,182,219,176,169,176,183,197,214,559,171,113,30,data
+2024,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2429,162,1729,2186,701,186,180,183,195,174,225,170,202,592,187,118,52,data
+2024,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2383,162,1706,2159,685,178,192,197,217,179,207,180,199,568,184,124,46,data
+2024,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2414,162,1693,2186,726,185,193,186,169,179,191,177,217,566,175,159,25,data
+2024,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2352,162,1690,2107,670,173,172,183,179,169,196,207,224,588,197,118,29,data
+2024,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2392,162,1689,2151,704,206,180,195,185,185,186,182,198,538,181,123,37,data
+2024,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2290,162,1657,2074,645,179,168,173,180,177,204,186,188,560,188,99,19,data
+2024,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2399,162,1693,2161,711,179,183,207,203,180,220,202,183,570,191,108,45,data
+2024,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2353,162,1625,2123,730,174,175,177,184,176,188,178,179,525,195,91,28,data
+2025,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2332,162,1683,2081,665,179,183,179,179,165,191,197,174,546,204,130,25,data
+2025,ATH,Athletics,AL,American League,West,AL West,Athletics,162,2367,162,1699,2136,673,174,175,194,209,178,195,188,191,564,167,118,31,data
+2025,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2349,162,1668,2106,682,180,166,166,171,207,187,167,189,536,186,107,50,data
+2025,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,162,2364,162,1672,2148,705,187,188,168,185,175,189,181,214,559,175,92,35,data
+2025,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2371,162,1679,2143,698,184,198,209,192,172,187,181,193,543,184,119,35,data
+2025,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2330,162,1648,2108,685,176,198,180,206,173,172,168,171,511,181,111,21,data
+2025,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2423,162,1736,2176,694,182,192,200,192,195,212,189,213,596,188,150,46,data
+2025,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2396,162,1685,2171,712,181,179,177,199,167,214,171,202,575,187,113,20,data
+2025,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,162,2417,162,1729,2174,693,188,178,206,185,189,175,217,245,603,194,170,25,data
+2025,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2346,162,1661,2107,693,176,175,190,179,175,174,175,199,538,197,117,21,data
+2025,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2418,162,1753,2154,670,169,169,189,235,216,189,196,213,572,217,212,9,data
+2025,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2383,162,1712,2169,680,170,176,207,187,184,240,206,200,617,179,124,25,data
+2025,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2435,162,1745,2225,709,184,180,199,183,176,248,220,238,654,181,131,62,data
+2025,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2380,162,1670,2153,717,169,180,188,207,177,171,188,202,549,164,103,24,data
+2025,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2438,162,1719,2245,743,173,185,216,184,181,239,217,202,606,167,123,28,data
+2025,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2407,162,1736,2189,677,200,203,190,193,172,236,206,219,606,180,163,19,data
+2025,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2413,162,1706,2180,712,178,208,176,197,194,202,191,187,545,177,136,32,data
+2025,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2413,162,1721,2191,705,182,198,214,192,184,215,198,235,600,186,106,52,data
+2025,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2402,162,1702,2162,703,191,167,224,207,170,181,206,174,549,191,109,43,data
+2025,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,162,2401,162,1710,2178,695,188,204,191,205,173,201,182,196,549,174,108,32,data
+2025,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2300,162,1632,2100,667,176,171,184,174,171,212,205,181,567,172,95,20,data
+2025,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2323,162,1652,2092,672,179,201,177,172,172,189,187,186,551,173,106,29,data
+2025,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2476,162,1737,2220,739,211,175,186,174,184,228,181,186,578,195,151,29,data
+2025,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2424,162,1719,2184,712,168,229,199,190,171,172,171,210,550,195,166,31,data
+2025,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2320,162,1648,2097,677,188,188,185,176,169,180,166,191,533,177,98,32,data
+2025,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2315,162,1671,2094,649,184,187,188,182,177,201,195,193,562,179,78,35,data
+2025,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2363,162,1686,2139,679,193,187,185,190,185,208,196,190,558,178,102,37,data
+2025,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2395,162,1721,2143,685,174,193,191,175,196,194,200,187,559,218,168,20,data
+2025,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2481,162,1756,2268,732,186,185,211,213,179,251,215,234,635,167,157,34,data
+2025,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2368,162,1629,2143,745,177,183,176,176,173,174,181,179,522,176,85,26,data
+2026,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,162,2399,162,1699,2175,711,178,211,176,190,169,225,224,181,586,201,110,29,data
+2026,ATH,Athletics,AL,American League,West,AL West,Athletics,162,2448,162,1740,2218,719,174,183,227,189,197,204,202,225,591,184,174,27,data
+2026,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,162,2351,162,1713,2105,661,191,170,167,170,191,208,176,202,577,190,144,28,data
+2026,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,161,2426,161,1728,2175,702,190,177,188,206,169,183,209,213,579,181,174,18,data
+2026,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,162,2306,162,1660,2053,650,182,182,202,173,178,177,175,163,512,201,117,25,data
+2026,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,162,2379,162,1709,2104,680,183,177,186,174,172,194,177,188,552,230,157,28,data
+2026,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,162,2481,162,1783,2204,703,184,183,185,191,213,239,231,197,632,226,217,43,data
+2026,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,162,2436,162,1703,2207,736,186,201,181,205,172,212,214,208,581,180,127,33,data
+2026,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,162,2428,162,1714,2203,717,191,202,176,175,166,222,225,211,589,175,158,28,data
+2026,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,162,2400,162,1750,2162,662,186,193,228,191,198,224,211,225,597,185,173,33,data
+2026,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,162,2436,162,1778,2174,667,168,176,212,220,211,205,203,239,615,229,226,18,data
+2026,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,162,2449,162,1763,2226,691,182,185,214,196,186,259,197,189,608,179,142,33,data
+2026,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,162,2376,162,1689,2146,695,178,174,204,185,180,190,191,212,575,192,135,39,data
+2026,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,162,2418,162,1738,2171,682,197,175,201,193,168,246,185,190,585,180,136,44,data
+2026,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,162,2407,162,1723,2187,700,191,186,214,197,184,199,176,173,541,178,163,16,data
+2026,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,162,2433,162,1737,2211,705,202,201,184,226,168,201,181,243,594,179,166,15,data
+2026,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,162,2387,162,1725,2158,671,174,209,175,214,198,190,211,211,583,184,144,49,data
+2026,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,162,2403,162,1707,2176,699,175,194,194,178,192,244,193,196,607,175,132,41,data
+2026,NYM,New York Mets,NL,National League,East,NL East,New York Mets,162,2349,162,1689,2105,665,181,199,174,183,174,211,180,182,560,198,138,31,data
+2026,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,161,2381,161,1691,2158,693,204,177,181,218,174,196,187,190,547,176,118,35,data
+2026,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,162,2342,162,1656,2148,693,179,179,178,173,172,218,205,210,595,173,98,28,data
+2026,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,162,2425,162,1733,2206,694,190,204,181,211,187,222,206,241,600,176,121,47,data
+2026,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,162,2449,162,1740,2185,712,200,184,191,178,175,221,169,202,582,202,119,43,data
+2026,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,162,2338,162,1674,2089,667,171,166,173,192,175,174,172,227,564,207,126,16,data
+2026,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,162,2403,162,1719,2167,690,192,174,200,191,171,209,221,196,593,176,150,29,data
+2026,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,162,2435,162,1730,2206,711,203,180,185,209,179,234,206,173,586,177,138,34,data
+2026,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,162,2385,162,1706,2163,684,215,177,205,179,178,175,185,204,549,188,136,53,data
+2026,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,162,2478,162,1784,2181,698,185,173,224,192,183,229,215,192,596,248,222,24,data
+2026,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,162,2524,162,1760,2291,768,185,180,204,176,188,269,194,236,635,185,176,39,data
+2026,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,162,2423,162,1765,2163,676,188,227,203,193,177,185,194,198,535,199,206,30,data

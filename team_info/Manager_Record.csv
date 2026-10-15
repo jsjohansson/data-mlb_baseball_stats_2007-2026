@@ -1,0 +1,681 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Rk,Mgr,Tm,W,L,W-L%,Ties,G,Finish,Wpost,Lpost,W-L%post,Ejections,Challenges,Overturned,Overturn%,Player_ID,Row_Type
+2007,WSN,Washington Nationals,NL,National League,East,NL East,1.0,Manny Acta,WSN,73,89,0.451,0,162,4.0,,,,1,,,,actama99,data
+2007,KCR,Kansas City Royals,AL,American League,Central,AL Central,2.0,Buddy Bell,KCR,69,93,0.426,0,162,5.0,,,,5,,,,bellbu01,data
+2007,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,89,74,0.546,0,163,3.0,,,,3,,,,blackbu02,data
+2007,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,71,91,0.438,0,162,5.0,,,,6,,,,bochybr01,data
+2007,HOU,Houston Astros,NL,National League,Central,NL Central,5.0,Cecil Cooper,HOU,15,16,0.484,0,31,4.0,,,,0,,,,coopece01,data
+2007,ATL,Atlanta Braves,NL,National League,East,NL East,6.0,Bobby Cox,ATL,84,78,0.519,0,162,3.0,,,,10,,,,coxbo01,data
+2007,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Terry Francona,BOS,96,66,0.593,0,162,1.0,11.0,3.0,0.786,5,,,,francte01,data
+2007,MIN,Minnesota Twins,AL,American League,Central,AL Central,8.0,Ron Gardenhire,MIN,79,83,0.488,0,162,3.0,,,,7,,,,gardero01,data
+2007,HOU,Houston Astros,NL,National League,Central,NL Central,9.0,Phil Garner,HOU,58,73,0.443,0,131,6.0,,,,4,,,,garneph01,data
+2007,OAK,Oakland Athletics,AL,American League,West,AL West,10.0,Bob Geren,OAK,76,86,0.469,0,162,3.0,,,,2,,,,gerenbo01,data
+2007,TOR,Toronto Blue Jays,AL,American League,East,AL East,11.0,John Gibbons,TOR,83,79,0.512,0,162,3.0,,,,5,,,,gibbojo02,data
+2007,FLA,Florida Marlins,NL,National League,East,NL East,12.0,Fredi González,FLA,71,91,0.438,0,162,5.0,,,,3,,,,gonzafr99,data
+2007,CHW,Chicago White Sox,AL,American League,Central,AL Central,13.0,Ozzie Guillén,CHW,72,90,0.444,0,162,4.0,,,,3,,,,guilloz01,data
+2007,SEA,Seattle Mariners,AL,American League,West,AL West,14.0,Mike Hargrove,SEA,45,33,0.577,0,78,2.0,,,,2,,,,hargrmi01,data
+2007,COL,Colorado Rockies,NL,National League,West,NL West,15.0,Clint Hurdle,COL,90,73,0.552,0,163,2.0,7.0,4.0,0.636,4,,,,hurdlcl01,data
+2007,STL,St. Louis Cardinals,NL,National League,Central,NL Central,16.0,Tony La Russa,STL,78,84,0.481,0,162,3.0,,,,3,,,,larusto01,data
+2007,DET,Detroit Tigers,AL,American League,Central,AL Central,17.0,Jim Leyland,DET,88,74,0.543,0,162,2.0,,,,3,,,,leylaji99,data
+2007,LAD,Los Angeles Dodgers,NL,National League,West,NL West,18.0,Grady Little,LAD,82,80,0.506,0,162,4.0,,,,2,,,,littlgr99,data
+2007,CIN,Cincinnati Reds,NL,National League,Central,NL Central,19.0,Pete Mackanin,CIN,41,39,0.513,0,80,5.0,,,,0,,,,mackape01,data
+2007,TBD,Tampa Bay Devil Rays,AL,American League,East,AL East,20.0,Joe Maddon,TBD,66,96,0.407,0,162,5.0,,,,3,,,,maddojo99,data
+2007,PHI,Philadelphia Phillies,NL,National League,East,NL East,21.0,Charlie Manuel,PHI,89,73,0.549,0,162,1.0,0.0,3.0,0.0,7,,,,manuech01,data
+2007,SEA,Seattle Mariners,AL,American League,West,AL West,22.0,John McLaren,SEA,43,41,0.512,0,84,2.0,,,,4,,,,mclarjo99,data
+2007,ARI,Arizona Diamondbacks,NL,National League,West,NL West,23.0,Bob Melvin,ARI,90,72,0.556,0,162,1.0,3.0,4.0,0.429,3,,,,melvibo01,data
+2007,CIN,Cincinnati Reds,NL,National League,Central,NL Central,24.0,Jerry Narron,CIN,31,51,0.378,0,82,6.0,,,,2,,,,narroje01,data
+2007,BAL,Baltimore Orioles,AL,American League,East,AL East,25.0,Sam Perlozzo,BAL,29,40,0.42,0,69,5.0,,,,2,,,,perlosa01,data
+2007,CHC,Chicago Cubs,NL,National League,Central,NL Central,26.0,Lou Piniella,CHC,85,77,0.525,0,162,1.0,0.0,3.0,0.0,1,,,,pinielo01,data
+2007,NYM,New York Mets,NL,National League,East,NL East,27.0,Willie Randolph,NYM,88,74,0.543,0,162,2.0,,,,1,,,,randowi01,data
+2007,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,28.0,Mike Scioscia,LAA,94,68,0.58,0,162,1.0,0.0,3.0,0.0,3,,,,sciosmi01,data
+2007,NYY,New York Yankees,AL,American League,East,AL East,29.0,Joe Torre,NYY,94,68,0.58,0,162,2.0,1.0,3.0,0.25,3,,,,torrejo01,data
+2007,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,30.0,Jim Tracy,PIT,68,94,0.42,0,162,6.0,,,,2,,,,tracyji01,data
+2007,BAL,Baltimore Orioles,AL,American League,East,AL East,31.0,Dave Trembley,BAL,40,53,0.43,0,93,4.0,,,,2,,,,trembda99,data
+2007,TEX,Texas Rangers,AL,American League,West,AL West,32.0,Ron Washington,TEX,75,87,0.463,0,162,4.0,,,,1,,,,washiro01,data
+2007,CLE,Cleveland Indians,AL,American League,Central,AL Central,33.0,Eric Wedge,CLE,96,66,0.593,0,162,1.0,6.0,5.0,0.545,2,,,,wedgeer01,data
+2007,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,34.0,Ned Yost,MIL,83,79,0.512,0,162,2.0,,,,6,,,,yostne01,data
+2007,,,,,,,,,,2431,2431,0.5,0,4862,,28.0,28.0,0.5,110,,,,,summary
+2008,WSN,Washington Nationals,NL,National League,East,NL East,1.0,Manny Acta,WSN,59,102,0.366,0,161,5.0,,,,0,,,,actama99,data
+2008,CIN,Cincinnati Reds,NL,National League,Central,NL Central,2.0,Dusty Baker,CIN,74,88,0.457,0,162,5.0,,,,1,,,,bakerdu01,data
+2008,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,63,99,0.389,0,162,5.0,,,,3,,,,blackbu02,data
+2008,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,72,90,0.444,0,162,4.0,,,,4,,,,bochybr01,data
+2008,HOU,Houston Astros,NL,National League,Central,NL Central,5.0,Cecil Cooper,HOU,86,75,0.534,0,161,3.0,,,,5,,,,coopece01,data
+2008,ATL,Atlanta Braves,NL,National League,East,NL East,6.0,Bobby Cox,ATL,72,90,0.444,0,162,4.0,,,,7,,,,coxbo01,data
+2008,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Terry Francona,BOS,95,67,0.586,0,162,2.0,6.0,5.0,0.545,1,,,,francte01,data
+2008,MIN,Minnesota Twins,AL,American League,Central,AL Central,8.0,Ron Gardenhire,MIN,88,75,0.54,0,163,2.0,,,,5,,,,gardero01,data
+2008,TOR,Toronto Blue Jays,AL,American League,East,AL East,9.0,Cito Gaston,TOR,51,37,0.58,0,88,4.0,,,,0,,,,gastoci01,data
+2008,OAK,Oakland Athletics,AL,American League,West,AL West,10.0,Bob Geren,OAK,75,86,0.466,0,161,3.0,,,,1,,,,gerenbo01,data
+2008,TOR,Toronto Blue Jays,AL,American League,East,AL East,11.0,John Gibbons,TOR,35,39,0.473,0,74,5.0,,,,4,,,,gibbojo02,data
+2008,NYY,New York Yankees,AL,American League,East,AL East,12.0,Joe Girardi,NYY,89,73,0.549,0,162,3.0,,,,2,,,,girarjo01,data
+2008,FLA,Florida Marlins,NL,National League,East,NL East,13.0,Fredi González,FLA,84,77,0.522,0,161,3.0,,,,3,,,,gonzafr99,data
+2008,CHW,Chicago White Sox,AL,American League,Central,AL Central,14.0,Ozzie Guillén,CHW,89,74,0.546,0,163,1.0,1.0,3.0,0.25,4,,,,guilloz01,data
+2008,KCR,Kansas City Royals,AL,American League,Central,AL Central,15.0,Trey Hillman,KCR,75,87,0.463,0,162,4.0,,,,3,,,,hillmtr99,data
+2008,COL,Colorado Rockies,NL,National League,West,NL West,16.0,Clint Hurdle,COL,74,88,0.457,0,162,3.0,,,,2,,,,hurdlcl01,data
+2008,STL,St. Louis Cardinals,NL,National League,Central,NL Central,17.0,Tony La Russa,STL,86,76,0.531,0,162,4.0,,,,3,,,,larusto01,data
+2008,DET,Detroit Tigers,AL,American League,Central,AL Central,18.0,Jim Leyland,DET,74,88,0.457,0,162,5.0,,,,4,,,,leylaji99,data
+2008,TBR,Tampa Bay Rays,AL,American League,East,AL East,19.0,Joe Maddon,TBR,97,65,0.599,0,162,1.0,8.0,8.0,0.5,3,,,,maddojo99,data
+2008,PHI,Philadelphia Phillies,NL,National League,East,NL East,20.0,Charlie Manuel,PHI,92,70,0.568,0,162,1.0,11.0,3.0,0.786,5,,,,manuech01,data
+2008,NYM,New York Mets,NL,National League,East,NL East,21.0,Jerry Manuel,NYM,55,38,0.591,0,93,2.0,,,,4,,,,manueje01,data
+2008,SEA,Seattle Mariners,AL,American League,West,AL West,22.0,John McLaren,SEA,25,47,0.347,0,72,4.0,,,,3,,,,mclarjo99,data
+2008,ARI,Arizona Diamondbacks,NL,National League,West,NL West,23.0,Bob Melvin,ARI,82,80,0.506,0,162,2.0,,,,2,,,,melvibo01,data
+2008,CHC,Chicago Cubs,NL,National League,Central,NL Central,24.0,Lou Piniella,CHC,97,64,0.602,0,161,1.0,0.0,3.0,0.0,2,,,,pinielo01,data
+2008,NYM,New York Mets,NL,National League,East,NL East,25.0,Willie Randolph,NYM,34,35,0.493,0,69,3.0,,,,0,,,,randowi01,data
+2008,SEA,Seattle Mariners,AL,American League,West,AL West,26.0,Jim Riggleman,SEA,36,54,0.4,0,90,4.0,,,,2,,,,rigglji99,data
+2008,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,27.0,John Russell,PIT,67,95,0.414,0,162,6.0,,,,1,,,,russejo02,data
+2008,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,28.0,Mike Scioscia,LAA,100,62,0.617,0,162,1.0,1.0,3.0,0.25,4,,,,sciosmi01,data
+2008,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,29.0,Dale Sveum,MIL,7,5,0.583,0,12,2.0,1.0,3.0,0.25,0,,,,sveumda01,data
+2008,LAD,Los Angeles Dodgers,NL,National League,West,NL West,30.0,Joe Torre,LAD,84,78,0.519,0,162,1.0,4.0,4.0,0.5,2,,,,torrejo01,data
+2008,BAL,Baltimore Orioles,AL,American League,East,AL East,31.0,Dave Trembley,BAL,68,93,0.422,0,161,5.0,,,,4,,,,trembda99,data
+2008,TEX,Texas Rangers,AL,American League,West,AL West,32.0,Ron Washington,TEX,79,83,0.488,0,162,2.0,,,,5,,,,washiro01,data
+2008,CLE,Cleveland Indians,AL,American League,Central,AL Central,33.0,Eric Wedge,CLE,81,81,0.5,0,162,3.0,,,,4,,,,wedgeer01,data
+2008,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,34.0,Ned Yost,MIL,83,67,0.553,0,150,2.0,,,,2,,,,yostne01,data
+2008,,,,,,,,,,2428,2428,0.5,0,4856,,32.0,32.0,0.5,95,,,,,summary
+2009,WSN,Washington Nationals,NL,National League,East,NL East,1.0,Manny Acta,WSN,26,61,0.299,0,87,5.0,,,,1,,,,actama99,data
+2009,CIN,Cincinnati Reds,NL,National League,Central,NL Central,2.0,Dusty Baker,CIN,78,84,0.481,0,162,4.0,,,,1,,,,bakerdu01,data
+2009,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,75,87,0.463,0,162,4.0,,,,3,,,,blackbu02,data
+2009,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,88,74,0.543,0,162,3.0,,,,5,,,,bochybr01,data
+2009,HOU,Houston Astros,NL,National League,Central,NL Central,5.0,Dave Clark,HOU,4,9,0.308,0,13,5.0,,,,0,,,,clarkda05,data
+2009,HOU,Houston Astros,NL,National League,Central,NL Central,6.0,Cecil Cooper,HOU,70,79,0.47,0,149,4.0,,,,4,,,,coopece01,data
+2009,ATL,Atlanta Braves,NL,National League,East,NL East,7.0,Bobby Cox,ATL,86,76,0.531,0,162,3.0,,,,7,,,,coxbo01,data
+2009,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,Terry Francona,BOS,95,67,0.586,0,162,2.0,0.0,3.0,0.0,3,,,,francte01,data
+2009,MIN,Minnesota Twins,AL,American League,Central,AL Central,9.0,Ron Gardenhire,MIN,87,76,0.534,0,163,1.0,0.0,3.0,0.0,6,,,,gardero01,data
+2009,TOR,Toronto Blue Jays,AL,American League,East,AL East,10.0,Cito Gaston,TOR,75,87,0.463,0,162,4.0,,,,1,,,,gastoci01,data
+2009,OAK,Oakland Athletics,AL,American League,West,AL West,11.0,Bob Geren,OAK,75,87,0.463,0,162,4.0,,,,3,,,,gerenbo01,data
+2009,NYY,New York Yankees,AL,American League,East,AL East,12.0,Joe Girardi,NYY,103,59,0.636,0,162,1.0,11.0,4.0,0.733,4,,,,girarjo01,data
+2009,FLA,Florida Marlins,NL,National League,East,NL East,13.0,Fredi González,FLA,87,75,0.537,0,162,2.0,,,,4,,,,gonzafr99,data
+2009,CHW,Chicago White Sox,AL,American League,Central,AL Central,14.0,Ozzie Guillén,CHW,79,83,0.488,0,162,3.0,,,,3,,,,guilloz01,data
+2009,KCR,Kansas City Royals,AL,American League,Central,AL Central,15.0,Trey Hillman,KCR,65,97,0.401,0,162,4.0,,,,4,,,,hillmtr99,data
+2009,ARI,Arizona Diamondbacks,NL,National League,West,NL West,16.0,A.J. Hinch,ARI,58,75,0.436,0,133,5.0,,,,3,,,,,data
+2009,COL,Colorado Rockies,NL,National League,West,NL West,17.0,Clint Hurdle,COL,18,28,0.391,0,46,5.0,,,,1,,,,hurdlcl01,data
+2009,STL,St. Louis Cardinals,NL,National League,Central,NL Central,18.0,Tony La Russa,STL,91,71,0.562,0,162,1.0,0.0,3.0,0.0,1,,,,larusto01,data
+2009,DET,Detroit Tigers,AL,American League,Central,AL Central,19.0,Jim Leyland,DET,86,77,0.528,0,163,2.0,,,,3,,,,leylaji99,data
+2009,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,20.0,Ken Macha,MIL,80,82,0.494,0,162,3.0,,,,0,,,,machake01,data
+2009,TBR,Tampa Bay Rays,AL,American League,East,AL East,21.0,Joe Maddon,TBR,84,78,0.519,0,162,3.0,,,,2,,,,maddojo99,data
+2009,PHI,Philadelphia Phillies,NL,National League,East,NL East,22.0,Charlie Manuel,PHI,93,69,0.574,0,162,1.0,9.0,6.0,0.6,4,,,,manuech01,data
+2009,NYM,New York Mets,NL,National League,East,NL East,23.0,Jerry Manuel,NYM,70,92,0.432,0,162,4.0,,,,4,,,,manueje01,data
+2009,ARI,Arizona Diamondbacks,NL,National League,West,NL West,24.0,Bob Melvin,ARI,12,17,0.414,0,29,4.0,,,,0,,,,melvibo01,data
+2009,CHC,Chicago Cubs,NL,National League,Central,NL Central,25.0,Lou Piniella,CHC,83,78,0.516,0,161,2.0,,,,1,,,,pinielo01,data
+2009,WSN,Washington Nationals,NL,National League,East,NL East,26.0,Jim Riggleman,WSN,33,42,0.44,0,75,5.0,,,,2,,,,rigglji99,data
+2009,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,27.0,John Russell,PIT,62,99,0.385,0,161,6.0,,,,1,,,,russejo02,data
+2009,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,28.0,Mike Scioscia,LAA,97,65,0.599,0,162,1.0,5.0,4.0,0.556,3,,,,sciosmi01,data
+2009,LAD,Los Angeles Dodgers,NL,National League,West,NL West,29.0,Joe Torre,LAD,95,67,0.586,0,162,1.0,4.0,4.0,0.5,0,,,,torrejo01,data
+2009,COL,Colorado Rockies,NL,National League,West,NL West,30.0,Jim Tracy,COL,74,42,0.638,0,116,2.0,1.0,3.0,0.25,1,,,,tracyji01,data
+2009,BAL,Baltimore Orioles,AL,American League,East,AL East,31.0,Dave Trembley,BAL,64,98,0.395,0,162,5.0,,,,4,,,,trembda99,data
+2009,SEA,Seattle Mariners,AL,American League,West,AL West,32.0,Don Wakamatsu,SEA,85,77,0.525,0,162,3.0,,,,0,,,,wakamdo01,data
+2009,TEX,Texas Rangers,AL,American League,West,AL West,33.0,Ron Washington,TEX,87,75,0.537,0,162,2.0,,,,0,,,,washiro01,data
+2009,CLE,Cleveland Indians,AL,American League,Central,AL Central,34.0,Eric Wedge,CLE,65,97,0.401,0,162,4.0,,,,5,,,,wedgeer01,data
+2009,,,,,,,,,,2430,2430,0.5,0,4860,,30.0,30.0,0.5,84,,,,,summary
+2010,CLE,Cleveland Indians,AL,American League,Central,AL Central,1.0,Manny Acta,CLE,69,93,0.426,0,162,4.0,,,,2,,,,actama99,data
+2010,CIN,Cincinnati Reds,NL,National League,Central,NL Central,2.0,Dusty Baker,CIN,91,71,0.562,0,162,1.0,0.0,3.0,0.0,2,,,,bakerdu01,data
+2010,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,90,72,0.556,0,162,2.0,,,,2,,,,blackbu02,data
+2010,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,92,70,0.568,0,162,1.0,11.0,4.0,0.733,4,,,,bochybr01,data
+2010,SEA,Seattle Mariners,AL,American League,West,AL West,5.0,Daren Brown,SEA,19,31,0.38,0,50,4.0,,,,0,,,,brownda99,data
+2010,ATL,Atlanta Braves,NL,National League,East,NL East,6.0,Bobby Cox,ATL,91,71,0.562,0,162,2.0,1.0,3.0,0.25,5,,,,coxbo01,data
+2010,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Terry Francona,BOS,89,73,0.549,0,162,3.0,,,,3,,,,francte01,data
+2010,MIN,Minnesota Twins,AL,American League,Central,AL Central,8.0,Ron Gardenhire,MIN,94,68,0.58,0,162,1.0,0.0,3.0,0.0,6,,,,gardero01,data
+2010,TOR,Toronto Blue Jays,AL,American League,East,AL East,9.0,Cito Gaston,TOR,85,77,0.525,0,162,4.0,,,,3,,,,gastoci01,data
+2010,OAK,Oakland Athletics,AL,American League,West,AL West,10.0,Bob Geren,OAK,81,81,0.5,0,162,2.0,,,,3,,,,gerenbo01,data
+2010,ARI,Arizona Diamondbacks,NL,National League,West,NL West,11.0,Kirk Gibson,ARI,34,49,0.41,0,83,5.0,,,,0,,,,gibsoki01,data
+2010,NYY,New York Yankees,AL,American League,East,AL East,12.0,Joe Girardi,NYY,95,67,0.586,0,162,2.0,5.0,4.0,0.556,3,,,,girarjo01,data
+2010,FLA,Florida Marlins,NL,National League,East,NL East,13.0,Fredi González,FLA,34,36,0.486,0,70,4.0,,,,1,,,,gonzafr99,data
+2010,CHW,Chicago White Sox,AL,American League,Central,AL Central,14.0,Ozzie Guillén,CHW,88,74,0.543,0,162,2.0,,,,6,,,,guilloz01,data
+2010,KCR,Kansas City Royals,AL,American League,Central,AL Central,15.0,Trey Hillman,KCR,12,23,0.343,0,35,5.0,,,,1,,,,hillmtr99,data
+2010,ARI,Arizona Diamondbacks,NL,National League,West,NL West,16.0,A.J. Hinch,ARI,31,48,0.392,0,79,5.0,,,,2,,,,,data
+2010,STL,St. Louis Cardinals,NL,National League,Central,NL Central,17.0,Tony La Russa,STL,86,76,0.531,0,162,2.0,,,,3,,,,larusto01,data
+2010,DET,Detroit Tigers,AL,American League,Central,AL Central,18.0,Jim Leyland,DET,81,81,0.5,0,162,3.0,,,,4,,,,leylaji99,data
+2010,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,19.0,Ken Macha,MIL,77,85,0.475,0,162,3.0,,,,3,,,,machake01,data
+2010,TBR,Tampa Bay Rays,AL,American League,East,AL East,20.0,Joe Maddon,TBR,96,66,0.593,0,162,1.0,2.0,3.0,0.4,5,,,,maddojo99,data
+2010,PHI,Philadelphia Phillies,NL,National League,East,NL East,21.0,Charlie Manuel,PHI,97,65,0.599,0,162,1.0,5.0,4.0,0.556,6,,,,manuech01,data
+2010,NYM,New York Mets,NL,National League,East,NL East,22.0,Jerry Manuel,NYM,79,83,0.488,0,162,4.0,,,,3,,,,manueje01,data
+2010,HOU,Houston Astros,NL,National League,Central,NL Central,23.0,Brad Mills,HOU,76,86,0.469,0,162,4.0,,,,1,,,,millsbr01,data
+2010,CHC,Chicago Cubs,NL,National League,Central,NL Central,24.0,Lou Piniella,CHC,51,74,0.408,0,125,5.0,,,,1,,,,pinielo01,data
+2010,CHC,Chicago Cubs,NL,National League,Central,NL Central,25.0,Mike Quade,CHC,24,13,0.649,0,37,5.0,,,,0,,,,quademi99,data
+2010,WSN,Washington Nationals,NL,National League,East,NL East,26.0,Jim Riggleman,WSN,69,93,0.426,0,162,5.0,,,,6,,,,rigglji99,data
+2010,FLA,Florida Marlins,NL,National League,East,NL East,27.0,Edwin Rodríguez,FLA,46,46,0.5,0,92,3.0,,,,3,,,,rodried02,data
+2010,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,28.0,John Russell,PIT,57,105,0.352,0,162,6.0,,,,3,,,,russejo02,data
+2010,BAL,Baltimore Orioles,AL,American League,East,AL East,29.0,Juan Samuel,BAL,17,34,0.333,0,51,5.0,,,,2,,,,samueju01,data
+2010,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,30.0,Mike Scioscia,LAA,80,82,0.494,0,162,3.0,,,,2,,,,sciosmi01,data
+2010,BAL,Baltimore Orioles,AL,American League,East,AL East,31.0,Buck Showalter,BAL,34,23,0.596,0,57,5.0,,,,2,,,,showabu99,data
+2010,LAD,Los Angeles Dodgers,NL,National League,West,NL West,32.0,Joe Torre,LAD,80,82,0.494,0,162,4.0,,,,2,,,,torrejo01,data
+2010,COL,Colorado Rockies,NL,National League,West,NL West,33.0,Jim Tracy,COL,83,79,0.512,0,162,3.0,,,,2,,,,tracyji01,data
+2010,BAL,Baltimore Orioles,AL,American League,East,AL East,34.0,Dave Trembley,BAL,15,39,0.278,0,54,5.0,,,,0,,,,trembda99,data
+2010,SEA,Seattle Mariners,AL,American League,West,AL West,35.0,Don Wakamatsu,SEA,42,70,0.375,0,112,4.0,,,,3,,,,wakamdo01,data
+2010,TEX,Texas Rangers,AL,American League,West,AL West,36.0,Ron Washington,TEX,90,72,0.556,0,162,1.0,8.0,8.0,0.5,4,,,,washiro01,data
+2010,KCR,Kansas City Royals,AL,American League,Central,AL Central,37.0,Ned Yost,KCR,55,72,0.433,0,127,5.0,,,,1,,,,yostne01,data
+2010,,,,,,,,,,2430,2430,0.5,0,4860,,32.0,32.0,0.5,99,,,,,summary
+2011,CLE,Cleveland Indians,AL,American League,Central,AL Central,1.0,Manny Acta,CLE,80,82,0.494,0,162,2.0,,,,2,,,,actama99,data
+2011,CIN,Cincinnati Reds,NL,National League,Central,NL Central,2.0,Dusty Baker,CIN,79,83,0.488,0,162,3.0,,,,1,,,,bakerdu01,data
+2011,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,71,91,0.438,0,162,5.0,,,,2,,,,blackbu02,data
+2011,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,86,76,0.531,0,162,2.0,,,,3,,,,bochybr01,data
+2011,NYM,New York Mets,NL,National League,East,NL East,5.0,Terry Collins,NYM,77,85,0.475,0,162,4.0,,,,2,,,,collite99,data
+2011,CHW,Chicago White Sox,AL,American League,Central,AL Central,6.0,Don Cooper,CHW,1,1,0.5,0,2,3.0,,,,0,,,,coopedo01,data
+2011,TOR,Toronto Blue Jays,AL,American League,East,AL East,7.0,John Farrell,TOR,81,81,0.5,0,162,4.0,,,,3,,,,farrejo03,data
+2011,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,Terry Francona,BOS,90,72,0.556,0,162,3.0,,,,4,,,,francte01,data
+2011,MIN,Minnesota Twins,AL,American League,Central,AL Central,9.0,Ron Gardenhire,MIN,63,99,0.389,0,162,5.0,,,,6,,,,gardero01,data
+2011,OAK,Oakland Athletics,AL,American League,West,AL West,10.0,Bob Geren,OAK,27,36,0.429,0,63,4.0,,,,1,,,,gerenbo01,data
+2011,ARI,Arizona Diamondbacks,NL,National League,West,NL West,11.0,Kirk Gibson,ARI,94,68,0.58,0,162,1.0,2.0,3.0,0.4,3,,,,gibsoki01,data
+2011,NYY,New York Yankees,AL,American League,East,AL East,12.0,Joe Girardi,NYY,97,65,0.599,0,162,1.0,2.0,3.0,0.4,3,,,,girarjo01,data
+2011,ATL,Atlanta Braves,NL,National League,East,NL East,13.0,Fredi González,ATL,89,73,0.549,0,162,2.0,,,,4,,,,gonzafr99,data
+2011,CHW,Chicago White Sox,AL,American League,Central,AL Central,14.0,Ozzie Guillén,CHW,78,82,0.488,0,160,3.0,,,,2,,,,guilloz01,data
+2011,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,15.0,Clint Hurdle,PIT,72,90,0.444,0,162,4.0,,,,5,,,,hurdlcl01,data
+2011,FLA,Florida Marlins,NL,National League,East,NL East,16.0,Brandon Hyde,FLA,0,1,0.0,0,1,5.0,,,,0,,,,hydebr99,data
+2011,WSN,Washington Nationals,NL,National League,East,NL East,17.0,Davey Johnson,WSN,40,43,0.482,0,83,3.0,,,,1,,,,johnsda02,data
+2011,STL,St. Louis Cardinals,NL,National League,Central,NL Central,18.0,Tony La Russa,STL,90,72,0.556,0,162,2.0,11.0,7.0,0.611,2,,,,larusto01,data
+2011,DET,Detroit Tigers,AL,American League,Central,AL Central,19.0,Jim Leyland,DET,95,67,0.586,0,162,1.0,5.0,6.0,0.455,5,,,,leylaji99,data
+2011,TBR,Tampa Bay Rays,AL,American League,East,AL East,20.0,Joe Maddon,TBR,91,71,0.562,0,162,2.0,1.0,3.0,0.25,6,,,,maddojo99,data
+2011,PHI,Philadelphia Phillies,NL,National League,East,NL East,21.0,Charlie Manuel,PHI,102,60,0.63,0,162,1.0,2.0,3.0,0.4,3,,,,manuech01,data
+2011,LAD,Los Angeles Dodgers,NL,National League,West,NL West,22.0,Don Mattingly,LAD,82,79,0.509,0,161,3.0,,,,3,,,,mattido01,data
+2011,FLA,Florida Marlins,NL,National League,East,NL East,23.0,Jack McKeon,FLA,40,50,0.444,0,90,5.0,,,,1,,,,mckeoja99,data
+2011,WSN,Washington Nationals,NL,National League,East,NL East,24.0,John McLaren,WSN,2,1,0.667,0,3,3.0,,,,1,,,,mclarjo99,data
+2011,OAK,Oakland Athletics,AL,American League,West,AL West,25.0,Bob Melvin,OAK,47,52,0.475,0,99,3.0,,,,1,,,,melvibo01,data
+2011,HOU,Houston Astros,NL,National League,Central,NL Central,26.0,Brad Mills,HOU,56,106,0.346,0,162,6.0,,,,5,,,,millsbr01,data
+2011,CHC,Chicago Cubs,NL,National League,Central,NL Central,27.0,Mike Quade,CHC,71,91,0.438,0,162,5.0,,,,7,,,,quademi99,data
+2011,WSN,Washington Nationals,NL,National League,East,NL East,28.0,Jim Riggleman,WSN,38,37,0.507,0,75,3.0,,,,3,,,,rigglji99,data
+2011,FLA,Florida Marlins,NL,National League,East,NL East,29.0,Edwin Rodríguez,FLA,32,39,0.451,0,71,5.0,,,,1,,,,rodried02,data
+2011,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,30.0,Ron Roenicke,MIL,96,66,0.593,0,162,1.0,5.0,6.0,0.455,1,,,,roeniro01,data
+2011,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,31.0,Mike Scioscia,LAA,86,76,0.531,0,162,2.0,,,,2,,,,sciosmi01,data
+2011,BAL,Baltimore Orioles,AL,American League,East,AL East,32.0,Buck Showalter,BAL,69,93,0.426,0,162,5.0,,,,3,,,,showabu99,data
+2011,COL,Colorado Rockies,NL,National League,West,NL West,33.0,Jim Tracy,COL,73,89,0.451,0,162,4.0,,,,4,,,,tracyji01,data
+2011,TEX,Texas Rangers,AL,American League,West,AL West,34.0,Ron Washington,TEX,96,66,0.593,0,162,1.0,10.0,7.0,0.588,2,,,,washiro01,data
+2011,SEA,Seattle Mariners,AL,American League,West,AL West,35.0,Eric Wedge,SEA,67,95,0.414,0,162,4.0,,,,3,,,,wedgeer01,data
+2011,KCR,Kansas City Royals,AL,American League,Central,AL Central,36.0,Ned Yost,KCR,71,91,0.438,0,162,4.0,,,,3,,,,yostne01,data
+2011,,,,,,,,,,2429,2429,0.5,0,4858,,38.0,38.0,0.5,98,,,,,summary
+2012,CLE,Cleveland Indians,AL,American League,Central,AL Central,1.0,Manny Acta,CLE,65,91,0.417,0,156,5.0,,,,2,,,,actama99,data
+2012,CLE,Cleveland Indians,AL,American League,Central,AL Central,2.0,Sandy Alomar,CLE,3,3,0.5,0,6,4.0,,,,0,,,,alomasa02,data
+2012,CIN,Cincinnati Reds,NL,National League,Central,NL Central,3.0,Dusty Baker,CIN,97,65,0.599,0,162,1.0,2.0,3.0,0.4,0,,,,bakerdu01,data
+2012,SDP,San Diego Padres,NL,National League,West,NL West,4.0,Bud Black,SDP,76,86,0.469,0,162,4.0,,,,3,,,,blackbu02,data
+2012,SFG,San Francisco Giants,NL,National League,West,NL West,5.0,Bruce Bochy,SFG,94,68,0.58,0,162,1.0,11.0,5.0,0.688,2,,,,bochybr01,data
+2012,NYM,New York Mets,NL,National League,East,NL East,6.0,Terry Collins,NYM,74,88,0.457,0,162,4.0,,,,3,,,,collite99,data
+2012,HOU,Houston Astros,NL,National League,Central,NL Central,7.0,Tony DeFrancesco,HOU,16,25,0.39,0,41,6.0,,,,0,,,,defrato99,data
+2012,TOR,Toronto Blue Jays,AL,American League,East,AL East,8.0,John Farrell,TOR,73,89,0.451,0,162,4.0,,,,2,,,,farrejo03,data
+2012,MIN,Minnesota Twins,AL,American League,Central,AL Central,9.0,Ron Gardenhire,MIN,66,96,0.407,0,162,5.0,,,,3,,,,gardero01,data
+2012,ARI,Arizona Diamondbacks,NL,National League,West,NL West,10.0,Kirk Gibson,ARI,81,81,0.5,0,162,3.0,,,,0,,,,gibsoki01,data
+2012,NYY,New York Yankees,AL,American League,East,AL East,11.0,Joe Girardi,NYY,95,67,0.586,0,162,1.0,3.0,6.0,0.333,4,,,,girarjo01,data
+2012,ATL,Atlanta Braves,NL,National League,East,NL East,12.0,Fredi González,ATL,94,68,0.58,0,162,2.0,0.0,1.0,0.0,2,,,,gonzafr99,data
+2012,MIA,Miami Marlins,NL,National League,East,NL East,13.0,Ozzie Guillén,MIA,69,93,0.426,0,162,5.0,,,,2,,,,guilloz01,data
+2012,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,14.0,Clint Hurdle,PIT,79,83,0.488,0,162,4.0,,,,5,,,,hurdlcl01,data
+2012,WSN,Washington Nationals,NL,National League,East,NL East,15.0,Davey Johnson,WSN,98,64,0.605,0,162,1.0,2.0,3.0,0.4,1,,,,johnsda02,data
+2012,DET,Detroit Tigers,AL,American League,Central,AL Central,16.0,Jim Leyland,DET,88,74,0.543,0,162,1.0,7.0,6.0,0.538,5,,,,leylaji99,data
+2012,TBR,Tampa Bay Rays,AL,American League,East,AL East,17.0,Joe Maddon,TBR,90,72,0.556,0,162,3.0,,,,4,,,,maddojo99,data
+2012,PHI,Philadelphia Phillies,NL,National League,East,NL East,18.0,Charlie Manuel,PHI,81,81,0.5,0,162,3.0,,,,2,,,,manuech01,data
+2012,STL,St. Louis Cardinals,NL,National League,Central,NL Central,19.0,Mike Matheny,STL,88,74,0.543,0,162,2.0,7.0,6.0,0.538,2,,,,mathemi01,data
+2012,LAD,Los Angeles Dodgers,NL,National League,West,NL West,20.0,Don Mattingly,LAD,86,76,0.531,0,162,2.0,,,,6,,,,mattido01,data
+2012,OAK,Oakland Athletics,AL,American League,West,AL West,21.0,Bob Melvin,OAK,94,68,0.58,0,162,1.0,2.0,3.0,0.4,3,,,,melvibo01,data
+2012,HOU,Houston Astros,NL,National League,Central,NL Central,22.0,Brad Mills,HOU,39,82,0.322,0,121,6.0,,,,1,,,,millsbr01,data
+2012,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,23.0,Ron Roenicke,MIL,83,79,0.512,0,162,3.0,,,,2,,,,roeniro01,data
+2012,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,24.0,Mike Scioscia,LAA,89,73,0.549,0,162,3.0,,,,3,,,,sciosmi01,data
+2012,BAL,Baltimore Orioles,AL,American League,East,AL East,25.0,Buck Showalter,BAL,93,69,0.574,0,162,2.0,3.0,3.0,0.5,2,,,,showabu99,data
+2012,CHC,Chicago Cubs,NL,National League,Central,NL Central,26.0,Dale Sveum,CHC,61,101,0.377,0,162,5.0,,,,4,,,,sveumda01,data
+2012,COL,Colorado Rockies,NL,National League,West,NL West,27.0,Jim Tracy,COL,64,98,0.395,0,162,5.0,,,,3,,,,tracyji01,data
+2012,BOS,Boston Red Sox,AL,American League,East,AL East,28.0,Bobby Valentine,BOS,69,93,0.426,0,162,5.0,,,,6,,,,valenbo02,data
+2012,CHW,Chicago White Sox,AL,American League,Central,AL Central,29.0,Robin Ventura,CHW,85,77,0.525,0,162,2.0,,,,4,,,,venturo01,data
+2012,TEX,Texas Rangers,AL,American League,West,AL West,30.0,Ron Washington,TEX,93,69,0.574,0,162,2.0,0.0,1.0,0.0,1,,,,washiro01,data
+2012,SEA,Seattle Mariners,AL,American League,West,AL West,31.0,Eric Wedge,SEA,75,87,0.463,0,162,4.0,,,,1,,,,wedgeer01,data
+2012,KCR,Kansas City Royals,AL,American League,Central,AL Central,32.0,Ned Yost,KCR,72,90,0.444,0,162,3.0,,,,3,,,,yostne01,data
+2012,,,,,,,,,,2430,2430,0.5,0,4860,,37.0,37.0,0.5,81,,,,,summary
+2013,CIN,Cincinnati Reds,NL,National League,Central,NL Central,1.0,Dusty Baker,CIN,90,72,0.556,0,162,3.0,0.0,1.0,0.0,0,,,,bakerdu01,data
+2013,SDP,San Diego Padres,NL,National League,West,NL West,2.0,Bud Black,SDP,76,86,0.469,0,162,3.0,,,,2,,,,blackbu02,data
+2013,SFG,San Francisco Giants,NL,National League,West,NL West,3.0,Bruce Bochy,SFG,76,86,0.469,0,162,3.0,,,,3,,,,bochybr01,data
+2013,NYM,New York Mets,NL,National League,East,NL East,4.0,Terry Collins,NYM,74,88,0.457,0,162,3.0,,,,3,,,,collite99,data
+2013,BOS,Boston Red Sox,AL,American League,East,AL East,5.0,John Farrell,BOS,97,65,0.599,0,162,1.0,11.0,5.0,0.688,2,,,,farrejo03,data
+2013,CLE,Cleveland Indians,AL,American League,Central,AL Central,6.0,Terry Francona,CLE,92,70,0.568,0,162,2.0,0.0,1.0,0.0,2,,,,francte01,data
+2013,MIN,Minnesota Twins,AL,American League,Central,AL Central,7.0,Ron Gardenhire,MIN,66,96,0.407,0,162,4.0,,,,5,,,,gardero01,data
+2013,TOR,Toronto Blue Jays,AL,American League,East,AL East,8.0,John Gibbons,TOR,74,88,0.457,0,162,5.0,,,,5,,,,gibbojo02,data
+2013,ARI,Arizona Diamondbacks,NL,National League,West,NL West,9.0,Kirk Gibson,ARI,81,81,0.5,0,162,2.0,,,,4,,,,gibsoki01,data
+2013,NYY,New York Yankees,AL,American League,East,AL East,10.0,Joe Girardi,NYY,85,77,0.525,0,162,3.0,,,,2,,,,girarjo01,data
+2013,ATL,Atlanta Braves,NL,National League,East,NL East,11.0,Fredi González,ATL,96,66,0.593,0,162,1.0,1.0,3.0,0.25,5,,,,gonzafr99,data
+2013,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,12.0,Clint Hurdle,PIT,94,68,0.58,0,162,2.0,3.0,3.0,0.5,6,,,,hurdlcl01,data
+2013,WSN,Washington Nationals,NL,National League,East,NL East,13.0,Davey Johnson,WSN,86,76,0.531,0,162,2.0,,,,2,,,,johnsda02,data
+2013,DET,Detroit Tigers,AL,American League,Central,AL Central,14.0,Jim Leyland,DET,93,69,0.574,0,162,1.0,5.0,6.0,0.455,4,,,,leylaji99,data
+2013,TBR,Tampa Bay Rays,AL,American League,East,AL East,15.0,Joe Maddon,TBR,92,71,0.564,0,163,2.0,2.0,3.0,0.4,5,,,,maddojo99,data
+2013,PHI,Philadelphia Phillies,NL,National League,East,NL East,16.0,Charlie Manuel,PHI,53,67,0.442,0,120,4.0,,,,2,,,,manuech01,data
+2013,STL,St. Louis Cardinals,NL,National League,Central,NL Central,17.0,Mike Matheny,STL,97,65,0.599,0,162,1.0,9.0,8.0,0.529,4,,,,mathemi01,data
+2013,LAD,Los Angeles Dodgers,NL,National League,West,NL West,18.0,Don Mattingly,LAD,92,70,0.568,0,162,1.0,5.0,5.0,0.5,3,,,,mattido01,data
+2013,OAK,Oakland Athletics,AL,American League,West,AL West,19.0,Bob Melvin,OAK,96,66,0.593,0,162,1.0,2.0,3.0,0.4,4,,,,melvibo01,data
+2013,HOU,Houston Astros,AL,American League,West,AL West,20.0,Bo Porter,HOU,51,111,0.315,0,162,5.0,,,,3,,,,portebo03,data
+2013,MIA,Miami Marlins,NL,National League,East,NL East,21.0,Mike Redmond,MIA,62,100,0.383,0,162,5.0,,,,2,,,,redmomi01,data
+2013,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,22.0,Ron Roenicke,MIL,74,88,0.457,0,162,4.0,,,,2,,,,roeniro01,data
+2013,PHI,Philadelphia Phillies,NL,National League,East,NL East,23.0,Ryne Sandberg,PHI,20,22,0.476,0,42,4.0,,,,0,,,,sandbry01,data
+2013,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,24.0,Mike Scioscia,LAA,78,84,0.481,0,162,3.0,,,,2,,,,sciosmi01,data
+2013,BAL,Baltimore Orioles,AL,American League,East,AL East,25.0,Buck Showalter,BAL,85,77,0.525,0,162,3.0,,,,2,,,,showabu99,data
+2013,CHC,Chicago Cubs,NL,National League,Central,NL Central,26.0,Dale Sveum,CHC,66,96,0.407,0,162,5.0,,,,6,,,,sveumda01,data
+2013,CHW,Chicago White Sox,AL,American League,Central,AL Central,27.0,Robin Ventura,CHW,63,99,0.389,0,162,5.0,,,,3,,,,venturo01,data
+2013,TEX,Texas Rangers,AL,American League,West,AL West,28.0,Ron Washington,TEX,91,72,0.558,0,163,2.0,,,,0,,,,washiro01,data
+2013,SEA,Seattle Mariners,AL,American League,West,AL West,29.0,Eric Wedge,SEA,71,91,0.438,0,162,4.0,,,,1,,,,wedgeer01,data
+2013,COL,Colorado Rockies,NL,National League,West,NL West,30.0,Walt Weiss,COL,74,88,0.457,0,162,5.0,,,,0,,,,weisswa01,data
+2013,KCR,Kansas City Royals,AL,American League,Central,AL Central,31.0,Ned Yost,KCR,86,76,0.531,0,162,3.0,,,,1,,,,yostne01,data
+2013,,,,,,,,,,2431,2431,0.5,0,4862,,38.0,38.0,0.5,85,,,,,summary
+2014,DET,Detroit Tigers,AL,American League,Central,AL Central,1.0,Brad Ausmus,DET,90,72,0.556,0,162,1.0,0.0,3.0,0.0,3,39.0,23.0,59.0%,ausmubr01,data
+2014,SDP,San Diego Padres,NL,National League,West,NL West,2.0,Bud Black,SDP,77,85,0.475,0,162,3.0,,,,3,33.0,17.0,51.5%,blackbu02,data
+2014,SFG,San Francisco Giants,NL,National League,West,NL West,3.0,Bruce Bochy,SFG,88,74,0.543,0,162,2.0,12.0,5.0,0.706,3,35.0,22.0,62.9%,bochybr01,data
+2014,TEX,Texas Rangers,AL,American League,West,AL West,4.0,Tim Bogar,TEX,14,8,0.636,0,22,5.0,,,,0,9.0,4.0,44.4%,bogarti01,data
+2014,NYM,New York Mets,NL,National League,East,NL East,5.0,Terry Collins,NYM,79,83,0.488,0,162,2.0,,,,3,31.0,14.0,45.2%,collite99,data
+2014,BOS,Boston Red Sox,AL,American League,East,AL East,6.0,John Farrell,BOS,71,91,0.438,0,162,5.0,,,,3,34.0,19.0,55.9%,farrejo03,data
+2014,CLE,Cleveland Indians,AL,American League,Central,AL Central,7.0,Terry Francona,CLE,85,77,0.525,0,162,3.0,,,,0,33.0,17.0,51.5%,francte01,data
+2014,MIN,Minnesota Twins,AL,American League,Central,AL Central,8.0,Ron Gardenhire,MIN,70,92,0.432,0,162,5.0,,,,5,40.0,21.0,52.5%,gardero01,data
+2014,TOR,Toronto Blue Jays,AL,American League,East,AL East,9.0,John Gibbons,TOR,83,79,0.512,0,162,3.0,,,,2,47.0,16.0,34.0%,gibbojo02,data
+2014,ARI,Arizona Diamondbacks,NL,National League,West,NL West,10.0,Kirk Gibson,ARI,63,96,0.396,0,159,5.0,,,,3,36.0,19.0,52.8%,gibsoki01,data
+2014,NYY,New York Yankees,AL,American League,East,AL East,11.0,Joe Girardi,NYY,84,78,0.519,0,162,2.0,,,,4,30.0,24.0,80.0%,girarjo01,data
+2014,ATL,Atlanta Braves,NL,National League,East,NL East,12.0,Fredi González,ATL,79,83,0.488,0,162,2.0,,,,3,34.0,23.0,67.6%,gonzafr99,data
+2014,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,13.0,Clint Hurdle,PIT,88,74,0.543,0,162,2.0,0.0,1.0,0.0,4,35.0,20.0,57.1%,hurdlcl01,data
+2014,HOU,Houston Astros,AL,American League,West,AL West,14.0,Tom Lawless,HOU,11,13,0.458,0,24,4.0,,,,0,4.0,2.0,50.0%,lawleto01,data
+2014,TBR,Tampa Bay Rays,AL,American League,East,AL East,15.0,Joe Maddon,TBR,77,85,0.475,0,162,4.0,,,,5,49.0,21.0,42.9%,maddojo99,data
+2014,STL,St. Louis Cardinals,NL,National League,Central,NL Central,16.0,Mike Matheny,STL,90,72,0.556,0,162,1.0,4.0,5.0,0.444,2,32.0,13.0,40.6%,mathemi01,data
+2014,LAD,Los Angeles Dodgers,NL,National League,West,NL West,17.0,Don Mattingly,LAD,94,68,0.58,0,162,1.0,1.0,3.0,0.25,3,38.0,21.0,55.3%,mattido01,data
+2014,SEA,Seattle Mariners,AL,American League,West,AL West,18.0,Lloyd McClendon,SEA,87,75,0.537,0,162,3.0,,,,6,35.0,20.0,57.1%,mcclell01,data
+2014,OAK,Oakland Athletics,AL,American League,West,AL West,19.0,Bob Melvin,OAK,88,74,0.543,0,162,2.0,0.0,1.0,0.0,3,26.0,14.0,53.8%,melvibo01,data
+2014,HOU,Houston Astros,AL,American League,West,AL West,20.0,Bo Porter,HOU,59,79,0.428,0,138,5.0,,,,1,27.0,17.0,63.0%,portebo03,data
+2014,CIN,Cincinnati Reds,NL,National League,Central,NL Central,21.0,Bryan Price,CIN,76,86,0.469,0,162,4.0,,,,2,27.0,12.0,44.4%,pricebr99,data
+2014,MIA,Miami Marlins,NL,National League,East,NL East,22.0,Mike Redmond,MIA,77,85,0.475,0,162,4.0,,,,5,27.0,19.0,70.4%,redmomi01,data
+2014,CHC,Chicago Cubs,NL,National League,Central,NL Central,23.0,Rick Renteria,CHC,73,89,0.451,0,162,5.0,,,,6,57.0,25.0,43.9%,renteri01,data
+2014,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,24.0,Ron Roenicke,MIL,82,80,0.506,0,162,3.0,,,,4,27.0,17.0,63.0%,roeniro01,data
+2014,PHI,Philadelphia Phillies,NL,National League,East,NL East,25.0,Ryne Sandberg,PHI,73,89,0.451,0,162,5.0,,,,3,32.0,14.0,43.8%,sandbry01,data
+2014,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,26.0,Mike Scioscia,LAA,98,64,0.605,0,162,1.0,0.0,3.0,0.0,2,36.0,20.0,55.6%,sciosmi01,data
+2014,BAL,Baltimore Orioles,AL,American League,East,AL East,27.0,Buck Showalter,BAL,96,66,0.593,0,162,1.0,3.0,4.0,0.429,1,28.0,14.0,50.0%,showabu99,data
+2014,ARI,Arizona Diamondbacks,NL,National League,West,NL West,28.0,Alan Trammell,ARI,1,2,0.333,0,3,5.0,,,,0,1.0,0.0,0.0%,trammal01,data
+2014,CHW,Chicago White Sox,AL,American League,Central,AL Central,29.0,Robin Ventura,CHW,73,89,0.451,0,162,4.0,,,,3,36.0,17.0,47.2%,venturo01,data
+2014,TEX,Texas Rangers,AL,American League,West,AL West,30.0,Ron Washington,TEX,53,87,0.379,0,140,5.0,,,,2,34.0,18.0,52.9%,washiro01,data
+2014,COL,Colorado Rockies,NL,National League,West,NL West,31.0,Walt Weiss,COL,66,96,0.407,0,162,4.0,,,,2,37.0,14.0,37.8%,weisswa01,data
+2014,WSN,Washington Nationals,NL,National League,East,NL East,32.0,Matt Williams,WSN,96,66,0.593,0,162,1.0,1.0,3.0,0.25,1,32.0,21.0,65.6%,willima04,data
+2014,KCR,Kansas City Royals,AL,American League,Central,AL Central,33.0,Ned Yost,KCR,89,73,0.549,0,162,2.0,11.0,4.0,0.733,3,35.0,22.0,62.9%,yostne01,data
+2014,,,,,,,,,,2430,2430,0.5,0,4860,,32.0,32.0,0.5,90,1056.0,560.0,53.0%,,summary
+2015,DET,Detroit Tigers,AL,American League,Central,AL Central,1.0,Brad Ausmus,DET,74,87,0.46,0,161,5.0,,,,4,27.0,11.0,40.7%,ausmubr01,data
+2015,TEX,Texas Rangers,AL,American League,West,AL West,2.0,Jeff Banister,TEX,88,74,0.543,0,162,1.0,2.0,3.0,0.4,5,50.0,17.0,34.0%,banisje01,data
+2015,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Bud Black,SDP,32,33,0.492,0,65,3.0,,,,4,15.0,9.0,60.0%,blackbu02,data
+2015,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,84,78,0.519,0,162,2.0,,,,5,38.0,21.0,55.3%,bochybr01,data
+2015,TBR,Tampa Bay Rays,AL,American League,East,AL East,5.0,Kevin Cash,TBR,80,82,0.494,0,162,4.0,,,,3,54.0,17.0,31.5%,cashke01,data
+2015,NYM,New York Mets,NL,National League,East,NL East,6.0,Terry Collins,NYM,90,72,0.556,0,162,1.0,8.0,6.0,0.571,4,35.0,19.0,54.3%,collite99,data
+2015,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,7.0,Craig Counsell,MIL,61,76,0.445,0,137,4.0,,,,2,25.0,12.0,48.0%,counscr01,data
+2015,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,John Farrell,BOS,78,84,0.481,0,162,5.0,,,,3,52.0,21.0,40.4%,farrejo03,data
+2015,CLE,Cleveland Indians,AL,American League,Central,AL Central,9.0,Terry Francona,CLE,81,80,0.503,0,161,3.0,,,,4,28.0,15.0,53.6%,francte01,data
+2015,TOR,Toronto Blue Jays,AL,American League,East,AL East,10.0,John Gibbons,TOR,93,69,0.574,0,162,1.0,5.0,6.0,0.455,5,45.0,20.0,44.4%,gibbojo02,data
+2015,NYY,New York Yankees,AL,American League,East,AL East,11.0,Joe Girardi,NYY,87,75,0.537,0,162,2.0,0.0,1.0,0.0,4,30.0,22.0,73.3%,girarjo01,data
+2015,ATL,Atlanta Braves,NL,National League,East,NL East,12.0,Fredi González,ATL,67,95,0.414,0,162,4.0,,,,1,46.0,22.0,47.8%,gonzafr99,data
+2015,ARI,Arizona Diamondbacks,NL,National League,West,NL West,13.0,Chip Hale,ARI,79,83,0.488,0,162,3.0,,,,2,34.0,21.0,61.8%,halech01,data
+2015,HOU,Houston Astros,AL,American League,West,AL West,14.0,A.J. Hinch,HOU,86,76,0.531,0,162,2.0,3.0,3.0,0.5,2,48.0,23.0,47.9%,,data
+2015,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,15.0,Clint Hurdle,PIT,98,64,0.605,0,162,2.0,0.0,1.0,0.0,4,44.0,25.0,56.8%,hurdlcl01,data
+2015,MIA,Miami Marlins,NL,National League,East,NL East,16.0,Dan Jennings,MIA,55,69,0.444,0,124,3.0,,,,3,21.0,12.0,57.1%,jennida99,data
+2015,PHI,Philadelphia Phillies,NL,National League,East,NL East,17.0,Pete Mackanin,PHI,37,51,0.42,0,88,5.0,,,,0,21.0,16.0,76.2%,mackape01,data
+2015,CHC,Chicago Cubs,NL,National League,Central,NL Central,18.0,Joe Maddon,CHC,97,65,0.599,0,162,3.0,4.0,5.0,0.444,5,48.0,28.0,58.3%,maddojo99,data
+2015,STL,St. Louis Cardinals,NL,National League,Central,NL Central,19.0,Mike Matheny,STL,100,62,0.617,0,162,1.0,1.0,3.0,0.25,3,31.0,16.0,51.6%,mathemi01,data
+2015,LAD,Los Angeles Dodgers,NL,National League,West,NL West,20.0,Don Mattingly,LAD,92,70,0.568,0,162,1.0,2.0,3.0,0.4,4,41.0,17.0,41.5%,mattido01,data
+2015,SEA,Seattle Mariners,AL,American League,West,AL West,21.0,Lloyd McClendon,SEA,76,86,0.469,0,162,4.0,,,,4,38.0,27.0,71.1%,mcclell01,data
+2015,OAK,Oakland Athletics,AL,American League,West,AL West,22.0,Bob Melvin,OAK,68,94,0.42,0,162,5.0,,,,3,29.0,15.0,51.7%,melvibo01,data
+2015,MIN,Minnesota Twins,AL,American League,Central,AL Central,23.0,Paul Molitor,MIN,83,79,0.512,0,162,2.0,,,,3,42.0,26.0,61.9%,molitpa01,data
+2015,SDP,San Diego Padres,NL,National League,West,NL West,24.0,Pat Murphy,SDP,42,54,0.438,0,96,4.0,,,,5,27.0,10.0,37.0%,murphpa99,data
+2015,CIN,Cincinnati Reds,NL,National League,Central,NL Central,25.0,Bryan Price,CIN,64,98,0.395,0,162,5.0,,,,3,33.0,20.0,60.6%,pricebr99,data
+2015,MIA,Miami Marlins,NL,National League,East,NL East,26.0,Mike Redmond,MIA,16,22,0.421,0,38,4.0,,,,0,10.0,7.0,70.0%,redmomi01,data
+2015,SDP,San Diego Padres,NL,National League,West,NL West,27.0,Dave Roberts,SDP,0,1,0.0,0,1,4.0,,,,0,1.0,0.0,0.0%,roberda07,data
+2015,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,28.0,Ron Roenicke,MIL,7,18,0.28,0,25,5.0,,,,1,5.0,4.0,80.0%,roeniro01,data
+2015,PHI,Philadelphia Phillies,NL,National League,East,NL East,29.0,Ryne Sandberg,PHI,26,48,0.351,0,74,5.0,,,,1,17.0,8.0,47.1%,sandbry01,data
+2015,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,30.0,Mike Scioscia,LAA,85,77,0.525,0,162,3.0,,,,3,40.0,24.0,60.0%,sciosmi01,data
+2015,BAL,Baltimore Orioles,AL,American League,East,AL East,31.0,Buck Showalter,BAL,81,81,0.5,0,162,3.0,,,,2,30.0,17.0,56.7%,showabu99,data
+2015,CHW,Chicago White Sox,AL,American League,Central,AL Central,32.0,Robin Ventura,CHW,76,86,0.469,0,162,4.0,,,,2,41.0,21.0,51.2%,venturo01,data
+2015,COL,Colorado Rockies,NL,National League,West,NL West,33.0,Walt Weiss,COL,68,94,0.42,0,162,5.0,,,,2,47.0,25.0,53.2%,weisswa01,data
+2015,WSN,Washington Nationals,NL,National League,East,NL East,34.0,Matt Williams,WSN,83,79,0.512,0,162,2.0,,,,2,29.0,12.0,41.4%,willima04,data
+2015,KCR,Kansas City Royals,AL,American League,Central,AL Central,35.0,Ned Yost,KCR,95,67,0.586,0,162,1.0,11.0,5.0,0.688,2,33.0,21.0,63.6%,yostne01,data
+2015,,,,,,,,,,2429,2429,0.5,0,4858,,36.0,36.0,0.5,100,1155.0,601.0,52.0%,,summary
+2016,DET,Detroit Tigers,AL,American League,Central,AL Central,1.0,Brad Ausmus,DET,86,75,0.534,0,161,2.0,,,,3,34.0,19.0,55.9%,ausmubr01,data
+2016,WSN,Washington Nationals,NL,National League,East,NL East,2.0,Dusty Baker,WSN,95,67,0.586,0,162,1.0,2.0,3.0,0.4,0,47.0,19.0,40.4%,bakerdu01,data
+2016,TEX,Texas Rangers,AL,American League,West,AL West,3.0,Jeff Banister,TEX,95,67,0.586,0,162,1.0,0.0,3.0,0.0,2,51.0,23.0,45.1%,banisje01,data
+2016,SFG,San Francisco Giants,NL,National League,West,NL West,4.0,Bruce Bochy,SFG,87,75,0.537,0,162,2.0,2.0,3.0,0.4,2,49.0,31.0,63.3%,bochybr01,data
+2016,TBR,Tampa Bay Rays,AL,American League,East,AL East,5.0,Kevin Cash,TBR,68,94,0.42,0,162,5.0,,,,1,49.0,29.0,59.2%,cashke01,data
+2016,NYM,New York Mets,NL,National League,East,NL East,6.0,Terry Collins,NYM,87,75,0.537,0,162,2.0,0.0,1.0,0.0,3,28.0,18.0,64.3%,collite99,data
+2016,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,7.0,Craig Counsell,MIL,73,89,0.451,0,162,4.0,,,,3,47.0,22.0,46.8%,counscr01,data
+2016,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,John Farrell,BOS,93,69,0.574,0,162,1.0,0.0,3.0,0.0,3,46.0,20.0,43.5%,farrejo03,data
+2016,CLE,Cleveland Indians,AL,American League,Central,AL Central,9.0,Terry Francona,CLE,94,67,0.584,0,161,1.0,10.0,5.0,0.667,3,49.0,28.0,57.1%,francte01,data
+2016,TOR,Toronto Blue Jays,AL,American League,East,AL East,10.0,John Gibbons,TOR,89,73,0.549,0,162,2.0,5.0,4.0,0.556,8,49.0,19.0,38.8%,gibbojo02,data
+2016,NYY,New York Yankees,AL,American League,East,AL East,11.0,Joe Girardi,NYY,84,78,0.519,0,162,4.0,,,,3,28.0,18.0,64.3%,girarjo01,data
+2016,ATL,Atlanta Braves,NL,National League,East,NL East,12.0,Fredi González,ATL,9,28,0.243,0,37,5.0,,,,0,9.0,0.0,0.0%,gonzafr99,data
+2016,SDP,San Diego Padres,NL,National League,West,NL West,13.0,Andy Green,SDP,68,94,0.42,0,162,5.0,,,,2,57.0,27.0,47.4%,greenan01,data
+2016,ARI,Arizona Diamondbacks,NL,National League,West,NL West,14.0,Chip Hale,ARI,69,93,0.426,0,162,4.0,,,,3,37.0,22.0,59.5%,halech01,data
+2016,HOU,Houston Astros,AL,American League,West,AL West,15.0,A.J. Hinch,HOU,84,78,0.519,0,162,3.0,,,,3,37.0,16.0,43.2%,,data
+2016,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,16.0,Clint Hurdle,PIT,78,83,0.484,1,162,3.0,,,,6,55.0,25.0,45.5%,hurdlcl01,data
+2016,PHI,Philadelphia Phillies,NL,National League,East,NL East,17.0,Pete Mackanin,PHI,71,91,0.438,0,162,4.0,,,,1,46.0,26.0,56.5%,mackape01,data
+2016,CHC,Chicago Cubs,NL,National League,Central,NL Central,18.0,Joe Maddon,CHC,103,58,0.64,1,162,1.0,11.0,6.0,0.647,3,42.0,21.0,50.0%,maddojo99,data
+2016,STL,St. Louis Cardinals,NL,National League,Central,NL Central,19.0,Mike Matheny,STL,86,76,0.531,0,162,2.0,,,,1,54.0,28.0,51.9%,mathemi01,data
+2016,MIA,Miami Marlins,NL,National League,East,NL East,20.0,Don Mattingly,MIA,79,82,0.491,0,161,3.0,,,,3,53.0,34.0,64.2%,mattido01,data
+2016,OAK,Oakland Athletics,AL,American League,West,AL West,21.0,Bob Melvin,OAK,69,93,0.426,0,162,5.0,,,,1,34.0,22.0,64.7%,melvibo01,data
+2016,MIN,Minnesota Twins,AL,American League,Central,AL Central,22.0,Paul Molitor,MIN,59,103,0.364,0,162,5.0,,,,1,28.0,17.0,60.7%,molitpa01,data
+2016,CIN,Cincinnati Reds,NL,National League,Central,NL Central,23.0,Bryan Price,CIN,68,94,0.42,0,162,5.0,,,,4,51.0,25.0,49.0%,pricebr99,data
+2016,LAD,Los Angeles Dodgers,NL,National League,West,NL West,24.0,Dave Roberts,LAD,91,71,0.562,0,162,1.0,5.0,6.0,0.455,2,35.0,19.0,54.3%,roberda07,data
+2016,LAA,Los Angeles Angels,AL,American League,West,AL West,25.0,Mike Scioscia,LAA,74,88,0.457,0,162,4.0,,,,2,38.0,21.0,55.3%,sciosmi01,data
+2016,SEA,Seattle Mariners,AL,American League,West,AL West,26.0,Scott Servais,SEA,86,76,0.531,0,162,2.0,,,,1,37.0,22.0,59.5%,servasc01,data
+2016,BAL,Baltimore Orioles,AL,American League,East,AL East,27.0,Buck Showalter,BAL,89,73,0.549,0,162,2.0,0.0,1.0,0.0,1,39.0,20.0,51.3%,showabu99,data
+2016,ATL,Atlanta Braves,NL,National League,East,NL East,28.0,Brian Snitker,ATL,59,65,0.476,0,124,5.0,,,,3,33.0,18.0,54.5%,snitkbr99,data
+2016,CHW,Chicago White Sox,AL,American League,Central,AL Central,29.0,Robin Ventura,CHW,78,84,0.481,0,162,4.0,,,,3,39.0,20.0,51.3%,venturo01,data
+2016,COL,Colorado Rockies,NL,National League,West,NL West,30.0,Walt Weiss,COL,75,87,0.463,0,162,3.0,,,,3,54.0,32.0,59.3%,weisswa01,data
+2016,KCR,Kansas City Royals,AL,American League,Central,AL Central,31.0,Ned Yost,KCR,81,81,0.5,0,162,3.0,,,,1,37.0,25.0,67.6%,yostne01,data
+2016,,,,,,,,,,2427,2427,0.5,2,4856,,35.0,35.0,0.5,75,1292.0,686.0,53.1%,,summary
+2017,DET,Detroit Tigers,AL,American League,Central,AL Central,1.0,Brad Ausmus,DET,64,98,0.395,0,162,5.0,,,,6,37.0,16.0,43.2%,ausmubr01,data
+2017,WSN,Washington Nationals,NL,National League,East,NL East,2.0,Dusty Baker,WSN,97,65,0.599,0,162,1.0,2.0,3.0,0.4,1,32.0,12.0,37.5%,bakerdu01,data
+2017,TEX,Texas Rangers,AL,American League,West,AL West,3.0,Jeff Banister,TEX,78,84,0.481,0,162,3.0,,,,6,62.0,33.0,53.2%,banisje01,data
+2017,COL,Colorado Rockies,NL,National League,West,NL West,4.0,Bud Black,COL,87,75,0.537,0,162,3.0,0.0,1.0,0.0,2,38.0,16.0,42.1%,blackbu02,data
+2017,SFG,San Francisco Giants,NL,National League,West,NL West,5.0,Bruce Bochy,SFG,64,98,0.395,0,162,5.0,,,,2,31.0,19.0,61.3%,bochybr01,data
+2017,TBR,Tampa Bay Rays,AL,American League,East,AL East,6.0,Kevin Cash,TBR,80,82,0.494,0,162,3.0,,,,3,59.0,29.0,49.2%,cashke01,data
+2017,NYM,New York Mets,NL,National League,East,NL East,7.0,Terry Collins,NYM,70,92,0.432,0,162,4.0,,,,2,39.0,23.0,59.0%,collite99,data
+2017,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,8.0,Craig Counsell,MIL,86,76,0.531,0,162,2.0,,,,2,43.0,17.0,39.5%,counscr01,data
+2017,BOS,Boston Red Sox,AL,American League,East,AL East,9.0,John Farrell,BOS,93,69,0.574,0,162,1.0,1.0,3.0,0.25,2,43.0,16.0,37.2%,farrejo03,data
+2017,CLE,Cleveland Indians,AL,American League,Central,AL Central,10.0,Terry Francona,CLE,102,60,0.63,0,162,1.0,2.0,3.0,0.4,0,32.0,15.0,46.9%,francte01,data
+2017,TOR,Toronto Blue Jays,AL,American League,East,AL East,11.0,John Gibbons,TOR,76,86,0.469,0,162,4.0,,,,5,45.0,12.0,26.7%,gibbojo02,data
+2017,NYY,New York Yankees,AL,American League,East,AL East,12.0,Joe Girardi,NYY,91,71,0.562,0,162,2.0,7.0,6.0,0.538,5,40.0,30.0,75.0%,girarjo01,data
+2017,SDP,San Diego Padres,NL,National League,West,NL West,13.0,Andy Green,SDP,71,91,0.438,0,162,4.0,,,,3,42.0,17.0,40.5%,greenan01,data
+2017,HOU,Houston Astros,AL,American League,West,AL West,14.0,A.J. Hinch,HOU,101,61,0.623,0,162,1.0,11.0,7.0,0.611,3,39.0,18.0,46.2%,,data
+2017,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,15.0,Clint Hurdle,PIT,75,87,0.463,0,162,4.0,,,,5,49.0,31.0,63.3%,hurdlcl01,data
+2017,ARI,Arizona Diamondbacks,NL,National League,West,NL West,16.0,Torey Lovullo,ARI,93,69,0.574,0,162,2.0,1.0,3.0,0.25,2,32.0,16.0,50.0%,lovulto01,data
+2017,PHI,Philadelphia Phillies,NL,National League,East,NL East,17.0,Pete Mackanin,PHI,66,96,0.407,0,162,5.0,,,,1,29.0,17.0,58.6%,mackape01,data
+2017,CHC,Chicago Cubs,NL,National League,Central,NL Central,18.0,Joe Maddon,CHC,92,70,0.568,0,162,1.0,4.0,6.0,0.4,2,53.0,28.0,52.8%,maddojo99,data
+2017,STL,St. Louis Cardinals,NL,National League,Central,NL Central,19.0,Mike Matheny,STL,83,79,0.512,0,162,3.0,,,,3,50.0,26.0,52.0%,mathemi01,data
+2017,MIA,Miami Marlins,NL,National League,East,NL East,20.0,Don Mattingly,MIA,77,85,0.475,0,162,2.0,,,,4,35.0,18.0,51.4%,mattido01,data
+2017,OAK,Oakland Athletics,AL,American League,West,AL West,21.0,Bob Melvin,OAK,75,87,0.463,0,162,5.0,,,,2,32.0,16.0,50.0%,melvibo01,data
+2017,MIN,Minnesota Twins,AL,American League,Central,AL Central,22.0,Paul Molitor,MIN,85,77,0.525,0,162,2.0,0.0,1.0,0.0,2,28.0,19.0,67.9%,molitpa01,data
+2017,CIN,Cincinnati Reds,NL,National League,Central,NL Central,23.0,Bryan Price,CIN,68,94,0.42,0,162,5.0,,,,2,38.0,19.0,50.0%,pricebr99,data
+2017,CHW,Chicago White Sox,AL,American League,Central,AL Central,24.0,Rick Renteria,CHW,67,95,0.414,0,162,4.0,,,,7,35.0,17.0,48.6%,renteri01,data
+2017,LAD,Los Angeles Dodgers,NL,National League,West,NL West,25.0,Dave Roberts,LAD,104,58,0.642,0,162,1.0,10.0,5.0,0.667,1,36.0,23.0,63.9%,roberda07,data
+2017,LAA,Los Angeles Angels,AL,American League,West,AL West,26.0,Mike Scioscia,LAA,80,82,0.494,0,162,2.0,,,,2,39.0,21.0,53.8%,sciosmi01,data
+2017,SEA,Seattle Mariners,AL,American League,West,AL West,27.0,Scott Servais,SEA,78,84,0.481,0,162,3.0,,,,3,34.0,17.0,50.0%,servasc01,data
+2017,BAL,Baltimore Orioles,AL,American League,East,AL East,28.0,Buck Showalter,BAL,75,87,0.463,0,162,5.0,,,,1,26.0,17.0,65.4%,showabu99,data
+2017,ATL,Atlanta Braves,NL,National League,East,NL East,29.0,Brian Snitker,ATL,72,90,0.444,0,162,3.0,,,,3,47.0,19.0,40.4%,snitkbr99,data
+2017,KCR,Kansas City Royals,AL,American League,Central,AL Central,30.0,Ned Yost,KCR,80,82,0.494,0,162,3.0,,,,3,34.0,24.0,70.6%,yostne01,data
+2017,,,,,,,,,,2430,2430,0.5,0,4860,,38.0,38.0,0.5,85,1179.0,601.0,51.0%,,summary
+2018,TEX,Texas Rangers,AL,American League,West,AL West,1.0,Jeff Banister,TEX,64,88,0.421,0,152,5.0,,,,3,40.0,16.0,40.0%,banisje01,data
+2018,COL,Colorado Rockies,NL,National League,West,NL West,2.0,Bud Black,COL,91,72,0.558,0,163,2.0,1.0,3.0,0.25,2,46.0,24.0,52.2%,blackbu02,data
+2018,SFG,San Francisco Giants,NL,National League,West,NL West,3.0,Bruce Bochy,SFG,73,89,0.451,0,162,4.0,,,,2,31.0,23.0,74.2%,bochybr01,data
+2018,NYY,New York Yankees,AL,American League,East,AL East,4.0,Aaron Boone,NYY,100,62,0.617,0,162,2.0,2.0,3.0,0.4,4,35.0,26.0,74.3%,booneaa01,data
+2018,NYM,New York Mets,NL,National League,East,NL East,5.0,Mickey Callaway,NYM,77,85,0.475,0,162,4.0,,,,2,29.0,15.0,51.7%,callami01,data
+2018,TBR,Tampa Bay Rays,AL,American League,East,AL East,6.0,Kevin Cash,TBR,90,72,0.556,0,162,3.0,,,,1,54.0,26.0,48.1%,cashke01,data
+2018,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Alex Cora,BOS,108,54,0.667,0,162,1.0,11.0,3.0,0.786,1,43.0,22.0,51.2%,coraal01,data
+2018,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,8.0,Craig Counsell,MIL,96,67,0.589,0,163,1.0,6.0,4.0,0.6,5,34.0,7.0,20.6%,counscr01,data
+2018,CLE,Cleveland Indians,AL,American League,Central,AL Central,9.0,Terry Francona,CLE,91,71,0.562,0,162,1.0,0.0,3.0,0.0,0,37.0,16.0,43.2%,francte01,data
+2018,DET,Detroit Tigers,AL,American League,Central,AL Central,10.0,Ron Gardenhire,DET,64,98,0.395,0,162,3.0,,,,4,32.0,19.0,59.4%,gardero01,data
+2018,TOR,Toronto Blue Jays,AL,American League,East,AL East,11.0,John Gibbons,TOR,73,89,0.451,0,162,4.0,,,,7,39.0,18.0,46.2%,gibbojo02,data
+2018,SDP,San Diego Padres,NL,National League,West,NL West,12.0,Andy Green,SDP,66,96,0.407,0,162,5.0,,,,4,44.0,19.0,43.2%,greenan01,data
+2018,HOU,Houston Astros,AL,American League,West,AL West,13.0,A.J. Hinch,HOU,103,59,0.636,0,162,1.0,4.0,4.0,0.5,2,34.0,14.0,41.2%,,data
+2018,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,14.0,Clint Hurdle,PIT,82,79,0.509,0,161,4.0,,,,3,48.0,23.0,47.9%,hurdlcl01,data
+2018,PHI,Philadelphia Phillies,NL,National League,East,NL East,15.0,Gabe Kapler,PHI,80,82,0.494,0,162,3.0,,,,0,44.0,27.0,61.4%,kaplega01,data
+2018,ARI,Arizona Diamondbacks,NL,National League,West,NL West,16.0,Torey Lovullo,ARI,82,80,0.506,0,162,3.0,,,,1,45.0,26.0,57.8%,lovulto01,data
+2018,CHC,Chicago Cubs,NL,National League,Central,NL Central,17.0,Joe Maddon,CHC,95,68,0.583,0,163,2.0,0.0,1.0,0.0,4,43.0,27.0,62.8%,maddojo99,data
+2018,WSN,Washington Nationals,NL,National League,East,NL East,18.0,Dave Martinez,WSN,82,80,0.506,0,162,2.0,,,,1,40.0,21.0,52.5%,martida01,data
+2018,STL,St. Louis Cardinals,NL,National League,Central,NL Central,19.0,Mike Matheny,STL,47,46,0.505,0,93,3.0,,,,0,33.0,14.0,42.4%,mathemi01,data
+2018,MIA,Miami Marlins,NL,National League,East,NL East,20.0,Don Mattingly,MIA,63,98,0.391,0,161,5.0,,,,2,41.0,22.0,53.7%,mattido01,data
+2018,OAK,Oakland Athletics,AL,American League,West,AL West,21.0,Bob Melvin,OAK,97,65,0.599,0,162,2.0,0.0,1.0,0.0,2,42.0,21.0,50.0%,melvibo01,data
+2018,MIN,Minnesota Twins,AL,American League,Central,AL Central,22.0,Paul Molitor,MIN,78,84,0.481,0,162,2.0,,,,2,45.0,21.0,46.7%,molitpa01,data
+2018,CIN,Cincinnati Reds,NL,National League,Central,NL Central,23.0,Bryan Price,CIN,3,15,0.167,0,18,5.0,,,,0,4.0,2.0,50.0%,pricebr99,data
+2018,CHW,Chicago White Sox,AL,American League,Central,AL Central,24.0,Rick Renteria,CHW,62,100,0.383,0,162,4.0,,,,6,40.0,20.0,50.0%,renteri01,data
+2018,CIN,Cincinnati Reds,NL,National League,Central,NL Central,25.0,Jim Riggleman,CIN,64,80,0.444,0,144,5.0,,,,1,34.0,12.0,35.3%,rigglji99,data
+2018,LAD,Los Angeles Dodgers,NL,National League,West,NL West,26.0,Dave Roberts,LAD,92,71,0.564,0,163,1.0,8.0,8.0,0.5,1,39.0,18.0,46.2%,roberda07,data
+2018,LAA,Los Angeles Angels,AL,American League,West,AL West,27.0,Mike Scioscia,LAA,80,82,0.494,0,162,4.0,,,,2,42.0,23.0,54.8%,sciosmi01,data
+2018,SEA,Seattle Mariners,AL,American League,West,AL West,28.0,Scott Servais,SEA,89,73,0.549,0,162,3.0,,,,3,37.0,13.0,35.1%,servasc01,data
+2018,STL,St. Louis Cardinals,NL,National League,Central,NL Central,29.0,Mike Shildt,STL,41,28,0.594,0,69,3.0,,,,2,14.0,4.0,28.6%,shildmi99,data
+2018,BAL,Baltimore Orioles,AL,American League,East,AL East,30.0,Buck Showalter,BAL,47,115,0.29,0,162,5.0,,,,1,27.0,15.0,55.6%,showabu99,data
+2018,ATL,Atlanta Braves,NL,National League,East,NL East,31.0,Brian Snitker,ATL,90,72,0.556,0,162,1.0,1.0,3.0,0.25,4,45.0,18.0,40.0%,snitkbr99,data
+2018,TEX,Texas Rangers,AL,American League,West,AL West,32.0,Don Wakamatsu,TEX,3,7,0.3,0,10,5.0,,,,0,2.0,1.0,50.0%,wakamdo01,data
+2018,KCR,Kansas City Royals,AL,American League,Central,AL Central,33.0,Ned Yost,KCR,58,104,0.358,0,162,5.0,,,,1,41.0,31.0,75.6%,yostne01,data
+2018,,,,,,,,,,2431,2431,0.5,0,4862,,33.0,33.0,0.5,73,1204.0,604.0,50.2%,,summary
+2019,LAA,Los Angeles Angels,AL,American League,West,AL West,1.0,Brad Ausmus,LAA,72,90,0.444,0,162,4.0,,,,1,31.0,17.0,54.8%,ausmubr01,data
+2019,MIN,Minnesota Twins,AL,American League,Central,AL Central,2.0,Rocco Baldelli,MIN,101,61,0.623,0,162,1.0,0.0,3.0,0.0,2,39.0,12.0,30.8%,baldero01,data
+2019,SDP,San Diego Padres,NL,National League,West,NL West,3.0,Rod Barajas,SDP,1,7,0.125,0,8,5.0,,,,0,4.0,3.0,75.0%,barajro01,data
+2019,CIN,Cincinnati Reds,NL,National League,Central,NL Central,4.0,David Bell,CIN,75,87,0.463,0,162,4.0,,,,8,34.0,14.0,41.2%,bellda01,data
+2019,COL,Colorado Rockies,NL,National League,West,NL West,5.0,Bud Black,COL,71,91,0.438,0,162,4.0,,,,2,38.0,20.0,52.6%,blackbu02,data
+2019,SFG,San Francisco Giants,NL,National League,West,NL West,6.0,Bruce Bochy,SFG,77,85,0.475,0,162,3.0,,,,3,28.0,15.0,53.6%,bochybr01,data
+2019,NYY,New York Yankees,AL,American League,East,AL East,7.0,Aaron Boone,NYY,103,59,0.636,0,162,1.0,5.0,4.0,0.556,5,22.0,15.0,68.2%,booneaa01,data
+2019,NYM,New York Mets,NL,National League,East,NL East,8.0,Mickey Callaway,NYM,86,76,0.531,0,162,3.0,,,,4,36.0,13.0,36.1%,callami01,data
+2019,TBR,Tampa Bay Rays,AL,American League,East,AL East,9.0,Kevin Cash,TBR,96,66,0.593,0,162,2.0,3.0,3.0,0.5,1,48.0,22.0,45.8%,cashke01,data
+2019,BOS,Boston Red Sox,AL,American League,East,AL East,10.0,Alex Cora,BOS,84,78,0.519,0,162,3.0,,,,2,33.0,22.0,66.7%,coraal01,data
+2019,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,11.0,Craig Counsell,MIL,89,73,0.549,0,162,2.0,0.0,1.0,0.0,3,28.0,16.0,57.1%,counscr01,data
+2019,CLE,Cleveland Indians,AL,American League,Central,AL Central,12.0,Terry Francona,CLE,93,69,0.574,0,162,2.0,,,,1,27.0,15.0,55.6%,francte01,data
+2019,DET,Detroit Tigers,AL,American League,Central,AL Central,13.0,Ron Gardenhire,DET,47,114,0.292,0,161,5.0,,,,8,34.0,14.0,41.2%,gardero01,data
+2019,SDP,San Diego Padres,NL,National League,West,NL West,14.0,Andy Green,SDP,69,85,0.448,0,154,4.0,,,,3,50.0,22.0,44.0%,greenan01,data
+2019,HOU,Houston Astros,AL,American League,West,AL West,15.0,A.J. Hinch,HOU,107,55,0.66,0,162,1.0,10.0,8.0,0.556,1,39.0,20.0,51.3%,,data
+2019,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,16.0,Clint Hurdle,PIT,69,92,0.429,0,161,5.0,,,,4,36.0,15.0,41.7%,hurdlcl01,data
+2019,BAL,Baltimore Orioles,AL,American League,East,AL East,17.0,Brandon Hyde,BAL,54,108,0.333,0,162,5.0,,,,3,30.0,11.0,36.7%,hydebr99,data
+2019,PHI,Philadelphia Phillies,NL,National League,East,NL East,18.0,Gabe Kapler,PHI,81,81,0.5,0,162,4.0,,,,4,43.0,23.0,53.5%,kaplega01,data
+2019,ARI,Arizona Diamondbacks,NL,National League,West,NL West,19.0,Torey Lovullo,ARI,85,77,0.525,0,162,2.0,,,,1,36.0,21.0,58.3%,lovulto01,data
+2019,CHC,Chicago Cubs,NL,National League,Central,NL Central,20.0,Joe Maddon,CHC,84,78,0.519,0,162,3.0,,,,3,32.0,16.0,50.0%,maddojo99,data
+2019,WSN,Washington Nationals,NL,National League,East,NL East,21.0,Dave Martinez,WSN,93,69,0.574,0,162,2.0,12.0,5.0,0.706,4,31.0,15.0,48.4%,martida01,data
+2019,MIA,Miami Marlins,NL,National League,East,NL East,22.0,Don Mattingly,MIA,57,105,0.352,0,162,5.0,,,,3,43.0,22.0,51.2%,mattido01,data
+2019,OAK,Oakland Athletics,AL,American League,West,AL West,23.0,Bob Melvin,OAK,97,65,0.599,0,162,2.0,0.0,1.0,0.0,3,29.0,12.0,41.4%,melvibo01,data
+2019,TOR,Toronto Blue Jays,AL,American League,East,AL East,24.0,Charlie Montoyo,TOR,67,95,0.414,0,162,4.0,,,,2,39.0,17.0,43.6%,montoch01,data
+2019,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,25.0,Tom Prince,PIT,0,1,0.0,0,1,5.0,,,,0,0.0,0.0,,princto01,data
+2019,CHW,Chicago White Sox,AL,American League,Central,AL Central,26.0,Rick Renteria,CHW,72,89,0.447,0,161,3.0,,,,8,28.0,12.0,42.9%,renteri01,data
+2019,LAD,Los Angeles Dodgers,NL,National League,West,NL West,27.0,Dave Roberts,LAD,106,56,0.654,0,162,1.0,2.0,3.0,0.4,1,34.0,19.0,55.9%,roberda07,data
+2019,SEA,Seattle Mariners,AL,American League,West,AL West,28.0,Scott Servais,SEA,68,94,0.42,0,162,5.0,,,,4,38.0,18.0,47.4%,servasc01,data
+2019,STL,St. Louis Cardinals,NL,National League,Central,NL Central,29.0,Mike Shildt,STL,91,71,0.562,0,162,1.0,3.0,6.0,0.333,2,39.0,16.0,41.0%,shildmi99,data
+2019,ATL,Atlanta Braves,NL,National League,East,NL East,30.0,Brian Snitker,ATL,97,65,0.599,0,162,1.0,2.0,3.0,0.4,4,30.0,16.0,53.3%,snitkbr99,data
+2019,TEX,Texas Rangers,AL,American League,West,AL West,31.0,Chris Woodward,TEX,78,84,0.481,0,162,3.0,,,,3,46.0,29.0,63.0%,woodwch01,data
+2019,KCR,Kansas City Royals,AL,American League,Central,AL Central,32.0,Ned Yost,KCR,59,103,0.364,0,162,4.0,,,,4,28.0,23.0,82.1%,yostne01,data
+2019,,,,,,,,,,2429,2429,0.5,0,4858,,37.0,37.0,0.5,97,1053.0,525.0,49.9%,,summary
+2020,HOU,Houston Astros,AL,American League,West,AL West,1.0,Dusty Baker,HOU,29,31,0.483,0,60,2.0,8.0,5.0,0.615,1,13.0,4.0,30.8%,bakerdu01,data
+2020,MIN,Minnesota Twins,AL,American League,Central,AL Central,2.0,Rocco Baldelli,MIN,36,24,0.6,0,60,1.0,0.0,2.0,0.0,1,30.0,11.0,36.7%,baldero01,data
+2020,CIN,Cincinnati Reds,NL,National League,Central,NL Central,3.0,David Bell,CIN,31,29,0.517,0,60,2.0,0.0,2.0,0.0,3,23.0,11.0,47.8%,bellda01,data
+2020,COL,Colorado Rockies,NL,National League,West,NL West,4.0,Bud Black,COL,26,34,0.433,0,60,4.0,,,,0,17.0,7.0,41.2%,blackbu02,data
+2020,NYY,New York Yankees,AL,American League,East,AL East,5.0,Aaron Boone,NYY,33,27,0.55,0,60,2.0,4.0,3.0,0.571,2,12.0,5.0,41.7%,booneaa01,data
+2020,TBR,Tampa Bay Rays,AL,American League,East,AL East,6.0,Kevin Cash,TBR,40,20,0.667,0,60,1.0,11.0,9.0,0.55,2,24.0,8.0,33.3%,cashke01,data
+2020,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,7.0,Craig Counsell,MIL,29,31,0.483,0,60,4.0,0.0,2.0,0.0,3,10.0,4.0,40.0%,counscr01,data
+2020,CLE,Cleveland Indians,AL,American League,Central,AL Central,8.0,Terry Francona,CLE,35,25,0.583,0,60,2.0,0.0,2.0,0.0,0,26.0,10.0,38.5%,francte01,data
+2020,DET,Detroit Tigers,AL,American League,Central,AL Central,9.0,Ron Gardenhire,DET,21,29,0.42,0,50,4.0,,,,1,17.0,11.0,64.7%,gardero01,data
+2020,PHI,Philadelphia Phillies,NL,National League,East,NL East,10.0,Joe Girardi,PHI,28,32,0.467,0,60,3.0,,,,2,29.0,17.0,58.6%,girarjo01,data
+2020,BAL,Baltimore Orioles,AL,American League,East,AL East,11.0,Brandon Hyde,BAL,25,35,0.417,0,60,4.0,,,,1,24.0,8.0,33.3%,hydebr99,data
+2020,SFG,San Francisco Giants,NL,National League,West,NL West,12.0,Gabe Kapler,SFG,29,31,0.483,0,60,3.0,,,,0,35.0,11.0,31.4%,kaplega01,data
+2020,ARI,Arizona Diamondbacks,NL,National League,West,NL West,13.0,Torey Lovullo,ARI,25,35,0.417,0,60,5.0,,,,3,24.0,10.0,41.7%,lovulto01,data
+2020,LAA,Los Angeles Angels,AL,American League,West,AL West,14.0,Joe Maddon,LAA,26,34,0.433,0,60,4.0,,,,2,23.0,13.0,56.5%,maddojo99,data
+2020,WSN,Washington Nationals,NL,National League,East,NL East,15.0,Dave Martinez,WSN,26,34,0.433,0,60,4.0,,,,0,19.0,14.0,73.7%,martida01,data
+2020,KCR,Kansas City Royals,AL,American League,Central,AL Central,16.0,Mike Matheny,KCR,26,34,0.433,0,60,4.0,,,,1,7.0,5.0,71.4%,mathemi01,data
+2020,MIA,Miami Marlins,NL,National League,East,NL East,17.0,Don Mattingly,MIA,31,29,0.517,0,60,2.0,2.0,3.0,0.4,1,26.0,11.0,42.3%,mattido01,data
+2020,DET,Detroit Tigers,AL,American League,Central,AL Central,18.0,Lloyd McClendon,DET,2,6,0.25,0,8,5.0,,,,0,1.0,1.0,100.0%,mcclell01,data
+2020,OAK,Oakland Athletics,AL,American League,West,AL West,19.0,Bob Melvin,OAK,36,24,0.6,0,60,1.0,3.0,4.0,0.429,0,23.0,7.0,30.4%,melvibo01,data
+2020,TOR,Toronto Blue Jays,AL,American League,East,AL East,20.0,Charlie Montoyo,TOR,32,28,0.533,0,60,3.0,0.0,2.0,0.0,1,29.0,6.0,20.7%,montoch01,data
+2020,CHW,Chicago White Sox,AL,American League,Central,AL Central,21.0,Rick Renteria,CHW,35,25,0.583,0,60,2.0,1.0,2.0,0.333,3,15.0,11.0,73.3%,renteri01,data
+2020,LAD,Los Angeles Dodgers,NL,National League,West,NL West,22.0,Dave Roberts,LAD,43,17,0.717,0,60,1.0,13.0,5.0,0.722,1,19.0,11.0,57.9%,roberda07,data
+2020,BOS,Boston Red Sox,AL,American League,East,AL East,23.0,Ron Roenicke,BOS,24,36,0.4,0,60,5.0,,,,0,21.0,16.0,76.2%,roeniro01,data
+2020,NYM,New York Mets,NL,National League,East,NL East,24.0,Luis Rojas,NYM,26,34,0.433,0,60,4.0,,,,0,18.0,8.0,44.4%,rojaslu99,data
+2020,CHC,Chicago Cubs,NL,National League,Central,NL Central,25.0,David Ross,CHC,34,26,0.567,0,60,1.0,0.0,2.0,0.0,1,17.0,10.0,58.8%,rossda01,data
+2020,SEA,Seattle Mariners,AL,American League,West,AL West,26.0,Scott Servais,SEA,27,33,0.45,0,60,3.0,,,,1,12.0,5.0,41.7%,servasc01,data
+2020,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,27.0,Derek Shelton,PIT,19,41,0.317,0,60,5.0,,,,2,10.0,2.0,20.0%,sheltde99,data
+2020,STL,St. Louis Cardinals,NL,National League,Central,NL Central,28.0,Mike Shildt,STL,30,28,0.517,0,58,2.0,1.0,2.0,0.333,1,12.0,8.0,66.7%,shildmi99,data
+2020,ATL,Atlanta Braves,NL,National League,East,NL East,29.0,Brian Snitker,ATL,35,25,0.583,0,60,1.0,8.0,4.0,0.667,0,14.0,4.0,28.6%,snitkbr99,data
+2020,SDP,San Diego Padres,NL,National League,West,NL West,30.0,Jayce Tingler,SDP,37,23,0.617,0,60,2.0,2.0,4.0,0.333,1,20.0,9.0,45.0%,tinglja99,data
+2020,TEX,Texas Rangers,AL,American League,West,AL West,31.0,Chris Woodward,TEX,22,38,0.367,0,60,5.0,,,,1,21.0,11.0,52.4%,woodwch01,data
+2020,,,,,,,,,,898,898,0.5,0,1796,,53.0,53.0,0.5,35,591.0,269.0,45.5%,,summary
+2021,HOU,Houston Astros,AL,American League,West,AL West,1.0,Dusty Baker,HOU,95,67,0.586,0,162,1.0,9.0,7.0,0.562,1,12.0,4.0,33.3%,bakerdu01,data
+2021,MIN,Minnesota Twins,AL,American League,Central,AL Central,2.0,Rocco Baldelli,MIN,73,89,0.451,0,162,5.0,,,,3,21.0,9.0,42.9%,baldero01,data
+2021,CIN,Cincinnati Reds,NL,National League,Central,NL Central,3.0,David Bell,CIN,83,79,0.512,0,162,3.0,,,,5,13.0,10.0,76.9%,bellda01,data
+2021,COL,Colorado Rockies,NL,National League,West,NL West,4.0,Bud Black,COL,74,87,0.46,0,161,4.0,,,,1,16.0,9.0,56.2%,blackbu02,data
+2021,NYY,New York Yankees,AL,American League,East,AL East,5.0,Aaron Boone,NYY,92,70,0.568,0,162,2.0,0.0,1.0,0.0,6,10.0,3.0,30.0%,booneaa01,data
+2021,TBR,Tampa Bay Rays,AL,American League,East,AL East,6.0,Kevin Cash,TBR,100,62,0.617,0,162,1.0,1.0,3.0,0.25,0,17.0,7.0,41.2%,cashke01,data
+2021,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Alex Cora,BOS,92,70,0.568,0,162,2.0,6.0,5.0,0.545,2,10.0,6.0,60.0%,coraal01,data
+2021,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,8.0,Craig Counsell,MIL,95,67,0.586,0,162,1.0,1.0,3.0,0.25,5,7.0,5.0,71.4%,counscr01,data
+2021,CLE,Cleveland Indians,AL,American League,Central,AL Central,9.0,Terry Francona,CLE,80,82,0.494,0,162,2.0,,,,1,11.0,8.0,72.7%,francte01,data
+2021,PHI,Philadelphia Phillies,NL,National League,East,NL East,10.0,Joe Girardi,PHI,82,80,0.506,0,162,2.0,,,,4,15.0,5.0,33.3%,girarjo01,data
+2021,DET,Detroit Tigers,AL,American League,Central,AL Central,11.0,A.J. Hinch,DET,77,85,0.475,0,162,3.0,,,,1,12.0,7.0,58.3%,,data
+2021,BAL,Baltimore Orioles,AL,American League,East,AL East,12.0,Brandon Hyde,BAL,52,110,0.321,0,162,5.0,,,,2,10.0,1.0,10.0%,hydebr99,data
+2021,SFG,San Francisco Giants,NL,National League,West,NL West,13.0,Gabe Kapler,SFG,107,55,0.66,0,162,1.0,2.0,3.0,0.4,0,19.0,12.0,63.2%,kaplega01,data
+2021,CHW,Chicago White Sox,AL,American League,Central,AL Central,14.0,Tony La Russa,CHW,93,69,0.574,0,162,1.0,1.0,3.0,0.25,3,9.0,7.0,77.8%,larusto01,data
+2021,ARI,Arizona Diamondbacks,NL,National League,West,NL West,15.0,Torey Lovullo,ARI,52,110,0.321,0,162,5.0,,,,2,10.0,2.0,20.0%,lovulto01,data
+2021,LAA,Los Angeles Angels,AL,American League,West,AL West,16.0,Joe Maddon,LAA,77,85,0.475,0,162,4.0,,,,3,20.0,6.0,30.0%,maddojo99,data
+2021,WSN,Washington Nationals,NL,National League,East,NL East,17.0,Dave Martinez,WSN,65,97,0.401,0,162,5.0,,,,3,14.0,7.0,50.0%,martida01,data
+2021,KCR,Kansas City Royals,AL,American League,Central,AL Central,18.0,Mike Matheny,KCR,74,88,0.457,0,162,4.0,,,,2,17.0,6.0,35.3%,mathemi01,data
+2021,MIA,Miami Marlins,NL,National League,East,NL East,19.0,Don Mattingly,MIA,67,95,0.414,0,162,4.0,,,,3,16.0,2.0,12.5%,mattido01,data
+2021,OAK,Oakland Athletics,AL,American League,West,AL West,20.0,Bob Melvin,OAK,86,76,0.531,0,162,3.0,,,,6,10.0,1.0,10.0%,melvibo01,data
+2021,TOR,Toronto Blue Jays,AL,American League,East,AL East,21.0,Charlie Montoyo,TOR,91,71,0.562,0,162,4.0,,,,1,25.0,9.0,36.0%,montoch01,data
+2021,LAD,Los Angeles Dodgers,NL,National League,West,NL West,22.0,Dave Roberts,LAD,106,56,0.654,0,162,2.0,6.0,6.0,0.5,3,22.0,12.0,54.5%,roberda07,data
+2021,NYM,New York Mets,NL,National League,East,NL East,23.0,Luis Rojas,NYM,77,85,0.475,0,162,3.0,,,,5,14.0,5.0,35.7%,rojaslu99,data
+2021,CHC,Chicago Cubs,NL,National League,Central,NL Central,24.0,David Ross,CHC,71,91,0.438,0,162,4.0,,,,4,18.0,9.0,50.0%,rossda01,data
+2021,SEA,Seattle Mariners,AL,American League,West,AL West,25.0,Scott Servais,SEA,90,72,0.556,0,162,2.0,,,,3,10.0,4.0,40.0%,servasc01,data
+2021,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,26.0,Derek Shelton,PIT,61,101,0.377,0,162,5.0,,,,3,15.0,8.0,53.3%,sheltde99,data
+2021,STL,St. Louis Cardinals,NL,National League,Central,NL Central,27.0,Mike Shildt,STL,90,72,0.556,0,162,2.0,0.0,1.0,0.0,5,11.0,6.0,54.5%,shildmi99,data
+2021,ATL,Atlanta Braves,NL,National League,East,NL East,28.0,Brian Snitker,ATL,88,73,0.547,0,161,1.0,11.0,5.0,0.688,1,12.0,2.0,16.7%,snitkbr99,data
+2021,SDP,San Diego Padres,NL,National League,West,NL West,29.0,Jayce Tingler,SDP,79,83,0.488,0,162,3.0,,,,7,19.0,10.0,52.6%,tinglja99,data
+2021,TEX,Texas Rangers,AL,American League,West,AL West,30.0,Chris Woodward,TEX,60,102,0.37,0,162,5.0,,,,2,20.0,9.0,45.0%,woodwch01,data
+2021,,,,,,,,,,2429,2429,0.5,0,4858,,37.0,37.0,0.5,87,435.0,191.0,43.9%,,summary
+2022,HOU,Houston Astros,AL,American League,West,AL West,1.0,Dusty Baker,HOU,106,56,0.654,0,162,1.0,11.0,2.0,0.846,2,29.0,16.0,55.2%,bakerdu01,data
+2022,MIN,Minnesota Twins,AL,American League,Central,AL Central,2.0,Rocco Baldelli,MIN,78,84,0.481,0,162,3.0,,,,5,51.0,26.0,51.0%,baldero01,data
+2022,TEX,Texas Rangers,AL,American League,West,AL West,3.0,Tony Beasley,TEX,17,31,0.354,0,48,4.0,,,,0,13.0,5.0,38.5%,beaslto99,data
+2022,CIN,Cincinnati Reds,NL,National League,Central,NL Central,4.0,David Bell,CIN,62,100,0.383,0,162,4.0,,,,4,37.0,18.0,48.6%,bellda01,data
+2022,COL,Colorado Rockies,NL,National League,West,NL West,5.0,Bud Black,COL,68,94,0.42,0,162,5.0,,,,2,28.0,14.0,50.0%,blackbu02,data
+2022,NYY,New York Yankees,AL,American League,East,AL East,6.0,Aaron Boone,NYY,99,63,0.611,0,162,1.0,3.0,6.0,0.333,9,33.0,19.0,57.6%,booneaa01,data
+2022,CHW,Chicago White Sox,AL,American League,Central,AL Central,7.0,Miguel Cairo,CHW,18,16,0.529,0,34,2.0,,,,1,6.0,4.0,66.7%,cairomi01,data
+2022,TBR,Tampa Bay Rays,AL,American League,East,AL East,8.0,Kevin Cash,TBR,86,76,0.531,0,162,3.0,0.0,2.0,0.0,2,42.0,20.0,47.6%,cashke01,data
+2022,BOS,Boston Red Sox,AL,American League,East,AL East,9.0,Alex Cora,BOS,78,84,0.481,0,162,5.0,,,,4,18.0,8.0,44.4%,coraal01,data
+2022,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,10.0,Craig Counsell,MIL,86,76,0.531,0,162,2.0,,,,2,33.0,19.0,57.6%,counscr01,data
+2022,CLE,Cleveland Guardians,AL,American League,Central,AL Central,11.0,Terry Francona,CLE,92,70,0.568,0,162,1.0,4.0,3.0,0.571,3,39.0,23.0,59.0%,francte01,data
+2022,PHI,Philadelphia Phillies,NL,National League,East,NL East,12.0,Joe Girardi,PHI,22,29,0.431,0,51,3.0,,,,1,11.0,4.0,36.4%,girarjo01,data
+2022,DET,Detroit Tigers,AL,American League,Central,AL Central,13.0,A.J. Hinch,DET,66,96,0.407,0,162,4.0,,,,3,43.0,22.0,51.2%,,data
+2022,BAL,Baltimore Orioles,AL,American League,East,AL East,14.0,Brandon Hyde,BAL,83,79,0.512,0,162,4.0,,,,3,45.0,23.0,51.1%,hydebr99,data
+2022,SFG,San Francisco Giants,NL,National League,West,NL West,15.0,Gabe Kapler,SFG,81,81,0.5,0,162,3.0,,,,1,31.0,14.0,45.2%,kaplega01,data
+2022,OAK,Oakland Athletics,AL,American League,West,AL West,16.0,Mark Kotsay,OAK,60,102,0.37,0,162,5.0,,,,4,34.0,15.0,44.1%,kotsama01,data
+2022,CHW,Chicago White Sox,AL,American League,Central,AL Central,17.0,Tony La Russa,CHW,63,65,0.492,0,128,3.0,,,,2,20.0,8.0,40.0%,larusto01,data
+2022,ARI,Arizona Diamondbacks,NL,National League,West,NL West,18.0,Torey Lovullo,ARI,74,88,0.457,0,162,4.0,,,,5,40.0,19.0,47.5%,lovulto01,data
+2022,LAA,Los Angeles Angels,AL,American League,West,AL West,19.0,Joe Maddon,LAA,27,29,0.482,0,56,2.0,,,,1,17.0,5.0,29.4%,maddojo99,data
+2022,STL,St. Louis Cardinals,NL,National League,Central,NL Central,20.0,Oliver Marmol,STL,93,69,0.574,0,162,1.0,0.0,2.0,0.0,3,35.0,21.0,60.0%,marmool99,data
+2022,WSN,Washington Nationals,NL,National League,East,NL East,21.0,Dave Martinez,WSN,55,107,0.34,0,162,5.0,,,,2,30.0,13.0,43.3%,martida01,data
+2022,KCR,Kansas City Royals,AL,American League,Central,AL Central,22.0,Mike Matheny,KCR,65,97,0.401,0,162,5.0,,,,2,42.0,23.0,54.8%,mathemi01,data
+2022,MIA,Miami Marlins,NL,National League,East,NL East,23.0,Don Mattingly,MIA,69,93,0.426,0,162,4.0,,,,3,36.0,17.0,47.2%,mattido01,data
+2022,SDP,San Diego Padres,NL,National League,West,NL West,24.0,Bob Melvin,SDP,89,73,0.549,0,162,2.0,6.0,6.0,0.5,4,36.0,19.0,52.8%,melvibo01,data
+2022,TOR,Toronto Blue Jays,AL,American League,East,AL East,25.0,Charlie Montoyo,TOR,46,42,0.523,0,88,4.0,,,,4,24.0,12.0,50.0%,montoch01,data
+2022,LAA,Los Angeles Angels,AL,American League,West,AL West,26.0,Phil Nevin,LAA,46,60,0.434,0,106,3.0,,,,4,25.0,11.0,44.0%,nevinph01,data
+2022,LAD,Los Angeles Dodgers,NL,National League,West,NL West,27.0,Dave Roberts,LAD,111,51,0.685,0,162,1.0,1.0,3.0,0.25,1,33.0,12.0,36.4%,roberda07,data
+2022,CHC,Chicago Cubs,NL,National League,Central,NL Central,28.0,David Ross,CHC,74,88,0.457,0,162,3.0,,,,5,47.0,19.0,40.4%,rossda01,data
+2022,TOR,Toronto Blue Jays,AL,American League,East,AL East,29.0,John Schneider,TOR,46,28,0.622,0,74,2.0,0.0,2.0,0.0,2,24.0,9.0,37.5%,schnejo99,data
+2022,SEA,Seattle Mariners,AL,American League,West,AL West,30.0,Scott Servais,SEA,90,72,0.556,0,162,2.0,2.0,3.0,0.4,4,19.0,9.0,47.4%,servasc01,data
+2022,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,31.0,Derek Shelton,PIT,62,100,0.383,0,162,4.0,,,,4,31.0,14.0,45.2%,sheltde99,data
+2022,NYM,New York Mets,NL,National League,East,NL East,32.0,Buck Showalter,NYM,101,61,0.623,0,162,2.0,1.0,2.0,0.333,0,33.0,26.0,78.8%,showabu99,data
+2022,ATL,Atlanta Braves,NL,National League,East,NL East,33.0,Brian Snitker,ATL,101,61,0.623,0,162,1.0,1.0,3.0,0.25,1,37.0,21.0,56.8%,snitkbr99,data
+2022,PHI,Philadelphia Phillies,NL,National League,East,NL East,34.0,Rob Thomson,PHI,65,46,0.586,0,111,3.0,11.0,6.0,0.647,0,31.0,14.0,45.2%,thomsro99,data
+2022,TEX,Texas Rangers,AL,American League,West,AL West,35.0,Chris Woodward,TEX,51,63,0.447,0,114,3.0,,,,1,36.0,12.0,33.3%,woodwch01,data
+2022,,,,,,,,,,2430,2430,0.5,0,4860,,40.0,40.0,0.5,94,1089.0,534.0,49.0%,,summary
+2023,HOU,Houston Astros,AL,American League,West,AL West,1.0,Dusty Baker,HOU,90,72,0.556,0,162,1.0,6.0,5.0,0.545,1,28.0,18.0,64.3%,bakerdu01,data
+2023,MIN,Minnesota Twins,AL,American League,Central,AL Central,2.0,Rocco Baldelli,MIN,87,75,0.537,0,162,1.0,3.0,3.0,0.5,5,34.0,16.0,47.1%,baldero01,data
+2023,CIN,Cincinnati Reds,NL,National League,Central,NL Central,3.0,David Bell,CIN,82,80,0.506,0,162,3.0,,,,7,53.0,21.0,39.6%,bellda01,data
+2023,COL,Colorado Rockies,NL,National League,West,NL West,4.0,Bud Black,COL,59,103,0.364,0,162,5.0,,,,1,38.0,19.0,50.0%,blackbu02,data
+2023,TEX,Texas Rangers,AL,American League,West,AL West,5.0,Bruce Bochy,TEX,90,72,0.556,0,162,2.0,13.0,4.0,0.765,4,29.0,11.0,37.9%,bochybr01,data
+2023,NYY,New York Yankees,AL,American League,East,AL East,6.0,Aaron Boone,NYY,82,80,0.506,0,162,4.0,,,,7,30.0,18.0,60.0%,booneaa01,data
+2023,TBR,Tampa Bay Rays,AL,American League,East,AL East,7.0,Kevin Cash,TBR,99,63,0.611,0,162,2.0,0.0,2.0,0.0,3,55.0,26.0,47.3%,cashke01,data
+2023,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,Alex Cora,BOS,78,84,0.481,0,162,5.0,,,,4,19.0,10.0,52.6%,coraal01,data
+2023,SFG,San Francisco Giants,NL,National League,West,NL West,9.0,Kai Correa,SFG,1,2,0.333,0,3,4.0,,,,0,0.0,0.0,,correka99,data
+2023,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,10.0,Craig Counsell,MIL,92,70,0.568,0,162,1.0,0.0,2.0,0.0,3,29.0,14.0,48.3%,counscr01,data
+2023,CLE,Cleveland Guardians,AL,American League,Central,AL Central,11.0,Terry Francona,CLE,76,86,0.469,0,162,3.0,,,,3,41.0,23.0,56.1%,francte01,data
+2023,CHW,Chicago White Sox,AL,American League,Central,AL Central,12.0,Pedro Grifol,CHW,61,101,0.377,0,162,4.0,,,,5,40.0,16.0,40.0%,grifope99,data
+2023,DET,Detroit Tigers,AL,American League,Central,AL Central,13.0,A.J. Hinch,DET,78,84,0.481,0,162,2.0,,,,2,37.0,12.0,32.4%,,data
+2023,BAL,Baltimore Orioles,AL,American League,East,AL East,14.0,Brandon Hyde,BAL,101,61,0.623,0,162,1.0,0.0,3.0,0.0,4,41.0,17.0,41.5%,hydebr99,data
+2023,SFG,San Francisco Giants,NL,National League,West,NL West,15.0,Gabe Kapler,SFG,78,81,0.491,0,159,4.0,,,,2,46.0,26.0,56.5%,kaplega01,data
+2023,OAK,Oakland Athletics,AL,American League,West,AL West,16.0,Mark Kotsay,OAK,50,112,0.309,0,162,5.0,,,,6,39.0,19.0,48.7%,kotsama01,data
+2023,ARI,Arizona Diamondbacks,NL,National League,West,NL West,17.0,Torey Lovullo,ARI,84,78,0.519,0,162,2.0,10.0,7.0,0.588,3,39.0,26.0,66.7%,lovulto01,data
+2023,STL,St. Louis Cardinals,NL,National League,Central,NL Central,18.0,Oliver Marmol,STL,71,91,0.438,0,162,5.0,,,,6,46.0,24.0,52.2%,marmool99,data
+2023,WSN,Washington Nationals,NL,National League,East,NL East,19.0,Dave Martinez,WSN,71,91,0.438,0,162,5.0,,,,2,29.0,22.0,75.9%,martida01,data
+2023,SDP,San Diego Padres,NL,National League,West,NL West,20.0,Bob Melvin,SDP,82,80,0.506,0,162,3.0,,,,5,39.0,17.0,43.6%,melvibo01,data
+2023,LAA,Los Angeles Angels,AL,American League,West,AL West,21.0,Phil Nevin,LAA,73,89,0.451,0,162,4.0,,,,4,28.0,6.0,21.4%,nevinph01,data
+2023,KCR,Kansas City Royals,AL,American League,Central,AL Central,22.0,Matt Quatraro,KCR,56,106,0.346,0,162,5.0,,,,3,33.0,21.0,63.6%,quatrma99,data
+2023,LAD,Los Angeles Dodgers,NL,National League,West,NL West,23.0,Dave Roberts,LAD,100,62,0.617,0,162,1.0,0.0,3.0,0.0,1,39.0,19.0,48.7%,roberda07,data
+2023,CHC,Chicago Cubs,NL,National League,Central,NL Central,24.0,David Ross,CHC,83,79,0.512,0,162,2.0,,,,5,46.0,20.0,43.5%,rossda01,data
+2023,TOR,Toronto Blue Jays,AL,American League,East,AL East,25.0,John Schneider,TOR,89,73,0.549,0,162,3.0,0.0,2.0,0.0,2,52.0,18.0,34.6%,schnejo99,data
+2023,MIA,Miami Marlins,NL,National League,East,NL East,26.0,Skip Schumaker,MIA,84,78,0.519,0,162,3.0,0.0,2.0,0.0,5,29.0,21.0,72.4%,schumsk01,data
+2023,SEA,Seattle Mariners,AL,American League,West,AL West,27.0,Scott Servais,SEA,88,74,0.543,0,162,3.0,,,,3,35.0,16.0,45.7%,servasc01,data
+2023,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,28.0,Derek Shelton,PIT,76,86,0.469,0,162,4.0,,,,3,41.0,17.0,41.5%,sheltde99,data
+2023,NYM,New York Mets,NL,National League,East,NL East,29.0,Buck Showalter,NYM,75,87,0.463,0,162,4.0,,,,3,27.0,10.0,37.0%,showabu99,data
+2023,ATL,Atlanta Braves,NL,National League,East,NL East,30.0,Brian Snitker,ATL,104,58,0.642,0,162,1.0,1.0,3.0,0.25,3,25.0,14.0,56.0%,snitkbr99,data
+2023,PHI,Philadelphia Phillies,NL,National League,East,NL East,31.0,Rob Thomson,PHI,90,72,0.556,0,162,2.0,8.0,5.0,0.615,3,36.0,18.0,50.0%,thomsro99,data
+2023,,,,,,,,,,2430,2430,0.5,0,4860,,41.0,41.0,0.5,108,1103.0,535.0,48.5%,,summary
+2024,MIN,Minnesota Twins,AL,American League,Central,AL Central,1.0,Rocco Baldelli,MIN,82,80,0.506,0,162,4.0,,,,0,32.0,17.0,53.1%,baldero01,data
+2024,CIN,Cincinnati Reds,NL,National League,Central,NL Central,2.0,David Bell,CIN,76,81,0.484,0,157,4.0,,,,5,40.0,18.0,45.0%,bellda01,data
+2024,CIN,Cincinnati Reds,NL,National League,Central,NL Central,3.0,Freddie Benavides,CIN,1,4,0.2,0,5,4.0,,,,0,1.0,1.0,100.0%,benavfr01,data
+2024,COL,Colorado Rockies,NL,National League,West,NL West,4.0,Bud Black,COL,61,101,0.377,0,162,5.0,,,,3,32.0,20.0,62.5%,blackbu02,data
+2024,TEX,Texas Rangers,AL,American League,West,AL West,5.0,Bruce Bochy,TEX,78,84,0.481,0,162,3.0,,,,5,35.0,19.0,54.3%,bochybr01,data
+2024,NYY,New York Yankees,AL,American League,East,AL East,6.0,Aaron Boone,NYY,94,68,0.58,0,162,1.0,8.0,6.0,0.571,6,31.0,22.0,71.0%,booneaa01,data
+2024,TBR,Tampa Bay Rays,AL,American League,East,AL East,7.0,Kevin Cash,TBR,80,82,0.494,0,162,4.0,,,,2,35.0,19.0,54.3%,cashke01,data
+2024,BOS,Boston Red Sox,AL,American League,East,AL East,8.0,Alex Cora,BOS,81,81,0.5,0,162,3.0,,,,3,24.0,17.0,70.8%,coraal01,data
+2024,CHC,Chicago Cubs,NL,National League,Central,NL Central,9.0,Craig Counsell,CHC,83,79,0.512,0,162,2.0,,,,3,38.0,23.0,60.5%,counscr01,data
+2024,HOU,Houston Astros,AL,American League,West,AL West,10.0,Joe Espada,HOU,88,73,0.547,0,161,1.0,0.0,2.0,0.0,5,34.0,21.0,61.8%,espadjo99,data
+2024,CHW,Chicago White Sox,AL,American League,Central,AL Central,11.0,Pedro Grifol,CHW,28,89,0.239,0,117,5.0,,,,3,13.0,3.0,23.1%,grifope99,data
+2024,DET,Detroit Tigers,AL,American League,Central,AL Central,12.0,A.J. Hinch,DET,86,76,0.531,0,162,3.0,4.0,3.0,0.571,1,23.0,11.0,47.8%,,data
+2024,BAL,Baltimore Orioles,AL,American League,East,AL East,13.0,Brandon Hyde,BAL,91,71,0.562,0,162,2.0,0.0,2.0,0.0,4,42.0,22.0,52.4%,hydebr99,data
+2024,OAK,Oakland Athletics,AL,American League,West,AL West,14.0,Mark Kotsay,OAK,69,93,0.426,0,162,4.0,,,,4,44.0,20.0,45.5%,kotsama01,data
+2024,ARI,Arizona Diamondbacks,NL,National League,West,NL West,15.0,Torey Lovullo,ARI,89,73,0.549,0,162,3.0,,,,3,27.0,16.0,59.3%,lovulto01,data
+2024,STL,St. Louis Cardinals,NL,National League,Central,NL Central,16.0,Oliver Marmol,STL,83,79,0.512,0,162,2.0,,,,6,33.0,14.0,42.4%,marmool99,data
+2024,WSN,Washington Nationals,NL,National League,East,NL East,17.0,Dave Martinez,WSN,71,91,0.438,0,162,4.0,,,,2,28.0,11.0,39.3%,martida01,data
+2024,SFG,San Francisco Giants,NL,National League,West,NL West,18.0,Bob Melvin,SFG,80,82,0.494,0,162,4.0,,,,5,45.0,23.0,51.1%,melvibo01,data
+2024,NYM,New York Mets,NL,National League,East,NL East,19.0,Carlos Mendoza,NYM,89,73,0.549,0,162,3.0,7.0,6.0,0.538,2,42.0,21.0,50.0%,mendoca99,data
+2024,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,20.0,Pat Murphy,MIL,93,69,0.574,0,162,1.0,1.0,2.0,0.333,5,36.0,20.0,55.6%,murphpa99,data
+2024,KCR,Kansas City Royals,AL,American League,Central,AL Central,21.0,Matt Quatraro,KCR,86,76,0.531,0,162,2.0,3.0,3.0,0.5,2,35.0,22.0,62.9%,quatrma99,data
+2024,LAD,Los Angeles Dodgers,NL,National League,West,NL West,22.0,Dave Roberts,LAD,98,64,0.605,0,162,1.0,11.0,5.0,0.688,1,36.0,19.0,52.8%,roberda07,data
+2024,TOR,Toronto Blue Jays,AL,American League,East,AL East,23.0,John Schneider,TOR,74,88,0.457,0,162,5.0,,,,4,36.0,21.0,58.3%,schnejo99,data
+2024,MIA,Miami Marlins,NL,National League,East,NL East,24.0,Skip Schumaker,MIA,62,100,0.383,0,162,5.0,,,,3,38.0,22.0,57.9%,schumsk01,data
+2024,SEA,Seattle Mariners,AL,American League,West,AL West,25.0,Scott Servais,SEA,64,64,0.5,0,128,2.0,,,,3,26.0,15.0,57.7%,servasc01,data
+2024,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,26.0,Derek Shelton,PIT,76,86,0.469,0,162,5.0,,,,4,36.0,22.0,61.1%,sheltde99,data
+2024,SDP,San Diego Padres,NL,National League,West,NL West,27.0,Mike Shildt,SDP,93,69,0.574,0,162,2.0,4.0,3.0,0.571,4,28.0,14.0,50.0%,shildmi99,data
+2024,CHW,Chicago White Sox,AL,American League,Central,AL Central,28.0,Grady Sizemore,CHW,13,32,0.289,0,45,5.0,,,,1,8.0,5.0,62.5%,sizemgr01,data
+2024,ATL,Atlanta Braves,NL,National League,East,NL East,29.0,Brian Snitker,ATL,89,73,0.549,0,162,2.0,0.0,2.0,0.0,1,25.0,14.0,56.0%,snitkbr99,data
+2024,PHI,Philadelphia Phillies,NL,National League,East,NL East,30.0,Rob Thomson,PHI,95,67,0.586,0,162,1.0,1.0,3.0,0.25,1,47.0,29.0,61.7%,thomsro99,data
+2024,CLE,Cleveland Guardians,AL,American League,Central,AL Central,31.0,Stephen Vogt,CLE,92,69,0.571,0,161,1.0,4.0,6.0,0.4,1,46.0,25.0,54.3%,vogtst01,data
+2024,LAA,Los Angeles Angels,AL,American League,West,AL West,32.0,Ron Washington,LAA,63,99,0.389,0,162,5.0,,,,0,32.0,17.0,53.1%,washiro01,data
+2024,SEA,Seattle Mariners,AL,American League,West,AL West,33.0,Dan Wilson,SEA,21,13,0.618,0,34,2.0,,,,0,5.0,4.0,80.0%,wilsoda01,data
+2024,,,,,,,,,,2429,2429,0.5,0,4858,,43.0,43.0,0.5,92,1033.0,567.0,54.9%,,summary
+2025,MIN,Minnesota Twins,AL,American League,Central,AL Central,1.0,Rocco Baldelli,MIN,70,92,0.432,0,162,4.0,,,,4,38.0,21.0,55.3%,baldero01,data
+2025,COL,Colorado Rockies,NL,National League,West,NL West,2.0,Bud Black,COL,7,33,0.175,0,40,5.0,,,,0,10.0,7.0,70.0%,blackbu02,data
+2025,TEX,Texas Rangers,AL,American League,West,AL West,3.0,Bruce Bochy,TEX,81,81,0.5,0,162,3.0,,,,3,48.0,20.0,41.7%,bochybr01,data
+2025,NYY,New York Yankees,AL,American League,East,AL East,4.0,Aaron Boone,NYY,94,68,0.58,0,162,2.0,3.0,4.0,0.429,7,33.0,17.0,51.5%,booneaa01,data
+2025,WSN,Washington Nationals,NL,National League,East,NL East,5.0,Miguel Cairo,WSN,29,43,0.403,0,72,5.0,,,,5,14.0,8.0,57.1%,cairomi01,data
+2025,TBR,Tampa Bay Rays,AL,American League,East,AL East,6.0,Kevin Cash,TBR,77,85,0.475,0,162,4.0,,,,2,36.0,15.0,41.7%,cashke01,data
+2025,BOS,Boston Red Sox,AL,American League,East,AL East,7.0,Alex Cora,BOS,89,73,0.549,0,162,3.0,1.0,2.0,0.333,5,22.0,12.0,54.5%,coraal01,data
+2025,CHC,Chicago Cubs,NL,National League,Central,NL Central,8.0,Craig Counsell,CHC,92,70,0.568,0,162,2.0,4.0,4.0,0.5,3,45.0,25.0,55.6%,counscr01,data
+2025,HOU,Houston Astros,AL,American League,West,AL West,9.0,Joe Espada,HOU,87,75,0.537,0,162,2.0,,,,2,27.0,19.0,70.4%,espadjo99,data
+2025,CIN,Cincinnati Reds,NL,National League,Central,NL Central,10.0,Terry Francona,CIN,83,79,0.512,0,162,3.0,0.0,2.0,0.0,4,34.0,19.0,55.9%,francte01,data
+2025,DET,Detroit Tigers,AL,American League,Central,AL Central,11.0,A.J. Hinch,DET,87,75,0.537,0,162,2.0,4.0,4.0,0.5,1,27.0,12.0,44.4%,,data
+2025,BAL,Baltimore Orioles,AL,American League,East,AL East,12.0,Brandon Hyde,BAL,15,28,0.349,0,43,5.0,,,,1,15.0,2.0,13.3%,hydebr99,data
+2025,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,13.0,Don Kelly,PIT,59,65,0.476,0,124,5.0,,,,4,30.0,17.0,56.7%,kellydo01,data
+2025,ATH,Athletics,AL,American League,West,AL West,14.0,Mark Kotsay,ATH,76,86,0.469,0,162,4.0,,,,3,55.0,23.0,41.8%,kotsama01,data
+2025,ARI,Arizona Diamondbacks,NL,National League,West,NL West,15.0,Torey Lovullo,ARI,80,82,0.494,0,162,4.0,,,,3,37.0,27.0,73.0%,lovulto01,data
+2025,BAL,Baltimore Orioles,AL,American League,East,AL East,16.0,Tony Mansolino,BAL,60,59,0.504,0,119,5.0,,,,1,21.0,11.0,52.4%,mansoto99,data
+2025,STL,St. Louis Cardinals,NL,National League,Central,NL Central,17.0,Oliver Marmol,STL,78,84,0.481,0,162,4.0,,,,6,40.0,24.0,60.0%,marmool99,data
+2025,WSN,Washington Nationals,NL,National League,East,NL East,18.0,Dave Martinez,WSN,37,53,0.411,0,90,5.0,,,,1,21.0,11.0,52.4%,martida01,data
+2025,MIA,Miami Marlins,NL,National League,East,NL East,19.0,Clayton McCullough,MIA,79,83,0.488,0,162,3.0,,,,2,38.0,17.0,44.7%,mcculcl99,data
+2025,SFG,San Francisco Giants,NL,National League,West,NL West,20.0,Bob Melvin,SFG,81,81,0.5,0,162,3.0,,,,4,42.0,22.0,52.4%,melvibo01,data
+2025,NYM,New York Mets,NL,National League,East,NL East,21.0,Carlos Mendoza,NYM,83,79,0.512,0,162,2.0,,,,3,36.0,23.0,63.9%,mendoca99,data
+2025,LAA,Los Angeles Angels,AL,American League,West,AL West,22.0,Ray Montgomery,LAA,36,52,0.409,0,88,5.0,,,,0,1.0,0.0,0.0%,montgra01,data
+2025,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,23.0,Pat Murphy,MIL,97,65,0.599,0,162,1.0,3.0,6.0,0.333,2,24.0,17.0,70.8%,murphpa99,data
+2025,KCR,Kansas City Royals,AL,American League,Central,AL Central,24.0,Matt Quatraro,KCR,82,80,0.506,0,162,3.0,,,,2,24.0,15.0,62.5%,quatrma99,data
+2025,LAD,Los Angeles Dodgers,NL,National League,West,NL West,25.0,Dave Roberts,LAD,93,69,0.574,0,162,1.0,13.0,4.0,0.765,2,39.0,23.0,59.0%,roberda07,data
+2025,COL,Colorado Rockies,NL,National League,West,NL West,26.0,Warren Schaeffer,COL,36,86,0.295,0,122,5.0,,,,2,19.0,11.0,57.9%,schaewa99,data
+2025,TOR,Toronto Blue Jays,AL,American League,East,AL East,27.0,John Schneider,TOR,94,68,0.58,0,162,1.0,10.0,8.0,0.556,4,41.0,25.0,61.0%,schnejo99,data
+2025,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,28.0,Derek Shelton,PIT,12,26,0.316,0,38,5.0,,,,0,10.0,4.0,40.0%,sheltde99,data
+2025,SDP,San Diego Padres,NL,National League,West,NL West,29.0,Mike Shildt,SDP,90,72,0.556,0,162,2.0,1.0,2.0,0.333,5,28.0,17.0,60.7%,shildmi99,data
+2025,ATL,Atlanta Braves,NL,National League,East,NL East,30.0,Brian Snitker,ATL,76,86,0.469,0,162,4.0,,,,3,28.0,17.0,60.7%,snitkbr99,data
+2025,PHI,Philadelphia Phillies,NL,National League,East,NL East,31.0,Rob Thomson,PHI,96,66,0.593,0,162,1.0,1.0,3.0,0.25,1,30.0,21.0,70.0%,thomsro99,data
+2025,CHW,Chicago White Sox,AL,American League,Central,AL Central,32.0,Will Venable,CHW,60,102,0.37,0,162,5.0,,,,3,26.0,16.0,61.5%,venabwi01,data
+2025,CLE,Cleveland Guardians,AL,American League,Central,AL Central,33.0,Stephen Vogt,CLE,88,74,0.543,0,162,1.0,1.0,2.0,0.333,0,35.0,19.0,54.3%,vogtst01,data
+2025,LAA,Los Angeles Angels,AL,American League,West,AL West,34.0,Ron Washington,LAA,36,38,0.486,0,74,3.0,,,,0,27.0,14.0,51.9%,washiro01,data
+2025,SEA,Seattle Mariners,AL,American League,West,AL West,35.0,Dan Wilson,SEA,90,72,0.556,0,162,1.0,6.0,6.0,0.5,2,26.0,15.0,57.7%,wilsoda01,data
+2025,,,,,,,,,,2430,2430,0.5,0,4860,,47.0,47.0,0.5,90,1027.0,566.0,55.1%,,summary
+2026,BAL,Baltimore Orioles,AL,American League,East,AL East,1.0,Craig Albernaz,BAL,79,82,0.491,0,161,4.0,,,,1,54.0,31.0,57.4%,albercr99,data
+2026,NYY,New York Yankees,AL,American League,East,AL East,2.0,Aaron Boone,NYY,93,68,0.578,0,161,2.0,,,,5,39.0,23.0,59.0%,booneaa01,data
+2026,WSN,Washington Nationals,NL,National League,East,NL East,3.0,Blake Butera,WSN,77,85,0.475,0,162,4.0,,,,2,46.0,27.0,58.7%,buterbl99,data
+2026,TBR,Tampa Bay Rays,AL,American League,East,AL East,4.0,Kevin Cash,TBR,98,64,0.605,0,162,1.0,,,,1,35.0,15.0,42.9%,cashke01,data
+2026,BOS,Boston Red Sox,AL,American League,East,AL East,5.0,Alex Cora,BOS,10,17,0.37,0,27,5.0,,,,1,7.0,6.0,85.7%,coraal01,data
+2026,CHC,Chicago Cubs,NL,National League,Central,NL Central,6.0,Craig Counsell,CHC,89,73,0.549,0,162,2.0,,,,5,43.0,24.0,55.8%,counscr01,data
+2026,HOU,Houston Astros,AL,American League,West,AL West,7.0,Joe Espada,HOU,81,81,0.5,0,162,1.0,,,,2,34.0,23.0,67.6%,espadjo99,data
+2026,CIN,Cincinnati Reds,NL,National League,Central,NL Central,8.0,Terry Francona,CIN,75,87,0.463,0,162,5.0,,,,1,32.0,18.0,56.2%,francte01,data
+2026,NYM,New York Mets,NL,National League,East,NL East,9.0,Andy Green,NYM,40,41,0.494,0,81,5.0,,,,0,27.0,18.0,66.7%,greenan01,data
+2026,DET,Detroit Tigers,AL,American League,Central,AL Central,10.0,A.J. Hinch,DET,76,86,0.469,0,162,4.0,,,,1,35.0,21.0,60.0%,,data
+2026,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,11.0,Don Kelly,PIT,82,80,0.506,0,162,3.0,,,,6,39.0,17.0,43.6%,kellydo01,data
+2026,ATH,Athletics,AL,American League,West,AL West,12.0,Mark Kotsay,ATH,64,98,0.395,0,162,4.0,,,,3,36.0,20.0,55.6%,kotsama01,data
+2026,ARI,Arizona Diamondbacks,NL,National League,West,NL West,13.0,Torey Lovullo,ARI,86,76,0.531,0,162,3.0,,,,1,35.0,22.0,62.9%,lovulto01,data
+2026,STL,St. Louis Cardinals,NL,National League,Central,NL Central,14.0,Oliver Marmol,STL,77,85,0.475,0,162,4.0,,,,4,36.0,22.0,61.1%,marmool99,data
+2026,PHI,Philadelphia Phillies,NL,National League,East,NL East,15.0,Don Mattingly,PHI,79,55,0.59,0,134,2.0,,,,0,45.0,33.0,73.3%,mattido01,data
+2026,MIA,Miami Marlins,NL,National League,East,NL East,16.0,Clayton McCullough,MIA,80,82,0.494,0,162,3.0,,,,3,47.0,29.0,61.7%,mcculcl99,data
+2026,NYM,New York Mets,NL,National League,East,NL East,17.0,Carlos Mendoza,NYM,34,47,0.42,0,81,5.0,,,,1,18.0,11.0,61.1%,mendoca99,data
+2026,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,18.0,Pat Murphy,MIL,103,59,0.636,0,162,1.0,,,,0,42.0,30.0,71.4%,murphpa99,data
+2026,KCR,Kansas City Royals,AL,American League,Central,AL Central,19.0,Matt Quatraro,KCR,69,93,0.426,0,162,5.0,,,,2,31.0,21.0,67.7%,quatrma99,data
+2026,LAD,Los Angeles Dodgers,NL,National League,West,NL West,20.0,Dave Roberts,LAD,100,62,0.617,0,162,1.0,,,,0,23.0,13.0,56.5%,roberda07,data
+2026,COL,Colorado Rockies,NL,National League,West,NL West,21.0,Warren Schaeffer,COL,58,104,0.358,0,162,5.0,,,,0,41.0,24.0,58.5%,schaewa99,data
+2026,TOR,Toronto Blue Jays,AL,American League,East,AL East,22.0,John Schneider,TOR,79,83,0.488,0,162,5.0,,,,2,41.0,19.0,46.3%,schnejo99,data
+2026,TEX,Texas Rangers,AL,American League,West,AL West,23.0,Skip Schumaker,TEX,80,82,0.494,0,162,2.0,,,,1,33.0,13.0,39.4%,schumsk01,data
+2026,MIN,Minnesota Twins,AL,American League,Central,AL Central,24.0,Derek Shelton,MIN,77,85,0.475,0,162,3.0,,,,4,33.0,19.0,57.6%,sheltde99,data
+2026,SDP,San Diego Padres,NL,National League,West,NL West,25.0,Craig Stammen,SDP,91,71,0.562,0,162,2.0,,,,5,39.0,21.0,53.8%,stammcr01,data
+2026,LAA,Los Angeles Angels,AL,American League,West,AL West,26.0,Kurt Suzuki,LAA,62,100,0.383,0,162,5.0,,,,2,58.0,24.0,41.4%,suzukku01,data
+2026,PHI,Philadelphia Phillies,NL,National League,East,NL East,27.0,Rob Thomson,PHI,9,19,0.321,0,28,4.0,,,,1,1.0,0.0,0.0%,thomsro99,data
+2026,BOS,Boston Red Sox,AL,American League,East,AL East,28.0,Chad Tracy,BOS,77,58,0.57,0,135,3.0,,,,1,23.0,10.0,43.5%,tracych99,data
+2026,CHW,Chicago White Sox,AL,American League,Central,AL Central,29.0,Will Venable,CHW,84,78,0.519,0,162,2.0,,,,1,52.0,26.0,50.0%,venabwi01,data
+2026,SFG,San Francisco Giants,NL,National League,West,NL West,30.0,Tony Vitello,SFG,65,97,0.401,0,162,4.0,,,,7,46.0,17.0,37.0%,vitelto99,data
+2026,CLE,Cleveland Guardians,AL,American League,Central,AL Central,31.0,Stephen Vogt,CLE,85,77,0.525,0,162,1.0,,,,2,41.0,30.0,73.2%,vogtst01,data
+2026,ATL,Atlanta Braves,NL,National League,East,NL East,32.0,Walt Weiss,ATL,94,68,0.58,0,162,1.0,,,,2,34.0,17.0,50.0%,weisswa01,data
+2026,SEA,Seattle Mariners,AL,American League,West,AL West,33.0,Dan Wilson,SEA,76,86,0.469,0,162,3.0,,,,4,50.0,28.0,56.0%,wilsoda01,data
+2026,,,,,,,,,,2429,2429,0.5,0,4858,,,,,71,1196.0,672.0,56.2%,,summary

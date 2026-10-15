@@ -1,0 +1,601 @@
+﻿Season,Team,Team_Name,League,League_Name,Division,Division_Full,Tm,Lg,C,1B,2B,3B,SS,LF,CF,RF,P,DH,Player_ID,Row_Type
+2007,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Bako,Huff,Roberts,Mora,Tejada,Gibbons,Patterson,Markakis,Bédard,Millar,bakopa01,data
+2007,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Varitek,Youkilis,Pedroia,Lowell,Lugo,Ramirez,Crisp,Drew,Schilling,Ortiz,varitja01,data
+2007,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Iguchi,Crede,Uribe,Ozuna,Erstad,Dye,Contreras,Thome,konerpa01,data
+2007,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Martínez,Blake,Barfield,Marte,Peralta,Dellucci,Sizemore,Nixon,Sabathia,Hafner,martivi01,data
+2007,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Rodríguez,Casey,Polanco,Inge,Guillén,Monroe,Granderson,Ordóñez,Bonderman,Sheffield,rodriiv01,data
+2007,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Buck,Shealy,Grudzielanek,Gordon,Peña,Gload,DeJesus,Teahen,Meche,Sweeney,buckjo01,data
+2007,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Napoli,Kotchman,Kendrick,Izturis,Cabrera,Anderson,Matthews,Guerrero,Lackey,Hillenbrand,napolmi01,data
+2007,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Morneau,Castillo,Punto,Bartlett,White,Hunter,Cuddyer,Santana,Cirillo,mauerjo01,data
+2007,,New York Yankees,AL,American League,,,New York Yankees,AL,Posada,Phelps,Canó,Rodriguez,Jeter,Matsui,Damon,Abreu,Pavano,Giambi,posadjo01,data
+2007,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Kendall,Swisher,Ellis,Chavez,Crosby,Stewart,Bradley,Buck,Haren,Piazza,kendaja01,data
+2007,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Johjima,Sexson,López,Beltré,Betancourt,Ibañez,Suzuki,Guillén,Hernández,Vidro,johjike01,data
+2007,,Tampa Bay Devil Rays,AL,American League,,,Tampa Bay Devil Rays,AL,Navarro,Wigginton,Upton,Iwamura,Zobrist,Crawford,Dukes,Young,Kazmir,Baldelli,navardi01,data
+2007,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Laird,Teixeira,Kinsler,Blalock,Young,Wilkerson,Lofton,Sosa,Millwood,Catalanotto,lairdge01,data
+2007,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Zaun,Overbay,Hill,Glaus,Clayton,Johnson,Wells,Ríos,Halladay,Thomas,zaungr01,data
+2007,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Snyder,Jackson,Hudson,Tracy,Drew,Hairston,Young,Byrnes,Webb,,snydech02,data
+2007,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Thorman,Johnson,Jones,Rentería,Langerhans,Jones,Francoeur,Smoltz,,mccanbr01,data
+2007,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Barrett,Lee,DeRosa,Ramírez,Izturis,Murton,Soriano,Jones,Zambrano,,barremi01,data
+2007,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Ross,Hatteberg,Phillips,Encarnación,González,Dunn,Freel,Griffey,Harang,,rossda01,data
+2007,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Helton,Matsui,Atkins,Tulowitzki,Holliday,Taveras,Hawpe,Cook,,iannech01,data
+2007,,Florida Marlins,NL,National League,,,Florida Marlins,NL,Olivo,Jacobs,Uggla,Cabrera,Ramírez,Willingham,De Aza,Borchard,Willis,,olivomi01,data
+2007,,Houston Astros,NL,National League,,,Houston Astros,NL,Ausmus,Berkman,Biggio,Ensberg,Everett,Lee,Burke,Scott,Oswalt,,ausmubr01,data
+2007,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Martin,Garciaparra,Kent,Betemit,Martínez,Gonzalez,Pierre,Ethier,Lowe,,martiru01,data
+2007,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Estrada,Fielder,Weeks,Counsell,Hardy,Jenkins,Hall,Hart,Sheets,,estrajo01,data
+2007,,New York Mets,NL,National League,,,New York Mets,NL,Lo Duca,Delgado,Valentín,Wright,Reyes,Alou,Beltrán,Green,Glavine,,loducpa01,data
+2007,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Barajas,Howard,Utley,Helms,Rollins,Burrell,Rowand,Victorino,Myers,,barajro01,data
+2007,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Paulino,LaRoche,Castillo,Bautista,Wilson,Bay,Duffy,Nady,Duke,,pauliro01,data
+2007,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Bard,González,Giles,Kouzmanoff,Greene,Cruz,Cameron,Giles,Peavy,,bardjo01,data
+2007,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Molina,Aurilia,Durham,Feliz,Vizquel,Bonds,Roberts,Winn,Zito,,molinbe01,data
+2007,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Pujols,Kennedy,Rolen,Eckstein,Taguchi,Edmonds,Wilson,Carpenter,,molinya01,data
+2007,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Schneider,Young,López,Zimmerman,Guzmán,Church,Logan,Kearns,Patterson,,schnebr01,data
+2008,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Hernández,Millar,Roberts,Mora,Hernández,Scott,Jones,Markakis,Guthrie,Huff,hernara02,data
+2008,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Varitek,Youkilis,Pedroia,Lowell,Lugo,Ramirez,Ellsbury,Moss,Matsuzaka,Ortiz,varitja01,data
+2008,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Uribe,Crede,Cabrera,Swisher,Ramírez,Dye,Buehrle,Thome,konerpa01,data
+2008,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Martínez,Garko,Cabrera,Blake,Peralta,Michaels,Sizemore,Gutiérrez,Sabathia,Hafner,martivi01,data
+2008,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Rodríguez,Guillén,Polanco,Cabrera,Rentería,Jones,Inge,Ordóñez,Verlander,Sheffield,rodriiv01,data
+2008,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Buck,Gload,Grudzielanek,Gordon,Peña,Teahen,DeJesus,Guillén,Meche,Butler,buckjo01,data
+2008,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Napoli,Kotchman,Kendrick,Figgins,Izturis,Anderson,Hunter,Guerrero,Weaver,Matthews,napolmi01,data
+2008,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Morneau,Harris,Lamb,Everett,Young,Gómez,Cuddyer,Hernández,Monroe,mauerjo01,data
+2008,,New York Yankees,AL,American League,,,New York Yankees,AL,Posada,Giambi,Canó,Rodriguez,Jeter,Damon,Cabrera,Abreu,Wang,Matsui,posadjo01,data
+2008,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Suzuki,Barton,Ellis,Hannahan,Crosby,Brown,Sweeney,Buck,Blanton,Cust,suzukku01,data
+2008,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Johjima,Sexson,López,Beltré,Betancourt,Ibañez,Suzuki,Wilkerson,Bédard,Vidro,johjike01,data
+2008,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Navarro,Peña,Iwamura,Aybar,Bartlett,Crawford,Upton,Hinske,Shields,Floyd,navardi01,data
+2008,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Laird,Broussard,Kinsler,Blalock,Young,Murphy,Hamilton,Byrd,Millwood,Bradley,lairdge01,data
+2008,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Zaun,Overbay,Hill,Scutaro,Eckstein,Stewart,Wells,Ríos,Halladay,Thomas,zaungr01,data
+2008,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Snyder,Jackson,Hudson,Reynolds,Drew,Byrnes,Young,Upton,Webb,,snydech02,data
+2008,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Teixeira,Johnson,Jones,Escobar,Diaz,Kotsay,Francoeur,Hudson,,mccanbr01,data
+2008,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Soto,Lee,DeRosa,Ramírez,Theriot,Soriano,Pie,Fukudome,Zambrano,,sotoge01,data
+2008,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Valentín,Hatteberg,Phillips,Encarnación,Keppinger,Dunn,Patterson,Griffey,Harang,,valenja01,data
+2008,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Torrealba,Helton,Nix,Atkins,Tulowitzki,Holliday,Taveras,Hawpe,Wells,,torreyo01,data
+2008,,Florida Marlins,NL,National League,,,Florida Marlins,NL,Treanor,Jacobs,Uggla,Cantú,Ramírez,Willingham,Ross,Gonzalez,Hendrickson,,treanma01,data
+2008,,Houston Astros,NL,National League,,,Houston Astros,NL,Ausmus,Berkman,Loretta,Wigginton,Tejada,Lee,Bourn,Pence,Oswalt,,ausmubr01,data
+2008,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Martin,Loney,Kent,DeWitt,Furcal,Ethier,Jones,Kemp,Penny,,martiru01,data
+2008,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Kendall,Fielder,Weeks,Hall,Hardy,Braun,Gwynn,Hart,Sheets,,kendaja01,data
+2008,,New York Mets,NL,National League,,,New York Mets,NL,Schneider,Delgado,Castillo,Wright,Reyes,Pagán,Beltrán,Church,Santana,,schnebr01,data
+2008,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Utley,Feliz,Rollins,Burrell,Victorino,Werth,Myers,,ruizca01,data
+2008,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Doumit,LaRoche,Sanchez,Bautista,Wilson,Bay,McLouth,Nady,Snell,,doumiry01,data
+2008,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Bard,González,Iguchi,Kouzmanoff,Greene,McAnulty,Hairston,Giles,Peavy,,bardjo01,data
+2008,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Molina,Aurilia,Durham,Castillo,Bocock,Roberts,Rowand,Winn,Zito,,molinbe01,data
+2008,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Pujols,Kennedy,Glaus,Izturis,Duncan,Ankiel,Schumaker,Lohse,,molinya01,data
+2008,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Lo Duca,Johnson,Belliard,Zimmerman,Guzmán,Dukes,Milledge,Kearns,Pérez,,loducpa01,data
+2009,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Zaun,Huff,Roberts,Mora,Izturis,Scott,Jones,Markakis,Guthrie,Wigginton,zaungr01,data
+2009,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Varitek,Youkilis,Pedroia,Lowell,Lowrie,Bay,Ellsbury,Drew,Beckett,Ortiz,varitja01,data
+2009,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Getz,Fields,Ramírez,Quentin,Wise,Dye,Buehrle,Thome,konerpa01,data
+2009,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Shoppach,Martínez,Cabrera,DeRosa,Peralta,Francisco,Sizemore,Choo,Lee,Hafner,shoppke01,data
+2009,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Laird,Cabrera,Polanco,Inge,Everett,Anderson,Granderson,Ordóñez,Verlander,Guillén,lairdge01,data
+2009,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Olivo,Jacobs,Teahen,Gordon,Aviles,DeJesus,Crisp,Guillén,Meche,Butler,olivomi01,data
+2009,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Mathis,Morales,Kendrick,Figgins,Aybar,Rivera,Hunter,Abreu,Saunders,Guerrero,mathije01,data
+2009,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Redmond,Morneau,Casilla,Crede,Punto,Span,Gómez,Cuddyer,Liriano,Kubel,redmomi01,data
+2009,,New York Yankees,AL,American League,,,New York Yankees,AL,Posada,Teixeira,Canó,Ransom,Jeter,Damon,Gardner,Nady,Sabathia,Matsui,posadjo01,data
+2009,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Suzuki,Garciaparra,Ellis,Chavez,Cabrera,Holliday,Sweeney,Cust,Braden,Giambi,suzukku01,data
+2009,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Johjima,Branyan,López,Beltré,Betancourt,Chávez,Gutiérrez,Griffey,Hernández,Sweeney,johjike01,data
+2009,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Navarro,Peña,Iwamura,Longoria,Bartlett,Crawford,Joyce,Gross,Shields,Burrell,navardi01,data
+2009,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Saltalamacchia,Davis,Kinsler,Young,Andrus,Byrd,Hamilton,Cruz,Millwood,Blalock,saltaja01,data
+2009,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Barajas,Overbay,Hill,Rolen,Scutaro,Snider,Wells,Ríos,Halladay,Lind,barajro01,data
+2009,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Snyder,Clark,López,Tracy,Drew,Jackson,Young,Byrnes,Webb,,snydech02,data
+2009,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Kotchman,Johnson,Jones,Escobar,Anderson,Schafer,Francoeur,Lowe,,mccanbr01,data
+2009,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Soto,Lee,Fontenot,Ramírez,Theriot,Soriano,Fukudome,Bradley,Zambrano,,sotoge01,data
+2009,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Hernández,Votto,Phillips,Encarnación,González,Hairston,McDonald,Bruce,Harang,,hernara02,data
+2009,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Helton,Stewart,Atkins,Tulowitzki,Smith,Spilborghs,Hawpe,Cook,,iannech01,data
+2009,,Florida Marlins,NL,National League,,,Florida Marlins,NL,Baker,Cantú,Uggla,Bonifácio,Ramírez,Hermida,Maybin,Ross,Nolasco,,bakerjo01,data
+2009,,Houston Astros,NL,National League,,,Houston Astros,NL,Rodríguez,Berkman,Matsui,Blum,Tejada,Lee,Bourn,Pence,Oswalt,,rodriiv01,data
+2009,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Martin,Loney,Hudson,Blake,Furcal,Ramirez,Kemp,Ethier,Kuroda,,martiru01,data
+2009,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Kendall,Fielder,Weeks,Hall,Hardy,Braun,Cameron,Hart,Suppan,,kendaja01,data
+2009,,New York Mets,NL,National League,,,New York Mets,NL,Schneider,Delgado,Castillo,Wright,Reyes,Murphy,Beltrán,Church,Santana,,schnebr01,data
+2009,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Utley,Feliz,Rollins,Ibañez,Victorino,Werth,Myers,,ruizca01,data
+2009,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Doumit,LaRoche,Sanchez,LaRoche,Wilson,Morgan,McLouth,Moss,Maholm,,doumiry01,data
+2009,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Blanco,González,Eckstein,Kouzmanoff,Rodríguez,Headley,Gerut,Giles,Peavy,,blanche01,data
+2009,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Molina,Ishikawa,Burriss,Sandoval,Rentería,Lewis,Rowand,Winn,Lincecum,,molinbe01,data
+2009,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Pujols,Ryan,Barden,Greene,Duncan,Ankiel,Ludwick,Wainwright,,molinya01,data
+2009,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Flores,Johnson,Belliard,Zimmerman,Guzmán,Dunn,Milledge,Kearns,Lannan,,floreje02,data
+2010,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Atkins,Roberts,Tejada,Izturis,Pie,Jones,Markakis,Millwood,Scott,wietema01,data
+2010,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Martínez,Youkilis,Pedroia,Beltré,Scutaro,Ellsbury,Cameron,Drew,Beckett,Ortiz,martivi01,data
+2010,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Beckham,Teahen,Ramírez,Pierre,Ríos,Quentin,Buehrle,Kotsay,konerpa01,data
+2010,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Marson,LaPorta,Grudzielanek,Peralta,Cabrera,Brantley,Sizemore,Choo,Westbrook,Hafner,marsolo01,data
+2010,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Laird,Cabrera,Sizemore,Inge,Everett,Damon,Jackson,Ordóñez,Verlander,Guillén,lairdge01,data
+2010,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Kendall,Butler,Getz,Bloomquist,Betancourt,Podsednik,Ankiel,DeJesus,Greinke,Guillén,kendaja01,data
+2010,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Mathis,Morales,Kendrick,Wood,Aybar,Rivera,Hunter,Abreu,Weaver,Matsui,mathije01,data
+2010,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Morneau,Hudson,Punto,Hardy,Young,Span,Cuddyer,Baker,Kubel,mauerjo01,data
+2010,,New York Yankees,AL,American League,,,New York Yankees,AL,Posada,Teixeira,Canó,Rodriguez,Jeter,Gardner,Granderson,Swisher,Sabathia,Johnson,posadjo01,data
+2010,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Suzuki,Barton,Ellis,Kouzmanoff,Pennington,Buck,Davis,Sweeney,Sheets,Chavez,suzukku01,data
+2010,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Johnson,Kotchman,Figgins,López,Wilson,Bradley,Gutiérrez,Suzuki,Hernández,Griffey,johnsro07,data
+2010,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Navarro,Peña,Rodríguez,Longoria,Bartlett,Crawford,Upton,Zobrist,Shields,Burrell,navardi01,data
+2010,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Saltalamacchia,Davis,Blanco,Young,Andrus,Hamilton,Borbon,Cruz,Feldman,Guerrero,saltaja01,data
+2010,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Buck,Overbay,Hill,Encarnación,González,Snider,Wells,Bautista,Marcum,Lind,buckjo01,data
+2010,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Montero,LaRoche,Johnson,Reynolds,Drew,Jackson,Young,Upton,Haren,,montemi01,data
+2010,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Glaus,Prado,Jones,Escobar,Cabrera,McLouth,Heyward,Lowe,,mccanbr01,data
+2010,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Soto,Lee,Fontenot,Ramírez,Theriot,Soriano,Byrd,Fukudome,Zambrano,,sotoge01,data
+2010,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Hernández,Votto,Phillips,Rolen,Cabrera,Nix,Dickerson,Bruce,Harang,,hernara02,data
+2010,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Helton,Barmes,Stewart,Tulowitzki,Smith,González,Hawpe,Jiménez,,iannech01,data
+2010,,Florida Marlins,NL,National League,,,Florida Marlins,NL,Paulino,Sánchez,Uggla,Cantú,Ramírez,Coghlan,Maybin,Ross,Johnson,,pauliro01,data
+2010,,Houston Astros,NL,National League,,,Houston Astros,NL,Towles,Blum,Matsui,Feliz,Manzella,Lee,Bourn,Pence,Oswalt,,towlejr01,data
+2010,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Martin,Loney,DeWitt,Blake,Furcal,Ramirez,Kemp,Ethier,Padilla,,martiru01,data
+2010,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Zaun,Fielder,Weeks,McGehee,Escobar,Braun,Gómez,Edmonds,Gallardo,,zaungr01,data
+2010,,New York Mets,NL,National League,,,New York Mets,NL,Barajas,Jacobs,Castillo,Wright,Cora,Bay,Matthews,Francoeur,Santana,,barajro01,data
+2010,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Utley,Polanco,Rollins,Ibañez,Victorino,Werth,Halladay,,ruizca01,data
+2010,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Doumit,Clement,Iwamura,LaRoche,Cedeño,Milledge,McCutchen,Jones,Duke,,doumiry01,data
+2010,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hundley,González,Eckstein,Headley,Cabrera,Blanks,Gwynn,Venable,Garland,,hundlni01,data
+2010,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Molina,Huff,Uribe,Sandoval,Rentería,DeRosa,Rowand,Bowker,Lincecum,,molinbe01,data
+2010,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Pujols,Schumaker,Freese,Ryan,Holliday,Rasmus,Ludwick,Carpenter,,molinya01,data
+2010,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Rodríguez,Dunn,Kennedy,Zimmerman,Desmond,Willingham,Morgan,Harris,Lannan,,rodriiv01,data
+2011,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Lee,Roberts,Reynolds,Hardy,Scott,Jones,Markakis,Guthrie,Guerrero,wietema01,data
+2011,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Saltalamacchia,González,Pedroia,Youkilis,Scutaro,Crawford,Ellsbury,Cameron,Lester,Ortiz,saltaja01,data
+2011,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Beckham,Morel,Ramírez,Pierre,Ríos,Quentin,Buehrle,Dunn,konerpa01,data
+2011,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Santana,LaPorta,Cabrera,Hannahan,Cabrera,Kearns,Brantley,Choo,Hernández,Hafner,santaca01,data
+2011,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Avila,Cabrera,Rhymes,Inge,Peralta,Raburn,Jackson,Ordóñez,Verlander,Martínez,avilaal01,data
+2011,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Treanor,Ka'aihue,Getz,Aviles,Escobar,Gordon,Cabrera,Francoeur,Hochevar,Butler,treanma01,data
+2011,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Mathis,Trumbo,Kendrick,Izturis,Aybar,Wells,Bourjos,Hunter,Weaver,Abreu,mathije01,data
+2011,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Morneau,Nishioka,Valencia,Casilla,Young,Span,Cuddyer,Pavano,Kubel,mauerjo01,data
+2011,,New York Yankees,AL,American League,,,New York Yankees,AL,Martin,Teixeira,Canó,Rodriguez,Jeter,Gardner,Granderson,Swisher,Sabathia,Posada,martiru01,data
+2011,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Suzuki,Barton,Ellis,Kouzmanoff,Pennington,Willingham,Crisp,DeJesus,Cahill,Matsui,suzukku01,data
+2011,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Olivo,Smoak,Wilson,Figgins,Ryan,Bradley,Langerhans,Suzuki,Hernández,Cust,olivomi01,data
+2011,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Jaso,Johnson,Zobrist,Longoria,Brignac,Damon,Upton,Joyce,Price,Ramirez,jasojo01,data
+2011,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Torrealba,Napoli,Kinsler,Beltré,Andrus,Hamilton,Borbon,Cruz,Wilson,Young,torreyo01,data
+2011,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Arencibia,Lind,Hill,Encarnación,Escobar,Snider,Davis,Bautista,Romero,Rivera,arencjp01,data
+2011,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Montero,Miranda,Johnson,Mora,Bloomquist,Parra,Young,Upton,Kennedy,,montemi01,data
+2011,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Freeman,Uggla,Jones,González,Prado,McLouth,Heyward,Lowe,,mccanbr01,data
+2011,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Soto,Peña,Barney,Ramírez,Castro,Soriano,Byrd,Fukudome,Dempster,,sotoge01,data
+2011,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Hernández,Votto,Phillips,Rolen,Janish,Gomes,Stubbs,Bruce,Vólquez,,hernara02,data
+2011,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Helton,López,Wigginton,Tulowitzki,González,Fowler,Smith,Jiménez,,iannech01,data
+2011,,Florida Marlins,NL,National League,,,Florida Marlins,NL,Buck,Sánchez,Infante,Murphy,Ramírez,Morrison,Coghlan,Stanton,Johnson,,buckjo01,data
+2011,,Houston Astros,NL,National League,,,Houston Astros,NL,Quintero,Wallace,Hall,Johnson,Sánchez,Lee,Bourn,Pence,Myers,,quinthu01,data
+2011,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Barajas,Loney,Carroll,Uribe,Furcal,Gwynn,Kemp,Ethier,Kershaw,,barajro01,data
+2011,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Nieves,Fielder,Weeks,McGehee,Betancourt,Braun,Gómez,Kotsay,Gallardo,,nievewi01,data
+2011,,New York Mets,NL,National League,,,New York Mets,NL,Thole,Davis,Emaus,Wright,Reyes,Harris,Pagán,Beltrán,Pelfrey,,tholejo01,data
+2011,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Valdez,Polanco,Rollins,Ibañez,Victorino,Francisco,Halladay,,ruizca01,data
+2011,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Doumit,Overbay,Walker,Álvarez,Cedeño,Tábata,McCutchen,Jones,Correia,,doumiry01,data
+2011,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hundley,Hawpe,Hudson,Headley,Bartlett,Ludwick,Maybin,Venable,Stauffer,,hundlni01,data
+2011,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Sanchez,Sandoval,Tejada,Burrell,Torres,Huff,Lincecum,,poseybu01,data
+2011,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Pujols,Schumaker,Freese,Theriot,Holliday,Rasmus,Berkman,Carpenter,,molinya01,data
+2011,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Rodríguez,LaRoche,Espinosa,Zimmerman,Desmond,Morse,Ankiel,Werth,Hernández,,rodriiv01,data
+2012,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Davis,Andino,Reynolds,Hardy,Reimold,Jones,Markakis,Arrieta,Betemit,wietema01,data
+2012,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Saltalamacchia,González,Pedroia,Youkilis,Aviles,Ross,Ellsbury,Sweeney,Lester,Ortiz,saltaja01,data
+2012,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Pierzynski,Konerko,Beckham,Morel,Ramírez,Viciedo,De Aza,Ríos,Danks,Dunn,konerpa01,data
+2012,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Santana,Kotchman,Kipnis,Hannahan,Cabrera,Duncan,Brantley,Choo,Masterson,Hafner,santaca01,data
+2012,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Avila,Fielder,Santiago,Cabrera,Peralta,Young,Jackson,Boesch,Verlander,Raburn,avilaal01,data
+2012,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Peña,Hosmer,Betancourt,Moustakas,Escobar,Gordon,Cain,Francoeur,Chen,Butler,penabr01,data
+2012,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Iannetta,Pujols,Kendrick,Trumbo,Aybar,Wells,Bourjos,Hunter,Weaver,Morales,iannech01,data
+2012,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Parmelee,Casilla,Valencia,Carroll,Willingham,Span,Doumit,Pavano,Morneau,mauerjo01,data
+2012,,New York Yankees,AL,American League,,,New York Yankees,AL,Martin,Teixeira,Canó,Rodriguez,Jeter,Gardner,Granderson,Swisher,Sabathia,Ibañez,martiru01,data
+2012,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Suzuki,Allen,Weeks,Sogard,Pennington,Crisp,Céspedes,Reddick,McCarthy,Smith,suzukku01,data
+2012,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Olivo,Smoak,Ackley,Figgins,Ryan,Carp,Saunders,Suzuki,Hernández,Montero,olivomi01,data
+2012,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Molina,Peña,Johnson,Longoria,Rodríguez,Joyce,Jennings,Zobrist,Shields,Keppinger,molinjo01,data
+2012,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Torrealba,Napoli,Kinsler,Beltré,Andrus,Murphy,Hamilton,Cruz,Lewis,Young,torreyo01,data
+2012,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Arencibia,Lind,Johnson,Lawrie,Escobar,Thames,Rasmus,Bautista,Romero,Encarnación,arencjp01,data
+2012,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Montero,Goldschmidt,Hill,Roberts,Bloomquist,Kubel,Young,Upton,Kennedy,,montemi01,data
+2012,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Freeman,Uggla,Prado,Pastornicky,Diaz,Bourn,Heyward,Hanson,,mccanbr01,data
+2012,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Soto,Baker,Barney,Stewart,Castro,Soriano,Byrd,DeJesus,Dempster,,sotoge01,data
+2012,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Hanigan,Votto,Phillips,Rolen,Cozart,Ludwick,Stubbs,Bruce,Cueto,,hanigry01,data
+2012,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Hernández,Helton,Scutaro,Nelson,Tulowitzki,González,Fowler,Cuddyer,Guthrie,,hernara02,data
+2012,,Houston Astros,NL,National League,,,Houston Astros,NL,Castro,Lee,Altuve,Johnson,González,Martinez,Schafer,Bogusevic,Rodríguez,,castrja01,data
+2012,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Ellis,Loney,Ellis,Uribe,Strange-Gordon,Rivera,Kemp,Ethier,Kershaw,,ellisaj01,data
+2012,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Buck,Sánchez,Infante,Ramírez,Reyes,Morrison,Bonifácio,Stanton,Johnson,,buckjo01,data
+2012,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Lucroy,Gamel,Weeks,Ramírez,González,Braun,Gómez,Hart,Gallardo,,lucrojo01,data
+2012,,New York Mets,NL,National League,,,New York Mets,NL,Thole,Davis,Murphy,Wright,Tejada,Bay,Torres,Duda,Santana,,tholejo01,data
+2012,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Wigginton,Galvis,Polanco,Rollins,Mayberry,Victorino,Pence,Halladay,,ruizca01,data
+2012,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Barajas,Jones,Walker,Álvarez,Barmes,Presley,McCutchen,Tábata,Bédard,,barajro01,data
+2012,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hundley,Alonso,Hudson,Headley,Bartlett,Guzmán,Maybin,Denorfia,Vólquez,,hundlni01,data
+2012,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Theriot,Sandoval,Crawford,Huff,Pagán,Cabrera,Lincecum,,poseybu01,data
+2012,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Berkman,Descalso,Freese,Furcal,Holliday,Jay,Beltrán,Lohse,,molinya01,data
+2012,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ramos,LaRoche,Espinosa,Zimmerman,Desmond,DeRosa,Bernadina,Werth,Strasburg,,ramoswi01,data
+2013,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Davis,Roberts,Machado,Hardy,Reimold,Jones,Markakis,Hammel,Pearce,wietema01,data
+2013,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Saltalamacchia,Napoli,Pedroia,Middlebrooks,Iglesias,Bradley,Ellsbury,Victorino,Lester,Gomes,saltaja01,data
+2013,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Flowers,Konerko,Beckham,Keppinger,Ramírez,Viciedo,De Aza,Ríos,Sale,Dunn,flowety01,data
+2013,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Santana,Swisher,Kipnis,Chisenhall,Cabrera,Brantley,Bourn,Stubbs,Masterson,Reynolds,santaca01,data
+2013,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Avila,Fielder,Infante,Cabrera,Peralta,Dirks,Jackson,Hunter,Verlander,Martínez,avilaal01,data
+2013,,Houston Astros,AL,American League,,,Houston Astros,AL,Castro,Wallace,Altuve,Dominguez,Cedeño,Carter,Maxwell,Barnes,Norris,Peña,castrja01,data
+2013,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Hosmer,Getz,Moustakas,Escobar,Gordon,Cain,Francoeur,Shields,Butler,perezsa02,data
+2013,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Iannetta,Pujols,Kendrick,Callaspo,Aybar,Trumbo,Trout,Hamilton,Weaver,,iannech01,data
+2013,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Mauer,Morneau,Dozier,Plouffe,Florimón,Willingham,Hicks,Parmelee,Worley,Doumit,mauerjo01,data
+2013,,New York Yankees,AL,American League,,,New York Yankees,AL,Cervelli,Youkilis,Canó,Nix,Núñez,Wells,Gardner,Suzuki,Sabathia,Francisco,cervefr01,data
+2013,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Jaso,Moss,Sogard,Donaldson,Lowrie,Céspedes,Crisp,Reddick,Anderson,Smith,jasojo01,data
+2013,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Montero,Smoak,Ackley,Seager,Ryan,Morse,Gutiérrez,Saunders,Hernández,Morales,monteje01,data
+2013,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Molina,Loney,Zobrist,Longoria,Escobar,Joyce,Jennings,Fuld,Price,Johnson,molinjo01,data
+2013,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Pierzynski,Moreland,Kinsler,Beltré,Andrus,Murphy,Martín,Cruz,Harrison,Berkman,morelmi01,data
+2013,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Arencibia,Encarnación,Bonifácio,Izturis,Reyes,Cabrera,Rasmus,Bautista,Dickey,Lind,arencjp01,data
+2013,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Montero,Goldschmidt,Hill,Prado,Pennington,Kubel,Pollock,Parra,Kennedy,,montemi01,data
+2013,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Laird,Freeman,Uggla,Johnson,Simmons,Upton,Upton,Heyward,Hudson,,lairdge01,data
+2013,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Castillo,Rizzo,Lillibridge,Valbuena,Castro,Soriano,DeJesus,Schierholtz,Samardzija,,castiwe01,data
+2013,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Hanigan,Votto,Phillips,Frazier,Cozart,Ludwick,Choo,Bruce,Cueto,,hanigry01,data
+2013,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Rosario,Helton,Rutledge,Nelson,Tulowitzki,González,Fowler,Cuddyer,Chacín,,rosarwi01,data
+2013,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Ellis,González,Ellis,Cruz,Sellers,Crawford,Kemp,Ethier,Kershaw,,ellisaj01,data
+2013,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Brantly,Kotchman,Solano,Polanco,Hechavarría,Pierre,Coghlan,Stanton,Nolasco,,brantro01,data
+2013,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Lucroy,González,Weeks,Ramírez,Segura,Braun,Gómez,Aoki,Gallardo,,lucrojo01,data
+2013,,New York Mets,NL,National League,,,New York Mets,NL,Buck,Davis,Murphy,Wright,Tejada,Duda,Cowgill,Byrd,Niese,,buckjo01,data
+2013,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Kratz,Howard,Utley,Young,Rollins,Brown,Revere,Mayberry,Hamels,,kratzer01,data
+2013,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Martin,Sánchez,Walker,Álvarez,Barmes,Marte,McCutchen,Jones,Burnett,,martiru01,data
+2013,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hundley,Alonso,Gyorko,Ransom,Cabrera,Quentin,Maybin,Denorfia,Vólquez,,hundlni01,data
+2013,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Scutaro,Sandoval,Crawford,Torres,Pagán,Pence,Cain,,poseybu01,data
+2013,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Craig,Descalso,Carpenter,Kozma,Holliday,Jay,Beltrán,Wainwright,,molinya01,data
+2013,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ramos,LaRoche,Espinosa,Zimmerman,Desmond,Harper,Span,Werth,Strasburg,,ramoswi01,data
+2014,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Davis,Schoop,Flaherty,Hardy,Cruz,Jones,Markakis,Tillman,Young,wietema01,data
+2014,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Pierzynski,Napoli,Pedroia,Middlebrooks,Bogaerts,Carp,Sizemore,Nava,Lester,Ortiz,napolmi01,data
+2014,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Flowers,Abreu,Semien,Gillaspie,Ramírez,De Aza,Eaton,García,Sale,Dunn,flowety01,data
+2014,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Gomes,Swisher,Kipnis,Santana,Cabrera,Brantley,Morgan,Murphy,Masterson,Raburn,gomesya01,data
+2014,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Avila,Cabrera,Kinsler,Castellanos,González,Davis,Jackson,Hunter,Verlander,Martínez,avilaal01,data
+2014,,Houston Astros,AL,American League,,,Houston Astros,AL,Castro,Guzmán,Altuve,Dominguez,Villar,Grossman,Fowler,Hoes,Feldman,Carter,castrja01,data
+2014,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Hosmer,Infante,Moustakas,Escobar,Gordon,Cain,Aoki,Shields,Butler,perezsa02,data
+2014,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Iannetta,Pujols,Kendrick,Freese,Aybar,Hamilton,Trout,Calhoun,Weaver,Ibañez,iannech01,data
+2014,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Suzuki,Mauer,Dozier,Plouffe,Florimón,Willingham,Hicks,Arcia,Nolasco,Colabello,suzukku01,data
+2014,,New York Yankees,AL,American League,,,New York Yankees,AL,McCann,Teixeira,Roberts,Johnson,Jeter,Gardner,Ellsbury,Beltrán,Sabathia,Soriano,mccanbr01,data
+2014,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Jaso,Barton,Sogard,Donaldson,Lowrie,Céspedes,Crisp,Reddick,Gray,Moss,jasojo01,data
+2014,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Zunino,Smoak,Canó,Seager,Miller,Ackley,Almonte,Saunders,Hernández,Morrison,zuninmi01,data
+2014,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Molina,Loney,Zobrist,Longoria,Escobar,DeJesus,Jennings,Myers,Price,Joyce,molinjo01,data
+2014,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Arencibia,Fielder,Wilson,Beltré,Andrus,Choo,Martín,Ríos,Scheppers,Moreland,arencjp01,data
+2014,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Thole,Encarnación,Izturis,Lawrie,Reyes,Cabrera,Rasmus,Bautista,Dickey,Navarro,tholejo01,data
+2014,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Montero,Goldschmidt,Hill,Prado,Owings,Trumbo,Pollock,Parra,Miley,,montemi01,data
+2014,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Gattis,Freeman,Uggla,Johnson,Simmons,Upton,Upton,Heyward,Teheran,,gattiev01,data
+2014,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Castillo,Rizzo,Barney,Olt,Castro,Lake,Bonifácio,Schierholtz,Samardzija,,castiwe01,data
+2014,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Peña,Votto,Phillips,Frazier,Cozart,Ludwick,Hamilton,Bruce,Cueto,,penabr01,data
+2014,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Rosario,Morneau,LeMahieu,Arenado,Tulowitzki,González,Blackmon,Cuddyer,De La Rosa,,rosarwi01,data
+2014,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Ellis,González,Turner,Uribe,Ramírez,Van Slyke,Ethier,Puig,Kershaw,,ellisaj01,data
+2014,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Saltalamacchia,Jones,Baker,McGehee,Hechavarría,Yelich,Ozuna,Stanton,Fernández,,saltaja01,data
+2014,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Lucroy,Overbay,Gennett,Ramírez,Segura,Davis,Gómez,Braun,Gallardo,,lucrojo01,data
+2014,,New York Mets,NL,National League,,,New York Mets,NL,d'Arnaud,Davis,Young,Wright,Tejada,Brown,Lagares,Granderson,Gee,,darnatr01,data
+2014,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Utley,Asche,Rollins,Gwynn,Revere,Byrd,Lee,Brown,ruizca01,data
+2014,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Martin,Ishikawa,Walker,Álvarez,Mercer,Marte,McCutchen,Snider,Liriano,,martiru01,data
+2014,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Rivera,Alonso,Gyorko,Headley,Cabrera,Medica,Venable,Denorfia,Cashner,,riverre01,data
+2014,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Arias,Sandoval,Crawford,Morse,Pagán,Pence,Bumgarner,,poseybu01,data
+2014,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Adams,Wong,Carpenter,Peralta,Holliday,Bourjos,Craig,Wainwright,,molinya01,data
+2014,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ramos,LaRoche,Rendon,Zimmerman,Desmond,Harper,Span,Werth,Strasburg,,ramoswi01,data
+2015,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Joseph,Pearce,Schoop,Machado,Flaherty,De Aza,Jones,Snider,Tillman,Young,josepca01,data
+2015,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Hanigan,Ortiz,Pedroia,Sandoval,Bogaerts,Ramírez,Betts,Victorino,Buchholz,,hanigry01,data
+2015,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Flowers,Abreu,Johnson,Gillaspie,Ramírez,Cabrera,Eaton,García,Samardzija,LaRoche,flowety01,data
+2015,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Gomes,Santana,Kipnis,Chisenhall,Ramírez,Brantley,Bourn,Moss,Kluber,Raburn,gomesya01,data
+2015,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Avila,Cabrera,Kinsler,Castellanos,Iglesias,Céspedes,Davis,Martinez,Price,Martínez,avilaal01,data
+2015,,Houston Astros,AL,American League,,,Houston Astros,AL,Castro,Carter,Altuve,Valbuena,Lowrie,Rasmus,Marisnick,Springer,Keuchel,Gattis,castrja01,data
+2015,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Hosmer,Infante,Moustakas,Escobar,Gordon,Cain,Ríos,Ventura,Morales,perezsa02,data
+2015,,Los Angeles Angels of Anaheim,AL,American League,,,Los Angeles Angels of Anaheim,AL,Iannetta,Pujols,Giavotella,Freese,Aybar,Joyce,Trout,Calhoun,Weaver,Cron,iannech01,data
+2015,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Suzuki,Mauer,Dozier,Plouffe,Santana,Arcia,Schafer,Hunter,Hughes,Vargas,suzukku01,data
+2015,,New York Yankees,AL,American League,,,New York Yankees,AL,McCann,Teixeira,Drew,Headley,Gregorius,Gardner,Ellsbury,Beltrán,Tanaka,Rodriguez,mccanbr01,data
+2015,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Vogt,Davis,Sogard,Lawrie,Semien,Zobrist,Fuld,Gentry,Gray,Butler,vogtst01,data
+2015,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Zunino,Morrison,Canó,Seager,Miller,Ackley,Jackson,Smith,Hernández,Cruz,zuninmi01,data
+2015,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Rivera,Loney,Forsythe,Longoria,Cabrera,Jennings,Kiermaier,Souza,Archer,Jaso,riverre01,data
+2015,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Chirinos,Fielder,Odor,Beltré,Andrus,Rua,Martín,Choo,Gallardo,Moreland,chiriro01,data
+2015,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Martin,Encarnación,Travis,Donaldson,Reyes,Pillar,Pompey,Bautista,Hutchison,Navarro,martiru01,data
+2015,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Gosewisch,Goldschmidt,Owings,Hill,Ahmed,Inciarte,Pollock,Trumbo,Collmenter,,gosewtu01,data
+2015,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Bethancourt,Freeman,Peterson,Callaspo,Simmons,Johnson,Young,Markakis,Teheran,,bethach01,data
+2015,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Ross,Rizzo,La Stella,Olt,Castro,Coghlan,Fowler,Soler,Lester,,rossda01,data
+2015,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Mesoraco,Votto,Phillips,Frazier,Cozart,Byrd,Hamilton,Bruce,Cueto,,mesorde01,data
+2015,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Hundley,Morneau,LeMahieu,Arenado,Tulowitzki,Dickerson,Blackmon,González,Kendrick,,hundlni01,data
+2015,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Ellis,González,Kendrick,Uribe,Rollins,Crawford,Pederson,Puig,Kershaw,,ellisaj01,data
+2015,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Saltalamacchia,Morse,Strange-Gordon,Prado,Hechavarría,Yelich,Ozuna,Stanton,Álvarez,,saltaja01,data
+2015,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Lucroy,Lind,Gennett,Ramírez,Segura,Davis,Gómez,Braun,Lohse,,lucrojo01,data
+2015,,New York Mets,NL,National League,,,New York Mets,NL,d'Arnaud,Duda,Murphy,Wright,Flores,Cuddyer,Lagares,Granderson,Colón,,darnatr01,data
+2015,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Utley,Asche,Galvis,Revere,Herrera,Sizemore,Hamels,,ruizca01,data
+2015,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Cervelli,Álvarez,Walker,Harrison,Mercer,Marte,McCutchen,Polanco,Liriano,,cervefr01,data
+2015,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Norris,Alonso,Gyorko,Middlebrooks,Barmes,Upton,Myers,Kemp,Shields,,norride01,data
+2015,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Panik,McGehee,Crawford,Aoki,Pagán,Blanco,Bumgarner,,poseybu01,data
+2015,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Adams,Wong,Carpenter,Peralta,Holliday,Jay,Heyward,Wainwright,,molinya01,data
+2015,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ramos,Zimmerman,Uggla,Escobar,Desmond,Moore,Taylor,Harper,Scherzer,,ramoswi01,data
+2016,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Wieters,Davis,Schoop,Machado,Hardy,Rickard,Jones,Trumbo,Tillman,Álvarez,wietema01,data
+2016,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Swihart,Ramírez,Pedroia,Shaw,Bogaerts,Holt,Bradley,Betts,Price,Ortiz,swihabl01,data
+2016,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Navarro,Abreu,Lawrie,Frazier,Rollins,Cabrera,Jackson,Eaton,Sale,García,navardi01,data
+2016,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Gomes,Napoli,Kipnis,Uribe,Lindor,Byrd,Davis,Cowgill,Kluber,Santana,gomesya01,data
+2016,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,McCann,Cabrera,Kinsler,Castellanos,Iglesias,Upton,Gose,Martinez,Verlander,,mccanja02,data
+2016,,Houston Astros,AL,American League,,,Houston Astros,AL,Castro,González,Altuve,Valbuena,Correa,Rasmus,Gómez,Springer,Keuchel,Tucker,castrja01,data
+2016,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Hosmer,Infante,Moustakas,Escobar,Gordon,Cain,Fuentes,Vólquez,Morales,perezsa02,data
+2016,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Pérez,Cron,Giavotella,Escobar,Simmons,Nava,Trout,Calhoun,Richards,Pujols,perezca02,data
+2016,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Suzuki,Mauer,Dozier,Plouffe,Escobar,Rosario,Buxton,Sanó,Santana,Park,suzukku01,data
+2016,,New York Yankees,AL,American League,,,New York Yankees,AL,McCann,Teixeira,Castro,Headley,Gregorius,Hicks,Ellsbury,Beltrán,Tanaka,Rodriguez,mccanbr01,data
+2016,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Vogt,Canha,Lowrie,Valencia,Semien,Davis,Burns,Reddick,Hill,Butler,vogtst01,data
+2016,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Iannetta,Lind,Canó,Seager,Marte,Aoki,Martín,Cruz,Hernández,Gutiérrez,iannech01,data
+2016,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Conger,Morrison,Forsythe,Longoria,Miller,Jennings,Kiermaier,Souza,Archer,Dickerson,congeha01,data
+2016,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Chirinos,Moreland,Odor,Beltré,Andrus,Desmond,DeShields,Choo,Hamels,Fielder,chiriro01,data
+2016,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Martin,Colabello,Goins,Donaldson,Tulowitzki,Saunders,Pillar,Bautista,Stroman,Encarnación,martiru01,data
+2016,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Castillo,Goldschmidt,Segura,Lamb,Ahmed,Tomás,Owings,Peralta,Greinke,,castiwe01,data
+2016,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Pierzynski,Freeman,Peterson,García,Aybar,Olivera,Inciarte,Markakis,Teheran,,freemfr01,data
+2016,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Montero,Rizzo,Zobrist,Bryant,Russell,Schwarber,Fowler,Heyward,Arrieta,Soler,montemi01,data
+2016,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Mesoraco,Votto,Phillips,Suárez,Cozart,Duvall,Hamilton,Bruce,Iglesias,,mesorde01,data
+2016,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Hundley,Reynolds,LeMahieu,Arenado,Story,Parra,Blackmon,González,De La Rosa,,hundlni01,data
+2016,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Ellis,González,Utley,Turner,Seager,Crawford,Pederson,Puig,Kershaw,,ellisaj01,data
+2016,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Realmuto,Bour,Strange-Gordon,Prado,Hechavarría,Yelich,Ozuna,Stanton,Chen,,realmjt01,data
+2016,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Lucroy,Carter,Gennett,Hill,Villar,Braun,Broxton,Santana,Peralta,,lucrojo01,data
+2016,,New York Mets,NL,National League,,,New York Mets,NL,d'Arnaud,Duda,Walker,Wright,Cabrera,Céspedes,Lagares,Granderson,Harvey,Conforto,darnatr01,data
+2016,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Ruiz,Howard,Hernández,Franco,Galvis,Hunter,Herrera,Bourjos,Hellickson,,ruizca01,data
+2016,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Cervelli,Jaso,Harrison,Freese,Mercer,Marte,McCutchen,Polanco,Liriano,,cervefr01,data
+2016,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Norris,Myers,Spangenberg,Solarte,Ramírez,Upton,Jay,Kemp,Ross,,norride01,data
+2016,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Panik,Duffy,Crawford,Pagán,Span,Pence,Bumgarner,,poseybu01,data
+2016,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Holliday,Wong,Carpenter,Gyorko,Pham,Grichuk,Piscotty,Wainwright,,molinya01,data
+2016,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ramos,Zimmerman,Murphy,Rendon,Espinosa,Werth,Revere,Harper,Scherzer,,ramoswi01,data
+2017,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Castillo,Davis,Schoop,Machado,Hardy,Kim,Jones,Smith,Gausman,Trumbo,castiwe01,data
+2017,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,León,Moreland,Pedroia,Sandoval,Bogaerts,Benintendi,Bradley,Betts,Porcello,Ramírez,leonsa01,data
+2017,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Narváez,Abreu,Saladino,Frazier,Anderson,Cabrera,May,García,Quintana,Asche,narvaom01,data
+2017,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Gomes,Encarnación,Ramírez,Díaz,Lindor,Brantley,Naquin,Almonte,Kluber,Santana,gomesya01,data
+2017,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,McCann,Cabrera,Kinsler,Castellanos,Iglesias,Upton,Jones,Mahtook,Verlander,Martínez,mccanja02,data
+2017,,Houston Astros,AL,American League,,,Houston Astros,AL,McCann,Gurriel,Altuve,Bregman,Correa,Aoki,Springer,Reddick,Keuchel,Beltrán,mccanbr01,data
+2017,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Hosmer,Mondesí,Moustakas,Escobar,Gordon,Cain,Orlando,Duffy,Moss,perezsa02,data
+2017,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Maldonado,Cron,Espinosa,Escobar,Simmons,Maybin,Trout,Calhoun,Nolasco,Pujols,maldoma01,data
+2017,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Castro,Mauer,Dozier,Sanó,Polanco,Rosario,Buxton,Kepler,Santana,Grossman,castrja01,data
+2017,,New York Yankees,AL,American League,,,New York Yankees,AL,Sánchez,Bird,Castro,Headley,Torreyes,Gardner,Ellsbury,Judge,Tanaka,Holliday,sanchga02,data
+2017,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Vogt,Alonso,Lowrie,Plouffe,Semien,Davis,Davis,Joyce,Graveman,Healy,vogtst01,data
+2017,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Zunino,Valencia,Canó,Seager,Segura,Dyson,Martín,Haniger,Hernández,Cruz,zuninmi01,data
+2017,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Norris,Morrison,Miller,Longoria,Beckham,Smith,Kiermaier,Souza,Archer,Dickerson,norride01,data
+2017,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Lucroy,Napoli,Odor,Gallo,Andrus,Profar,Gómez,Mazara,Darvish,Choo,lucrojo01,data
+2017,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Martin,Pearce,Travis,Donaldson,Tulowitzki,Carrera,Pillar,Bautista,Estrada,Morales,martiru01,data
+2017,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Mathis,Goldschmidt,Drury,Lamb,Owings,Tomás,Pollock,Peralta,Greinke,,mathije01,data
+2017,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Flowers,Freeman,Phillips,García,Swanson,Kemp,Inciarte,Markakis,Teheran,,flowety01,data
+2017,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Rizzo,Báez,Bryant,Russell,Schwarber,Heyward,Zobrist,Lester,,contrwi01,data
+2017,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Barnhart,Votto,Peraza,Suárez,Cozart,Duvall,Hamilton,Schebler,Feldman,,barnhtu01,data
+2017,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Wolters,Reynolds,LeMahieu,Arenado,Story,Parra,Blackmon,González,Gray,,wolteto01,data
+2017,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Grandal,González,Forsythe,Turner,Seager,Toles,Pederson,Puig,Kershaw,,grandya01,data
+2017,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Realmuto,Bour,Strange-Gordon,Dietrich,Hechavarría,Ozuna,Yelich,Stanton,Vólquez,,realmjt01,data
+2017,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Bandy,Thames,Villar,Shaw,Arcia,Braun,Broxton,Santana,Guerra,,bandyje01,data
+2017,,New York Mets,NL,National League,,,New York Mets,NL,Rivera,Duda,Walker,Reyes,Cabrera,Céspedes,Granderson,Bruce,Syndergaard,,riverre01,data
+2017,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Rupp,Joseph,Hernández,Franco,Galvis,Kendrick,Herrera,Saunders,Hellickson,,ruppca01,data
+2017,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Cervelli,Bell,Harrison,Freese,Mercer,Frazier,Marte,McCutchen,Cole,Polanco,cervefr01,data
+2017,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hedges,Myers,Solarte,Schimpf,Aybar,Jankowski,Margot,Renfroe,Chacín,,hedgeau01,data
+2017,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Panik,Núñez,Crawford,Parker,Span,Pence,Bumgarner,,poseybu01,data
+2017,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Carpenter,Gyorko,Peralta,Díaz,Grichuk,Fowler,Piscotty,Martínez,,molinya01,data
+2017,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Wieters,Zimmerman,Murphy,Drew,Turner,Werth,Eaton,Harper,Strasburg,,wietema01,data
+2018,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Joseph,Davis,Schoop,Beckham,Machado,Mancini,Jones,Gentry,Bundy,Álvarez,josepca01,data
+2018,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Vázquez,Ramírez,Núñez,Devers,Bogaerts,Benintendi,Bradley,Betts,Sale,Martinez,vazquch01,data
+2018,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Castillo,Abreu,Moncada,Sanchez,Anderson,Delmonico,Engel,García,Shields,Davidson,castiwe01,data
+2018,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Gomes,Alonso,Kipnis,Ramírez,Lindor,Naquin,Zimmer,Chisenhall,Kluber,Encarnación,gomesya01,data
+2018,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,McCann,Cabrera,Machado,Candelario,Iglesias,Mahtook,Martín,Castellanos,Zimmermann,Martínez,mccanja02,data
+2018,,Houston Astros,AL,American League,,,Houston Astros,AL,McCann,González,Altuve,Bregman,Correa,Reddick,Marisnick,Springer,Verlander,Gattis,mccanbr01,data
+2018,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Butera,Duda,Merrifield,Moustakas,Escobar,Jay,Gordon,Soler,Duffy,Cuthbert,buterdr01,data
+2018,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Maldonado,Pujols,Cozart,Valbuena,Simmons,Upton,Trout,Calhoun,Richards,Ohtani,maldoma01,data
+2018,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Castro,Mauer,Dozier,Sanó,Escobar,Rosario,Buxton,Kepler,Odorizzi,Morrison,castrja01,data
+2018,,New York Yankees,AL,American League,,,New York Yankees,AL,Sánchez,Austin,Walker,Drury,Gregorius,Gardner,Hicks,Judge,Severino,Stanton,sanchga02,data
+2018,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Lucroy,Olson,Lowrie,Chapman,Semien,Joyce,Powell,Piscotty,Graveman,Davis,lucrojo01,data
+2018,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Marjama,Healy,Canó,Seager,Segura,Suzuki,Strange-Gordon,Haniger,Hernández,Cruz,marjami01,data
+2018,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Ramos,Cron,Robertson,Duffy,Hechavarría,Span,Kiermaier,Gómez,Archer,Refsnyder,ramoswi01,data
+2018,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Chirinos,Gallo,Odor,Beltré,Andrus,Rua,DeShields,Mazara,Hamels,Choo,chiriro01,data
+2018,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Martin,Smoak,Travis,Donaldson,Díaz,Granderson,Pillar,Grichuk,Happ,Morales,martiru01,data
+2018,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Avila,Goldschmidt,Marte,Lamb,Ahmed,Peralta,Pollock,Dyson,Corbin,,avilaal01,data
+2018,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Flowers,Freeman,Albies,Flaherty,Swanson,Tucker,Inciarte,Markakis,Teheran,,flowety01,data
+2018,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Rizzo,Báez,Bryant,Russell,Schwarber,Happ,Heyward,Lester,,contrwi01,data
+2018,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Barnhart,Votto,Gennett,Suárez,Peraza,Winker,Hamilton,Schebler,Bailey,,barnhtu01,data
+2018,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Desmond,LeMahieu,Arenado,Story,Parra,Blackmon,González,Gray,,iannech01,data
+2018,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Grandal,Bellinger,Hernández,Forsythe,Seager,Kemp,Taylor,Puig,Kershaw,,grandya01,data
+2018,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Wallach,Bour,Castro,Anderson,Rojas,Dietrich,Brinson,Cooper,Ureña,,wallach01,data
+2018,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Piña,Braun,Villar,Shaw,Arcia,Yelich,Cain,Santana,Anderson,,pinama01,data
+2018,,New York Mets,NL,National League,,,New York Mets,NL,Plawecki,González,Cabrera,Frazier,Rosario,Céspedes,Nimmo,Bruce,Syndergaard,,plaweke01,data
+2018,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Knapp,Santana,Hernández,Franco,Crawford,Hoskins,Altherr,Williams,Nola,,knappan01,data
+2018,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Cervelli,Bell,Harrison,Moran,Mercer,Dickerson,Marte,Polanco,Nova,Frazier,cervefr01,data
+2018,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hedges,Hosmer,Asuaje,Headley,Galvis,Pirela,Margot,Myers,Richard,,hedgeau01,data
+2018,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Panik,Longoria,Crawford,Pence,Jackson,McCutchen,Blach,,poseybu01,data
+2018,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Martínez,Wong,Carpenter,DeJong,Ozuna,Pham,Fowler,Martínez,,molinya01,data
+2018,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Wieters,Zimmerman,Kendrick,Rendon,Turner,Eaton,Taylor,Harper,Scherzer,,wietema01,data
+2019,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Sucre,Davis,Villar,Ruiz,Martin,Smith,Mullins,Rickard,Cashner,Mancini,sucreje01,data
+2019,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Vázquez,Moreland,Núñez,Devers,Bogaerts,Benintendi,Bradley,Betts,Sale,Martinez,vazquch01,data
+2019,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,McCann,Abreu,Sanchez,Moncada,Anderson,Jiménez,García,Palka,Rodón,Alonso,mccanja02,data
+2019,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Pérez,Santana,Miller,Ramírez,Stamets,Bauers,Martín,Naquin,Kluber,Ramírez,perezro02,data
+2019,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Greiner,Cabrera,Harrison,Candelario,Mercer,Stewart,Mahtook,Castellanos,Zimmermann,Goodrum,greingr01,data
+2019,,Houston Astros,AL,American League,,,Houston Astros,AL,Chirinos,Gurriel,Altuve,Bregman,Díaz,Brantley,Marisnick,Springer,Verlander,White,chiriro01,data
+2019,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Maldonado,Schwindel,Owings,Dozier,Mondesí,Gordon,Hamilton,Merrifield,Keller,Soler,maldoma01,data
+2019,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Lucroy,Bour,La Stella,Cozart,Simmons,Bourjos,Trout,Calhoun,Cahill,Pujols,lucrojo01,data
+2019,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Castro,Cron,Schoop,González,Polanco,Rosario,Buxton,Kepler,Berríos,Cruz,castrja01,data
+2019,,New York Yankees,AL,American League,,,New York Yankees,AL,Sánchez,Bird,Torres,Andujar,Tulowitzki,Stanton,Gardner,Judge,Tanaka,Voit,sanchga02,data
+2019,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Hundley,Olson,Profar,Chapman,Semien,Pinder,Laureano,Piscotty,Fiers,Davis,hundlni01,data
+2019,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Narváez,Bruce,Strange-Gordon,Healy,Beckham,Santana,Haniger,Suzuki,Gonzales,Encarnación,narvaom01,data
+2019,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Zunino,Choi,Wendle,Díaz,Adames,Pham,Kiermaier,Meadows,Snell,Lowe,zuninmi01,data
+2019,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Mathis,Guzmán,Odor,Cabrera,Andrus,Gallo,DeShields,Mazara,Minor,Pence,mathije01,data
+2019,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Jansen,Smoak,Gurriel,Drury,Galvis,Hernández,Pillar,Grichuk,Stroman,Tellez,janseda01,data
+2019,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Murphy,Walker,Flores,Escobar,Ahmed,Peralta,Marte,Jones,Greinke,,murphjr01,data
+2019,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,McCann,Freeman,Albies,Donaldson,Swanson,Acuña,Inciarte,Markakis,Teheran,,mccanbr01,data
+2019,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Rizzo,Bote,Bryant,Báez,Zagunis,Almora,Heyward,Lester,Zobrist,contrwi01,data
+2019,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Barnhart,Votto,Peraza,Suárez,Iglesias,Winker,Schebler,Puig,Castillo,,barnhtu01,data
+2019,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Iannetta,Murphy,McMahon,Arenado,Story,Dahl,Desmond,Blackmon,Freeland,,iannech01,data
+2019,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Barnes,Muncy,Hernández,Turner,Seager,Pederson,Pollock,Bellinger,Ryu,,barneau01,data
+2019,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Alfaro,Prado,Castro,Anderson,Rojas,Herrera,Brinson,Cooper,Ureña,,alfarjo01,data
+2019,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Grandal,Aguilar,Moustakas,Shaw,Arcia,Braun,Cain,Yelich,Chacín,,grandya01,data
+2019,,New York Mets,NL,National League,,,New York Mets,NL,Ramos,Alonso,Canó,McNeil,Rosario,Nimmo,Lagares,Conforto,deGrom,,ramoswi01,data
+2019,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Hoskins,Hernández,Franco,Segura,McCutchen,Herrera,Harper,Nola,,realmjt01,data
+2019,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Cervelli,Bell,Frazier,Kang,González,Dickerson,Shuck,Cabrera,Taillon,,cervefr01,data
+2019,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Hedges,Hosmer,Kinsler,Machado,Tatís,Myers,Margot,Reyes,Lauer,,hedgeau01,data
+2019,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Panik,Longoria,Crawford,Joe,Duggar,Reed,Bumgarner,,poseybu01,data
+2019,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Goldschmidt,Wong,Carpenter,DeJong,Ozuna,Bader,Fowler,Mikolas,,molinya01,data
+2019,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Gomes,Zimmerman,Dozier,Rendon,Turner,Soto,Robles,Eaton,Scherzer,,gomesya01,data
+2020,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Severino,Davis,Alberto,Ruiz,Iglesias,Stewart,Hays,Santander,Milone,Núñez,severpe01,data
+2020,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Vázquez,Chavis,Peraza,Devers,Bogaerts,Benintendi,Bradley,Pillar,Eovaldi,Martinez,vazquch01,data
+2020,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Grandal,Abreu,García,Moncada,Anderson,Jiménez,Robert,Delmonico,Giolito,Encarnación,grandya01,data
+2020,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Pérez,Santana,Hernández,Ramírez,Lindor,Luplow,Mercado,Santana,Bieber,Reyes,perezro02,data
+2020,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Romine,Cron,Schoop,Candelario,Goodrum,Stewart,Jones,Maybin,Boyd,Cabrera,rominau01,data
+2020,,Houston Astros,AL,American League,,,Houston Astros,AL,Maldonado,Gurriel,Altuve,Bregman,Correa,Brantley,Springer,Reddick,Verlander,Díaz,maldoma01,data
+2020,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,McBroom,Lopez,Franco,Mondesí,Gordon,Starling,Merrifield,Duffy,Soler,perezsa02,data
+2020,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Castro,Pujols,La Stella,Fletcher,Simmons,Upton,Trout,Goodwin,Heaney,Ohtani,castrja01,data
+2020,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Garver,Sanó,Arraez,Donaldson,Polanco,Rosario,Cave,Kepler,Berríos,Cruz,garvemi01,data
+2020,,New York Yankees,AL,American League,,,New York Yankees,AL,Sánchez,Voit,Wade,Urshela,Torres,Gardner,Hicks,Judge,Cole,Stanton,sanchga02,data
+2020,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Murphy,Olson,Pinder,Chapman,Semien,Canha,Laureano,Piscotty,Montas,Davis,murphse01,data
+2020,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Nola,White,Long,Seager,Crawford,Marmolejos,Lewis,Smith,Gonzales,Vogelbach,nolaau01,data
+2020,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Zunino,Díaz,Brosseau,Tsutsugo,Adames,Margot,Kiermaier,Renfroe,Morton,Martínez,zuninmi01,data
+2020,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Chirinos,Frazier,Odor,Kiner-Falefa,Andrus,Solak,Santana,Gallo,Lynn,Choo,chiriro01,data
+2020,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Jansen,Guerrero,Biggio,Shaw,Bichette,Fisher,Grichuk,Hernández,Ryu,Tellez,janseda01,data
+2020,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Kelly,Lamb,Marte,Escobar,Ahmed,Peralta,Marte,Calhoun,Bumgarner,Walker,kellyca02,data
+2020,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Jackson,Freeman,Albies,Riley,Swanson,Ozuna,Inciarte,Acuña,Soroka,Adams,jacksal02,data
+2020,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Rizzo,Hoerner,Bryant,Báez,Schwarber,Happ,Heyward,Hendricks,Caratini,contrwi01,data
+2020,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Casali,Votto,Moustakas,Suárez,Galvis,Ervin,Senzel,Castellanos,Gray,Davidson,casalcu01,data
+2020,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Wolters,Murphy,McMahon,Arenado,Story,Hilliard,Dahl,Blackmon,Márquez,Tapia,wolteto01,data
+2020,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Barnes,Muncy,Hernández,Turner,Seager,Pederson,Bellinger,Betts,May,Pollock,barneau01,data
+2020,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Cervelli,Aguilar,Díaz,Anderson,Rojas,Dickerson,Villar,Ramírez,Alcantara,Cooper,cervefr01,data
+2020,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Narváez,Smoak,Hiura,Sogard,Arcia,Yelich,Cain,García,Woodruff,Braun,narvaom01,data
+2020,,New York Mets,NL,National League,,,New York Mets,NL,Ramos,Alonso,Canó,McNeil,Rosario,Davis,Nimmo,Conforto,deGrom,Céspedes,ramoswi01,data
+2020,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Hoskins,Kingery,Segura,Gregorius,McCutchen,Quinn,Harper,Nola,Bruce,realmjt01,data
+2020,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Stallings,Bell,Frazier,Moran,Newman,Reynolds,Dyson,Heredia,Musgrove,Osuna,stallja01,data
+2020,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Mejia,Hosmer,Profar,Machado,Tatís,Pham,Grisham,Myers,Paddack,France,mejiafr01,data
+2020,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Heineman,Sandoval,Dubón,Flores,Crawford,Dickerson,Yastrzemski,McCarthy,Cueto,Pence,heinety01,data
+2020,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Goldschmidt,Wong,Edman,DeJong,O'Neill,Bader,Fowler,Flaherty,Carpenter,molinya01,data
+2020,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Suzuki,Thames,Castro,Cabrera,Turner,Stevenson,Robles,Eaton,Scherzer,Kendrick,suzukku01,data
+2021,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Severino,Mancini,Ruiz,Franco,Galvis,Hays,Mullins,Santander,Means,Mountcastle,severpe01,data
+2021,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Vázquez,Dalbec,Hernández,Devers,Bogaerts,González,Verdugo,Renfroe,Eovaldi,Martinez,vazquch01,data
+2021,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Grandal,Abreu,Madrigal,Moncada,Anderson,García,Robert,Eaton,Giolito,Collins,grandya01,data
+2021,,Cleveland Indians,AL,American League,,,Cleveland Indians,AL,Pérez,Chang,Hernández,Ramírez,Giménez,Rosario,Luplow,Naylor,Bieber,Reyes,perezro02,data
+2021,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Ramos,Cabrera,Schoop,Candelario,Castro,Grossman,Jones,Reyes,Boyd,Mazara,ramoswi01,data
+2021,,Houston Astros,AL,American League,,,Houston Astros,AL,Maldonado,Gurriel,Altuve,Bregman,Correa,Brantley,Straw,Tucker,Greinke,Alvarez,maldoma01,data
+2021,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Santana,Merrifield,Dozier,Lopez,Benintendi,Taylor,Isbel,Keller,Soler,perezsa02,data
+2021,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Stassi,Pujols,Fletcher,Rendon,Iglesias,Upton,Trout,Fowler,Bundy,Ohtani,stassma01,data
+2021,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Garver,Sanó,Polanco,Donaldson,Simmons,Arraez,Buxton,Kepler,Maeda,,garvemi01,data
+2021,,New York Yankees,AL,American League,,,New York Yankees,AL,Sánchez,Bruce,LeMahieu,Urshela,Torres,Frazier,Hicks,Judge,Cole,Stanton,sanchga02,data
+2021,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Murphy,Olson,Lowrie,Chapman,Andrus,Canha,Laureano,Pinder,Bassitt,Moreland,murphse01,data
+2021,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Murphy,White,Moore,Seager,Crawford,Fraley,Trammell,Haniger,Gonzales,France,murphto04,data
+2021,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Zunino,Tsutsugo,Lowe,Díaz,Adames,Meadows,Kiermaier,Arozarena,Glasnow,,zuninmi01,data
+2021,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Trevino,Lowe,Solak,Holt,Kiner-Falefa,Dahl,Taveras,Gallo,Gibson,White,trevijo01,data
+2021,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Jansen,Guerrero,Semien,Biggio,Bichette,Gurriel,Grichuk,Hernández,Ryu,Tellez,janseda01,data
+2021,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Vogt,Walker,Escobar,Cabrera,Rojas,Peralta,Marte,Smith,Bumgarner,,vogtst01,data
+2021,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,d'Arnaud,Freeman,Albies,Riley,Swanson,Ozuna,Pache,Acuña,Fried,,darnatr01,data
+2021,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Rizzo,Bote,Bryant,Báez,Pederson,Happ,Heyward,Hendricks,,contrwi01,data
+2021,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Barnhart,Votto,India,Moustakas,Suárez,Winker,Senzel,Castellanos,Castillo,,barnhtu01,data
+2021,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Díaz,Cron,Owings,Fuentes,Story,Tapia,Hampson,Blackmon,Márquez,,diazel01,data
+2021,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Barnes,Muncy,Lux,Turner,Seager,Taylor,Bellinger,Betts,Kershaw,,barneau01,data
+2021,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Alfaro,Aguilar,Chisholm,Anderson,Rojas,Dickerson,Marte,Duvall,Alcantara,,alfarjo01,data
+2021,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Narváez,Hiura,Wong,Shaw,Urías,Yelich,Cain,García,Woodruff,,narvaom01,data
+2021,,New York Mets,NL,National League,,,New York Mets,NL,McCann,Alonso,McNeil,Davis,Lindor,Nimmo,Pillar,Conforto,deGrom,,mccanja02,data
+2021,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Hoskins,Segura,Bohm,Gregorius,McCutchen,Haseley,Harper,Nola,,realmjt01,data
+2021,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Stallings,Moran,Frazier,Hayes,Newman,Reynolds,Alford,Polanco,Kuhl,,stallja01,data
+2021,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Caratini,Hosmer,Cronenworth,Machado,Tatís,Profar,Pham,Myers,Darvish,,caratvi01,data
+2021,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Posey,Belt,Solano,Longoria,Crawford,Slater,Dubón,Yastrzemski,Gausman,Flores,poseybu01,data
+2021,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Goldschmidt,Edman,Arenado,DeJong,O'Neill,Carlson,Williams,Flaherty,,molinya01,data
+2021,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Lucroy,Zimmerman,Pérez,Castro,Turner,Stevenson,Robles,Soto,Scherzer,,lucrojo01,data
+2022,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Chirinos,Mountcastle,Urías,Gutiérrez,Mateo,Santander,Mullins,Hays,Means,Mancini,chiriro01,data
+2022,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Vázquez,Dalbec,Story,Devers,Bogaerts,Verdugo,Hernández,Bradley,Eovaldi,Martinez,vazquch01,data
+2022,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Grandal,Abreu,Harrison,Burger,García,Jiménez,Robert,Pollock,Giolito,Vaughn,grandya01,data
+2022,,Cleveland Guardians,AL,American League,,,Cleveland Guardians,AL,Hedges,Bradley,Chang,Ramírez,Giménez,Rosario,Straw,Kwan,Bieber,Reyes,hedgeau01,data
+2022,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Barnhart,Torkelson,Schoop,Candelario,Báez,Meadows,Baddoo,Grossman,Rodríguez,Cabrera,barnhtu01,data
+2022,,Houston Astros,AL,American League,,,Houston Astros,AL,Maldonado,Gurriel,Altuve,Bregman,Peña,Alvarez,McCormick,Tucker,Valdez,Brantley,maldoma01,data
+2022,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Santana,Lopez,Witt,Mondesí,Benintendi,Taylor,Merrifield,Greinke,Dozier,perezsa02,data
+2022,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,Stassi,Walsh,Duffy,Rendon,Fletcher,Adell,Trout,Marsh,Ohtani,Ohtani,stassma01,data
+2022,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Jeffers,Sanó,Polanco,Urshela,Correa,Kirilloff,Buxton,Kepler,Ryan,Sánchez,jeffery01,data
+2022,,New York Yankees,AL,American League,,,New York Yankees,AL,Higashioka,Rizzo,LeMahieu,Donaldson,Kiner-Falefa,Gallo,Hicks,Judge,Cole,Stanton,higasky01,data
+2022,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Murphy,Brown,Kemp,Smith,Andrus,Pinder,Pache,Piscotty,Montas,McKinney,murphse01,data
+2022,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Raleigh,France,Frazier,Suárez,Crawford,Winker,Rodríguez,Haniger,Ray,Kelenic,raleica01,data
+2022,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Zunino,Ramírez,Lowe,Díaz,Franco,Arozarena,Kiermaier,Margot,McClanahan,Lowe,zuninmi01,data
+2022,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Garver,Lowe,Semien,Ibáñez,Seager,Miller,García,Calhoun,Gray,Calhoun,garvemi01,data
+2022,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Jansen,Guerrero,Biggio,Chapman,Bichette,Gurriel,Springer,Hernández,Berríos,Kirk,janseda01,data
+2022,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Kelly,Walker,Marte,Ellis,Perdomo,Peralta,Varsho,Smith,Bumgarner,Beer,kellyca02,data
+2022,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,d'Arnaud,Olson,Albies,Riley,Swanson,Ozuna,Duvall,Rosario,Fried,Dickerson,darnatr01,data
+2022,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Contreras,Schwindel,Madrigal,Wisdom,Hoerner,Happ,Heyward,Suzuki,Hendricks,Ortega,contrwi01,data
+2022,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Stephenson,Votto,India,Drury,Farmer,Pham,Senzel,Aquino,Mahle,Moustakas,stephty01,data
+2022,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Díaz,Cron,Rodgers,McMahon,Iglesias,Bryant,Grichuk,Blackmon,Freeland,Joe,diazel01,data
+2022,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Smith,Freeman,Lux,Muncy,Turner,Taylor,Bellinger,Betts,Buehler,Turner,smithwi05,data
+2022,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Stallings,Cooper,Chisholm,Wendle,Rojas,Soler,Sánchez,García,Alcantara,Aguilar,stallja01,data
+2022,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Narváez,Tellez,Wong,Peterson,Adames,Yelich,Cain,Renfroe,Burnes,McCutchen,narvaom01,data
+2022,,New York Mets,NL,National League,,,New York Mets,NL,McCann,Alonso,Canó,Escobar,Lindor,McNeil,Canha,Marte,Megill,Davis,mccanja02,data
+2022,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Hoskins,Segura,Stott,Gregorius,Schwarber,Vierling,Harper,Nola,Castellanos,realmjt01,data
+2022,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Pérez,Tsutsugo,Park,Hayes,Newman,Gamel,Reynolds,Tucker,Brubaker,Vogelbach,perezro02,data
+2022,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Nola,Hosmer,Cronenworth,Machado,Kim,Profar,Grisham,Myers,Darvish,Voit,nolaau01,data
+2022,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Bart,Belt,Estrada,Flores,Crawford,Pederson,Duggar,Yastrzemski,Webb,Ruf,bartjo01,data
+2022,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Molina,Goldschmidt,Edman,Arenado,DeJong,O'Neill,Bader,Carlson,Wainwright,Pujols,molinya01,data
+2022,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ruiz,Bell,Hernández,Franco,Escobar,Thomas,Robles,Soto,Corbin,Cruz,ruizke01,data
+2023,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Rutschman,Mountcastle,Frazier,Urías,Mateo,Santander,Mullins,Hays,Gibson,Henderson,rutscad01,data
+2023,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,McGuire,Casas,Arroyo,Devers,Hernández,Yoshida,Duvall,Verdugo,Kluber,Turner,mcguire01,data
+2023,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Grandal,Vaughn,Andrus,Moncada,Anderson,Benintendi,Robert,Gonzalez,Cease,Jiménez,grandya01,data
+2023,,Cleveland Guardians,AL,American League,,,Cleveland Guardians,AL,Zunino,Naylor,Giménez,Ramírez,Rosario,Kwan,Straw,Brennan,Bieber,Bell,zuninmi01,data
+2023,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Haase,Torkelson,Schoop,Kreidler,Báez,Meadows,Greene,Vierling,Rodríguez,Cabrera,haaseer01,data
+2023,,Houston Astros,AL,American League,,,Houston Astros,AL,Maldonado,Abreu,Dubón,Bregman,Peña,Alvarez,Meyers,Tucker,Valdez,Diaz,maldoma01,data
+2023,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Pasquantino,Massey,Dozier,Witt,Olivares,Isbel,Melendez,Greinke,Reyes,perezsa02,data
+2023,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,O'Hoppe,Drury,Rengifo,Rendon,Urshela,Ward,Trout,Renfroe,Ohtani,Ohtani,ohopplo01,data
+2023,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Vázquez,Gallo,Gordon,Miranda,Correa,Larnach,Taylor,Kepler,López,Buxton,vazquch01,data
+2023,,New York Yankees,AL,American League,,,New York Yankees,AL,Trevino,Rizzo,LeMahieu,Donaldson,Volpe,Cabrera,Judge,Stanton,Cole,Torres,trevijo01,data
+2023,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Langeliers,Aguilar,Kemp,Peterson,Díaz,Brown,Ruiz,Laureano,Muller,Capel,langesh01,data
+2023,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Raleigh,France,Wong,Suárez,Crawford,Kelenic,Rodríguez,Hernández,Castillo,La Stella,raleica01,data
+2023,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Bethancourt,Díaz,Lowe,Paredes,Franco,Arozarena,Siri,Margot,McClanahan,Ramírez,bethach01,data
+2023,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Heim,Lowe,Semien,Jung,Seager,Smith,García,Grossman,deGrom,Miller,heimjo01,data
+2023,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Kirk,Guerrero,Merrifield,Chapman,Bichette,Varsho,Kiermaier,Springer,Manoah,Belt,kirkal01,data
+2023,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Moreno,Walker,Marte,Longoria,Ahmed,Gurriel,Carroll,McCarthy,Gallen,Lewis,morenga01,data
+2023,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Murphy,Olson,Albies,Riley,Arcia,Ozuna,Harris,Acuña,Fried,d'Arnaud,murphse01,data
+2023,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Gomes,Hosmer,Hoerner,Wisdom,Swanson,Happ,Bellinger,Mastrobuoni,Stroman,Mancini,gomesya01,data
+2023,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Stephenson,Vosler,India,Steer,Barrero,Benson,Friedl,Myers,Greene,Fraley,stephty01,data
+2023,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Díaz,Cron,McMahon,Montero,Tovar,Castro,Daza,Bryant,Márquez,Blackmon,diazel01,data
+2023,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Smith,Freeman,Vargas,Muncy,Rojas,Peralta,Outman,Betts,Urías,Martinez,smithwi05,data
+2023,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Stallings,Cooper,Arraez,Segura,Wendle,De La Cruz,Chisholm,García,Alcantara,Soler,stallja01,data
+2023,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Contreras,Tellez,Turang,Urías,Adames,Yelich,Mitchell,Anderson,Burnes,Winker,contrwi02,data
+2023,,New York Mets,NL,National League,,,New York Mets,NL,Narváez,Alonso,McNeil,Escobar,Lindor,Canha,Nimmo,Marte,Scherzer,Vogelbach,narvaom01,data
+2023,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Hall,Stott,Bohm,Turner,Cave,Marsh,Castellanos,Nola,Schwarber,realmjt01,data
+2023,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Hedges,Santana,Bae,Hayes,Cruz,Reynolds,Suwinski,Smith-Njigba,Keller,McCutchen,hedgeau01,data
+2023,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Nola,Cronenworth,Kim,Machado,Bogaerts,Soto,Grisham,Dahl,Snell,Carpenter,nolaau01,data
+2023,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Pérez,Wade,Estrada,Flores,Crawford,Sabol,Yastrzemski,Conforto,Webb,Pederson,perezro02,data
+2023,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Contreras,Goldschmidt,Donovan,Arenado,Edman,Nootbaar,O'Neill,Walker,Mikolas,Gorman,contrwi01,data
+2023,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ruiz,Smith,García,Candelario,Abrams,Call,Robles,Thomas,Corbin,Meneses,ruizke01,data
+2024,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Rutschman,Mountcastle,Mateo,Urías,Henderson,Hays,Mullins,Santander,Burnes,Westburg,rutscad01,data
+2024,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Wong,Casas,Valdez,Devers,Story,Duran,Rafaela,O'Neill,Bello,Yoshida,wongco01,data
+2024,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Maldonado,Vaughn,Lopez,Moncada,DeJong,Benintendi,Robert,Pillar,Crochet,Jiménez,maldoma01,data
+2024,,Cleveland Guardians,AL,American League,,,Cleveland Guardians,AL,Hedges,Naylor,Giménez,Ramírez,Rocchio,Kwan,Freeman,Laureano,Bieber,Fry,hedgeau01,data
+2024,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Rogers,Torkelson,Keith,Ibáñez,Báez,Greene,Meadows,Vierling,Skubal,Canha,rogerja03,data
+2024,,Houston Astros,AL,American League,,,Houston Astros,AL,Diaz,Abreu,Altuve,Bregman,Peña,McCormick,Meyers,Tucker,Valdez,Alvarez,diazya02,data
+2024,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Pasquantino,Frazier,Garcia,Witt,Melendez,Isbel,Renfroe,Ragans,Velázquez,perezsa02,data
+2024,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,O'Hoppe,Schanuel,Drury,Rendon,Neto,Ward,Trout,Hicks,Sandoval,Sanó,ohopplo01,data
+2024,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Jeffers,Santana,Farmer,Lewis,Correa,Castro,Buxton,Kepler,López,Margot,jeffery01,data
+2024,,New York Yankees,AL,American League,,,New York Yankees,AL,Trevino,Rizzo,Torres,Cabrera,Volpe,Verdugo,Judge,Soto,Cortés,Stanton,trevijo01,data
+2024,,Oakland Athletics,AL,American League,,,Oakland Athletics,AL,Langeliers,Noda,Gelof,Davis,Allen,Brown,Bleday,Butler,Wood,Rooker,langesh01,data
+2024,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Raleigh,France,Polanco,Rojas,Crawford,Canzone,Rodríguez,Haniger,Castillo,Garver,raleica01,data
+2024,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Pinto,Díaz,Lowe,Paredes,Caballero,Arozarena,Siri,Palacios,Eflin,Ramírez,pintore02,data
+2024,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Heim,Duran,Semien,Jung,Seager,Carter,Taveras,García,Eovaldi,Langford,heimjo01,data
+2024,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Kirk,Guerrero,Biggio,Kiner-Falefa,Bichette,Varsho,Kiermaier,Springer,Berríos,Turner,kirkal01,data
+2024,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Moreno,Walker,Marte,Suárez,Perdomo,Gurriel,Thomas,Carroll,Gallen,Alexander,morenga01,data
+2024,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Murphy,Olson,Albies,Riley,Arcia,Kelenic,Harris,Acuña,Strider,Ozuna,murphse01,data
+2024,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Gomes,Busch,Hoerner,Madrigal,Swanson,Happ,Bellinger,Suzuki,Steele,Morel,gomesya01,data
+2024,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Stephenson,Encarnacion-Strand,India,Candelario,De La Cruz,Steer,Benson,Fraley,Montas,Martini,stephty01,data
+2024,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Díaz,Bryant,Rodgers,McMahon,Tovar,Jones,Doyle,Blackmon,Freeland,Montero,diazel01,data
+2024,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Smith,Freeman,Lux,Muncy,Betts,Hernández,Outman,Heyward,Glasnow,Ohtani,smithwi05,data
+2024,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Fortes,Bell,Arraez,Burger,Anderson,Gordon,Chisholm,Sánchez,Luzardo,De La Cruz,forteni01,data
+2024,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Contreras,Hoskins,Ortiz,Monasterio,Adames,Yelich,Perkins,Chourio,Peralta,Sánchez,contrwi02,data
+2024,,New York Mets,NL,National League,,,New York Mets,NL,Alvarez,Alonso,McNeil,Baty,Lindor,Nimmo,Bader,Marte,Quintana,Stewart,alvarfr01,data
+2024,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Harper,Stott,Bohm,Turner,Marsh,Rojas,Castellanos,Wheeler,Schwarber,realmjt01,data
+2024,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Davis,Tellez,Triolo,Hayes,Cruz,Reynolds,Taylor,Joe,Keller,McCutchen,davishe01,data
+2024,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Campusano,Cronenworth,Bogaerts,Wade,Kim,Profar,Merrill,Tatís,Darvish,Machado,campulu01,data
+2024,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Bailey,Wade,Estrada,Chapman,Ahmed,Conforto,Lee,Yastrzemski,Webb,Soler,bailepa01,data
+2024,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Contreras,Goldschmidt,Gorman,Arenado,Winn,Donovan,Scott,Walker,Mikolas,Burleson,contrwi01,data
+2024,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ruiz,Gallo,García,Vargas,Abrams,Winker,Rosario,Thomas,Gray,Meneses,ruizke01,data
+2025,,Athletics,AL,American League,,,Athletics,AL,Langeliers,Soderstrom,Muncy,Urshela,Wilson,Andujar,Bleday,Butler,Severino,Rooker,langesh01,data
+2025,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Rutschman,Mountcastle,Westburg,Urías,Holliday,Cowser,Mullins,O'Neill,Eflin,O'Hearn,rutscad01,data
+2025,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Wong,Casas,Campbell,Bregman,Story,Duran,Rafaela,Abreu,Crochet,Devers,wongco01,data
+2025,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Lee,Vaughn,Sosa,Vargas,Amaya,Taylor,Robert,Slater,Burke,Benintendi,leeko01,data
+2025,,Cleveland Guardians,AL,American League,,,Cleveland Guardians,AL,Naylor,Santana,Arias,Ramírez,Rocchio,Kwan,Thomas,Noel,Lively,Manzardo,naylobo01,data
+2025,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Rogers,Keith,Torres,Ibáñez,Báez,Greene,Kreidler,Margot,Skubal,Torkelson,rogerja03,data
+2025,,Houston Astros,AL,American League,,,Houston Astros,AL,Diaz,Walker,Rodgers,Paredes,Peña,Altuve,Meyers,Smith,Valdez,Alvarez,diazya02,data
+2025,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Biggio,Massey,India,Witt,Melendez,Isbel,Renfroe,Ragans,Pasquantino,perezsa02,data
+2025,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,O'Hoppe,Schanuel,Anderson,Rengifo,Newman,Ward,Adell,Trout,Kikuchi,Soler,ohopplo01,data
+2025,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Jeffers,France,Castro,Miranda,Correa,Bader,Buxton,Wallner,López,Larnach,jeffery01,data
+2025,,New York Yankees,AL,American League,,,New York Yankees,AL,Wells,Goldschmidt,Chisholm,Cabrera,Volpe,Domínguez,Bellinger,Judge,Rodón,Rice,wellsau01,data
+2025,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Raleigh,Tellez,Bliss,Polanco,Crawford,Arozarena,Rodríguez,Robles,Gilbert,Raley,raleica01,data
+2025,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Jansen,Mead,Lowe,Caminero,Walls,Morel,DeLuca,Lowe,Pepiot,Díaz,janseda01,data
+2025,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Higashioka,Burger,Semien,Jung,Smith,Langford,Pillar,García,Eovaldi,Seager,higasky01,data
+2025,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Kirk,Guerrero,Giménez,Clement,Bichette,Santander,Springer,Roden,Berríos,Wagner,kirkal01,data
+2025,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Moreno,Naylor,Marte,Suárez,Perdomo,Gurriel,McCarthy,Carroll,Gallen,Grichuk,morenga01,data
+2025,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Baldwin,Olson,Albies,Riley,Arcia,Profar,Harris,Kelenic,Sale,Ozuna,baldwdr01,data
+2025,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Amaya,Busch,Berti,Shaw,Swanson,Happ,Crow-Armstrong,Tucker,Imanaga,Suzuki,amayami01,data
+2025,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Trevino,Encarnacion-Strand,McLain,Candelario,De La Cruz,Lux,Friedl,Fraley,Greene,Steer,trevijo01,data
+2025,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Goodman,Toglia,Farmer,McMahon,Tovar,Beck,Doyle,Martini,Freeland,Bryant,goodmhu01,data
+2025,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Smith,Hernández,Edman,Muncy,Rojas,Conforto,Pages,Hernández,Yamamoto,Ohtani,smithwi05,data
+2025,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Fortes,Mervis,Lopez,Pauley,Edwards,Stowers,Hill,Conine,Alcantara,Bride,forteni01,data
+2025,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Contreras,Hoskins,Turang,Capra,Ortiz,Chourio,Mitchell,Frelick,Peralta,Yelich,contrwi02,data
+2025,,New York Mets,NL,National League,,,New York Mets,NL,Torrens,Alonso,Acuña,Vientos,Lindor,Nimmo,Taylor,Soto,Holmes,Marte,torrelu01,data
+2025,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Harper,Stott,Bohm,Turner,Kepler,Marsh,Castellanos,Wheeler,Schwarber,realmjt01,data
+2025,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Bart,Rodríguez,Gonzales,Hayes,Kiner-Falefa,Pham,Cruz,Reynolds,Skenes,McCutchen,bartjo01,data
+2025,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Díaz,Arraez,Cronenworth,Machado,Bogaerts,Lockridge,Merrill,Tatís,King,Gurriel,diazel01,data
+2025,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Bailey,Wade,Fitzgerald,Chapman,Adames,Ramos,Lee,Yastrzemski,Webb,Flores,bailepa01,data
+2025,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Herrera,Contreras,Donovan,Arenado,Winn,Nootbaar,Scott,Walker,Gray,Burleson,herreiv01,data
+2025,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ruiz,Lowe,García,DeJong,Abrams,Wood,Young,Crews,Gore,Bell,ruizke01,data
+2026,,Athletics,AL,American League,,,Athletics,AL,Langeliers,Kurtz,McNeil,Muncy,Wilson,Soderstrom,Clarke,Butler,Severino,Rooker,langesh01,data
+2026,,Baltimore Orioles,AL,American League,,,Baltimore Orioles,AL,Rutschman,Alonso,Alexander,Mayo,Henderson,Ward,Cowser,O'Neill,Rogers,Basallo,rutscad01,data
+2026,,Boston Red Sox,AL,American League,,,Boston Red Sox,AL,Narváez,Contreras,Kiner-Falefa,Durbin,Story,Anthony,Rafaela,Abreu,Crochet,Duran,narvaca01,data
+2026,,Chicago White Sox,AL,American League,,,Chicago White Sox,AL,Quero,Murakami,Meidroth,Vargas,Montgomery,Hays,Acuña,Pereira,Smith,Benintendi,queroed01,data
+2026,,Cleveland Guardians,AL,American League,,,Cleveland Guardians,AL,Naylor,Hoskins,Rocchio,Ramírez,Arias,Kwan,Schneemann,DeLauter,Bibee,Manzardo,naylobo01,data
+2026,,Detroit Tigers,AL,American League,,,Detroit Tigers,AL,Dingler,Torkelson,Torres,McGonigle,Báez,Greene,Meadows,Carpenter,Skubal,Keith,dingldi01,data
+2026,,Houston Astros,AL,American League,,,Houston Astros,AL,Diaz,Walker,Altuve,Paredes,Correa,Loperfido,Meyers,Smith,Brown,Alvarez,diazya02,data
+2026,,Kansas City Royals,AL,American League,,,Kansas City Royals,AL,Perez,Pasquantino,India,Garcia,Witt,Collins,Thomas,Marte,Ragans,Jensen,perezsa02,data
+2026,,Los Angeles Angels,AL,American League,,,Los Angeles Angels,AL,O'Hoppe,Schanuel,Peraza,Moncada,Neto,Lowe,Trout,Adell,Soriano,Soler,ohopplo01,data
+2026,,Minnesota Twins,AL,American League,,,Minnesota Twins,AL,Jeffers,Caratini,Keaschall,Lewis,Lee,Martin,Buxton,Wallner,Ryan,Bell,jeffery01,data
+2026,,New York Yankees,AL,American League,,,New York Yankees,AL,Wells,Rice,Chisholm,McMahon,Caballero,Bellinger,Grisham,Judge,Fried,Stanton,wellsau01,data
+2026,,Seattle Mariners,AL,American League,,,Seattle Mariners,AL,Raleigh,Naylor,Young,Donovan,Rivas,Arozarena,Rodríguez,Raley,Gilbert,Canzone,raleica01,data
+2026,,Tampa Bay Rays,AL,American League,,,Tampa Bay Rays,AL,Fortes,Aranda,Williamson,Caminero,Williams,Vilade,Mullins,DeLuca,Rasmussen,Díaz,forteni01,data
+2026,,Texas Rangers,AL,American League,,,Texas Rangers,AL,Jansen,Burger,Smith,Jung,Seager,Haggerty,Langford,Nimmo,Eovaldi,McCutchen,janseda01,data
+2026,,Toronto Blue Jays,AL,American League,,,Toronto Blue Jays,AL,Kirk,Guerrero,Clement,Okamoto,Giménez,Lukes,Varsho,Barger,Gausman,Springer,kirkal01,data
+2026,,Arizona Diamondbacks,NL,National League,,,Arizona Diamondbacks,NL,Moreno,Santana,Marte,Arenado,Perdomo,Lawlar,Thomas,Carroll,Gallen,Tawa,morenga01,data
+2026,,Atlanta Braves,NL,National League,,,Atlanta Braves,NL,Heim,Olson,Albies,Riley,Dubón,White,Harris,Acuña,Sale,Baldwin,heimjo01,data
+2026,,Chicago Cubs,NL,National League,,,Chicago Cubs,NL,Kelly,Busch,Hoerner,Bregman,Swanson,Happ,Crow-Armstrong,Shaw,Boyd,Ballesteros,kellyca02,data
+2026,,Cincinnati Reds,NL,National League,,,Cincinnati Reds,NL,Stephenson,Stewart,McLain,Hayes,De La Cruz,Steer,Friedl,Marte,Abbott,Suárez,stephty01,data
+2026,,Colorado Rockies,NL,National League,,,Colorado Rockies,NL,Goodman,Rumfield,Castro,Karros,Tovar,McCarthy,Doyle,Beck,Freeland,Julien,goodmhu01,data
+2026,,Los Angeles Dodgers,NL,National League,,,Los Angeles Dodgers,NL,Smith,Freeman,Rojas,Muncy,Betts,Hernández,Pages,Tucker,Yamamoto,Ohtani,smithwi05,data
+2026,,Miami Marlins,NL,National League,,,Miami Marlins,NL,Ramírez,Norby,Edwards,Sanoja,Lopez,Hernández,Marsee,Slater,Alcantara,Caissie,ramirag01,data
+2026,,Milwaukee Brewers,NL,National League,,,Milwaukee Brewers,NL,Contreras,Vaughn,Turang,Hamilton,Ortiz,Bauers,Mitchell,Frelick,Misiorowski,Yelich,contrwi02,data
+2026,,New York Mets,NL,National League,,,New York Mets,NL,Alvarez,Polanco,Semien,Bichette,Lindor,Soto,Robert,Benge,Peralta,Baty,alvarfr01,data
+2026,,Philadelphia Phillies,NL,National League,,,Philadelphia Phillies,NL,Realmuto,Harper,Stott,Bohm,Turner,Marsh,Crawford,García,Sánchez,Schwarber,realmjt01,data
+2026,,Pittsburgh Pirates,NL,National League,,,Pittsburgh Pirates,NL,Davis,Horwitz,Lowe,Gonzales,Triolo,Reynolds,Cruz,O'Hearn,Skenes,Ozuna,davishe01,data
+2026,,San Diego Padres,NL,National League,,,San Diego Padres,NL,Fermin,Sheets,Cronenworth,Machado,Bogaerts,Laureano,Merrill,Tatís,Pivetta,Andujar,fermifr01,data
+2026,,San Francisco Giants,NL,National League,,,San Francisco Giants,NL,Bailey,Schmitt,Arraez,Chapman,Adames,Ramos,Bader,Lee,Webb,Devers,bailepa01,data
+2026,,St. Louis Cardinals,NL,National League,,,St. Louis Cardinals,NL,Pagés,Burleson,Wetherholt,Gorman,Winn,Church,Scott,Walker,Liberatore,Herrera,pagespe02,data
+2026,,Washington Nationals,NL,National League,,,Washington Nationals,NL,Ruiz,Chaparro,Nuñez,House,Abrams,Wood,Young,Wiemer,Cavalli,Lile,ruizke01,data
