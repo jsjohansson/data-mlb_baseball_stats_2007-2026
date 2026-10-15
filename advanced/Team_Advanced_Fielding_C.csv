@@ -1,0 +1,641 @@
+﻿Season,Position,Team,Team_Name,League,League_Name,Division,Division_Full,Tm,PA,ERA,RA9,Fld,F2O%,XI,FC,Tot,Cgt,Frc,Tag,SO,Tot_2,1B,2B,3B,K23,Tot_3,Cch,Fld_2,Thr,ROE,Tot_4,263,n23,GB,bFld,bF2O%,Row_Type
+2007,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6216,4.13,4.57,51,96%,2,0,1103,20,5,18,1060,94,27,4,2,25,7,0,3,4,0,14,2,5,8,21,95%,data
+2007,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6263,4.11,4.53,68,94%,2,0,1151,32,4,21,1093,71,32,1,0,7,14,0,5,9,0,14,0,1,4,25,92%,data
+2007,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6418,5.19,5.43,39,95%,0,0,1095,20,5,8,1062,79,15,0,2,24,11,1,1,9,1,10,0,1,3,10,90%,data
+2007,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6071,3.87,4.11,51,94%,1,0,1187,39,7,13,1128,66,9,0,0,20,8,1,1,6,0,14,0,2,3,8,88%,data
+2007,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6186,4.04,4.29,59,85%,1,1,1230,27,2,19,1181,70,21,1,1,26,12,0,2,10,1,9,0,1,1,21,81%,data
+2007,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6293,4.77,5.24,53,96%,0,0,1051,35,8,13,995,58,15,0,0,18,5,0,1,4,0,7,0,1,2,9,89%,data
+2007,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6354,4.95,5.3,82,89%,0,2,1120,48,1,19,1051,75,21,4,1,13,7,0,2,5,1,11,0,1,3,25,76%,data
+2007,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6206,4.05,4.33,38,92%,0,0,1066,24,3,11,1027,81,10,0,1,18,8,1,2,5,1,14,0,0,2,12,83%,data
+2007,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6293,4.32,4.63,81,94%,0,0,1004,33,5,15,951,86,39,2,4,12,8,0,0,8,2,8,1,2,3,38,89%,data
+2007,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6345,4.58,4.96,52,98%,3,1,1080,35,4,15,1025,71,16,0,0,21,11,1,3,7,0,12,0,2,2,9,89%,data
+2007,C,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,6544,4.96,5.55,64,89%,0,1,1184,31,5,20,1126,80,24,0,1,14,15,3,1,11,0,11,0,1,2,24,83%,data
+2007,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6417,4.7,5.0,61,97%,0,0,1141,35,6,15,1085,80,25,0,0,24,8,0,0,8,0,8,0,2,2,13,100%,data
+2007,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6253,4.5,4.87,51,90%,3,0,1037,30,1,20,985,54,16,0,0,8,13,0,5,8,0,9,0,0,1,11,91%,data
+2007,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6161,4.23,4.58,41,93%,2,1,1162,25,4,13,1119,92,14,0,0,35,16,2,4,10,1,6,0,1,2,8,88%,data
+2007,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6196,4.2,4.51,71,94%,0,0,1226,31,5,21,1168,97,36,2,2,14,17,0,1,16,0,14,0,3,5,29,90%,data
+2007,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6285,4.44,4.84,56,91%,0,1,1195,31,3,16,1145,67,17,2,0,25,7,0,3,4,0,8,0,0,2,16,88%,data
+2007,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6133,4.18,4.54,32,97%,0,0,1116,23,4,16,1073,65,7,1,0,18,2,0,0,2,0,9,0,1,1,6,83%,data
+2007,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6293,4.27,4.65,55,93%,0,2,1169,37,8,10,1114,58,12,0,0,16,15,1,1,13,2,6,0,1,1,16,81%,data
+2007,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6308,4.5,4.82,73,90%,2,0,1063,42,1,26,994,73,18,0,0,11,7,1,3,3,0,8,0,0,1,14,71%,data
+2007,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6247,4.3,4.71,44,86%,0,1,1050,18,6,15,1011,75,18,0,0,24,7,0,2,5,0,5,0,2,2,17,88%,data
+2007,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6385,4.76,5.07,58,100%,0,0,1097,32,5,27,1033,80,24,2,1,15,2,0,0,2,0,10,0,2,2,21,100%,data
+2007,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6374,4.94,5.26,54,94%,1,0,1036,27,7,23,979,70,21,2,0,17,9,1,5,3,0,11,0,1,2,17,100%,data
+2007,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6254,3.72,4.04,62,95%,2,0,1160,38,4,12,1105,69,21,1,0,26,8,0,3,5,0,6,1,0,2,18,83%,data
+2007,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6313,4.77,5.1,46,93%,2,0,1066,31,9,13,1013,65,15,0,1,6,3,0,3,0,0,15,0,4,4,10,90%,data
+2007,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6299,4.2,4.46,64,91%,1,1,1084,31,6,16,1031,85,26,2,0,22,15,0,4,11,1,5,0,1,2,24,88%,data
+2007,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6283,4.67,5.2,61,97%,0,0,980,32,6,23,919,81,20,2,0,24,11,1,0,10,1,9,1,2,4,17,94%,data
+2007,C,TBD,Tampa Bay Devil Rays,AL,American League,East,AL East,Tampa Bay Devil Rays,6403,5.53,5.94,45,93%,0,0,1211,28,7,19,1157,98,16,1,0,36,21,0,2,19,0,17,0,5,5,13,77%,data
+2007,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6389,4.76,5.31,50,96%,2,0,1006,29,5,18,954,90,15,2,1,19,18,0,4,14,1,17,0,1,2,10,90%,data
+2007,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6108,4.0,4.34,54,93%,1,1,1094,29,2,19,1043,71,16,1,2,21,14,0,1,13,1,7,1,0,3,13,69%,data
+2007,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6333,4.58,4.87,64,97%,0,0,964,38,7,14,905,83,20,1,0,24,10,0,2,8,0,5,0,0,2,15,100%,data
+2007,C,,League Average,,,,,League Average,6287,4.47,4.83,56,93%,1,0,1104,31,5,17,1051,76,20,1,1,19,10,0,2,8,0,10,0,1,3,16,88%,data
+2007,C,,,,,,,,188623,4.47,4.83,1680,93%,25,12,33128,931,145,508,31532,2284,586,31,19,583,309,13,64,232,13,299,6,43,78,490,88%,summary
+2008,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6119,3.99,4.43,56,91%,0,0,1221,24,1,11,1185,96,27,0,0,39,4,0,2,2,1,7,0,1,1,22,82%,data
+2008,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6244,4.47,4.86,68,94%,0,0,1114,21,9,20,1062,91,40,2,2,13,12,0,1,11,0,9,1,3,6,33,97%,data
+2008,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6414,5.15,5.5,41,95%,1,0,962,22,11,18,911,62,17,1,1,10,10,0,3,7,0,11,1,3,5,10,100%,data
+2008,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6180,4.01,4.32,53,96%,0,1,1211,39,1,13,1158,68,12,0,0,23,8,0,0,8,0,12,0,1,2,8,88%,data
+2008,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6194,3.87,4.16,48,85%,1,1,1286,28,5,18,1234,71,12,1,0,26,8,0,5,3,1,11,0,0,0,11,73%,data
+2008,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6218,4.11,4.5,43,86%,0,1,1151,27,4,14,1106,69,9,1,1,37,11,0,4,7,1,8,0,1,3,9,78%,data
+2008,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6352,4.55,4.99,58,91%,0,0,1255,25,6,19,1204,92,25,2,1,21,9,0,2,7,1,15,0,2,2,26,85%,data
+2008,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6164,4.46,4.77,47,94%,1,0,1016,31,3,16,966,59,8,2,1,19,12,1,3,8,0,4,0,0,0,12,83%,data
+2008,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6338,4.77,5.12,62,94%,0,0,1060,36,5,16,1002,82,21,0,1,34,2,0,1,1,1,8,0,0,1,18,89%,data
+2008,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6411,4.91,5.34,64,91%,0,0,1025,33,3,23,966,90,21,3,1,24,5,0,1,4,0,13,1,3,7,21,81%,data
+2008,C,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,6271,4.44,4.81,64,91%,1,0,1167,36,10,20,1101,71,16,2,0,24,15,0,2,13,1,4,0,0,0,24,83%,data
+2008,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6125,4.39,4.69,43,98%,0,0,1113,18,7,20,1068,72,22,1,0,25,5,0,1,4,1,8,0,2,2,15,100%,data
+2008,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6214,4.5,4.86,55,89%,1,0,1129,36,3,18,1069,56,11,2,1,14,13,2,3,8,0,12,1,2,4,8,88%,data
+2008,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6161,4.0,4.32,48,90%,1,0,1121,23,3,16,1078,81,19,1,1,23,16,0,2,14,1,8,0,1,4,17,82%,data
+2008,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6127,3.68,4.03,42,88%,1,0,1218,16,11,16,1175,80,23,4,1,24,13,1,1,11,1,12,2,6,9,15,93%,data
+2008,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6209,3.87,4.26,79,91%,0,1,1137,27,6,18,1086,105,32,7,3,20,9,0,0,9,3,15,1,2,6,27,81%,data
+2008,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6221,4.18,4.6,45,96%,0,0,1012,34,5,8,965,61,10,0,0,23,3,0,0,3,0,3,0,0,0,7,71%,data
+2008,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6338,4.07,4.39,59,90%,0,0,1216,30,12,9,1165,68,21,2,0,16,9,0,1,8,1,5,1,0,2,15,80%,data
+2008,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6175,4.28,4.54,59,95%,1,0,1182,33,3,22,1124,88,18,2,0,15,8,0,1,7,0,10,0,1,2,14,93%,data
+2008,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6112,4.01,4.33,33,85%,1,0,1074,22,4,15,1033,62,7,0,0,27,8,0,4,4,1,5,0,1,2,5,100%,data
+2008,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6229,3.89,4.22,63,92%,2,1,1120,29,7,25,1058,82,29,1,0,22,8,0,2,6,1,8,0,3,4,24,88%,data
+2008,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6528,5.1,5.47,57,93%,1,1,987,22,7,21,937,98,29,2,2,24,11,1,2,8,0,14,1,4,6,23,100%,data
+2008,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6286,4.41,4.71,68,94%,0,0,1132,34,6,13,1079,87,19,5,2,18,12,1,0,11,2,7,1,1,2,28,89%,data
+2008,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6368,4.73,5.09,51,80%,0,0,1052,28,7,21,996,58,12,1,0,15,10,0,3,7,1,8,0,2,3,8,50%,data
+2008,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6341,4.38,4.74,52,92%,0,0,1263,32,2,18,1211,83,14,0,1,25,6,1,0,5,0,7,0,0,1,13,69%,data
+2008,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6264,4.2,4.49,57,82%,0,4,976,27,4,19,926,86,16,2,0,29,12,2,1,9,1,8,1,0,2,18,67%,data
+2008,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6145,3.82,4.14,54,93%,0,1,1178,43,4,14,1115,65,8,1,0,22,11,0,0,11,0,11,1,2,3,11,73%,data
+2008,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6506,5.37,6.04,53,91%,2,1,1009,33,5,25,946,65,15,0,0,11,21,0,3,18,0,15,0,1,2,9,56%,data
+2008,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6067,3.49,3.79,62,92%,2,0,1225,40,6,24,1155,78,17,1,0,26,11,0,2,9,0,14,0,2,2,13,85%,data
+2008,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6310,4.66,5.18,36,94%,1,0,1069,16,3,12,1037,78,18,1,1,23,11,1,2,8,1,11,0,2,2,13,92%,data
+2008,C,,League Average,,,,,League Average,6254,4.32,4.69,54,91%,1,0,1123,29,5,17,1071,77,18,2,1,22,10,0,2,8,1,9,0,2,3,16,85%,data
+2008,C,,,,,,,,187631,4.32,4.69,1620,91%,17,12,33681,865,163,522,32118,2304,548,47,20,672,293,10,52,231,20,283,12,46,85,477,85%,summary
+2009,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6267,4.44,4.86,51,90%,0,0,1165,25,6,13,1120,85,16,2,1,36,9,1,0,8,1,5,1,0,1,23,78%,data
+2009,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6208,3.57,3.94,61,95%,2,2,1261,25,4,17,1215,97,31,2,0,17,13,0,6,7,0,13,1,0,1,20,90%,data
+2009,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6359,5.16,5.52,52,94%,0,0,987,32,8,23,924,58,18,1,0,8,10,1,1,8,0,13,0,3,4,13,85%,data
+2009,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6283,4.35,4.61,62,95%,0,0,1273,45,6,14,1207,55,11,1,0,19,8,0,0,8,0,6,0,1,2,10,90%,data
+2009,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6177,3.84,4.18,60,98%,0,0,1299,36,7,11,1245,97,25,0,0,21,8,1,1,6,0,17,0,3,3,21,100%,data
+2009,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6155,4.16,4.58,29,100%,1,0,1130,21,6,10,1093,60,10,0,0,21,8,0,2,6,0,11,0,2,2,6,100%,data
+2009,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6253,4.18,4.46,59,98%,0,0,1109,23,5,26,1055,92,31,1,2,11,3,0,0,3,0,11,0,2,2,21,95%,data
+2009,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6354,5.07,5.43,47,94%,0,0,1011,29,2,14,965,66,13,0,0,19,5,0,0,5,0,6,0,0,0,12,92%,data
+2009,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6171,4.24,4.47,45,96%,0,1,1153,10,4,14,1125,94,30,5,0,29,6,0,0,6,0,12,2,2,4,25,96%,data
+2009,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6240,4.34,4.63,37,92%,1,1,1123,18,9,22,1074,98,17,0,0,26,3,0,1,2,1,9,0,2,3,12,83%,data
+2009,C,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,6299,4.32,4.77,56,89%,0,1,1258,30,1,7,1220,89,18,2,0,25,8,0,0,8,0,3,1,0,1,20,85%,data
+2009,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6237,4.54,4.85,54,96%,0,2,1175,16,8,28,1122,90,34,3,0,18,9,0,0,9,1,10,0,3,5,27,93%,data
+2009,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6265,4.83,5.31,48,96%,0,0,1195,36,5,23,1130,68,10,0,0,18,16,2,0,14,0,11,0,0,1,12,92%,data
+2009,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6252,4.45,4.74,56,89%,3,0,1059,29,3,20,1007,108,22,0,0,49,15,0,5,10,1,12,0,1,1,21,81%,data
+2009,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6182,3.41,3.73,49,100%,0,0,1278,28,6,12,1231,100,17,3,1,38,7,0,1,6,0,10,0,1,3,21,100%,data
+2009,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6352,4.84,5.13,53,87%,0,0,1118,28,6,12,1072,76,12,3,2,30,8,0,0,8,2,3,0,1,1,18,72%,data
+2009,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6274,4.5,4.74,54,96%,0,0,1087,41,3,14,1029,48,8,0,0,19,6,0,2,4,0,5,0,0,1,7,100%,data
+2009,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6284,4.46,4.78,47,87%,2,1,1062,17,8,12,1024,63,23,5,0,6,7,0,5,2,0,10,0,4,5,15,93%,data
+2009,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6247,4.28,4.67,59,93%,2,0,1278,36,6,10,1226,93,21,0,0,27,9,0,2,7,1,9,0,2,3,9,100%,data
+2009,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6243,4.29,4.73,41,88%,0,1,1137,18,3,18,1098,81,19,0,0,25,8,1,2,5,0,11,0,2,2,7,100%,data
+2009,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6263,4.16,4.38,58,93%,2,2,1182,33,5,15,1128,71,18,2,1,21,8,0,3,5,1,9,1,1,3,20,85%,data
+2009,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6144,4.59,4.87,55,91%,1,0,928,27,4,22,875,104,19,3,0,42,12,1,1,10,2,15,0,1,3,16,81%,data
+2009,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6273,4.37,4.77,60,87%,0,0,1214,23,6,15,1169,88,29,3,0,15,8,0,2,6,0,14,2,3,5,28,82%,data
+2009,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6159,3.87,4.29,47,98%,2,0,1057,30,2,10,1015,87,16,0,0,21,7,0,4,3,0,8,0,0,1,13,100%,data
+2009,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6103,3.55,3.8,54,87%,2,1,1295,25,6,9,1255,109,23,2,0,42,10,1,3,6,0,10,0,3,3,23,83%,data
+2009,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6087,3.66,4.0,65,89%,0,0,1068,30,2,24,1012,96,24,3,1,32,6,0,1,5,0,7,0,1,3,28,86%,data
+2009,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6146,4.36,4.75,37,89%,1,0,1146,28,6,14,1098,65,8,0,0,25,9,1,2,6,1,10,0,3,4,7,57%,data
+2009,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6172,4.38,4.64,48,85%,0,0,1043,25,5,16,996,70,14,1,0,14,16,0,3,13,2,9,0,1,2,12,67%,data
+2009,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6281,4.47,4.78,50,92%,0,0,1195,27,9,14,1144,98,18,0,1,36,11,0,0,11,0,9,0,1,1,11,91%,data
+2009,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6349,5.02,5.52,59,86%,0,2,943,24,8,19,892,79,24,2,0,19,12,1,2,9,0,7,0,2,3,25,80%,data
+2009,C,,League Average,,,,,League Average,6236,4.32,4.66,52,92%,1,0,1141,27,5,16,1092,83,19,1,0,24,9,0,2,7,0,10,0,2,2,17,87%,data
+2009,C,,,,,,,,187079,4.32,4.66,1553,92%,19,14,34229,815,159,478,32766,2485,579,44,9,729,265,10,49,206,13,285,8,45,73,503,87%,summary
+2010,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6260,4.81,5.25,61,97%,0,0,1096,32,4,17,1043,78,21,0,1,23,3,1,1,1,1,4,0,0,0,24,96%,data
+2010,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6052,3.57,3.93,45,93%,1,0,1250,13,1,17,1219,86,27,1,1,16,18,0,3,15,0,12,1,1,3,21,95%,data
+2010,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6262,4.59,4.92,62,97%,1,0,1046,34,4,22,984,74,23,2,0,19,8,0,3,5,0,11,0,1,2,23,100%,data
+2010,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6267,4.2,4.6,56,91%,0,0,1247,32,10,22,1183,78,18,0,0,22,8,1,1,6,0,6,0,1,2,15,80%,data
+2010,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6298,4.24,4.8,48,98%,1,1,1288,23,6,13,1245,77,22,2,0,21,8,0,2,6,0,11,1,4,5,15,100%,data
+2010,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6180,4.09,4.38,47,87%,1,1,1152,23,3,12,1114,76,15,0,0,30,6,0,2,4,0,5,0,0,1,15,73%,data
+2010,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6182,4.02,4.24,58,97%,0,0,1156,27,3,18,1107,80,21,2,2,20,8,0,0,8,1,9,0,0,1,18,94%,data
+2010,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6224,4.3,4.72,32,94%,2,0,979,10,2,22,945,95,21,0,0,21,9,2,2,5,0,7,0,1,1,14,86%,data
+2010,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6143,4.14,4.48,57,91%,0,0,1242,29,2,15,1194,97,23,1,0,32,16,0,1,15,2,11,0,0,0,23,83%,data
+2010,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6198,4.3,4.63,55,82%,2,0,1084,27,3,19,1035,87,17,1,1,18,9,1,2,6,3,10,0,1,3,14,43%,data
+2010,C,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,6217,4.09,4.49,58,88%,1,1,1201,21,4,23,1150,89,25,3,1,16,13,0,2,11,1,7,1,0,2,23,91%,data
+2010,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6221,4.09,4.56,56,91%,2,0,1234,25,5,18,1185,100,22,4,0,24,8,1,3,4,1,13,1,1,5,23,91%,data
+2010,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6333,4.97,5.29,49,90%,2,1,1050,24,4,13,1008,95,19,3,1,25,16,0,5,11,0,14,0,3,3,17,82%,data
+2010,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6252,4.04,4.36,47,87%,2,3,1153,24,7,20,1102,85,15,2,1,24,17,1,3,13,0,9,0,3,5,14,64%,data
+2010,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6141,4.01,4.32,57,91%,0,0,1277,32,6,9,1230,91,17,1,0,35,12,0,1,11,2,6,0,1,2,16,75%,data
+2010,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6324,4.59,5.03,51,92%,1,1,1269,21,9,15,1224,77,20,1,2,26,11,0,5,6,3,14,0,3,4,20,90%,data
+2010,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6106,3.95,4.16,43,98%,1,0,1081,26,6,16,1033,62,16,0,0,13,8,0,2,6,0,6,0,2,2,11,100%,data
+2010,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6245,3.73,4.04,74,92%,2,1,1155,36,7,25,1087,78,31,1,0,16,8,0,3,5,1,11,0,3,4,24,83%,data
+2010,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6102,4.06,4.32,59,90%,1,0,1174,33,2,19,1120,73,17,0,0,32,21,3,4,14,3,4,0,1,2,10,80%,data
+2010,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6011,3.58,3.94,52,83%,1,1,1104,34,2,17,1051,48,8,0,0,17,16,0,3,13,1,6,0,1,1,10,70%,data
+2010,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6095,3.68,3.96,50,90%,0,0,1197,19,1,20,1157,83,22,2,1,24,10,1,2,7,1,11,0,0,1,15,80%,data
+2010,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6300,5.0,5.52,61,87%,0,0,1027,14,5,22,986,102,33,6,0,37,12,3,3,6,0,6,3,0,3,32,84%,data
+2010,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6058,3.41,3.59,41,93%,0,0,1314,21,6,17,1270,73,19,0,1,25,7,0,2,5,1,11,0,4,6,13,85%,data
+2010,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6091,3.95,4.37,40,83%,5,0,983,23,5,21,934,74,5,2,0,30,13,0,7,6,0,6,1,0,1,16,69%,data
+2010,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6159,3.36,3.59,57,100%,1,1,1345,35,5,16,1289,103,18,1,1,36,9,1,1,7,0,11,1,1,2,13,100%,data
+2010,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6137,3.57,3.97,56,93%,0,1,1111,25,11,16,1059,93,20,2,2,32,7,1,1,5,0,13,1,1,5,21,90%,data
+2010,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6103,3.78,4.02,49,94%,1,0,1207,34,1,17,1155,68,10,0,0,31,11,1,3,7,0,8,0,0,2,6,83%,data
+2010,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6213,3.93,4.25,46,78%,0,0,1200,23,4,14,1159,61,12,2,0,19,12,1,3,8,1,4,0,1,1,18,56%,data
+2010,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6165,4.23,4.55,43,93%,0,0,1198,28,4,18,1147,80,11,0,0,34,7,0,0,7,2,9,0,0,0,6,67%,data
+2010,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6214,4.13,4.65,75,93%,0,0,1106,30,8,19,1048,86,33,3,1,17,9,0,0,9,2,9,1,3,4,27,93%,data
+2010,C,,League Average,,,,,League Average,6185,4.08,4.43,53,91%,1,0,1164,26,5,18,1115,82,19,1,1,24,11,1,2,8,1,9,0,1,2,17,84%,data
+2010,C,,,,,,,,185553,4.08,4.43,1585,91%,28,12,34926,778,140,532,33463,2449,581,42,16,735,320,18,70,232,26,264,11,37,73,517,84%,summary
+2011,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6102,3.8,4.13,65,92%,1,2,1086,34,4,14,1034,91,26,1,0,22,12,0,1,11,0,9,1,2,3,26,88%,data
+2011,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6220,3.49,3.68,53,85%,1,0,1333,11,8,11,1303,111,36,4,1,27,8,0,3,5,0,16,2,6,8,30,90%,data
+2011,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6332,4.92,5.35,63,95%,2,0,1100,33,8,23,1034,87,29,1,0,10,8,0,4,4,1,16,0,4,5,19,95%,data
+2011,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6242,4.2,4.55,51,90%,0,1,1219,31,2,10,1176,87,14,0,1,29,10,2,2,6,0,4,0,0,0,13,69%,data
+2011,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6262,4.34,4.74,57,93%,2,1,1247,21,5,19,1201,99,33,1,0,20,21,1,4,16,2,12,0,4,4,22,100%,data
+2011,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6188,4.1,4.35,41,83%,1,0,1200,21,3,8,1168,85,14,0,0,43,7,0,2,5,0,6,0,1,2,12,67%,data
+2011,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6259,4.16,4.42,45,98%,3,1,1151,22,11,22,1096,76,20,2,1,14,8,0,3,5,0,13,1,5,7,15,93%,data
+2011,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6235,4.24,4.71,52,94%,0,2,1056,33,8,16,998,86,13,2,0,23,12,0,0,12,0,10,0,2,2,14,86%,data
+2011,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6215,4.44,4.81,39,92%,2,0,1105,16,2,27,1060,125,15,2,2,53,13,0,5,8,2,10,1,0,2,18,89%,data
+2011,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6108,4.04,4.44,41,88%,0,0,1132,18,12,17,1085,93,22,1,0,29,7,1,2,4,0,17,0,4,4,11,82%,data
+2011,C,FLA,Florida Marlins,NL,National League,East,NL East,Florida Marlins,6200,3.95,4.33,62,90%,0,1,1264,35,5,20,1202,62,20,1,0,15,5,0,0,5,0,7,0,2,2,17,82%,data
+2011,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6268,4.51,4.99,50,92%,3,1,1210,19,7,22,1162,95,25,3,1,25,17,0,4,13,0,17,3,2,8,19,84%,data
+2011,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6280,4.45,4.73,47,91%,0,1,1128,30,4,34,1060,70,11,0,1,15,9,0,1,8,0,13,0,1,1,16,75%,data
+2011,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6124,3.57,3.89,52,94%,0,1,1073,26,6,27,1012,106,21,2,0,40,10,0,1,9,0,10,0,2,3,21,86%,data
+2011,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5997,3.56,3.85,57,98%,0,0,1284,32,3,16,1233,92,22,1,0,30,10,1,1,8,1,11,1,0,2,17,94%,data
+2011,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6048,3.64,3.98,50,96%,2,0,1273,27,10,18,1218,81,18,0,1,33,8,0,2,6,1,7,0,1,2,12,92%,data
+2011,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6210,4.6,5.09,44,100%,0,0,973,20,3,20,929,73,21,0,1,11,12,1,1,10,0,7,0,1,1,17,100%,data
+2011,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6316,4.19,4.61,58,98%,0,1,1150,22,5,15,1106,80,31,5,0,15,9,1,0,8,0,7,1,2,4,26,96%,data
+2011,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6216,3.73,4.05,49,94%,0,0,1218,32,3,18,1164,121,17,0,0,51,17,0,1,16,1,9,0,2,3,7,71%,data
+2011,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6159,3.71,4.22,59,92%,0,0,1195,38,3,13,1141,71,15,1,0,18,10,0,1,9,0,9,0,1,1,9,78%,data
+2011,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6069,3.02,3.22,65,95%,0,1,1323,34,5,12,1272,83,27,2,0,26,5,0,1,4,1,7,0,1,1,24,96%,data
+2011,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6317,4.05,4.42,60,97%,2,0,1054,30,3,12,1009,79,24,0,1,15,12,0,3,9,1,5,0,0,1,12,92%,data
+2011,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6065,3.43,3.79,57,88%,1,1,1125,18,4,17,1086,144,28,3,1,50,11,0,2,9,1,13,1,1,3,26,85%,data
+2011,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6014,3.91,4.24,58,93%,0,1,1113,34,6,19,1054,93,21,0,0,28,13,0,3,10,0,11,0,2,2,15,80%,data
+2011,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6130,3.21,3.54,51,86%,2,0,1309,17,3,16,1272,116,22,1,2,41,14,0,4,10,1,13,0,1,3,13,100%,data
+2011,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6211,3.79,4.26,63,90%,0,3,1129,30,7,16,1076,85,27,1,1,22,8,0,0,8,1,7,0,3,5,30,87%,data
+2011,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6010,3.58,3.81,62,85%,1,1,1169,42,5,14,1108,74,13,0,0,28,8,0,3,5,0,12,0,2,2,9,44%,data
+2011,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6021,3.79,4.23,65,78%,2,1,1209,32,2,12,1163,70,16,1,0,13,11,0,3,8,4,8,0,0,0,15,53%,data
+2011,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6286,4.33,4.7,48,90%,0,0,1164,25,3,14,1122,96,15,2,1,38,7,0,1,6,0,7,0,0,1,11,82%,data
+2011,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6141,3.58,3.99,49,90%,2,1,1069,24,5,19,1021,83,16,4,0,23,9,0,3,6,2,11,1,1,4,20,75%,data
+2011,C,,League Average,,,,,League Average,6175,3.94,4.3,54,92%,1,1,1169,27,5,17,1119,90,21,1,0,27,10,0,2,8,1,10,0,2,3,17,86%,data
+2011,C,,,,,,,,185245,3.94,4.3,1613,92%,27,21,35061,807,155,521,33565,2714,632,41,15,807,311,7,61,243,19,304,12,53,86,516,86%,summary
+2012,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6063,3.94,4.32,62,92%,0,1,1216,21,7,16,1172,98,35,3,0,25,12,3,1,8,2,13,2,4,6,30,90%,data
+2012,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,5991,3.42,3.74,49,90%,0,1,1248,14,1,22,1211,79,27,1,1,16,5,0,1,4,0,8,0,0,1,18,83%,data
+2012,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6278,3.9,4.28,45,91%,0,0,1209,27,6,17,1158,66,11,1,0,16,10,0,2,8,1,8,1,0,1,8,75%,data
+2012,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6209,4.72,5.03,46,89%,2,0,1193,23,2,15,1153,71,16,0,1,21,13,0,3,10,0,3,0,0,1,12,83%,data
+2012,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6140,4.51,4.83,43,88%,1,0,1138,21,0,17,1099,79,18,0,0,26,20,2,5,13,3,5,0,0,1,14,79%,data
+2012,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6098,4.02,4.21,40,88%,0,0,1239,27,8,12,1192,100,9,1,0,47,8,0,2,6,2,13,0,3,3,8,75%,data
+2012,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6056,3.34,3.64,47,94%,1,0,1280,22,8,16,1233,81,19,2,0,12,6,0,1,5,0,7,0,1,1,15,93%,data
+2012,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6283,4.79,5.27,42,93%,0,0,1098,26,6,13,1053,84,14,0,0,30,9,0,1,8,0,6,0,2,3,5,80%,data
+2012,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6384,5.22,5.63,58,84%,0,0,1143,24,1,17,1100,103,26,0,0,40,17,0,0,17,3,11,0,0,0,25,76%,data
+2012,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6045,3.77,4.21,41,93%,1,0,1336,25,6,14,1291,81,11,1,0,25,12,0,2,10,0,10,0,2,3,6,67%,data
+2012,C,HOU,Houston Astros,NL,National League,Central,NL Central,Houston Astros,6238,4.57,5.02,47,98%,1,0,1187,25,10,29,1123,102,18,1,0,42,11,0,2,9,0,14,1,3,6,20,100%,data
+2012,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6251,4.3,4.63,45,91%,0,0,1191,28,4,26,1133,100,9,0,3,41,14,2,1,11,1,13,0,1,2,7,71%,data
+2012,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6034,4.02,4.39,34,88%,1,1,1158,17,8,11,1121,80,14,0,0,30,7,0,1,6,0,11,0,1,2,11,73%,data
+2012,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6068,3.35,3.71,58,91%,1,0,1281,29,7,16,1228,108,26,2,0,41,9,0,1,8,1,15,0,4,5,24,92%,data
+2012,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6186,4.1,4.52,75,87%,2,0,1127,23,4,17,1082,94,38,1,2,28,14,0,3,11,3,6,0,1,3,33,79%,data
+2012,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6245,4.22,4.54,36,100%,0,1,1402,21,3,17,1360,88,12,0,0,35,13,0,0,13,0,10,0,0,0,9,100%,data
+2012,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6214,4.77,5.2,45,91%,0,0,966,25,9,15,917,62,14,3,0,24,6,0,1,5,1,10,1,3,4,8,100%,data
+2012,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6086,4.09,4.45,66,94%,2,1,1260,36,6,17,1201,87,20,3,2,31,14,3,5,6,1,9,1,1,3,20,100%,data
+2012,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6085,3.85,4.16,39,92%,0,0,1310,23,5,9,1273,87,14,0,0,41,10,2,1,7,1,6,0,1,3,10,70%,data
+2012,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6131,3.5,3.76,55,91%,0,0,1170,30,3,22,1113,70,16,1,0,21,12,0,3,9,2,6,0,0,0,14,79%,data
+2012,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6072,3.86,4.22,72,96%,3,0,1413,37,7,28,1340,120,27,4,1,38,7,0,4,3,0,13,2,0,4,32,94%,data
+2012,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6097,3.91,4.23,57,81%,0,2,1195,18,7,12,1158,82,27,1,1,33,9,0,1,8,1,5,0,3,4,21,76%,data
+2012,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6151,4.01,4.45,55,91%,0,1,1208,18,3,15,1171,110,26,2,1,33,14,0,2,12,0,3,0,0,2,23,91%,data
+2012,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6062,3.76,4.02,50,84%,0,0,1177,20,2,14,1141,83,20,3,0,23,8,0,2,6,0,9,0,2,3,16,88%,data
+2012,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6138,3.68,4.03,37,86%,3,1,1237,14,6,13,1203,100,18,1,1,28,15,1,5,9,1,13,0,1,2,17,76%,data
+2012,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6158,3.71,3.99,57,91%,0,2,1226,19,4,15,1188,111,27,2,3,28,5,0,0,5,2,15,1,1,4,33,88%,data
+2012,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6000,3.19,3.56,29,97%,5,0,1386,16,5,13,1350,83,14,0,0,32,11,0,5,6,0,13,0,2,2,8,100%,data
+2012,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6067,4.02,4.41,53,91%,0,0,1301,31,5,8,1257,68,17,0,0,27,7,0,1,6,1,3,0,0,0,11,73%,data
+2012,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6216,4.64,4.89,42,93%,0,1,1142,20,4,18,1099,98,16,1,2,41,6,0,1,5,1,7,0,0,0,10,90%,data
+2012,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6133,3.34,3.64,53,87%,0,3,1313,22,5,18,1268,105,24,0,1,53,9,0,2,7,1,12,0,4,7,28,86%,data
+2012,C,,League Average,,,,,League Average,6139,4.01,4.36,49,91%,1,0,1225,23,5,16,1180,89,19,1,1,31,10,0,2,8,1,9,0,1,3,17,85%,data
+2012,C,,,,,,,,184179,4.01,4.36,1478,91%,23,15,36750,702,152,492,35388,2680,583,34,19,928,313,13,59,241,28,277,9,40,76,496,85%,summary
+2013,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6338,3.92,4.18,66,94%,0,1,1233,33,5,20,1174,86,26,1,1,36,8,1,1,6,2,6,0,3,3,26,88%,data
+2013,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,5989,3.18,3.4,45,98%,1,0,1249,19,6,12,1212,76,22,3,0,17,6,0,1,5,0,7,0,1,1,23,96%,data
+2013,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6144,4.2,4.39,60,90%,2,1,1198,33,5,10,1150,73,19,3,1,18,5,0,3,2,0,8,1,2,4,17,76%,data
+2013,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6143,3.79,4.06,49,92%,0,0,1327,31,5,11,1280,67,13,0,0,13,8,0,0,8,0,10,0,1,2,7,43%,data
+2013,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6149,4.0,4.28,50,96%,2,1,1173,25,5,12,1131,124,22,2,1,51,15,0,3,12,0,10,0,2,4,20,95%,data
+2013,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6214,4.0,4.47,51,94%,0,1,1262,24,6,15,1216,86,22,0,1,29,12,1,1,10,0,11,0,2,3,11,91%,data
+2013,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6077,3.38,3.6,56,96%,0,0,1309,23,5,18,1262,94,29,1,1,29,7,0,0,7,1,4,1,1,2,27,96%,data
+2013,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6154,3.82,4.13,43,81%,1,1,1372,16,4,15,1336,99,16,2,0,39,8,0,3,5,0,4,0,1,1,14,79%,data
+2013,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6248,4.44,4.76,41,88%,0,0,1066,18,4,21,1023,91,17,0,2,38,14,1,2,11,2,8,0,2,3,14,86%,data
+2013,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6119,3.61,3.84,44,82%,1,0,1434,17,2,15,1400,63,16,0,1,26,11,0,3,8,0,8,0,0,1,16,63%,data
+2013,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6370,4.79,5.3,44,91%,1,2,1112,25,5,17,1065,75,14,0,0,17,13,2,2,9,1,11,0,2,2,15,73%,data
+2013,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6049,3.45,3.73,29,93%,0,0,1209,18,4,21,1166,89,10,0,0,37,12,0,0,12,1,4,0,1,1,7,86%,data
+2013,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6298,4.24,4.55,37,95%,2,0,1206,19,2,15,1169,81,15,1,0,28,12,0,4,8,1,11,1,1,2,13,92%,data
+2013,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6032,3.25,3.61,44,91%,2,0,1270,19,6,13,1232,121,19,2,0,56,9,0,3,6,0,8,0,1,3,17,82%,data
+2013,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6166,3.71,3.98,47,85%,1,1,1183,13,4,16,1150,90,21,2,2,25,10,0,2,8,2,8,1,0,2,23,91%,data
+2013,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6100,3.84,4.29,46,93%,3,0,1140,19,4,22,1095,91,22,1,0,28,9,0,4,5,1,8,0,0,0,21,86%,data
+2013,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6257,4.55,4.89,44,82%,0,0,1003,19,3,17,964,69,16,0,0,19,8,0,4,4,0,10,0,0,0,8,50%,data
+2013,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6249,3.78,4.17,52,92%,0,1,1235,31,4,17,1183,69,16,0,1,22,7,0,1,6,0,3,0,1,2,15,80%,data
+2013,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6128,3.94,4.17,55,93%,2,1,1242,30,3,13,1196,92,19,0,2,35,9,1,3,5,0,8,0,1,2,12,67%,data
+2013,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6069,3.56,3.87,40,93%,0,1,1195,21,3,11,1160,61,16,0,0,19,8,0,0,8,1,7,0,0,0,12,75%,data
+2013,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6213,4.34,4.69,62,94%,1,2,1226,32,9,13,1171,85,25,4,1,24,8,0,1,7,1,15,2,6,8,29,93%,data
+2013,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6147,3.27,3.53,56,86%,0,0,1235,19,2,18,1195,127,25,1,0,58,4,0,0,4,0,6,0,0,2,27,78%,data
+2013,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6179,3.98,4.33,51,96%,0,0,1198,21,12,13,1152,96,32,0,0,16,12,2,1,9,1,16,0,4,6,19,89%,data
+2013,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6257,4.32,4.63,40,93%,1,3,1302,22,5,17,1258,78,15,0,1,32,8,0,0,8,0,9,0,2,4,11,73%,data
+2013,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6163,4.0,4.3,43,93%,2,0,1265,17,3,17,1228,81,20,3,1,26,8,0,2,6,0,5,2,1,4,19,95%,data
+2013,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6104,3.43,3.67,50,88%,0,3,1263,23,3,15,1222,80,17,0,5,30,5,0,3,2,1,12,0,2,5,21,86%,data
+2013,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6083,3.74,3.97,40,93%,0,1,1318,27,4,9,1278,74,11,0,0,27,7,0,1,6,0,11,0,1,2,8,75%,data
+2013,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6146,3.63,3.91,36,97%,0,0,1309,19,3,24,1262,92,13,1,1,43,4,0,2,2,0,11,0,0,0,11,100%,data
+2013,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6250,4.26,4.69,48,90%,2,0,1229,29,5,17,1177,66,15,0,0,28,13,0,3,10,1,8,0,1,1,8,63%,data
+2013,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6038,3.59,3.9,45,87%,1,0,1247,16,3,16,1210,71,17,3,1,25,14,0,4,10,0,6,1,1,2,24,83%,data
+2013,C,,League Average,,,,,League Average,6162,3.87,4.18,47,91%,1,1,1234,23,4,16,1191,85,19,1,1,30,9,0,2,7,1,8,0,1,2,16,84%,data
+2013,C,,,,,,,,184873,3.87,4.18,1414,91%,25,20,37010,678,134,470,35717,2547,560,30,23,891,274,8,57,209,16,253,9,40,72,495,84%,summary
+2014,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6162,4.26,4.62,46,85%,1,1,1288,14,6,16,1252,84,24,0,2,22,14,1,3,10,0,13,0,3,6,21,76%,data
+2014,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6087,3.38,3.69,46,91%,1,0,1297,16,2,15,1264,93,23,1,0,33,11,0,3,8,1,8,1,2,3,19,84%,data
+2014,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6104,3.44,3.65,53,89%,1,0,1200,23,6,20,1150,82,20,3,0,21,7,1,2,4,1,10,0,1,2,20,80%,data
+2014,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6231,4.01,4.39,46,89%,0,0,1224,30,3,19,1172,89,10,0,1,35,16,2,4,10,1,9,0,2,2,6,67%,data
+2014,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6208,3.92,4.35,51,90%,1,3,1293,22,7,18,1245,127,20,1,1,62,8,0,2,6,1,9,1,2,4,20,90%,data
+2014,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6255,4.3,4.73,33,91%,0,0,1139,16,6,15,1101,97,16,0,0,46,10,1,1,8,0,7,0,3,3,11,73%,data
+2014,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6067,3.59,3.81,54,96%,0,0,1303,27,4,15,1257,89,18,5,0,26,5,0,1,4,0,10,1,0,1,20,100%,data
+2014,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6193,3.57,4.0,24,92%,0,0,1425,7,8,12,1398,111,16,0,1,46,17,0,1,16,1,13,0,4,5,5,100%,data
+2014,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6248,4.86,5.14,44,89%,2,1,1066,19,8,15,1024,87,19,2,0,46,14,0,4,10,0,6,1,1,3,16,94%,data
+2014,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6191,4.01,4.36,44,86%,1,1,1261,27,3,10,1220,78,9,3,0,20,14,0,3,11,0,11,1,1,3,6,50%,data
+2014,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6154,4.14,4.52,38,92%,4,0,1148,23,12,19,1094,85,13,0,0,39,8,0,4,4,0,8,0,4,4,9,78%,data
+2014,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6101,3.51,3.87,35,94%,0,0,1178,25,2,19,1132,79,8,0,0,36,9,0,1,8,0,8,0,1,3,6,100%,data
+2014,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6179,3.58,3.82,51,88%,1,1,1354,28,5,12,1309,73,13,0,1,28,9,0,1,8,0,6,0,1,1,16,88%,data
+2014,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6075,3.4,3.79,56,95%,3,0,1368,30,9,19,1310,121,22,2,0,58,8,0,4,4,0,8,0,4,4,13,92%,data
+2014,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6217,3.79,4.16,36,86%,0,2,1181,8,4,13,1156,87,20,2,1,29,17,0,1,16,2,11,1,1,2,21,86%,data
+2014,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6106,3.67,4.06,55,95%,2,0,1265,30,3,18,1214,87,17,1,2,29,10,0,3,7,0,7,1,0,2,15,87%,data
+2014,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6212,4.58,4.87,52,87%,1,0,1063,24,4,24,1011,53,16,0,0,18,10,0,1,9,0,2,0,0,0,11,55%,data
+2014,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6170,3.49,3.8,55,89%,0,0,1324,22,6,17,1279,76,22,1,3,23,16,2,3,11,2,4,0,1,2,20,90%,data
+2014,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6114,3.75,4.11,53,96%,0,0,1377,27,4,12,1334,94,22,0,0,32,4,0,0,4,0,7,0,0,1,12,83%,data
+2014,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,5972,3.22,3.52,40,95%,1,0,1257,23,3,23,1207,71,13,1,0,34,10,0,1,9,0,6,0,1,2,12,83%,data
+2014,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6261,3.81,4.21,78,90%,0,3,1270,28,3,15,1224,115,37,2,1,27,8,0,3,5,1,15,1,3,6,33,85%,data
+2014,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6130,3.49,3.9,67,96%,0,0,1228,22,4,26,1176,129,37,1,1,45,13,0,0,13,0,7,1,2,3,23,87%,data
+2014,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6006,3.27,3.61,45,93%,2,1,1288,12,6,12,1258,102,31,2,0,23,12,1,2,9,0,13,1,3,5,24,92%,data
+2014,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,5974,3.17,3.43,41,93%,0,1,1297,25,4,6,1262,103,14,1,0,51,7,0,1,6,0,7,0,1,1,9,89%,data
+2014,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,5947,3.5,3.81,47,94%,0,2,1214,22,4,19,1169,100,23,0,0,40,8,0,2,6,0,10,0,2,2,14,93%,data
+2014,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6069,3.5,3.75,48,96%,0,1,1248,31,7,13,1197,77,14,2,0,23,5,0,0,5,0,12,1,2,4,16,88%,data
+2014,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6131,3.56,3.84,33,91%,1,0,1438,20,3,15,1400,73,12,0,0,35,4,0,1,3,0,7,0,1,5,13,85%,data
+2014,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6195,4.49,4.88,48,96%,1,0,1144,31,3,22,1088,71,14,0,0,20,9,2,1,6,0,9,0,0,0,6,83%,data
+2014,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6150,4.0,4.28,48,96%,0,0,1228,35,3,17,1173,55,12,0,0,23,4,0,0,4,0,7,0,2,3,4,100%,data
+2014,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6020,3.03,3.4,42,93%,0,0,1277,16,7,10,1244,109,20,1,2,42,8,1,2,5,0,6,0,0,0,12,100%,data
+2014,C,,League Average,,,,,League Average,6131,3.74,4.08,47,92%,1,1,1255,23,5,16,1211,90,18,1,1,34,10,0,2,8,0,9,0,2,3,14,86%,data
+2014,C,,,,,,,,183929,3.74,4.08,1409,92%,23,17,37643,683,149,486,36320,2697,555,31,16,1012,295,11,55,229,10,256,11,48,82,433,86%,summary
+2015,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6257,4.05,4.38,43,91%,2,0,1211,19,6,10,1176,90,21,0,0,36,8,0,3,5,1,5,0,2,3,16,81%,data
+2015,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6156,4.41,4.8,54,85%,2,2,1168,24,4,17,1123,71,15,2,3,20,7,1,2,4,0,11,1,3,6,23,83%,data
+2015,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6085,4.05,4.35,57,91%,1,1,1270,30,2,26,1212,74,18,0,2,15,9,0,3,6,0,7,0,0,1,14,79%,data
+2015,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6225,4.34,4.68,50,88%,2,1,1239,21,10,19,1189,92,24,0,1,26,7,0,3,4,1,12,0,4,4,13,77%,data
+2015,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,5997,3.36,3.74,32,84%,2,0,1413,11,2,18,1382,101,14,1,1,44,19,0,3,16,0,8,0,1,2,16,81%,data
+2015,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6181,3.98,4.34,35,89%,2,1,1357,17,5,23,1312,90,14,0,0,44,10,0,4,6,0,12,0,2,3,10,60%,data
+2015,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6271,4.35,4.67,50,92%,0,0,1268,21,4,11,1231,80,23,0,0,18,3,0,1,2,1,4,0,0,0,20,90%,data
+2015,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,5904,3.68,4.02,36,94%,0,0,1392,19,4,12,1357,104,15,0,0,46,8,0,1,7,0,10,0,2,4,6,83%,data
+2015,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6308,5.04,5.33,45,84%,1,1,1116,15,2,12,1087,75,18,1,1,22,13,0,2,11,1,5,0,0,1,14,86%,data
+2015,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6188,4.64,4.99,37,97%,0,0,1126,26,4,20,1076,77,8,0,1,21,0,0,0,0,0,9,0,0,1,10,90%,data
+2015,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,5965,3.57,3.86,39,95%,0,0,1288,21,6,20,1240,85,17,0,0,39,5,0,0,5,2,11,0,1,2,6,83%,data
+2015,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6112,3.74,3.97,47,91%,0,0,1169,27,4,23,1115,103,16,2,0,42,7,0,0,7,0,11,0,2,3,8,75%,data
+2015,C,LAA,Los Angeles Angels of Anaheim,AL,American League,West,AL West,Los Angeles Angels of Anaheim,6096,3.94,4.22,60,88%,0,0,1210,26,3,16,1165,121,25,1,1,48,9,0,3,6,1,4,0,0,1,18,78%,data
+2015,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5932,3.46,3.7,57,93%,0,0,1383,22,5,18,1338,114,27,3,0,49,3,0,0,3,1,8,1,1,2,16,81%,data
+2015,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6050,4.04,4.28,43,93%,0,2,1167,19,7,12,1129,68,19,2,0,20,9,0,2,7,0,9,0,3,3,15,87%,data
+2015,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6148,4.28,4.62,43,93%,2,0,1273,23,4,18,1228,93,14,0,1,30,18,1,4,13,1,15,0,1,4,12,83%,data
+2015,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6139,4.07,4.37,49,80%,0,0,1082,18,3,28,1031,50,20,0,0,13,7,0,1,6,3,12,0,1,3,18,78%,data
+2015,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6046,3.45,3.77,51,90%,1,0,1345,25,2,10,1308,67,18,2,0,22,5,0,1,4,0,7,0,1,1,20,85%,data
+2015,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6191,4.03,4.31,46,93%,1,0,1369,23,4,13,1329,93,16,1,2,36,10,0,1,9,1,6,0,0,0,15,93%,data
+2015,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6128,4.16,4.54,41,93%,0,0,1179,28,6,13,1132,97,11,0,0,42,10,1,2,7,0,7,0,0,1,11,82%,data
+2015,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6332,4.69,5.07,61,85%,3,2,1164,28,5,20,1110,96,17,3,3,41,15,1,4,10,0,16,3,2,9,29,72%,data
+2015,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6215,3.23,3.6,52,92%,1,1,1336,14,9,27,1285,122,27,2,0,51,16,1,1,14,0,8,0,0,0,14,93%,data
+2015,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6093,4.09,4.57,37,97%,1,0,1395,19,0,17,1359,107,13,3,0,29,12,1,1,10,0,8,0,0,0,12,92%,data
+2015,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6223,4.16,4.47,43,98%,3,1,1303,28,7,14,1254,84,14,0,0,26,9,0,3,6,0,13,0,3,4,10,100%,data
+2015,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6009,3.73,3.91,48,98%,0,2,1160,22,2,11,1123,102,17,4,2,42,7,0,0,7,0,8,1,0,2,18,100%,data
+2015,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6134,2.94,3.23,53,85%,0,1,1345,21,2,12,1310,72,20,4,2,18,7,0,2,5,2,10,1,0,5,22,77%,data
+2015,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6069,3.74,3.98,60,87%,2,0,1370,37,5,22,1306,103,14,1,0,41,13,1,4,8,2,11,0,1,3,12,58%,data
+2015,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6215,4.25,4.57,38,89%,4,0,1107,21,0,22,1064,68,12,0,0,28,15,1,7,7,1,7,0,0,0,8,75%,data
+2015,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,5984,3.81,4.18,57,96%,2,0,1128,38,5,8,1077,93,17,0,0,36,9,0,4,5,0,9,0,3,3,5,100%,data
+2015,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,5975,3.62,3.98,52,92%,1,2,1332,25,1,14,1292,98,18,1,2,46,8,0,3,5,0,6,0,0,0,13,77%,data
+2015,C,,League Average,,,,,League Average,6121,3.96,4.28,47,91%,1,1,1256,23,4,17,1211,90,17,1,1,33,9,0,2,7,1,9,0,1,2,14,82%,data
+2015,C,,,,,,,,183628,3.96,4.28,1416,91%,33,17,37665,688,123,506,36340,2690,522,33,22,991,278,8,65,205,18,269,7,33,71,424,82%,summary
+2016,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6437,5.09,5.52,31,90%,0,0,1291,13,5,16,1257,111,14,0,0,58,9,0,2,7,2,8,0,1,3,8,88%,data
+2016,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6250,4.51,4.84,47,85%,0,1,1243,21,1,18,1203,62,17,0,0,19,8,0,4,4,0,10,0,0,1,15,73%,data
+2016,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6122,4.22,4.49,42,93%,4,0,1269,20,4,14,1230,79,17,2,0,17,13,0,5,8,1,11,1,1,2,4,100%,data
+2016,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6073,4.0,4.34,61,92%,0,1,1377,31,8,11,1327,99,27,0,0,30,4,0,2,2,0,14,0,3,5,13,77%,data
+2016,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,5933,3.15,3.43,44,80%,0,3,1414,16,0,11,1387,119,16,1,0,45,23,0,3,20,3,6,0,0,1,10,60%,data
+2016,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6196,4.12,4.45,35,86%,5,1,1279,21,2,22,1233,69,10,0,0,32,12,1,4,7,0,6,0,1,1,8,88%,data
+2016,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6348,4.91,5.33,55,93%,2,0,1250,18,9,18,1205,98,27,1,0,31,12,2,3,7,1,9,1,0,2,17,82%,data
+2016,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6033,3.86,4.21,34,94%,0,0,1391,17,4,14,1356,89,14,1,0,36,9,1,2,6,0,9,0,0,1,7,100%,data
+2016,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6289,4.92,5.42,43,93%,4,0,1228,15,1,24,1188,85,20,1,1,30,16,1,5,10,1,4,0,0,1,19,89%,data
+2016,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6048,4.24,4.54,38,89%,0,0,1262,28,3,13,1218,63,6,1,1,13,7,0,1,6,0,12,0,2,4,10,70%,data
+2016,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6180,4.06,4.3,41,93%,2,0,1399,25,6,18,1349,94,13,0,1,40,7,0,3,4,0,12,0,2,3,8,100%,data
+2016,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6182,4.21,4.45,39,95%,1,1,1286,25,6,9,1246,93,10,0,3,37,10,0,1,9,0,5,0,1,2,14,86%,data
+2016,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6120,4.28,4.6,64,94%,1,0,1159,35,3,11,1110,91,23,2,0,22,7,0,3,4,0,11,0,1,2,14,86%,data
+2016,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6014,3.7,3.95,60,97%,2,1,1522,26,2,15,1479,94,26,5,0,30,7,0,3,4,0,9,2,1,4,19,89%,data
+2016,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6164,4.05,4.28,65,91%,2,0,1381,25,9,16,1330,114,32,1,2,41,13,1,3,9,1,11,1,3,5,23,83%,data
+2016,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6188,4.1,4.6,48,94%,0,0,1193,20,7,18,1148,110,22,0,0,25,15,1,1,13,1,10,0,1,1,17,88%,data
+2016,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6314,5.09,5.54,41,90%,0,1,1187,19,8,15,1145,74,16,0,0,40,12,0,2,10,1,5,0,1,1,14,79%,data
+2016,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6067,3.58,3.84,59,95%,0,2,1424,21,5,25,1373,93,28,1,0,20,7,1,1,5,0,11,0,0,1,22,95%,data
+2016,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6023,4.16,4.42,46,98%,1,0,1395,30,1,12,1352,92,13,1,0,40,8,0,2,6,0,7,0,0,1,8,100%,data
+2016,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6144,4.51,4.78,33,88%,2,0,1189,14,5,19,1151,72,14,1,0,32,8,0,3,5,2,7,0,1,2,5,80%,data
+2016,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6164,4.64,4.99,60,82%,3,2,1312,20,5,18,1269,83,24,1,3,27,8,0,4,4,2,9,1,0,1,21,71%,data
+2016,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6292,4.22,4.7,57,86%,2,0,1241,17,7,25,1191,103,30,3,2,36,13,1,2,10,3,10,1,3,6,28,75%,data
+2016,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6228,4.44,4.81,61,92%,4,0,1231,24,9,14,1183,96,25,5,1,35,14,0,4,10,1,10,2,2,5,14,86%,data
+2016,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6147,4.0,4.37,49,88%,0,0,1333,31,2,16,1284,70,10,0,0,32,7,1,1,5,1,2,0,0,0,8,63%,data
+2016,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6049,3.69,3.89,51,96%,1,1,1319,17,3,12,1287,91,22,3,2,20,5,0,1,4,0,8,2,0,3,23,96%,data
+2016,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6164,4.08,4.42,45,89%,0,2,1301,18,7,14,1262,80,17,2,1,26,3,0,0,3,1,6,1,2,3,19,84%,data
+2016,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6076,4.2,4.5,35,91%,3,0,1346,26,4,11,1304,89,7,0,0,48,12,1,4,7,1,7,0,1,1,3,100%,data
+2016,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6186,4.38,4.72,26,88%,0,0,1159,13,3,16,1127,70,7,3,0,23,3,0,1,2,0,15,2,0,2,8,63%,data
+2016,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6113,3.79,4.11,61,92%,1,1,1330,41,6,13,1270,77,16,0,0,39,6,0,2,4,0,4,0,1,2,9,56%,data
+2016,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6036,3.52,3.77,34,97%,1,0,1471,14,1,13,1443,84,13,2,1,33,5,0,1,4,1,7,0,0,0,12,92%,data
+2016,C,,League Average,,,,,League Average,6153,4.19,4.52,47,91%,1,1,1306,22,5,16,1264,88,18,1,1,32,9,0,2,7,1,8,0,1,2,13,83%,data
+2016,C,,,,,,,,184580,4.19,4.52,1405,91%,41,17,39182,661,136,471,37907,2644,536,37,18,957,283,11,73,199,23,255,14,28,66,400,83%,summary
+2017,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6072,3.67,4.12,38,89%,2,1,1445,14,5,11,1413,104,15,1,2,62,10,0,3,7,3,8,0,2,1,12,83%,data
+2017,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6306,4.72,5.13,51,92%,0,1,1256,19,3,10,1223,91,22,2,2,34,9,1,1,7,0,6,0,0,1,18,89%,data
+2017,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6293,4.97,5.25,61,95%,0,0,1269,36,3,16,1214,71,20,1,0,16,8,0,2,6,0,9,0,1,2,7,100%,data
+2017,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6217,3.73,4.06,37,92%,0,0,1577,29,3,12,1533,90,6,0,0,44,14,0,4,10,0,4,0,1,1,0,,data
+2017,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6108,3.95,4.32,58,90%,1,0,1415,20,2,15,1378,129,26,1,3,56,19,1,4,14,0,10,1,1,4,11,82%,data
+2017,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6200,4.78,5.19,28,93%,2,0,1199,21,6,15,1156,71,6,0,1,36,8,0,3,5,0,4,0,2,3,5,80%,data
+2017,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6286,5.17,5.47,69,93%,2,1,1308,20,2,27,1259,122,32,5,1,36,6,0,3,3,0,16,3,1,5,24,96%,data
+2017,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,5866,3.3,3.52,36,92%,1,1,1606,19,5,13,1569,93,14,0,0,39,11,0,2,9,0,11,0,1,3,6,83%,data
+2017,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6177,4.51,4.74,48,92%,2,0,1257,12,5,17,1222,103,27,2,1,43,6,0,2,4,0,11,0,1,3,19,89%,data
+2017,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6298,5.36,5.66,38,97%,1,0,1231,31,9,11,1179,62,10,0,0,22,6,0,1,5,0,12,0,4,4,3,67%,data
+2017,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6111,4.12,4.36,36,89%,6,0,1599,20,6,23,1549,71,12,0,1,38,17,0,7,10,1,7,0,1,2,10,80%,data
+2017,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6218,4.63,4.95,45,96%,0,0,1232,31,2,14,1185,65,11,0,0,25,7,0,1,6,0,5,0,1,1,5,100%,data
+2017,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6030,4.2,4.43,40,98%,2,0,1323,23,2,22,1276,94,15,1,1,32,5,0,2,3,0,4,0,0,0,8,88%,data
+2017,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5925,3.38,3.61,66,89%,2,1,1591,35,2,23,1530,70,21,2,0,16,9,0,2,7,3,8,0,1,2,18,78%,data
+2017,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6318,4.82,5.13,74,95%,0,0,1217,27,10,13,1166,113,38,4,1,32,7,2,1,4,0,13,1,3,5,20,95%,data
+2017,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6164,4.0,4.34,54,91%,0,1,1369,24,3,25,1317,88,16,3,2,25,11,1,1,9,2,10,1,0,3,17,82%,data
+2017,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6205,4.6,4.94,31,97%,1,0,1179,19,5,9,1146,63,11,0,1,17,5,0,2,3,0,10,0,1,1,5,100%,data
+2017,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6378,5.01,5.41,64,92%,0,1,1409,18,6,30,1355,84,34,2,1,18,5,0,1,4,0,13,0,3,3,24,88%,data
+2017,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6078,3.75,4.1,38,95%,4,0,1516,18,1,10,1487,105,15,1,0,61,14,0,5,9,0,5,0,0,0,5,80%,data
+2017,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6167,4.67,5.19,34,91%,4,0,1218,22,4,20,1172,71,7,0,0,25,14,3,5,6,1,11,0,0,1,7,71%,data
+2017,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6235,4.57,4.88,54,91%,1,1,1316,23,4,16,1273,84,24,0,0,33,14,0,3,11,0,11,0,1,2,16,81%,data
+2017,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6208,4.23,4.57,60,92%,2,3,1261,16,2,25,1218,111,27,3,1,41,16,1,3,12,1,11,2,0,3,27,85%,data
+2017,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6169,4.7,5.13,47,94%,0,0,1343,17,5,18,1303,75,23,2,1,21,15,1,0,14,1,13,0,3,4,15,87%,data
+2017,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6132,4.46,4.82,61,95%,3,1,1272,44,3,16,1209,77,13,1,0,31,8,0,4,4,0,8,0,1,2,7,71%,data
+2017,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6287,4.5,4.81,50,94%,1,0,1251,20,4,21,1206,84,25,1,0,23,11,0,1,10,0,5,1,1,2,19,95%,data
+2017,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6153,4.01,4.37,37,92%,1,1,1373,18,6,16,1332,68,16,0,0,17,8,0,2,6,0,14,0,2,4,9,89%,data
+2017,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6099,3.99,4.38,47,94%,2,1,1360,31,3,18,1308,83,15,0,0,37,10,0,2,8,0,6,0,2,2,7,57%,data
+2017,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6211,4.7,5.12,45,100%,1,0,1133,33,7,10,1082,65,12,2,1,23,7,1,3,3,0,7,1,3,4,6,100%,data
+2017,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6316,4.42,4.82,50,90%,1,0,1400,29,7,23,1341,75,15,0,1,28,16,1,2,13,0,7,0,1,4,3,67%,data
+2017,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6068,3.88,4.18,58,97%,1,0,1486,28,6,16,1435,68,25,1,0,15,15,3,1,11,0,11,0,2,2,21,95%,data
+2017,C,,League Average,,,,,League Average,6176,4.36,4.7,48,93%,1,0,1347,24,4,17,1301,85,18,1,1,32,10,0,2,7,0,9,0,1,2,12,87%,data
+2017,C,,,,,,,,185295,4.36,4.7,1455,93%,43,14,40411,717,131,515,39036,2550,553,35,21,946,311,15,73,223,12,270,10,40,74,354,87%,summary
+2018,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6139,3.73,3.96,50,94%,2,0,1401,12,4,13,1371,133,32,2,0,73,9,0,3,6,2,5,1,0,1,14,86%,data
+2018,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6155,3.75,4.06,42,93%,1,0,1425,16,3,13,1393,77,17,1,2,28,7,1,1,5,0,7,0,1,3,11,82%,data
+2018,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6340,5.19,5.61,47,98%,0,0,1237,29,9,19,1178,97,16,2,2,22,9,0,1,8,0,19,0,2,7,7,100%,data
+2018,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6166,3.75,3.99,43,100%,0,0,1579,34,6,20,1519,74,8,1,0,34,4,2,1,1,0,8,0,1,2,5,100%,data
+2018,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6264,3.65,3.93,44,84%,2,0,1343,14,2,22,1305,92,20,3,0,26,13,0,2,11,3,12,2,1,4,13,62%,data
+2018,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6339,4.85,5.31,38,82%,1,1,1270,24,4,26,1216,84,7,1,0,37,12,0,3,9,0,10,0,2,3,9,44%,data
+2018,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6279,4.65,5.12,52,85%,1,0,1270,24,8,11,1227,76,20,2,1,29,5,1,1,3,1,6,1,2,3,18,83%,data
+2018,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6071,3.77,4.0,54,89%,2,2,1561,33,2,13,1513,75,10,0,0,28,15,0,4,11,0,9,0,0,0,11,82%,data
+2018,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6154,4.33,4.62,44,86%,4,2,1408,19,6,15,1368,84,17,1,1,37,13,0,4,9,0,8,0,2,3,15,73%,data
+2018,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6130,4.6,5.03,37,89%,1,0,1227,22,5,15,1185,75,9,1,0,28,8,2,3,3,1,14,0,0,2,8,75%,data
+2018,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,5913,3.11,3.3,43,91%,1,1,1673,20,2,12,1639,88,17,1,0,44,6,0,3,3,0,6,1,0,1,6,100%,data
+2018,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6284,4.95,5.24,44,93%,1,1,1177,21,6,16,1132,89,18,1,0,23,3,0,2,1,0,11,0,1,3,10,90%,data
+2018,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6108,4.15,4.52,53,94%,3,1,1388,42,5,15,1325,100,7,1,0,53,9,0,5,4,0,10,0,1,1,6,67%,data
+2018,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6096,3.4,3.72,56,96%,3,1,1596,27,8,15,1546,63,22,1,0,16,8,2,3,3,0,9,0,2,3,14,93%,data
+2018,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6236,4.76,5.05,53,94%,2,1,1276,21,7,11,1236,78,28,1,0,11,9,1,3,5,0,9,1,3,5,12,100%,data
+2018,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6114,3.73,4.06,47,96%,2,0,1449,22,4,12,1411,80,20,1,2,15,10,0,3,7,0,10,0,2,2,14,93%,data
+2018,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6287,4.5,4.83,46,93%,0,1,1392,24,7,20,1340,83,17,1,1,35,7,0,1,6,1,9,0,4,4,10,90%,data
+2018,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6178,4.07,4.36,56,91%,0,0,1475,22,6,17,1430,70,25,1,2,14,11,0,5,6,0,8,1,0,3,18,94%,data
+2018,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6141,3.78,4.13,44,84%,0,0,1624,20,3,18,1583,97,15,0,0,42,11,0,3,8,2,9,0,0,0,9,89%,data
+2018,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6099,3.82,4.14,30,87%,2,0,1203,11,4,7,1180,114,13,1,3,49,11,0,2,9,1,5,0,2,2,10,90%,data
+2018,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6138,4.15,4.53,57,84%,4,2,1482,25,5,17,1435,93,19,2,0,26,20,0,5,15,3,8,0,0,2,20,55%,data
+2018,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6144,4.0,4.35,74,88%,0,0,1347,22,5,23,1296,112,32,6,1,33,12,0,3,9,2,15,0,0,0,23,87%,data
+2018,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6254,4.41,4.74,59,97%,1,1,1426,30,4,22,1370,80,19,2,2,25,13,1,2,10,0,7,1,1,2,21,100%,data
+2018,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6073,4.13,4.42,35,94%,2,0,1334,22,2,10,1300,64,11,1,0,22,6,0,3,3,0,8,1,1,2,5,80%,data
+2018,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6191,3.95,4.3,52,92%,0,0,1297,28,3,20,1246,67,18,0,1,20,8,0,1,7,1,5,0,0,0,14,86%,data
+2018,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6271,3.85,4.27,50,94%,0,0,1359,31,3,13,1311,61,18,0,0,25,3,0,1,2,1,8,0,2,2,10,90%,data
+2018,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5992,3.75,4.01,30,97%,1,0,1395,19,3,17,1356,106,9,0,1,60,6,0,2,4,0,7,0,1,1,6,100%,data
+2018,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6231,4.92,5.33,42,100%,1,1,1151,24,1,17,1106,54,15,0,1,11,5,1,1,3,0,7,0,0,2,6,100%,data
+2018,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6265,4.85,5.22,61,97%,3,0,1317,42,6,14,1255,97,18,0,1,39,14,1,4,9,1,10,0,2,2,8,88%,data
+2018,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6087,4.04,4.24,34,88%,1,0,1438,21,10,12,1395,76,13,1,0,21,6,0,2,4,0,10,0,5,5,6,83%,data
+2018,C,,League Average,,,,,League Average,6171,4.15,4.48,47,92%,1,0,1384,24,5,16,1339,85,17,1,1,31,9,0,3,6,1,9,0,1,2,11,85%,data
+2018,C,,,,,,,,185139,4.15,4.48,1417,92%,41,15,41520,721,143,475,40167,2539,510,35,21,926,273,12,77,184,19,269,9,38,70,339,85%,summary
+2019,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6230,4.25,4.56,35,97%,6,0,1413,21,5,14,1373,93,11,0,0,51,11,0,7,4,0,7,0,0,0,6,100%,data
+2019,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6243,4.2,4.61,38,89%,3,0,1401,13,2,14,1371,60,18,2,1,20,7,0,4,3,0,7,0,0,1,12,83%,data
+2019,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6396,5.67,6.12,38,89%,2,2,1271,23,6,12,1229,54,11,0,0,17,18,1,3,14,1,9,0,1,1,10,70%,data
+2019,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6400,4.7,5.07,34,94%,3,0,1609,20,5,19,1565,108,10,0,0,60,7,0,2,5,1,7,0,0,0,4,75%,data
+2019,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6190,4.1,4.48,46,85%,6,1,1444,16,4,22,1401,85,20,1,0,38,17,2,6,9,2,5,0,0,1,12,83%,data
+2019,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6159,4.91,5.3,37,89%,2,1,1335,24,9,11,1291,62,12,0,0,18,12,0,4,8,0,12,0,5,6,6,100%,data
+2019,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6057,4.18,4.45,48,94%,1,0,1554,23,4,11,1514,84,22,1,0,36,7,0,1,6,1,8,0,2,2,13,85%,data
+2019,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,6008,3.79,4.11,38,100%,0,0,1527,28,4,18,1477,73,11,0,0,29,5,0,0,5,0,14,0,1,1,4,100%,data
+2019,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6423,5.58,5.95,36,100%,0,1,1254,15,7,18,1212,104,22,1,2,47,4,1,0,3,0,14,0,4,5,14,100%,data
+2019,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6341,5.26,5.75,40,95%,1,0,1366,20,3,11,1332,79,16,0,0,34,6,0,2,4,1,5,0,0,1,8,100%,data
+2019,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,5995,3.66,3.94,31,97%,4,1,1670,16,5,9,1638,72,12,2,0,27,12,0,4,8,0,8,1,1,3,7,86%,data
+2019,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6307,5.2,5.49,32,88%,1,0,1242,16,4,16,1206,68,13,0,0,23,5,0,1,4,1,7,0,1,1,3,67%,data
+2019,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6289,5.12,5.41,28,93%,1,0,1380,20,2,11,1347,85,6,0,0,49,6,0,2,4,0,5,0,0,0,3,100%,data
+2019,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5913,3.39,3.82,60,88%,2,2,1539,24,3,15,1497,63,26,2,0,18,9,0,2,7,2,2,0,0,0,14,86%,data
+2019,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6247,4.74,5.03,56,89%,1,1,1396,29,3,19,1345,79,15,4,1,30,13,1,4,8,1,10,2,0,3,9,67%,data
+2019,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6251,4.4,4.72,52,88%,2,0,1532,29,3,11,1489,56,14,0,1,6,15,0,2,13,1,11,0,0,0,8,75%,data
+2019,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6246,4.18,4.64,54,96%,2,0,1486,32,0,19,1435,68,19,0,0,28,7,1,2,4,0,8,0,1,3,13,92%,data
+2019,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6232,4.25,4.54,49,94%,1,0,1535,19,1,12,1502,67,22,0,2,14,11,0,1,10,0,7,0,0,2,13,92%,data
+2019,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6133,4.31,4.61,39,87%,4,0,1549,27,6,13,1503,66,6,2,0,30,17,0,7,10,1,11,0,2,2,4,75%,data
+2019,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6153,3.97,4.18,33,94%,2,0,1304,22,4,13,1265,73,9,1,0,31,5,0,2,3,0,3,0,2,3,9,78%,data
+2019,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6274,4.53,4.92,46,93%,0,0,1430,25,7,19,1377,94,17,1,1,15,12,0,1,11,0,17,0,1,2,7,71%,data
+2019,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6391,5.19,5.69,62,92%,4,1,1475,23,4,24,1421,89,26,4,1,16,21,3,8,10,1,9,1,0,3,12,83%,data
+2019,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6160,4.63,4.96,56,84%,0,2,1475,21,3,9,1442,70,26,0,1,29,14,2,2,10,3,4,0,1,1,14,71%,data
+2019,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6268,5.0,5.58,43,93%,2,0,1253,20,3,10,1220,59,17,1,0,15,10,0,5,5,0,6,0,1,1,3,67%,data
+2019,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6256,4.38,4.74,57,93%,1,0,1377,21,3,16,1337,83,26,3,1,26,7,0,3,4,1,3,0,0,2,15,100%,data
+2019,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6068,3.82,4.13,28,96%,0,0,1416,13,4,16,1383,51,13,1,0,14,4,0,2,2,1,13,1,1,3,8,100%,data
+2019,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6086,3.67,4.0,42,95%,3,0,1640,32,4,12,1592,79,9,0,0,29,9,1,3,5,0,15,0,3,3,8,88%,data
+2019,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6354,5.09,5.5,40,88%,3,0,1391,25,4,8,1354,58,11,0,0,21,12,1,4,7,2,3,0,2,2,4,75%,data
+2019,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6313,4.79,5.17,47,98%,3,0,1351,33,6,15,1296,91,14,0,0,32,10,0,3,7,0,12,0,1,1,4,75%,data
+2019,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6134,4.28,4.53,52,92%,1,0,1528,26,2,18,1482,69,15,0,1,27,7,0,3,4,3,4,0,0,1,14,93%,data
+2019,C,,League Average,,,,,League Average,6217,4.51,4.86,43,92%,2,0,1438,23,4,14,1397,75,16,1,0,28,10,0,3,7,1,8,0,1,2,9,86%,data
+2019,C,,,,,,,,186517,4.51,4.86,1297,92%,61,12,43143,676,120,435,41896,2242,469,26,12,830,300,13,90,197,23,246,5,30,54,261,86%,summary
+2020,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,2279,4.84,5.12,11,91%,1,0,527,7,1,8,511,23,4,0,0,12,2,0,1,1,0,2,0,1,1,0,,data
+2020,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,2276,4.46,4.94,10,90%,0,0,515,6,4,4,501,10,2,0,0,3,4,0,0,4,0,1,0,0,0,1,0%,data
+2020,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,2246,4.51,5.1,12,100%,2,0,495,8,0,8,479,19,3,0,0,5,6,1,2,3,0,1,0,0,0,3,100%,data
+2020,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,2389,5.58,6.03,16,88%,0,0,544,9,0,5,529,27,5,0,0,7,2,0,1,1,1,3,0,0,0,2,50%,data
+2020,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,2153,3.99,4.17,8,88%,1,0,530,6,2,6,516,18,1,0,0,6,3,0,1,2,0,1,0,0,0,0,,data
+2020,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,2235,3.81,4.2,15,100%,3,0,532,7,1,6,517,20,6,1,0,3,6,2,3,1,0,2,0,0,0,2,100%,data
+2020,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,2125,3.89,4.34,11,100%,0,0,622,6,1,9,606,25,1,0,0,9,1,0,0,1,0,1,0,0,0,0,,data
+2020,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,2176,3.29,3.51,11,100%,4,0,614,7,3,2,602,41,3,2,0,19,6,0,4,2,0,2,0,1,1,1,100%,data
+2020,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,2335,5.59,6.04,11,100%,0,0,400,8,3,8,381,25,3,0,0,12,1,0,0,1,0,4,0,1,2,1,100%,data
+2020,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,2174,5.63,5.81,12,92%,1,0,455,10,1,5,439,13,1,0,0,5,1,0,1,0,0,1,0,0,1,1,0%,data
+2020,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,2239,4.31,4.72,8,100%,0,0,519,6,0,3,510,28,2,0,0,15,6,0,0,6,0,1,0,0,0,0,,data
+2020,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,2233,4.3,4.74,8,100%,0,0,520,6,2,5,507,15,1,1,0,9,2,0,0,2,0,1,0,0,1,0,,data
+2020,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,2256,5.09,5.5,15,100%,1,0,532,11,2,2,517,29,5,0,0,6,2,0,1,1,0,3,0,1,1,2,100%,data
+2020,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,2172,3.02,3.56,13,100%,0,0,527,8,1,5,513,17,5,0,0,3,2,0,0,2,0,3,0,0,0,2,100%,data
+2020,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,2214,4.86,5.43,13,92%,0,0,464,8,2,6,448,18,4,0,0,2,3,0,0,3,0,1,0,0,0,1,100%,data
+2020,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,2186,4.18,4.59,17,82%,1,0,628,9,3,5,611,22,5,0,0,2,5,0,1,4,0,3,0,0,0,0,,data
+2020,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,2130,3.58,3.77,20,95%,3,0,549,12,5,4,528,22,7,0,1,6,3,0,3,0,0,4,0,1,2,3,100%,data
+2020,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,2262,5.01,5.4,8,88%,0,1,582,7,0,5,570,13,0,0,0,3,2,0,0,2,0,3,0,0,0,1,0%,data
+2020,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,2133,4.35,4.85,14,79%,4,0,529,9,0,2,518,24,2,0,0,9,8,2,5,1,0,4,0,0,0,2,50%,data
+2020,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,2164,3.77,4.05,16,100%,1,0,515,11,1,3,500,21,6,0,0,5,2,0,1,1,0,1,0,1,1,3,100%,data
+2020,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,2197,5.2,5.63,14,93%,0,0,539,9,3,5,522,22,4,0,0,9,5,0,0,5,0,4,0,0,0,1,100%,data
+2020,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,2227,4.68,5.23,16,88%,3,0,543,5,4,11,523,33,7,0,0,13,6,0,4,2,0,5,0,0,0,3,67%,data
+2020,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,2160,3.87,4.17,18,94%,0,0,556,7,0,5,544,41,8,0,0,18,4,0,0,4,0,2,0,0,0,1,100%,data
+2020,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,2249,5.03,5.28,13,100%,1,0,480,11,2,2,465,13,3,0,0,4,2,0,1,1,0,2,0,1,2,0,,data
+2020,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,2240,4.64,5.16,14,93%,4,0,492,9,1,5,477,25,3,0,0,10,6,0,5,1,0,1,0,0,1,1,100%,data
+2020,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,1989,3.92,4.36,10,90%,3,0,466,7,0,5,454,24,2,0,0,10,6,0,3,3,0,1,0,0,1,2,50%,data
+2020,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,2212,3.56,3.91,16,100%,1,0,539,7,0,6,526,43,9,0,0,20,2,0,1,1,0,4,0,0,0,0,,data
+2020,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,2273,5.02,5.43,21,86%,1,0,501,11,4,3,483,24,8,0,0,6,5,0,2,3,2,2,0,1,1,4,100%,data
+2020,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,2309,4.63,5.35,21,95%,0,0,529,15,1,6,507,26,6,0,0,11,7,1,1,5,0,3,0,1,1,2,100%,data
+2020,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,2273,5.09,5.38,11,91%,0,0,500,6,0,1,493,25,3,1,0,12,2,0,1,1,0,2,0,0,0,1,100%,data
+2020,C,,League Average,,,,,League Average,2217,4.45,4.85,13,94%,1,0,525,8,2,5,510,24,4,0,0,8,4,0,1,2,0,2,0,0,1,1,83%,data
+2020,C,,,,,,,,66506,4.45,4.85,403,94%,35,1,15744,248,47,150,15297,706,119,5,1,254,112,6,42,64,3,68,0,9,16,40,83%,summary
+2021,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6270,5.15,5.67,45,91%,3,2,1253,23,2,13,1215,61,15,1,1,19,11,0,4,7,0,6,0,0,2,9,89%,data
+2021,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,5944,3.89,4.19,42,90%,2,1,1394,13,5,8,1368,80,24,0,1,44,5,0,2,3,0,1,0,1,1,18,78%,data
+2021,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6252,5.85,6.14,45,98%,0,0,1260,33,2,18,1207,60,9,0,1,22,5,0,0,5,0,3,0,0,0,6,100%,data
+2021,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6147,4.27,4.75,51,96%,0,0,1549,28,2,20,1499,71,19,0,0,27,9,0,2,7,1,7,0,0,2,5,100%,data
+2021,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6202,4.88,5.35,39,92%,4,0,1359,13,10,9,1327,77,23,1,1,26,9,0,5,4,0,12,0,2,4,9,89%,data
+2021,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,5861,3.73,4.08,45,93%,6,0,1597,27,2,16,1550,63,13,0,0,31,13,0,6,7,0,3,0,0,0,5,100%,data
+2021,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6199,4.41,4.77,43,98%,2,0,1541,23,3,22,1493,69,16,1,1,28,2,0,2,0,0,8,1,0,2,12,100%,data
+2021,C,CLE,Cleveland Indians,AL,American League,Central,AL Central,Cleveland Indians,5968,4.34,4.65,45,98%,3,0,1405,33,9,10,1352,70,9,1,1,36,9,2,4,3,0,10,0,3,4,3,100%,data
+2021,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6044,4.83,5.13,41,95%,1,0,1280,17,5,14,1244,76,20,1,2,19,7,0,2,5,0,7,1,2,3,16,94%,data
+2021,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6164,4.32,4.79,44,98%,2,0,1290,30,4,9,1246,63,14,0,0,12,10,2,5,3,1,8,0,0,1,4,100%,data
+2021,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6060,3.8,4.1,48,98%,0,0,1488,37,3,13,1434,59,9,1,0,18,10,1,1,8,0,10,0,0,1,5,100%,data
+2021,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6127,4.64,5.0,34,91%,1,0,1351,24,4,20,1303,82,8,0,1,40,7,0,2,5,0,12,0,2,4,5,100%,data
+2021,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6196,4.69,5.09,45,93%,2,0,1467,25,2,14,1425,61,15,0,0,23,16,2,3,11,0,6,0,1,1,7,86%,data
+2021,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5948,3.03,3.48,43,95%,4,1,1619,26,5,10,1578,58,14,0,0,16,12,0,6,6,0,4,0,0,0,3,100%,data
+2021,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6027,3.96,4.46,47,89%,1,0,1413,25,5,21,1362,59,17,1,0,17,10,0,4,6,0,7,0,2,2,12,75%,data
+2021,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,5990,3.5,3.9,52,88%,3,1,1620,16,3,11,1590,86,28,1,0,26,9,1,3,5,0,3,0,0,0,14,86%,data
+2021,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6080,4.83,5.29,33,94%,3,0,1329,19,0,20,1290,58,12,0,0,24,8,1,4,3,1,7,0,0,0,5,100%,data
+2021,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,5785,3.9,4.36,41,88%,5,3,1470,16,4,8,1442,68,19,2,0,9,13,0,7,6,0,8,0,2,2,11,73%,data
+2021,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,5999,3.76,4.19,53,96%,3,0,1578,35,5,9,1529,75,15,0,0,36,9,0,4,5,0,2,0,0,0,5,100%,data
+2021,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6060,4.02,4.31,44,93%,3,0,1344,21,1,12,1310,61,18,0,0,20,11,1,5,5,1,6,0,0,1,5,80%,data
+2021,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6055,4.39,4.73,42,95%,0,0,1504,24,6,13,1460,52,16,1,1,18,3,0,1,2,0,6,0,2,3,9,89%,data
+2021,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6140,5.08,5.37,49,96%,0,0,1336,22,8,14,1291,69,26,0,0,20,8,0,0,8,0,6,0,3,4,6,100%,data
+2021,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6056,4.1,4.46,29,97%,1,0,1516,11,3,12,1490,58,16,0,0,25,3,0,1,2,0,7,0,1,2,5,100%,data
+2021,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6106,4.3,4.67,37,92%,3,0,1342,24,1,8,1309,48,11,0,0,17,11,0,7,4,0,2,0,0,0,5,80%,data
+2021,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6002,3.25,3.67,41,100%,3,0,1445,20,2,14,1409,50,20,0,0,16,7,2,3,2,0,5,0,0,0,5,100%,data
+2021,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6046,4.0,4.27,40,95%,0,0,1244,16,3,22,1203,70,19,2,1,18,6,0,2,4,0,14,1,0,6,13,100%,data
+2021,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5998,3.67,4.02,32,94%,0,0,1478,22,3,18,1435,70,8,0,0,40,9,1,2,6,0,3,0,0,1,4,100%,data
+2021,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6103,4.8,5.15,43,93%,3,0,1261,24,3,15,1219,56,16,0,0,18,9,0,5,4,1,6,0,0,0,7,86%,data
+2021,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,5916,3.91,4.25,40,93%,0,0,1489,28,0,16,1444,56,9,0,0,22,5,0,0,5,0,6,0,0,0,3,67%,data
+2021,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6073,4.82,5.29,50,98%,4,0,1358,26,4,12,1316,89,23,0,0,29,13,0,4,9,0,9,0,1,1,14,93%,data
+2021,C,,League Average,,,,,League Average,6061,4.27,4.65,43,94%,2,0,1419,23,4,14,1378,66,16,0,0,24,9,0,3,5,0,6,0,1,2,8,90%,data
+2021,C,,,,,,,,181818,4.27,4.65,1283,94%,62,8,42580,701,109,421,41340,1975,481,13,11,716,259,13,96,150,5,194,3,22,47,230,90%,summary
+2022,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6065,4.25,4.66,47,98%,4,0,1231,32,0,11,1188,67,12,0,0,26,9,0,5,4,0,7,0,0,0,11,100%,data
+2022,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6031,3.46,3.79,27,100%,1,0,1571,17,2,9,1543,35,10,0,0,10,11,0,1,10,0,3,0,0,1,3,100%,data
+2022,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6058,3.97,4.32,47,98%,6,0,1250,26,7,16,1201,60,19,1,0,11,14,0,6,8,0,5,1,1,2,2,100%,data
+2022,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6167,4.53,4.95,43,93%,0,0,1358,26,3,6,1323,66,14,0,0,21,9,0,1,8,1,7,0,1,1,4,50%,data
+2022,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6162,4.03,4.56,41,90%,3,0,1381,22,2,22,1335,91,12,2,0,44,13,0,6,7,0,14,1,1,3,2,100%,data
+2022,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6145,3.94,4.46,40,93%,2,0,1471,24,4,17,1425,62,11,0,0,24,9,0,3,6,0,8,0,2,2,5,100%,data
+2022,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6220,4.86,5.15,45,93%,1,0,1452,31,1,20,1399,58,11,0,0,13,6,0,2,4,0,5,0,0,0,2,100%,data
+2022,C,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,5989,3.47,3.92,34,97%,0,0,1410,25,5,17,1362,63,8,1,0,24,5,0,0,5,0,7,0,1,1,5,80%,data
+2022,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6240,5.08,5.51,34,97%,2,1,1180,19,3,12,1146,83,14,0,0,37,17,1,2,14,0,5,0,1,1,5,100%,data
+2022,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6047,4.04,4.52,21,81%,1,0,1203,14,2,10,1177,53,3,0,0,16,10,1,3,6,0,5,0,0,0,2,50%,data
+2022,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,5856,2.9,3.23,52,94%,0,1,1553,36,1,20,1496,67,11,2,0,24,8,0,1,7,1,6,0,0,0,4,100%,data
+2022,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6249,4.72,5.15,40,98%,0,0,1209,17,3,18,1171,66,18,0,2,18,9,1,1,7,0,6,0,0,1,8,100%,data
+2022,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6038,3.79,4.19,37,97%,2,0,1405,26,4,12,1362,45,11,0,1,16,8,1,2,5,0,8,0,2,2,4,100%,data
+2022,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5865,2.8,3.18,56,95%,0,0,1494,37,2,10,1445,45,17,0,0,16,7,0,1,6,1,9,0,1,2,1,100%,data
+2022,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6056,3.87,4.23,29,90%,0,0,1460,14,6,16,1424,51,8,2,0,12,2,0,0,2,0,5,1,0,2,4,50%,data
+2022,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6057,3.83,4.28,44,86%,6,1,1525,20,2,11,1492,75,17,0,0,32,9,0,6,3,0,8,0,2,2,2,50%,data
+2022,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6042,3.98,4.28,42,98%,1,0,1374,26,7,23,1318,55,16,0,0,18,9,0,1,8,0,6,0,2,2,4,100%,data
+2022,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,5950,3.58,3.79,30,83%,4,0,1583,15,4,9,1554,51,11,1,0,8,10,0,4,6,0,9,0,2,4,3,0%,data
+2022,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,5938,3.3,3.52,51,98%,9,0,1506,34,9,16,1447,53,15,1,0,10,11,0,9,2,0,3,0,2,2,5,100%,data
+2022,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6121,4.54,4.86,43,95%,2,0,1222,26,6,12,1177,67,14,1,0,22,10,0,3,7,0,9,0,1,1,4,100%,data
+2022,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6006,3.98,4.32,31,84%,0,1,1437,14,3,11,1409,59,9,1,1,11,11,1,1,9,0,12,0,1,1,6,67%,data
+2022,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6263,4.66,5.17,39,85%,4,0,1278,20,9,20,1229,62,12,0,0,17,17,0,8,9,2,5,0,1,1,5,60%,data
+2022,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6047,3.81,4.12,37,97%,2,0,1458,21,2,12,1423,56,13,3,1,26,9,1,2,6,0,7,0,1,3,4,75%,data
+2022,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,5986,3.59,3.87,42,93%,1,0,1424,30,2,15,1377,49,7,0,0,13,8,0,2,6,1,4,0,0,0,5,80%,data
+2022,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6070,3.86,4.38,45,93%,5,0,1379,16,2,17,1344,77,23,2,0,26,16,0,8,8,0,5,1,0,1,4,100%,data
+2022,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6014,3.79,3.99,32,94%,3,0,1200,20,1,25,1154,57,10,0,0,21,9,0,5,4,0,12,0,0,0,1,0%,data
+2022,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5930,3.41,3.85,35,100%,7,0,1400,28,2,10,1360,56,5,0,1,21,9,0,7,2,0,2,0,1,1,2,100%,data
+2022,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6167,4.22,4.66,43,95%,3,0,1337,27,1,17,1291,62,14,0,0,19,13,1,4,8,0,3,0,0,1,7,71%,data
+2022,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6053,3.89,4.24,33,94%,4,0,1404,20,4,10,1369,71,14,0,0,18,14,0,6,8,1,11,0,4,3,1,100%,data
+2022,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6220,5.0,5.45,50,90%,1,0,1248,34,3,10,1199,59,11,0,0,20,9,0,3,6,1,7,0,0,0,6,50%,data
+2022,C,,League Average,,,,,League Average,6068,3.97,4.35,40,94%,2,0,1380,24,3,14,1338,61,12,1,0,20,10,0,3,6,0,7,0,1,1,4,82%,data
+2022,C,,,,,,,,182052,3.97,4.35,1190,94%,74,4,41403,717,102,434,40140,1821,370,17,6,594,301,7,103,191,8,203,4,27,40,121,82%,summary
+2023,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6100,4.48,4.77,43,100%,1,0,1368,33,0,12,1323,80,9,0,1,26,7,0,1,6,0,8,0,0,0,4,100%,data
+2023,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6135,4.14,4.48,24,100%,3,0,1535,13,2,13,1507,42,11,0,0,6,15,0,6,9,0,3,0,1,2,0,,data
+2023,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6098,3.91,4.2,40,95%,2,0,1443,18,4,15,1406,68,18,0,0,22,9,0,2,7,0,7,0,0,1,5,80%,data
+2023,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6168,4.52,4.88,50,94%,5,1,1459,29,8,15,1407,66,20,1,0,13,14,0,5,9,0,8,1,2,5,4,75%,data
+2023,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6085,4.09,4.53,31,94%,1,0,1377,16,1,19,1341,74,10,0,0,34,12,0,1,11,1,12,0,0,2,6,100%,data
+2023,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6301,4.88,5.29,30,80%,3,0,1481,17,6,12,1446,64,8,0,0,19,13,0,4,9,1,6,0,1,1,3,33%,data
+2023,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6310,4.83,5.13,40,98%,3,0,1418,26,1,22,1368,55,12,0,0,11,11,1,3,7,0,3,0,0,0,5,100%,data
+2023,C,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,6144,3.97,4.34,32,100%,5,0,1338,25,4,25,1282,66,8,0,0,28,11,1,5,5,0,6,0,1,1,0,,data
+2023,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6316,5.68,6.09,30,93%,2,0,1158,15,5,24,1113,67,13,2,0,12,14,0,3,11,0,13,0,2,3,7,86%,data
+2023,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6073,4.24,4.62,34,97%,7,0,1390,18,0,12,1360,57,13,1,1,11,10,0,8,2,0,5,0,0,1,6,100%,data
+2023,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6110,3.94,4.35,41,90%,2,0,1466,27,2,15,1422,79,10,1,0,36,15,0,4,11,0,7,0,2,2,4,100%,data
+2023,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6139,5.17,5.49,33,94%,7,0,1297,18,6,18,1255,54,16,0,0,13,12,0,7,5,0,7,0,3,3,7,71%,data
+2023,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6305,4.64,5.21,35,100%,5,0,1470,27,4,11,1427,41,8,0,0,17,13,0,7,6,0,4,0,1,2,3,100%,data
+2023,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6018,4.06,4.35,38,97%,4,0,1420,28,3,13,1376,42,9,0,0,8,7,0,4,3,0,4,0,0,1,6,83%,data
+2023,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6091,4.21,4.53,45,93%,3,0,1514,28,3,12,1471,53,11,2,0,19,18,0,5,13,0,5,0,0,0,3,100%,data
+2023,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,5990,3.73,4.04,42,95%,6,0,1451,31,2,13,1404,46,10,0,0,17,12,0,6,6,0,7,0,1,2,4,75%,data
+2023,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6028,3.87,4.09,28,93%,1,0,1570,20,6,13,1531,60,10,1,0,26,12,0,2,10,1,14,1,5,7,4,100%,data
+2023,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6115,4.3,4.63,40,85%,2,0,1406,20,5,8,1372,62,15,1,0,21,20,0,5,15,0,6,0,2,2,5,80%,data
+2023,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6078,3.97,4.36,39,97%,6,0,1470,26,4,7,1433,40,12,0,0,3,15,0,6,9,0,4,0,0,0,4,100%,data
+2023,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6384,5.48,5.86,34,97%,4,0,1314,25,4,9,1276,69,11,0,0,24,13,0,4,9,0,7,0,2,2,3,100%,data
+2023,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6074,4.03,4.46,36,97%,0,0,1484,21,5,12,1444,41,7,4,0,8,7,0,0,7,0,13,2,1,3,7,86%,data
+2023,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6238,4.61,4.97,36,92%,5,0,1385,23,5,8,1348,46,10,1,0,14,13,0,5,8,0,7,0,2,2,7,86%,data
+2023,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6082,3.73,4.05,44,93%,3,1,1443,18,6,12,1407,86,22,0,2,37,11,1,3,7,1,6,0,2,5,3,67%,data
+2023,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6006,3.74,4.09,35,91%,0,0,1489,26,5,8,1450,44,7,0,0,8,13,0,1,12,0,7,0,1,1,2,50%,data
+2023,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6039,4.02,4.51,48,85%,7,1,1372,13,2,19,1338,79,23,1,0,17,20,0,7,13,1,3,0,0,1,4,50%,data
+2023,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6273,4.83,5.22,37,95%,3,0,1238,18,7,20,1193,58,15,1,1,18,9,0,3,6,0,10,0,2,4,6,67%,data
+2023,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5994,3.87,4.15,30,87%,2,1,1504,18,5,9,1472,68,10,0,0,30,11,1,2,8,0,6,0,2,2,5,60%,data
+2023,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6025,4.28,4.49,37,95%,1,0,1380,29,3,12,1336,51,8,0,0,12,5,0,1,4,0,9,0,2,2,4,75%,data
+2023,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6100,3.79,4.16,33,91%,2,0,1537,14,2,12,1509,59,13,0,1,18,12,0,4,8,0,5,0,0,1,1,100%,data
+2023,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6285,5.02,5.32,28,82%,1,0,1246,15,9,14,1208,46,7,0,0,15,11,0,2,9,0,7,0,1,2,2,100%,data
+2023,C,,League Average,,,,,League Average,6137,4.33,4.69,36,93%,3,0,1414,22,4,14,1374,59,12,1,0,18,12,0,4,8,0,7,0,1,2,4,83%,data
+2023,C,,,,,,,,184104,4.33,4.69,1093,93%,96,4,42423,655,119,414,41225,1763,356,16,6,543,365,4,116,245,5,209,4,36,60,124,83%,summary
+2024,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6195,4.63,4.91,31,100%,4,0,1335,20,8,13,1294,54,10,0,1,18,8,0,4,4,0,7,0,1,2,5,100%,data
+2024,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,5978,3.49,3.78,28,96%,1,0,1556,10,1,17,1528,59,11,0,0,24,8,0,1,7,0,6,0,0,1,4,100%,data
+2024,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6071,3.94,4.36,48,90%,1,1,1402,27,3,16,1356,65,12,0,1,21,12,2,1,9,0,6,0,0,0,3,100%,data
+2024,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6154,4.05,4.63,49,86%,2,1,1395,28,5,18,1344,54,14,1,0,7,13,0,5,8,1,6,1,1,2,5,80%,data
+2024,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6032,3.79,4.2,38,92%,4,0,1371,25,6,10,1330,52,9,0,0,17,8,0,4,4,0,4,0,0,0,5,60%,data
+2024,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6241,4.67,5.15,41,93%,3,0,1398,30,2,13,1353,54,8,1,0,13,8,0,3,5,1,5,0,1,3,1,100%,data
+2024,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6064,4.09,4.37,37,92%,1,0,1391,29,1,10,1350,56,4,0,0,18,5,0,1,4,0,4,0,0,1,5,40%,data
+2024,C,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,5923,3.61,3.91,47,98%,2,0,1446,31,4,16,1395,53,15,0,0,13,9,0,2,7,0,6,0,2,3,5,100%,data
+2024,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6322,5.48,5.86,29,90%,2,0,1127,15,3,11,1098,65,12,0,0,17,12,1,4,7,0,3,0,1,1,2,50%,data
+2024,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,5969,3.63,3.99,35,100%,2,0,1373,24,2,9,1337,63,10,1,0,15,6,0,2,4,0,11,1,0,1,4,100%,data
+2024,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6018,3.75,4.08,36,83%,4,0,1491,18,1,11,1461,63,11,0,0,15,9,0,4,5,1,6,0,0,0,4,75%,data
+2024,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6007,3.76,4.06,40,95%,3,0,1364,23,3,13,1325,60,14,0,0,14,10,0,3,7,0,9,0,0,1,5,80%,data
+2024,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6146,4.57,5.01,31,100%,3,0,1275,25,3,12,1235,51,5,1,0,16,10,0,3,7,0,1,0,0,1,3,100%,data
+2024,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6047,3.92,4.27,45,89%,7,0,1400,25,2,7,1365,70,13,0,0,23,13,0,7,6,3,5,0,0,0,6,83%,data
+2024,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6269,4.75,5.27,42,95%,1,0,1362,28,5,26,1302,67,11,0,0,14,16,0,2,14,1,8,0,0,0,6,83%,data
+2024,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6076,3.65,3.99,40,93%,6,0,1403,25,1,15,1362,50,8,0,0,10,15,0,8,7,1,4,0,0,0,7,86%,data
+2024,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6078,4.26,4.59,43,93%,4,0,1521,25,3,12,1481,60,12,1,1,18,10,1,4,5,0,2,0,0,2,7,71%,data
+2024,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6098,3.96,4.35,35,89%,6,0,1478,21,5,10,1441,59,11,0,0,11,17,0,6,11,0,7,0,3,3,5,60%,data
+2024,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6131,3.76,4.14,42,88%,4,1,1485,22,0,14,1449,56,13,0,1,6,17,0,6,11,0,7,0,0,1,4,75%,data
+2024,C,OAK,Oakland Athletics,AL,American League,West,AL West,Oakland Athletics,6161,4.37,4.79,48,96%,1,0,1299,32,6,16,1245,64,13,0,0,18,9,0,1,8,0,7,0,1,1,6,83%,data
+2024,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6050,3.86,4.19,38,95%,1,0,1457,21,2,15,1418,58,14,0,1,12,9,0,2,7,0,10,0,1,2,6,83%,data
+2024,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6159,4.17,4.62,31,97%,7,0,1385,22,1,17,1345,43,7,0,0,9,13,1,7,5,1,6,0,0,0,3,100%,data
+2024,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6029,3.86,4.18,35,97%,9,0,1474,24,5,10,1435,47,10,0,0,17,13,1,9,3,0,1,0,0,0,2,100%,data
+2024,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,5801,3.49,3.81,21,90%,1,0,1412,18,1,7,1386,63,1,0,0,26,7,0,1,6,0,10,0,1,1,2,100%,data
+2024,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6095,4.1,4.39,37,92%,4,0,1443,13,3,13,1414,77,23,0,0,21,13,0,4,9,0,7,0,2,2,6,67%,data
+2024,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6044,4.06,4.48,45,93%,2,0,1324,22,3,16,1283,66,15,1,1,24,9,0,2,7,0,4,0,0,0,4,75%,data
+2024,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,6022,3.78,4.14,49,96%,5,0,1442,33,3,13,1393,53,15,0,0,12,17,1,6,10,0,4,0,1,1,5,80%,data
+2024,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6108,4.37,4.65,48,96%,3,0,1404,30,3,14,1357,48,16,0,0,11,10,0,3,7,0,7,0,0,0,6,100%,data
+2024,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6047,4.29,4.68,31,87%,4,0,1335,20,5,13,1297,69,8,1,0,15,11,0,7,4,1,7,0,1,1,2,50%,data
+2024,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6114,4.3,4.79,36,97%,3,0,1343,17,8,22,1295,57,15,1,0,17,8,0,3,5,0,11,1,1,2,6,83%,data
+2024,C,,League Average,,,,,League Average,6082,4.08,4.46,39,93%,3,0,1396,23,3,14,1356,59,11,0,0,16,11,0,4,7,0,6,0,1,1,4,81%,data
+2024,C,,,,,,,,182449,4.08,4.46,1156,93%,100,3,41891,703,98,409,40674,1756,340,8,6,472,325,7,115,203,10,181,3,17,32,134,81%,summary
+2025,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6183,4.49,4.89,28,93%,2,0,1298,13,1,17,1266,59,12,1,0,20,5,0,2,3,0,8,0,0,0,7,71%,data
+2025,C,ATH,Athletics,AL,American League,West,AL West,Athletics,6232,4.71,5.11,58,90%,2,0,1371,40,5,14,1310,61,12,1,0,13,13,1,5,7,0,4,0,1,1,5,80%,data
+2025,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6116,4.36,4.59,40,88%,0,0,1440,16,5,16,1403,65,17,0,0,13,6,0,0,6,0,7,0,2,3,4,75%,data
+2025,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6166,4.62,4.95,40,93%,3,1,1383,26,4,14,1339,57,12,1,0,11,13,1,3,9,0,8,0,1,1,5,40%,data
+2025,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6150,3.72,4.2,50,92%,10,0,1388,29,2,17,1340,80,15,0,0,20,16,0,10,6,0,3,0,0,1,7,57%,data
+2025,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,5904,3.81,4.07,37,92%,2,0,1302,28,4,15,1255,45,6,1,0,10,4,0,2,2,0,7,0,2,2,2,50%,data
+2025,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6124,4.28,4.72,41,90%,6,0,1316,27,2,16,1271,55,8,0,0,11,13,1,6,6,1,5,0,0,0,4,100%,data
+2025,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6035,3.86,4.27,40,95%,4,0,1420,26,6,17,1371,49,9,1,1,7,7,0,5,2,0,8,0,0,2,5,80%,data
+2025,C,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,6054,3.7,4.05,45,98%,1,0,1412,34,4,23,1351,79,9,2,0,28,8,1,1,6,0,12,0,2,4,1,100%,data
+2025,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6367,5.99,6.53,35,80%,5,0,1111,16,4,12,1079,60,12,0,0,14,19,0,8,11,1,4,0,0,0,6,50%,data
+2025,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6034,3.97,4.33,44,91%,4,0,1410,29,4,12,1365,54,11,0,0,8,12,0,5,7,0,5,0,2,2,5,40%,data
+2025,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6041,3.86,4.15,49,98%,4,1,1537,35,2,18,1482,54,11,0,1,19,10,0,4,6,0,5,0,0,0,3,100%,data
+2025,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,5997,3.73,3.99,39,97%,2,0,1292,28,2,12,1250,59,11,0,0,21,2,0,1,1,0,4,0,1,1,4,100%,data
+2025,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6255,4.89,5.26,34,85%,2,0,1299,21,4,12,1261,51,9,0,0,15,8,0,3,5,0,8,0,1,3,4,50%,data
+2025,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,6077,3.95,4.27,42,88%,0,0,1527,27,3,12,1485,60,10,0,1,17,5,0,1,4,1,10,0,1,2,8,75%,data
+2025,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6185,4.6,4.98,31,87%,4,0,1309,15,6,18,1270,56,12,0,0,17,16,0,6,10,0,6,0,2,3,3,67%,data
+2025,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,6041,3.59,3.96,60,98%,4,0,1483,41,5,17,1419,55,14,1,0,11,7,0,4,3,0,8,1,0,1,5,80%,data
+2025,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6116,4.55,4.88,59,92%,1,1,1414,42,6,14,1352,61,12,0,0,18,12,0,2,10,0,6,0,0,0,6,100%,data
+2025,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6153,4.04,4.49,40,95%,7,0,1413,20,1,22,1370,76,15,1,1,14,14,1,8,5,0,9,0,0,0,3,100%,data
+2025,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,6080,3.91,4.28,35,80%,5,1,1457,20,2,12,1423,42,7,0,0,14,8,0,6,2,0,5,0,1,1,6,67%,data
+2025,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6026,3.79,4.05,27,96%,0,0,1493,20,1,12,1459,51,4,1,0,12,8,0,1,7,0,11,0,0,0,2,100%,data
+2025,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,5982,3.76,4.06,38,95%,1,0,1348,24,3,21,1300,52,8,1,2,11,8,0,2,6,0,10,0,0,1,5,80%,data
+2025,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,5981,3.64,3.9,59,92%,3,0,1471,31,5,17,1418,51,24,0,0,4,13,0,6,7,0,5,0,1,1,3,100%,data
+2025,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6134,3.87,4.27,40,93%,2,0,1446,19,2,10,1414,53,19,0,0,10,7,0,2,5,1,3,0,0,0,5,100%,data
+2025,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6095,3.84,4.29,37,97%,1,0,1366,14,5,13,1334,73,22,0,1,20,10,1,1,8,0,11,0,2,4,8,100%,data
+2025,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6120,4.3,4.74,32,88%,5,1,1219,17,8,12,1182,71,12,0,0,24,11,0,6,5,1,6,0,1,1,4,75%,data
+2025,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5960,3.94,4.29,33,94%,3,0,1437,22,5,10,1400,57,12,0,0,14,10,0,4,6,1,5,0,3,3,0,,data
+2025,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,5942,3.49,3.77,46,98%,1,0,1388,28,5,15,1339,44,16,1,0,5,6,0,1,5,0,6,0,1,1,6,83%,data
+2025,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6089,4.19,4.51,39,92%,2,0,1460,23,6,15,1416,65,13,0,1,11,17,0,2,15,0,6,0,2,2,3,67%,data
+2025,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6287,5.35,5.68,40,95%,2,0,1275,19,1,19,1235,68,18,0,0,12,11,0,2,9,0,8,0,0,0,4,75%,data
+2025,C,,League Average,,,,,League Average,6098,4.16,4.52,41,92%,3,0,1383,25,4,15,1339,59,12,0,0,14,10,0,4,6,0,7,0,1,1,4,77%,data
+2025,C,,,,,,,,182926,4.16,4.52,1238,92%,88,5,41485,750,113,454,40159,1763,372,12,8,424,299,6,109,184,6,203,1,26,40,133,77%,summary
+2026,C,ARI,Arizona Diamondbacks,NL,National League,West,NL West,Arizona Diamondbacks,6110,4.19,4.56,49,98%,4,0,1181,33,2,15,1131,52,12,2,1,8,7,0,4,3,0,7,0,0,1,8,88%,data
+2026,C,ATH,Athletics,AL,American League,West,AL West,Athletics,6390,5.53,5.9,59,90%,3,0,1385,33,4,9,1339,73,19,1,0,17,8,0,4,4,0,6,0,0,0,6,50%,data
+2026,C,ATL,Atlanta Braves,NL,National League,East,NL East,Atlanta Braves,6037,3.63,3.92,27,96%,3,0,1367,15,4,15,1333,48,12,0,1,16,9,0,4,5,0,7,0,2,3,5,80%,data
+2026,C,BAL,Baltimore Orioles,AL,American League,East,AL East,Baltimore Orioles,6152,4.09,4.63,37,86%,3,0,1324,22,3,15,1284,72,9,0,0,21,10,0,3,7,0,9,0,0,0,3,67%,data
+2026,C,BOS,Boston Red Sox,AL,American League,East,AL East,Boston Red Sox,6028,3.54,3.82,51,88%,1,0,1427,28,2,28,1369,68,15,1,1,25,9,0,1,8,0,2,0,0,1,10,80%,data
+2026,C,CHC,Chicago Cubs,NL,National League,Central,NL Central,Chicago Cubs,6062,4.12,4.37,38,100%,1,0,1294,29,4,11,1250,48,10,1,0,10,8,0,1,7,0,7,0,1,1,2,100%,data
+2026,C,CHW,Chicago White Sox,AL,American League,Central,AL Central,Chicago White Sox,6167,4.12,4.5,40,95%,5,0,1355,29,2,13,1311,73,8,0,0,22,14,0,7,7,0,2,0,0,2,6,83%,data
+2026,C,CIN,Cincinnati Reds,NL,National League,Central,NL Central,Cincinnati Reds,6349,4.84,5.19,35,100%,9,0,1326,24,14,14,1274,62,13,0,0,19,14,0,9,5,0,8,0,3,4,4,100%,data
+2026,C,CLE,Cleveland Guardians,AL,American League,Central,AL Central,Cleveland Guardians,6084,3.77,4.18,49,88%,0,0,1555,25,7,14,1508,61,16,1,0,20,10,0,1,9,1,7,1,0,1,6,83%,data
+2026,C,COL,Colorado Rockies,NL,National League,West,NL West,Colorado Rockies,6366,5.59,5.98,31,97%,2,0,1136,19,1,13,1103,41,10,1,0,6,18,0,3,15,0,5,0,0,1,2,100%,data
+2026,C,DET,Detroit Tigers,AL,American League,Central,AL Central,Detroit Tigers,6006,3.67,4.09,32,97%,0,0,1339,18,3,20,1298,57,14,1,0,13,7,0,2,5,0,5,0,2,3,5,100%,data
+2026,C,HOU,Houston Astros,AL,American League,West,AL West,Houston Astros,6179,4.47,4.8,45,96%,0,0,1452,37,2,13,1400,54,7,0,0,11,6,0,0,6,0,6,0,1,1,5,80%,data
+2026,C,KCR,Kansas City Royals,AL,American League,Central,AL Central,Kansas City Royals,6170,4.78,5.12,45,91%,0,0,1204,32,1,15,1156,57,9,0,0,16,9,0,1,8,0,2,0,0,1,4,75%,data
+2026,C,LAA,Los Angeles Angels,AL,American League,West,AL West,Los Angeles Angels,6195,4.3,4.73,28,96%,3,0,1461,14,9,19,1419,65,15,1,0,20,10,0,3,7,0,6,0,1,3,1,100%,data
+2026,C,LAD,Los Angeles Dodgers,NL,National League,West,NL West,Los Angeles Dodgers,5921,3.55,3.76,39,90%,0,1,1552,29,0,17,1506,40,5,0,0,13,4,0,0,4,0,1,0,0,1,6,83%,data
+2026,C,MIA,Miami Marlins,NL,National League,East,NL East,Miami Marlins,6084,4.1,4.49,51,90%,3,0,1348,31,9,10,1298,84,16,0,1,23,20,2,4,14,0,8,0,2,2,10,70%,data
+2026,C,MIL,Milwaukee Brewers,NL,National League,Central,NL Central,Milwaukee Brewers,5991,3.51,3.84,30,87%,1,0,1547,18,0,11,1518,61,7,0,0,26,3,1,1,1,0,2,0,0,1,5,80%,data
+2026,C,MIN,Minnesota Twins,AL,American League,Central,AL Central,Minnesota Twins,6234,4.56,5.0,40,90%,4,0,1409,26,6,14,1363,41,11,0,0,13,9,0,4,5,0,4,0,1,2,5,40%,data
+2026,C,NYM,New York Mets,NL,National League,East,NL East,New York Mets,6158,4.15,4.56,39,97%,1,0,1479,21,5,15,1438,62,17,0,0,11,9,1,1,7,0,7,0,2,2,9,89%,data
+2026,C,NYY,New York Yankees,AL,American League,East,AL East,New York Yankees,5973,3.24,3.75,34,94%,7,0,1460,18,5,10,1427,57,15,0,0,23,13,0,7,6,0,8,0,1,2,2,50%,data
+2026,C,PHI,Philadelphia Phillies,NL,National League,East,NL East,Philadelphia Phillies,6124,4.04,4.37,38,97%,1,0,1599,23,5,5,1566,55,13,1,0,11,9,0,1,8,0,2,0,1,1,5,100%,data
+2026,C,PIT,Pittsburgh Pirates,NL,National League,Central,NL Central,Pittsburgh Pirates,6188,4.15,4.6,42,95%,4,0,1538,29,8,17,1484,44,9,1,0,6,11,0,5,6,1,9,0,1,2,5,80%,data
+2026,C,SDP,San Diego Padres,NL,National League,West,NL West,San Diego Padres,6072,4.0,4.27,39,97%,4,0,1341,24,3,17,1296,77,10,2,1,16,13,0,5,8,0,10,2,0,2,1,100%,data
+2026,C,SEA,Seattle Mariners,AL,American League,West,AL West,Seattle Mariners,6047,4.2,4.54,38,95%,2,0,1423,22,4,20,1377,54,12,0,1,13,9,1,2,6,0,10,0,0,1,6,83%,data
+2026,C,SFG,San Francisco Giants,NL,National League,West,NL West,San Francisco Giants,6167,4.34,4.78,34,88%,3,0,1213,9,5,12,1187,67,21,1,0,15,14,0,3,11,1,6,0,2,2,10,80%,data
+2026,C,STL,St. Louis Cardinals,NL,National League,Central,NL Central,St. Louis Cardinals,6204,4.27,4.67,40,80%,7,0,1294,26,4,12,1252,64,7,0,0,24,15,0,8,7,0,7,0,2,2,8,38%,data
+2026,C,TBR,Tampa Bay Rays,AL,American League,East,AL East,Tampa Bay Rays,5939,3.72,4.05,42,83%,2,0,1353,24,1,13,1315,50,10,1,0,7,14,0,3,11,1,3,0,0,1,9,44%,data
+2026,C,TEX,Texas Rangers,AL,American League,West,AL West,Texas Rangers,6085,4.33,4.56,51,94%,5,0,1372,27,5,17,1323,53,18,0,1,12,20,0,5,15,0,5,0,1,2,11,91%,data
+2026,C,TOR,Toronto Blue Jays,AL,American League,East,AL East,Toronto Blue Jays,6097,3.9,4.35,65,91%,4,0,1437,28,6,12,1390,97,31,0,1,19,16,1,6,9,1,10,0,1,1,13,77%,data
+2026,C,WSN,Washington Nationals,NL,National League,East,NL East,Washington Nationals,6270,4.68,5.1,40,90%,3,0,1305,23,2,18,1262,53,8,1,0,14,6,1,3,2,0,6,0,0,0,6,67%,data
+2026,C,,League Average,,,,,League Average,6128,4.18,4.55,41,92%,3,0,1383,25,4,14,1339,60,13,1,0,16,11,0,3,7,0,6,0,1,2,6,76%,data
+2026,C,,,,,,,,183849,4.18,4.55,1228,92%,85,1,41476,736,126,434,40177,1790,379,16,8,470,324,7,101,216,5,177,3,24,46,178,76%,summary
