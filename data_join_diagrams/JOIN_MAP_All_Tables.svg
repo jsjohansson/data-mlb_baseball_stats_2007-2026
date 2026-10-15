@@ -1,0 +1,1003 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1424" height="6741" viewBox="0 0 1424 6741">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0E2542"/><stop offset="100%" stop-color="#091A2E"/></linearGradient><pattern id="stitch" width="18" height="18" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><path d="M0 9 h18" stroke="#C8102E" stroke-width="1.1" stroke-dasharray="4 6" opacity="0.32"/></pattern></defs>
+<rect x="0.0" y="0.0" width="1424.0" height="6741.0" rx="0" fill="#FBF7EF"/>
+<rect x="0.0" y="0.0" width="1424.0" height="154.0" rx="0" fill="url(#sky)"/>
+<rect x="0.0" y="0.0" width="1424.0" height="154.0" rx="0" fill="url(#stitch)"/>
+<text x="50.0" y="58.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="36" fill="#FFFFFF" font-weight="bold" text-anchor="start" letter-spacing="1.5">20 YEARS OF MODERN BASEBALL</text>
+<text x="50.0" y="90.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#BFD2E8" font-weight="normal" text-anchor="start">Complete join map  ·  every table  ·  2007-2026</text>
+<text x="50.0" y="116.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#93AAC6" font-weight="normal" text-anchor="start">All 108 tables, grouped by the grain they join at. Advanced stats included.</text>
+<text x="50.0" y="140.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#7E97B7" font-weight="normal" text-anchor="start">Every count, key and match rate below was measured from the data.</text>
+<rect x="1214.0" y="36.0" width="150.0" height="64.0" rx="7" fill="#FFFFFF14" stroke="#7E9BBD" stroke-width="1.0"/>
+<text x="1289.0" y="66.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle">3,767</text>
+<text x="1289.0" y="86.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#BFD2E8" font-weight="normal" text-anchor="middle">columns</text>
+<rect x="1054.0" y="36.0" width="150.0" height="64.0" rx="7" fill="#FFFFFF14" stroke="#7E9BBD" stroke-width="1.0"/>
+<text x="1129.0" y="66.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle">2.66M</text>
+<text x="1129.0" y="86.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#BFD2E8" font-weight="normal" text-anchor="middle">rows</text>
+<rect x="894.0" y="36.0" width="150.0" height="64.0" rx="7" fill="#FFFFFF14" stroke="#7E9BBD" stroke-width="1.0"/>
+<text x="969.0" y="66.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle">8</text>
+<text x="969.0" y="86.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#BFD2E8" font-weight="normal" text-anchor="middle">join grains</text>
+<rect x="734.0" y="36.0" width="150.0" height="64.0" rx="7" fill="#FFFFFF14" stroke="#7E9BBD" stroke-width="1.0"/>
+<text x="809.0" y="66.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle">108</text>
+<text x="809.0" y="86.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#BFD2E8" font-weight="normal" text-anchor="middle">tables</text>
+<rect x="36.0" y="176.0" width="1352.0" height="642.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="176.0" width="1352.0" height="6.0" rx="0" fill="#16365C"/>
+<text x="54.0" y="210.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#16365C" font-weight="bold" text-anchor="start" letter-spacing="1.0">TEAM-SEASON GRAIN  (11 tables)</text>
+<text x="54.0" y="230.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">The spine. 600 team-seasons - 30 clubs across 20 years. Every other grain rolls up to this one.</text>
+<rect x="556.0" y="260.0" width="312.0" height="535.0" rx="9" fill="#16365C"/>
+<text x="712.0" y="290.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="316.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team</text>
+<rect x="50.0" y="272.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#16365C" stroke-width="2.0"/>
+<rect x="50.0" y="272.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="293.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Schedule_Results</text>
+<text x="490.0" y="293.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">94,188 rows</text>
+<text x="64.0" y="313.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team + Gm#</text>
+<text x="64.0" y="330.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">34 columns</text>
+<path d="M502.0 310.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="310.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="272.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="272.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="293.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standings</text>
+<text x="1362.0" y="293.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="313.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="330.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M868.0 310.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="310.0" r="3.2" fill="#16365C"/>
+<rect x="50.0" y="359.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="359.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="380.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standings_Expanded</text>
+<text x="490.0" y="380.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="64.0" y="400.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="417.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M502.0 397.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="397.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="359.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="359.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="380.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Appearances</text>
+<text x="1362.0" y="380.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="400.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="417.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M868.0 397.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="397.0" r="3.2" fill="#16365C"/>
+<rect x="50.0" y="446.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="446.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="467.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Attendance</text>
+<text x="490.0" y="467.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="64.0" y="487.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="504.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season; has footer rows - filter Row_Type</text>
+<path d="M502.0 484.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="484.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="446.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#16365C" stroke-width="2.0"/>
+<rect x="922.0" y="446.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="467.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Season_Summary</text>
+<text x="1362.0" y="467.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="487.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="504.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M868.0 484.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="484.0" r="3.2" fill="#16365C"/>
+<rect x="50.0" y="533.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="533.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="554.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Standard_Batting</text>
+<text x="490.0" y="554.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="574.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="591.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="605.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 571.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="571.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="533.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="533.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="554.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Standard_Fielding</text>
+<text x="1362.0" y="554.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="574.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="591.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="605.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 571.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="571.0" r="3.2" fill="#16365C"/>
+<rect x="50.0" y="620.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="620.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="641.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Standard_Pitching</text>
+<text x="490.0" y="641.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="661.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="678.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="692.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 658.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="658.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="620.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="620.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="641.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Value_Batting</text>
+<text x="1362.0" y="641.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="661.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="678.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season; has footer rows - filter Row_Type</text>
+<path d="M868.0 658.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="658.0" r="3.2" fill="#16365C"/>
+<rect x="50.0" y="707.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="707.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="728.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Value_Pitching</text>
+<text x="490.0" y="728.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="64.0" y="748.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="765.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season; has footer rows - filter Row_Type</text>
+<path d="M502.0 745.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="745.0" r="3.2" fill="#16365C"/>
+<rect x="36.0" y="836.0" width="1352.0" height="1077.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="836.0" width="1352.0" height="6.0" rx="0" fill="#1E6B3A"/>
+<text x="54.0" y="870.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#1E6B3A" font-weight="bold" text-anchor="start" letter-spacing="1.0">PLAYER-TEAM-SEASON GRAIN  (22 tables)</text>
+<text x="54.0" y="890.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID is unique inside a team-season here, measured at zero duplicates. Join on Player_ID - never on Rk.</text>
+<rect x="556.0" y="920.0" width="312.0" height="970.0" rx="9" fill="#1E6B3A"/>
+<text x="712.0" y="950.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="976.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team + Player_ID</text>
+<rect x="50.0" y="932.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="932.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="953.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Coaching_Staff</text>
+<text x="490.0" y="953.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">5,969 rows</text>
+<text x="64.0" y="973.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team  (+ Name + Role)</text>
+<text x="64.0" y="990.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 67% filled</text>
+<path d="M502.0 970.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="970.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="932.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="932.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="953.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Current_40_Man_Roster</text>
+<text x="1362.0" y="953.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">1,358 rows</text>
+<text x="936.0" y="973.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="990.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2026-2026 only; Player_ID 98% filled</text>
+<path d="M868.0 970.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="970.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1019.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1019.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1040.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Cy_Young_Voting</text>
+<text x="490.0" y="1040.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">375 rows</text>
+<text x="64.0" y="1060.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1077.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 98% filled</text>
+<path d="M502.0 1057.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1057.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1019.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1019.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1040.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Debuts_Bio</text>
+<text x="1362.0" y="1040.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,841 rows</text>
+<text x="936.0" y="1060.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1077.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">27 columns</text>
+<path d="M868.0 1057.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1057.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1106.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#1E6B3A" stroke-width="2.0"/>
+<rect x="50.0" y="1106.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1127.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Full_Season_Roster</text>
+<text x="490.0" y="1127.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">30,100 rows</text>
+<text x="64.0" y="1147.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1164.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 1144.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1144.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1106.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1106.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1127.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">MVP_Voting</text>
+<text x="1362.0" y="1127.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">911 rows</text>
+<text x="936.0" y="1147.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1164.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 99% filled</text>
+<path d="M868.0 1144.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1144.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1193.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1193.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1214.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Manager_Of_The_Year_Voting</text>
+<text x="490.0" y="1214.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">246 rows</text>
+<text x="64.0" y="1234.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1251.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 97% filled</text>
+<path d="M502.0 1231.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1231.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1193.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1193.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1214.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Manager_Record</text>
+<text x="1362.0" y="1214.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">660 rows</text>
+<text x="936.0" y="1234.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1251.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 98% filled</text>
+<path d="M868.0 1231.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1231.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1280.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1280.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1301.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Manager_Tendencies</text>
+<text x="490.0" y="1301.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">660 rows</text>
+<text x="64.0" y="1321.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1338.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 98% filled</text>
+<path d="M502.0 1318.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1318.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1280.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1280.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1301.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Rookie_Of_The_Year_Voting</text>
+<text x="1362.0" y="1301.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">307 rows</text>
+<text x="936.0" y="1321.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1338.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only</text>
+<path d="M868.0 1318.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1318.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1367.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1367.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1388.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Rookies_Batting</text>
+<text x="490.0" y="1388.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,231 rows</text>
+<text x="64.0" y="1408.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1425.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type</text>
+<path d="M502.0 1405.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1405.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1367.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1367.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1388.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Rookies_Pitching</text>
+<text x="1362.0" y="1388.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,764 rows</text>
+<text x="936.0" y="1408.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1425.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type</text>
+<path d="M868.0 1405.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1405.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1454.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1454.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1475.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standard_Batting</text>
+<text x="490.0" y="1475.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">23,320 rows</text>
+<text x="64.0" y="1495.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1512.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 100% filled</text>
+<path d="M502.0 1492.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1492.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1454.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1454.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1475.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standard_Fielding</text>
+<text x="1362.0" y="1475.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">30,922 rows</text>
+<text x="936.0" y="1495.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1512.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 96% filled</text>
+<path d="M868.0 1492.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1492.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1541.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1541.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1562.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standard_Pitching</text>
+<text x="490.0" y="1562.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">16,753 rows</text>
+<text x="64.0" y="1582.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1599.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 100% filled</text>
+<path d="M502.0 1579.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1579.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1541.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1541.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1562.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Miscellaneous</text>
+<text x="1362.0" y="1562.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="1582.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1599.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season; Player_ID 98% filled</text>
+<path d="M868.0 1579.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1579.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1628.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1628.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1649.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Pitching_Staffs</text>
+<text x="490.0" y="1649.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="64.0" y="1669.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1686.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M502.0 1666.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1666.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1628.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1628.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1649.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Starting_Lineups</text>
+<text x="1362.0" y="1649.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="936.0" y="1669.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1686.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M868.0 1666.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1666.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1715.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1715.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1736.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Transactions</text>
+<text x="490.0" y="1736.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">66,173 rows</text>
+<text x="64.0" y="1756.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team  (+ Player_ID)</text>
+<text x="64.0" y="1773.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 1753.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1753.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1715.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1715.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1736.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Uniform_Numbers</text>
+<text x="1362.0" y="1736.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">30,225 rows</text>
+<text x="936.0" y="1756.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1773.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 1753.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1753.0" r="3.2" fill="#1E6B3A"/>
+<rect x="50.0" y="1802.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="1802.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="64.0" y="1823.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Value_Batting</text>
+<text x="490.0" y="1823.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">23,320 rows</text>
+<text x="64.0" y="1843.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="1860.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 100% filled</text>
+<path d="M502.0 1840.0 H556.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="1840.0" r="3.2" fill="#1E6B3A"/>
+<rect x="922.0" y="1802.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="1802.0" width="5.0" height="76.0" rx="0" fill="#1E6B3A"/>
+<text x="936.0" y="1823.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Value_Pitching</text>
+<text x="1362.0" y="1823.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">16,753 rows</text>
+<text x="936.0" y="1843.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#1E6B3A" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="1860.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type; Player_ID 100% filled</text>
+<path d="M868.0 1840.0 H922.0" stroke="#1E6B3A" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="1840.0" r="3.2" fill="#1E6B3A"/>
+<rect x="36.0" y="1931.0" width="1352.0" height="1251.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="1931.0" width="1352.0" height="6.0" rx="0" fill="#17707E"/>
+<text x="54.0" y="1965.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#17707E" font-weight="bold" text-anchor="start" letter-spacing="1.0">ADVANCED STATS, PLAYER LEVEL  (25 tables)</text>
+<text x="54.0" y="1985.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">League-page tables, so they cover every player in the majors and carry combined 2TM/3TM rows for players who changed clubs. Player_ID is effectively unique;</text>
+<text x="54.0" y="2002.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">only 7 rows across the whole folder have no Player_ID at all.</text>
+<rect x="556.0" y="2015.0" width="312.0" height="1144.0" rx="9" fill="#17707E"/>
+<text x="712.0" y="2045.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="2071.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team + Player_ID</text>
+<rect x="50.0" y="2027.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#17707E" stroke-width="2.0"/>
+<rect x="50.0" y="2027.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2048.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Batting</text>
+<text x="490.0" y="2048.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">25,104 rows</text>
+<text x="64.0" y="2068.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2085.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2065.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2065.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2027.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2027.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2048.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_1B</text>
+<text x="1362.0" y="2048.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">3,772 rows</text>
+<text x="936.0" y="2068.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2085.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M868.0 2065.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2065.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2114.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2114.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2135.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_2B</text>
+<text x="490.0" y="2135.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">3,537 rows</text>
+<text x="64.0" y="2155.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2172.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M502.0 2152.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2152.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2114.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2114.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2135.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_3B</text>
+<text x="1362.0" y="2135.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">3,654 rows</text>
+<text x="936.0" y="2155.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2172.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M868.0 2152.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2152.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2201.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2201.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2222.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_C</text>
+<text x="490.0" y="2222.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,383 rows</text>
+<text x="64.0" y="2242.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2259.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M502.0 2239.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2239.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2201.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2201.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2222.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_CF</text>
+<text x="1362.0" y="2222.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">3,369 rows</text>
+<text x="936.0" y="2242.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2259.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M868.0 2239.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2239.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2288.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2288.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2309.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_C_Baserunning</text>
+<text x="490.0" y="2309.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,383 rows</text>
+<text x="64.0" y="2329.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2346.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M502.0 2326.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2326.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2288.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2288.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2309.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_LF</text>
+<text x="1362.0" y="2309.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">5,039 rows</text>
+<text x="936.0" y="2329.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2346.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2326.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2326.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2375.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2375.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2396.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_P</text>
+<text x="490.0" y="2396.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">16,773 rows</text>
+<text x="64.0" y="2416.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2433.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2413.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2413.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2375.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2375.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2396.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_RF</text>
+<text x="1362.0" y="2396.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,526 rows</text>
+<text x="936.0" y="2416.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2433.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M868.0 2413.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2413.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2462.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2462.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2483.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Fielding_SS</text>
+<text x="490.0" y="2483.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,686 rows</text>
+<text x="64.0" y="2503.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2520.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 99% filled</text>
+<path d="M502.0 2500.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2500.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2462.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2462.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2483.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Advanced_Pitching</text>
+<text x="1362.0" y="2483.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,351 rows</text>
+<text x="936.0" y="2503.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2520.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2500.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2500.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2549.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2549.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2570.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Baserunning_Batting</text>
+<text x="490.0" y="2570.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">20,572 rows</text>
+<text x="64.0" y="2590.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2607.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2587.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2587.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2549.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2549.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2570.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Basesituation_Pitching</text>
+<text x="1362.0" y="2570.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,390 rows</text>
+<text x="936.0" y="2590.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2607.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2587.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2587.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2636.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2636.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2657.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Batting_Pitching</text>
+<text x="490.0" y="2657.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,452 rows</text>
+<text x="64.0" y="2677.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2694.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2674.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2674.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2636.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2636.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2657.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Pitches_Batting</text>
+<text x="1362.0" y="2657.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">20,514 rows</text>
+<text x="936.0" y="2677.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2694.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2674.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2674.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2723.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2723.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2744.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Pitches_Pitching</text>
+<text x="490.0" y="2744.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,390 rows</text>
+<text x="64.0" y="2764.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2781.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2761.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2761.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2723.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2723.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2744.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Ratio_Batting</text>
+<text x="1362.0" y="2744.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">20,514 rows</text>
+<text x="936.0" y="2764.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2781.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2761.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2761.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2810.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2810.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2831.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Ratio_Pitching</text>
+<text x="490.0" y="2831.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,452 rows</text>
+<text x="64.0" y="2851.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2868.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2848.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2848.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2810.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2810.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2831.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Reliever_Pitching</text>
+<text x="1362.0" y="2831.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">14,869 rows</text>
+<text x="936.0" y="2851.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2868.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2848.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2848.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2897.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2897.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="2918.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Sabermetric_Batting</text>
+<text x="490.0" y="2918.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">25,559 rows</text>
+<text x="64.0" y="2938.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="2955.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 2935.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="2935.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2897.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2897.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="2918.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Situational_Batting</text>
+<text x="1362.0" y="2918.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">20,514 rows</text>
+<text x="936.0" y="2938.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="2955.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 2935.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="2935.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="2984.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="2984.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="3005.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Starter_Pitching</text>
+<text x="490.0" y="3005.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">7,488 rows</text>
+<text x="64.0" y="3025.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="3042.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 3022.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3022.0" r="3.2" fill="#17707E"/>
+<rect x="922.0" y="2984.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="2984.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="936.0" y="3005.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Win_Probability_Batting</text>
+<text x="1362.0" y="3005.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">20,500 rows</text>
+<text x="936.0" y="3025.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="3042.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 3022.0 H922.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3022.0" r="3.2" fill="#17707E"/>
+<rect x="50.0" y="3071.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3071.0" width="5.0" height="76.0" rx="0" fill="#17707E"/>
+<text x="64.0" y="3092.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Win_Probability_Pitching</text>
+<text x="490.0" y="3092.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">18,452 rows</text>
+<text x="64.0" y="3112.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#17707E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="3129.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 3109.0 H556.0" stroke="#17707E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3109.0" r="3.2" fill="#17707E"/>
+<rect x="36.0" y="3200.0" width="1352.0" height="1251.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="3200.0" width="1352.0" height="6.0" rx="0" fill="#8A6A12"/>
+<text x="54.0" y="3234.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#8A6A12" font-weight="bold" text-anchor="start" letter-spacing="1.0">ADVANCED STATS, TEAM LEVEL  (25 tables)</text>
+<text x="54.0" y="3254.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">The same advanced views aggregated to the club. One row per team-season, plus a league row in most of them.</text>
+<rect x="556.0" y="3284.0" width="312.0" height="1144.0" rx="9" fill="#8A6A12"/>
+<text x="712.0" y="3314.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="3340.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team</text>
+<rect x="50.0" y="3296.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#8A6A12" stroke-width="2.0"/>
+<rect x="50.0" y="3296.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3317.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Batting</text>
+<text x="490.0" y="3317.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3337.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3354.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3368.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3334.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3334.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3296.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3296.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3317.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_1B</text>
+<text x="1362.0" y="3317.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3337.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3354.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3368.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3334.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3334.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3383.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3383.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3404.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_2B</text>
+<text x="490.0" y="3404.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3424.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3441.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3455.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3421.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3421.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3383.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3383.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3404.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_3B</text>
+<text x="1362.0" y="3404.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3424.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3441.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3455.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3421.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3421.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3470.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3470.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3491.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_C</text>
+<text x="490.0" y="3491.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3511.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3528.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3542.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3508.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3508.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3470.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3470.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3491.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_CF</text>
+<text x="1362.0" y="3491.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3511.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3528.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3542.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3508.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3508.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3557.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3557.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3578.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_C_Baserunning</text>
+<text x="490.0" y="3578.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3598.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3615.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3629.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3595.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3595.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3557.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3557.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3578.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_LF</text>
+<text x="1362.0" y="3578.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3598.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3615.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3629.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3595.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3595.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3644.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3644.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3665.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_P</text>
+<text x="490.0" y="3665.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3685.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3702.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3716.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3682.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3682.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3644.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3644.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3665.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_RF</text>
+<text x="1362.0" y="3665.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3685.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3702.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3716.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3682.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3682.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3731.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3731.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3752.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Fielding_SS</text>
+<text x="490.0" y="3752.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3772.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3789.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3803.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3769.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3769.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3731.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3731.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3752.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Advanced_Pitching</text>
+<text x="1362.0" y="3752.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3772.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3789.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3803.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3769.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3769.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3818.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3818.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3839.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Baserunning_Batting</text>
+<text x="490.0" y="3839.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3859.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3876.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3890.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3856.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3856.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3818.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3818.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3839.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Basesituation_Pitching</text>
+<text x="1362.0" y="3839.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3859.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3876.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3890.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3856.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3856.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3905.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3905.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="3926.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Batting_Pitching</text>
+<text x="490.0" y="3926.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="3946.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="3963.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="3977.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 3943.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="3943.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3905.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3905.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="3926.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Pitches_Batting</text>
+<text x="1362.0" y="3926.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="3946.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="3963.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="3977.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 3943.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="3943.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="3992.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="3992.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="4013.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Pitches_Pitching</text>
+<text x="490.0" y="4013.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="4033.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="4050.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="4064.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 4030.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4030.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="3992.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="3992.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="4013.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Ratio_Batting</text>
+<text x="1362.0" y="4013.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="4033.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="4050.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="4064.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 4030.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4030.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="4079.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4079.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="4100.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Ratio_Pitching</text>
+<text x="490.0" y="4100.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="4120.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="4137.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="4151.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 4117.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4117.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="4079.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="4079.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="4100.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Reliever_Pitching</text>
+<text x="1362.0" y="4100.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="4120.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="4137.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="4151.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 4117.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4117.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="4166.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4166.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="4187.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Sabermetric_Batting</text>
+<text x="490.0" y="4187.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="4207.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="4224.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="4238.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 4204.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4204.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="4166.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="4166.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="4187.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Situational_Batting</text>
+<text x="1362.0" y="4187.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="4207.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="4224.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="4238.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 4204.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4204.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="4253.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4253.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="4274.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Starter_Pitching</text>
+<text x="490.0" y="4274.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="4294.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="4311.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="4325.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 4291.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4291.0" r="3.2" fill="#8A6A12"/>
+<rect x="922.0" y="4253.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="4253.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="936.0" y="4274.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Win_Probability_Batting</text>
+<text x="1362.0" y="4274.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="936.0" y="4294.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="936.0" y="4311.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="936.0" y="4325.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M868.0 4291.0 H922.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4291.0" r="3.2" fill="#8A6A12"/>
+<rect x="50.0" y="4340.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4340.0" width="5.0" height="76.0" rx="0" fill="#8A6A12"/>
+<text x="64.0" y="4361.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Win_Probability_Pitching</text>
+<text x="490.0" y="4361.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">620 rows</text>
+<text x="64.0" y="4381.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#8A6A12" font-weight="bold" text-anchor="start">Season + Team</text>
+<text x="64.0" y="4398.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 per team-season + a league row; has footer rows - filter</text>
+<text x="64.0" y="4412.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Row_Type</text>
+<path d="M502.0 4378.0 H556.0" stroke="#8A6A12" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4378.0" r="3.2" fill="#8A6A12"/>
+<rect x="36.0" y="4469.0" width="1352.0" height="207.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="4469.0" width="1352.0" height="6.0" rx="0" fill="#B4552B"/>
+<text x="54.0" y="4503.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#B4552B" font-weight="bold" text-anchor="start" letter-spacing="1.0">POSITION GRAIN  (2 tables)</text>
+<text x="54.0" y="4523.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Add Position or you multiply rows up to ten-fold, once per position the club fielded.</text>
+<rect x="556.0" y="4553.0" width="312.0" height="100.0" rx="9" fill="#B4552B"/>
+<text x="712.0" y="4583.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="4609.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team + Position</text>
+<rect x="50.0" y="4565.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4565.0" width="5.0" height="76.0" rx="0" fill="#B4552B"/>
+<text x="64.0" y="4586.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Standard_Fielding_By_Position</text>
+<text x="490.0" y="4586.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">56,293 rows</text>
+<text x="64.0" y="4606.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#B4552B" font-weight="bold" text-anchor="start">Season + Team + Position + Player_ID</text>
+<text x="64.0" y="4623.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 4603.0 H556.0" stroke="#B4552B" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4603.0" r="3.2" fill="#B4552B"/>
+<rect x="922.0" y="4565.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="4565.0" width="5.0" height="76.0" rx="0" fill="#B4552B"/>
+<text x="936.0" y="4586.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Team_Fielding_By_Position</text>
+<text x="1362.0" y="4586.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">6,200 rows</text>
+<text x="936.0" y="4606.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#B4552B" font-weight="bold" text-anchor="start">Season + Team + Position</text>
+<text x="936.0" y="4623.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type</text>
+<path d="M868.0 4603.0 H922.0" stroke="#B4552B" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4603.0" r="3.2" fill="#B4552B"/>
+<rect x="36.0" y="4694.0" width="1352.0" height="207.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="4694.0" width="1352.0" height="6.0" rx="0" fill="#16365C"/>
+<text x="54.0" y="4728.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#16365C" font-weight="bold" text-anchor="start" letter-spacing="1.0">GAME GRAIN  (2 tables)</text>
+<text x="54.0" y="4748.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Schedule_Results calls it Gm#; the lineup grids call it Game_Num. Same number - 94,122 games line up exactly.</text>
+<rect x="556.0" y="4778.0" width="312.0" height="100.0" rx="9" fill="#16365C"/>
+<text x="712.0" y="4808.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="4834.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team + Gm# / Game_Num</text>
+<rect x="50.0" y="4790.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="4790.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="64.0" y="4811.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Batting_Orders</text>
+<text x="490.0" y="4811.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">847,098 rows</text>
+<text x="64.0" y="4831.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team + Game_Num + Player_ID</text>
+<text x="64.0" y="4848.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 4828.0 H556.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="4828.0" r="3.2" fill="#16365C"/>
+<rect x="922.0" y="4790.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="4790.0" width="5.0" height="76.0" rx="0" fill="#16365C"/>
+<text x="936.0" y="4811.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Defensive_Lineups</text>
+<text x="1362.0" y="4811.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">906,214 rows</text>
+<text x="936.0" y="4831.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#16365C" font-weight="bold" text-anchor="start">Season + Team + Game_Num + Position</text>
+<text x="936.0" y="4848.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 4828.0 H922.0" stroke="#16365C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="4828.0" r="3.2" fill="#16365C"/>
+<rect x="36.0" y="4919.0" width="1352.0" height="468.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="4919.0" width="1352.0" height="6.0" rx="0" fill="#C8102E"/>
+<text x="54.0" y="4953.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#C8102E" font-weight="bold" text-anchor="start" letter-spacing="1.0">POSTSEASON GRAIN  (8 tables)</text>
+<text x="54.0" y="4973.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Only clubs that qualified appear, and 2026 is empty - the postseason had not started when this was built.</text>
+<rect x="556.0" y="5003.0" width="312.0" height="361.0" rx="9" fill="#C8102E"/>
+<text x="712.0" y="5033.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="5059.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Team</text>
+<rect x="50.0" y="5015.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5015.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="64.0" y="5036.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Advanced_Batting</text>
+<text x="490.0" y="5036.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,670 rows</text>
+<text x="64.0" y="5056.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="5073.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 99% filled</text>
+<path d="M502.0 5053.0 H556.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5053.0" r="3.2" fill="#C8102E"/>
+<rect x="922.0" y="5015.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5015.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="936.0" y="5036.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Advanced_Pitching</text>
+<text x="1362.0" y="5036.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,120 rows</text>
+<text x="936.0" y="5056.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="5073.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 98% filled</text>
+<path d="M868.0 5053.0 H922.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5053.0" r="3.2" fill="#C8102E"/>
+<rect x="50.0" y="5102.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5102.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="64.0" y="5123.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Batting</text>
+<text x="490.0" y="5123.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,651 rows</text>
+<text x="64.0" y="5143.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="5160.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; has footer rows - filter Row_Type; Player_ID</text>
+<text x="64.0" y="5174.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">100% filled</text>
+<path d="M502.0 5140.0 H556.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5140.0" r="3.2" fill="#C8102E"/>
+<rect x="922.0" y="5102.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5102.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="936.0" y="5123.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Fielding</text>
+<text x="1362.0" y="5123.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,307 rows</text>
+<text x="936.0" y="5143.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="5160.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; has footer rows - filter Row_Type; Player_ID 99%</text>
+<text x="936.0" y="5174.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">filled</text>
+<path d="M868.0 5140.0 H922.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5140.0" r="3.2" fill="#C8102E"/>
+<rect x="50.0" y="5189.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5189.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="64.0" y="5210.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Pitching</text>
+<text x="490.0" y="5210.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">2,101 rows</text>
+<text x="64.0" y="5230.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="64.0" y="5247.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; has footer rows - filter Row_Type; Player_ID 99%</text>
+<text x="64.0" y="5261.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">filled</text>
+<path d="M502.0 5227.0 H556.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5227.0" r="3.2" fill="#C8102E"/>
+<rect x="922.0" y="5189.0" width="452.0" height="76.0" rx="7" fill="#FFF8E6" stroke="#C8102E" stroke-width="2.0"/>
+<rect x="922.0" y="5189.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="936.0" y="5210.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Roster</text>
+<text x="1362.0" y="5210.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,651 rows</text>
+<text x="936.0" y="5230.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Player_ID</text>
+<text x="936.0" y="5247.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 100% filled</text>
+<path d="M868.0 5227.0 H922.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5227.0" r="3.2" fill="#C8102E"/>
+<rect x="50.0" y="5276.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5276.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="64.0" y="5297.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Schedule_Results</text>
+<text x="490.0" y="5297.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">1,414 rows</text>
+<text x="64.0" y="5317.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Team + Gm#</text>
+<text x="64.0" y="5334.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only</text>
+<path d="M502.0 5314.0 H556.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5314.0" r="3.2" fill="#C8102E"/>
+<rect x="922.0" y="5276.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5276.0" width="5.0" height="76.0" rx="0" fill="#C8102E"/>
+<text x="936.0" y="5297.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Postseason_Series_Results</text>
+<text x="1362.0" y="5297.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">175 rows</text>
+<text x="936.0" y="5317.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#C8102E" font-weight="bold" text-anchor="start">Season + Series_Code</text>
+<text x="936.0" y="5334.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only</text>
+<path d="M868.0 5314.0 H922.0" stroke="#C8102E" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5314.0" r="3.2" fill="#C8102E"/>
+<rect x="36.0" y="5405.0" width="1352.0" height="729.0" rx="10" fill="#FFFFFF" stroke="#DCD5C6" stroke-width="1.2"/>
+<rect x="36.0" y="5405.0" width="1352.0" height="6.0" rx="0" fill="#6B4E8C"/>
+<text x="54.0" y="5439.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#6B4E8C" font-weight="bold" text-anchor="start" letter-spacing="1.0">NO USABLE Team COLUMN - JOIN WITH CARE  (13 tables)</text>
+<text x="54.0" y="5459.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">These come from league-wide pages, so the project Team column is empty. The club is in the source Tm column, or reach them through Player_ID.</text>
+<rect x="556.0" y="5489.0" width="312.0" height="622.0" rx="9" fill="#6B4E8C"/>
+<text x="712.0" y="5519.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#FFFFFFCC" font-weight="bold" text-anchor="middle" letter-spacing="1.4">JOIN ON</text>
+<text x="712.0" y="5545.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Season + Tm or Season +</text>
+<text x="712.0" y="5567.0" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Player_ID</text>
+<rect x="50.0" y="5501.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5501.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5522.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Awards_And_Honors</text>
+<text x="490.0" y="5522.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">102 rows</text>
+<text x="64.0" y="5542.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Award  /  Player_ID</text>
+<text x="64.0" y="5559.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">2007-2025 only; Player_ID 98% filled</text>
+<path d="M502.0 5539.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5539.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5501.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5501.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5522.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Cumulative_Batting</text>
+<text x="1362.0" y="5522.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">29,590 rows</text>
+<text x="936.0" y="5542.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="936.0" y="5559.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 5539.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5539.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="5588.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5588.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5609.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Cumulative_Pitching</text>
+<text x="490.0" y="5609.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">16,856 rows</text>
+<text x="64.0" y="5629.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="64.0" y="5646.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 5626.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5626.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5588.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5588.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5609.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Debuts_Batting</text>
+<text x="1362.0" y="5609.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">4,841 rows</text>
+<text x="936.0" y="5629.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Tm  /  Player_ID</text>
+<text x="936.0" y="5646.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type</text>
+<path d="M868.0 5626.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5626.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="5675.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5675.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5696.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Debuts_Pitching</text>
+<text x="490.0" y="5696.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">3,132 rows</text>
+<text x="64.0" y="5716.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Tm  /  Player_ID</text>
+<text x="64.0" y="5733.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">has footer rows - filter Row_Type</text>
+<path d="M502.0 5713.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5713.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5675.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5675.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5696.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Free_Agent_Batting</text>
+<text x="1362.0" y="5696.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">639 rows</text>
+<text x="936.0" y="5716.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="936.0" y="5733.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 5713.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5713.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="5762.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5762.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5783.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Free_Agent_Pitching</text>
+<text x="490.0" y="5783.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">979 rows</text>
+<text x="64.0" y="5803.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="64.0" y="5820.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 5800.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5800.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5762.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5762.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5783.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Free_Agent_Signings</text>
+<text x="1362.0" y="5783.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">8,038 rows</text>
+<text x="936.0" y="5803.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="936.0" y="5820.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 5800.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5800.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="5849.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5849.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5870.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Neutral_Batting</text>
+<text x="490.0" y="5870.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">17,453 rows</text>
+<text x="64.0" y="5890.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="64.0" y="5907.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M502.0 5887.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5887.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5849.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5849.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5870.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Neutral_Pitching</text>
+<text x="1362.0" y="5870.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">15,131 rows</text>
+<text x="936.0" y="5890.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Player_ID</text>
+<text x="936.0" y="5907.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">Player_ID 100% filled</text>
+<path d="M868.0 5887.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5887.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="5936.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="5936.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="5957.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Opening_Day_Lineups</text>
+<text x="490.0" y="5957.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">600 rows</text>
+<text x="64.0" y="5977.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Tm</text>
+<text x="64.0" y="5994.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">1 row per team-season</text>
+<path d="M502.0 5974.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="5974.0" r="3.2" fill="#6B4E8C"/>
+<rect x="922.0" y="5936.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="922.0" y="5936.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="936.0" y="5957.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Playoff_Odds</text>
+<text x="1362.0" y="5957.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">720 rows</text>
+<text x="936.0" y="5977.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Tm</text>
+<text x="936.0" y="5994.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">33 columns</text>
+<path d="M868.0 5974.0 H922.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="922.0" cy="5974.0" r="3.2" fill="#6B4E8C"/>
+<rect x="50.0" y="6023.0" width="452.0" height="76.0" rx="7" fill="#FDFBF6" stroke="#C9D2DD" stroke-width="1.2"/>
+<rect x="50.0" y="6023.0" width="5.0" height="76.0" rx="0" fill="#6B4E8C"/>
+<text x="64.0" y="6044.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#12243B" font-weight="bold" text-anchor="start">Playoff_Scenarios</text>
+<text x="490.0" y="6044.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#5B6B80" font-weight="normal" text-anchor="end">40 rows</text>
+<text x="64.0" y="6064.0" font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#6B4E8C" font-weight="bold" text-anchor="start">Season + Lg</text>
+<text x="64.0" y="6081.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#5B6B80" font-weight="normal" text-anchor="start">17 columns</text>
+<path d="M502.0 6061.0 H556.0" stroke="#6B4E8C" stroke-width="1.5" fill="none" opacity="0.75"/>
+<circle cx="502.0" cy="6061.0" r="3.2" fill="#6B4E8C"/>
+<rect x="36.0" y="6160.0" width="1352.0" height="465.0" rx="10" fill="#0E2542"/>
+<text x="54.0" y="6200.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold" text-anchor="start" letter-spacing="1.2">SIX WAYS TO GET THIS WRONG</text>
+<rect x="54.0" y="6225.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6236.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">Never join on Rk.</text>
+<text x="68.0" y="6256.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">Rk is the row number on the Baseball-Reference page, not an identifier. Standard_Batting and Value_Batting share all 23,320 (Season, Team,</text>
+<text x="68.0" y="6275.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">Rk) keys, yet the same Rk points at the same player only 3.9% of the time. The join looks perfect - right row count, no error - and attaches</text>
+<text x="68.0" y="6294.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">the wrong player to 96% of rows. Use Player_ID.</text>
+<rect x="54.0" y="6313.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6324.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">Filter Row_Type = "data" before you total anything.</text>
+<text x="68.0" y="6344.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">46 of the 108 tables end with footer rows such as Team Totals, Non-Pitcher Totals and Rank in 2 AL. They sit in the same table as the</text>
+<text x="68.0" y="6363.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">players, so any untotalled sum counts each club twice.</text>
+<rect x="54.0" y="6382.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6393.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">Drop the league row from Team_* tables.</text>
+<text x="68.0" y="6413.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">Most team-level tables carry a league-average row per season, so they are 620 rows rather than 600. Keep only rows whose Team is a real club</text>
+<text x="68.0" y="6432.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">code.</text>
+<rect x="54.0" y="6451.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6462.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">Never union regular-season tables with advanced ones.</text>
+<text x="68.0" y="6482.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">regular_season is scraped per club, so a traded player appears once per club. The advanced folder comes from league pages and adds a</text>
+<text x="68.0" y="6501.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">combined 2TM/3TM row on top. Union them and those players are counted twice.</text>
+<rect x="54.0" y="6520.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6531.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">Mind the franchise codes.</text>
+<text x="68.0" y="6551.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">OAK through 2024 and ATH from 2025 are one club. FLA to MIA in 2012, TBD to TBR in 2008, and Houston moved from the NL to the AL in 2013.</text>
+<rect x="54.0" y="6570.0" width="4.0" height="16.0" rx="0" fill="#C8102E"/>
+<text x="68.0" y="6581.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#FFD9A8" font-weight="bold" text-anchor="start">2020 was 60 games; 2026 has no postseason.</text>
+<text x="68.0" y="6601.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#C9D9EC" font-weight="normal" text-anchor="start">Compare rates rather than totals across those years. Postseason and award-voting tables stop at 2025.</text>
+<text x="50.0" y="6659.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Hub tables are outlined and shaded: start a model from Team_Season_Summary (team), Full_Season_Roster (player), Schedule_Results (game).</text>
+<text x="50.0" y="6681.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#5B6B80" font-weight="normal" text-anchor="start">Column-by-column definitions for every table are in 1_Source_Data_CSV/FIELD_REFERENCE.md.</text>
+<text x="1374.0" y="6681.0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11.5" fill="#5B6B80" font-weight="normal" text-anchor="end">Source: Baseball-Reference.com (Sports Reference LLC)</text>
+</svg>
