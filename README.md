@@ -7,8 +7,7 @@ Batting, pitching and fielding at both standard and advanced level; value and WA
 standings, schedules and results; rosters, coaching staffs and transactions; award voting;
 postseason series and box scores; and game-level batting orders and defensive alignments.
 
-Load it into Tableau, Power BI, Python, R, Excel or a database. One header row per file, one
-table per file, no merged cells, no pivoted blocks.
+Additionally there is a data download of a master excel file with all 108 tables here: https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fqb303atvw6hzjdlmiiwf0%2FMLB_Complete_Dataset_2007-2026.xlsx%3Frlkey%3Dk8shz22fwnllxf7bu6vz80mq6%26st%3Dr716c9wl%26dl%3D0&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-ZTU5OTJjODAtZTQzYi00OGE1LTgzNmQtZDJmMWE0MTAzYWRhXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B1v9vTmyWRX2%2BYWAvsEfcTw%3D%3D
 
 ## At a glance
 
