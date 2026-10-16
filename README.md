@@ -7,9 +7,12 @@ Batting, pitching and fielding at both standard and advanced level; value and WA
 standings, schedules and results; rosters, coaching staffs and transactions; award voting;
 postseason series and box scores; and game-level batting orders and defensive alignments.
 
-**Recommend you use this over the CSV package**
+**Don't want to use CSV -- No Problem -- Recommend you use this options over the CSV package**
 
-Additionally there is a data download of a master excel file with all 108 tables here: https://www.dropbox.com/scl/fi/qb303atvw6hzjdlmiiwf0/MLB_Complete_Dataset_2007-2026.xlsx?rlkey=k8shz22fwnllxf7bu6vz80mq6&st=r716c9wl&e=1&dl=0
+Data download of a master excel file with all 108 tables here: https://www.dropbox.com/scl/fi/qb303atvw6hzjdlmiiwf0/MLB_Complete_Dataset_2007-2026.xlsx?rlkey=k8shz22fwnllxf7bu6vz80mq6&st=r716c9wl&e=1&dl=0
+
+Tableau Public PDS: https://public.tableau.com/app/profile/john.johansson/datasources
+
 
 ## At a glance
 
